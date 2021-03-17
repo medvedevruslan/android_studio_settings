@@ -1,0 +1,53 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="How to order the rows, formatted as an SQL ORDER BY clause (excluding the ORDER BY itself). Passing null will use the default sort order, which may be unordered." />
+      <item value="FLAVOR" />
+      <item value="access modifiers changed from: private" />
+      <item value="android:input Type=&quot;text Cap Words&quot;" />
+      <item value="11:31 Reset Failed: Cannot do a keep reset in the middle of a merge. (show balloon)" />
+      <item value="Unresolved conflicts remaining in the project.Then you may continue rebase. You also may abort rebase to restore the original branch and stop rebasing." />
+      <item value="Can't continue rebase Unresolved conflicts remaining in the project.Then you may continue rebase. You also may abort rebase to restore the original branch and stop rebasing." />
+      <item value="10:24 Can't merge because of unmerged files" />
+      <item value="You have to resolve all merge conflicts before merge." />
+      <item value="After resolving conflicts you also probably would want to commit your files to the current branch." />
+      <item value="succeeded" />
+      <item value="stroke" />
+      <item value="shape" />
+      <item value="writable Database" />
+      <item value="Attempt to invoke virtual method 'void android.widget.TextView.setText(java.lang.CharSequence)' on a null object reference" />
+      <item value="' on a null object reference" />
+      <item value="determine" />
+      <item value="Unable to determine application" />
+      <item value="Unable to determine application id: com.android.tools.idea.run.ApkProvisionException: Error loading build artifacts from: homeruslanДокументыAndroidStudioProjects2021.02TypeZAtariappbuildoutputsapkdebugoutput-metadata.json" />
+      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{io.kamaz.zerocom.example.zero.View.MainActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'void android.widget.Spinner.setAdapter(android.widget.SpinnerAdapter)' on a null object reference" />
+      <item value="Error while waiting for device: Timed out after 300seconds waiting for emulator to come online." />
+      <item value="error: illegal start of expression" />
+      <item value="Exception" />
+      <item value="layout" />
+      <item value="'' is not a valid file-based resource name character: File-based resource names must contain only lowercase a-z, 0-9, or underscore" />
+      <item value="Versions that do not match:" />
+      <item value="Execution failed for task ':app:checkDebugAarMetadata'. &gt; Could not resolve all files for configuration ':app:debugRuntimeClasspath'. &gt; Could not find any version that matches com.github.chrisbanes:PhotoView:latest.release.here. Versions that do not match:" />
+      <item value="&gt; Could not find any matches for com.github.chrisbanes:PhotoView:latest.release.here as no versions of com.github.chrisbanes:PhotoView are available." />
+      <item value="optional: deprecated support for pre-marshmallow Samsung devices" />
+      <item value="required: supports marshmallow devices" />
+      <item value="resource xmlmain_menu (aka com.example.viewmodel_livedata:xmlmain_menu) not found." />
+      <item value="descriptor" />
+      <item value="equals" />
+      <item value="java.util.UnknownFormatConversionException: Conversion = 'l'" />
+      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.gpscom.example.gps.MainActivity}: java.lang.ClassCastException: com.example.gps.MainActivity cannot be cast to com.karumi.dexter.listener.single.PermissionListener" />
+      <item value="java.lang.RuntimeException: Unable to resume activity {com.example.gpscom.example.gps.MainActivity}: java.lang.SecurityException: &quot;gps&quot; location provider requires ACCESS_FINE_LOCATION permission." />
+      <item value="Enabled" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="39" />
+        <entry key="RUSSIAN" value="39" />
+        <entry key="GALICIAN" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1615881124505" />
+  </component>
+</application>
