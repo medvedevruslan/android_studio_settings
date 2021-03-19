@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Please, commit your changes before you merge." />
+      <item value="You have not concluded your merge (MERGE_HEAD exists)." />
       <item value="Please correct the file content" />
       <item value="Load Settings Cannot load settings from file 'homeruslanДокументыAndroidStudioProjects2021.03Breathalyzer.ideamodulesBreathalyzer.iml': File homeruslanДокументыAndroidStudioProjects2021.03Breathalyzer.ideamodulesBreathalyzer.iml does not exist Please correct the file content" />
       <item value="How to order the rows, formatted as an SQL ORDER BY clause (excluding the ORDER BY itself). Passing null will use the default sort order, which may be unordered." />
@@ -43,8 +45,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="41" />
-        <entry key="RUSSIAN" value="40" />
+        <entry key="ENGLISH" value="44" />
+        <entry key="RUSSIAN" value="43" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
