@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="(OS error - 2:No such file or directory)" />
+      <item value="able &quot;tables&quot; has more than one primary key" />
+      <item value="android.database.sqlite.SQLiteException: table &quot;tables&quot; has more than one primary key (Sqlite code 1 SQLITE_ERROR): , while compiling: CREATE TABLE IF NOT EXISTS tables(_id INTEGER PRIMARY KEY,title TEXT, specification TEXT, price INTEGER PRIMARY KEY, weight FLOAT), (OS error - 2:No such file or directory)" />
       <item value="Please, commit your changes before you merge." />
       <item value="You have not concluded your merge (MERGE_HEAD exists)." />
       <item value="Please correct the file content" />
@@ -45,8 +48,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="44" />
-        <entry key="RUSSIAN" value="43" />
+        <entry key="ENGLISH" value="47" />
+        <entry key="RUSSIAN" value="46" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
