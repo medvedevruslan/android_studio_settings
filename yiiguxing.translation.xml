@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Builder" />
       <item value="Storage" />
       <item value="KEY LAST UPDATED TIME STRING" />
       <item value="FASTEST UPDATE INTERVAL IN MILLISECONDS" />
@@ -50,12 +51,11 @@
       <item value="equals" />
       <item value="java.util.UnknownFormatConversionException: Conversion = 'l'" />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.gpscom.example.gps.MainActivity}: java.lang.ClassCastException: com.example.gps.MainActivity cannot be cast to com.karumi.dexter.listener.single.PermissionListener" />
-      <item value="java.lang.RuntimeException: Unable to resume activity {com.example.gpscom.example.gps.MainActivity}: java.lang.SecurityException: &quot;gps&quot; location provider requires ACCESS_FINE_LOCATION permission." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="55" />
-        <entry key="RUSSIAN" value="54" />
+        <entry key="ENGLISH" value="56" />
+        <entry key="RUSSIAN" value="55" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
