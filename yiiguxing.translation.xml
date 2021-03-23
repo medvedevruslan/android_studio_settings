@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Crypt" />
       <item value="External storage is not available" />
       <item value="External storage is not writable" />
       <item value="mounted" />
@@ -50,12 +51,11 @@
       <item value="'' is not a valid file-based resource name character: File-based resource names must contain only lowercase a-z, 0-9, or underscore" />
       <item value="Versions that do not match:" />
       <item value="Execution failed for task ':app:checkDebugAarMetadata'. &gt; Could not resolve all files for configuration ':app:debugRuntimeClasspath'. &gt; Could not find any version that matches com.github.chrisbanes:PhotoView:latest.release.here. Versions that do not match:" />
-      <item value="&gt; Could not find any matches for com.github.chrisbanes:PhotoView:latest.release.here as no versions of com.github.chrisbanes:PhotoView are available." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="65" />
-        <entry key="RUSSIAN" value="64" />
+        <entry key="ENGLISH" value="66" />
+        <entry key="RUSSIAN" value="65" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
