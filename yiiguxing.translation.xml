@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="NOTE: Do not place your application dependencies here; they belong in the individual module build.gradle files" />
+      <item value="Top-level build file where you can add configuration options common to all sub-projectsmodules." />
       <item value="Manifest merger failed with multiple errors, see logs" />
       <item value="Crypt" />
       <item value="External storage is not available" />
@@ -49,13 +51,11 @@
       <item value="error: illegal start of expression" />
       <item value="Exception" />
       <item value="layout" />
-      <item value="'' is not a valid file-based resource name character: File-based resource names must contain only lowercase a-z, 0-9, or underscore" />
-      <item value="Versions that do not match:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="67" />
-        <entry key="RUSSIAN" value="66" />
+        <entry key="ENGLISH" value="69" />
+        <entry key="RUSSIAN" value="68" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
