@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="No Application available to view File" />
       <item value="java.lang.IllegalStateException: You need to use a Theme.AppCompat theme (or descendant) with this activity." />
       <item value="exist" />
       <item value="NOTE: Do not place your application dependencies here; they belong in the individual module build.gradle files" />
@@ -50,12 +51,11 @@
       <item value="Unable to determine application id: com.android.tools.idea.run.ApkProvisionException: Error loading build artifacts from: homeruslanДокументыAndroidStudioProjects2021.02TypeZAtariappbuildoutputsapkdebugoutput-metadata.json" />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{io.kamaz.zerocom.example.zero.View.MainActivity}: java.lang.NullPointerException: Attempt to invoke virtual method 'void android.widget.Spinner.setAdapter(android.widget.SpinnerAdapter)' on a null object reference" />
       <item value="Error while waiting for device: Timed out after 300seconds waiting for emulator to come online." />
-      <item value="error: illegal start of expression" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="70" />
-        <entry key="RUSSIAN" value="69" />
+        <entry key="ENGLISH" value="71" />
+        <entry key="RUSSIAN" value="70" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
