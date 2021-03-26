@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Stops scanning after a pre-defined scan period." />
+      <item value="actionbar indeterminate progress" />
+      <item value="set Action View" />
+      <item value="Ensures Bluetooth is enabled on the device. If Bluetooth is not currently enabled, fire an intent to display a dialog asking the user to grant permission to enable it." />
+      <item value="access modifiers changed from: private" />
       <item value="Initializes a Bluetooth adapter. For API level 18 and above, get a reference to BluetoothAdapter through BluetoothManager." />
       <item value="Use this check to determine whether BLE is supported on the device. Then you can selectively disable BLE-related features." />
       <item value="Use this check to determine whether BLE is supported on the device. Then you can selectively disable BLE-related features" />
@@ -38,7 +43,6 @@
       <item value="Load Settings Cannot load settings from file 'homeruslanДокументыAndroidStudioProjects2021.03Breathalyzer.ideamodulesBreathalyzer.iml': File homeruslanДокументыAndroidStudioProjects2021.03Breathalyzer.ideamodulesBreathalyzer.iml does not exist Please correct the file content" />
       <item value="How to order the rows, formatted as an SQL ORDER BY clause (excluding the ORDER BY itself). Passing null will use the default sort order, which may be unordered." />
       <item value="FLAVOR" />
-      <item value="access modifiers changed from: private" />
       <item value="android:input Type=&quot;text Cap Words&quot;" />
       <item value="11:31 Reset Failed: Cannot do a keep reset in the middle of a merge. (show balloon)" />
       <item value="Unresolved conflicts remaining in the project.Then you may continue rebase. You also may abort rebase to restore the original branch and stop rebasing." />
@@ -47,15 +51,11 @@
       <item value="You have to resolve all merge conflicts before merge." />
       <item value="After resolving conflicts you also probably would want to commit your files to the current branch." />
       <item value="succeeded" />
-      <item value="stroke" />
-      <item value="shape" />
-      <item value="writable Database" />
-      <item value="Attempt to invoke virtual method 'void android.widget.TextView.setText(java.lang.CharSequence)' on a null object reference" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="77" />
-        <entry key="RUSSIAN" value="76" />
+        <entry key="ENGLISH" value="84" />
+        <entry key="RUSSIAN" value="83" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
