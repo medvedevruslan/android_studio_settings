@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Initializes a Bluetooth adapter. For API level 18 and above, get a reference to BluetoothAdapter through BluetoothManager." />
+      <item value="Use this check to determine whether BLE is supported on the device. Then you can selectively disable BLE-related features." />
+      <item value="Use this check to determine whether BLE is supported on the device. Then you can selectively disable BLE-related features" />
+      <item value="This class includes a small subset of standard GATT attributes for demonstration purposes." />
       <item value="A {@code Method} provides information about, and access to, a single method on a class or interface. The reflected method may be a class method or an instance method (including an abstract method). &lt;p&gt;A {@code Method} permits widening conversions to occur when matching the actual parameters to invoke with the underlying method's formal parameters, but it throws an {@code IllegalArgumentException} if a narrowing conversion would occur." />
       <item value="Discovered LE Device" />
       <item value="No Application available to view File" />
@@ -47,15 +51,11 @@
       <item value="shape" />
       <item value="writable Database" />
       <item value="Attempt to invoke virtual method 'void android.widget.TextView.setText(java.lang.CharSequence)' on a null object reference" />
-      <item value="' on a null object reference" />
-      <item value="determine" />
-      <item value="Unable to determine application" />
-      <item value="Unable to determine application id: com.android.tools.idea.run.ApkProvisionException: Error loading build artifacts from: homeruslanДокументыAndroidStudioProjects2021.02TypeZAtariappbuildoutputsapkdebugoutput-metadata.json" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="73" />
-        <entry key="RUSSIAN" value="72" />
+        <entry key="ENGLISH" value="77" />
+        <entry key="RUSSIAN" value="76" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
