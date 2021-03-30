@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This class includes a small subset of standard GATT attributes for demonstration purposes." />
       <item value="Use this check to determine whether BLE is supported on the device. Then you can selectively disable BLE-related features." />
       <item value="Activity for scanning and displaying available Bluetooth LE devices." />
       <item value="Ensures Bluetooth is enabled on the device. If Bluetooth is not currently enabled, fire an intent to display a dialog asking the user to grant permission to enable it. if (!mBluetoothAdapter.isEnabled()) {" />
@@ -12,7 +13,6 @@
       <item value="Ensures Bluetooth is enabled on the device. If Bluetooth is not currently enabled, fire an intent to display a dialog asking the user to grant permission to enable it." />
       <item value="access modifiers changed from: private" />
       <item value="Use this check to determine whether BLE is supported on the device. Then you can selectively disable BLE-related features" />
-      <item value="This class includes a small subset of standard GATT attributes for demonstration purposes." />
       <item value="A {@code Method} provides information about, and access to, a single method on a class or interface. The reflected method may be a class method or an instance method (including an abstract method). &lt;p&gt;A {@code Method} permits widening conversions to occur when matching the actual parameters to invoke with the underlying method's formal parameters, but it throws an {@code IllegalArgumentException} if a narrowing conversion would occur." />
       <item value="Discovered LE Device" />
       <item value="No Application available to view File" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="92" />
-        <entry key="RUSSIAN" value="91" />
+        <entry key="ENGLISH" value="93" />
+        <entry key="RUSSIAN" value="92" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
