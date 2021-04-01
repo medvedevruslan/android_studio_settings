@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Device scan callback." />
       <item value="convert View" />
       <item value="General ListView optimization code" />
       <item value="Layout I" />
@@ -30,7 +31,6 @@
       <item value="Use this check to determine whether BLE is supported on the device. Then you can selectively disable BLE-related features." />
       <item value="Ensures Bluetooth is enabled on the device. If Bluetooth is not currently enabled, fire an intent to display a dialog asking the user to grant permission to enable it. if (!mBluetoothAdapter.isEnabled()) {" />
       <item value="Initializes a Bluetooth adapter. For API level 18 and above, get a reference to BluetoothAdapter through BluetoothManager." />
-      <item value="Device scan callback." />
       <item value="Stops scanning after a pre-defined scan period." />
       <item value="actionbar indeterminate progress" />
       <item value="set Action View" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="127" />
-        <entry key="RUSSIAN" value="126" />
+        <entry key="ENGLISH" value="129" />
+        <entry key="RUSSIAN" value="128" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
