@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This device has no Bluetooth hardware" />
+      <item value="check Permissions" />
       <item value="REQUEST ENABLE" />
       <item value="android.bluetooth.adapter.action.REQUEST ENABLE&quot;" />
       <item value="is Bluetooth Enabled" />
@@ -49,13 +51,11 @@
       <item value="Builder" />
       <item value="Storage" />
       <item value="KEY LAST UPDATED TIME STRING" />
-      <item value="FASTEST UPDATE INTERVAL IN MILLISECONDS" />
-      <item value="CREATE TABLE IF NOT EXISTS" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="117" />
-        <entry key="RUSSIAN" value="116" />
+        <entry key="ENGLISH" value="119" />
+        <entry key="RUSSIAN" value="118" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
