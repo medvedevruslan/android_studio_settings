@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="convert View" />
       <item value="General ListView optimization code" />
       <item value="Layout I" />
       <item value="Activity for scanning and displaying available Bluetooth LE devices." />
@@ -50,12 +51,11 @@
       <item value="mounted" />
       <item value="@param type The type of files directory to return. May be {@code null} for the root of the files directory or one of the following constants for a subdirectory: {@link android.os.EnvironmentDIRECTORY_MUSIC}, {@link android.os.EnvironmentDIRECTORY_PODCASTS}, {@link android.os.EnvironmentDIRECTORY_RINGTONES}, {@link android.os.EnvironmentDIRECTORY_ALARMS}, {@link android.os.EnvironmentDIRECTORY_NOTIFICATIONS}, {@link android.os.EnvironmentDIRECTORY_PICTURES}, or {@link android.os.EnvironmentDIRECTORY_MOVIES}. @return the absolute path to application-specific directory. May return" />
       <item value="Returns the absolute path to the directory on the primary sharedexternal storage device where the application can place persistent files it owns. These files are internal to the applications, and not typically visible to the user as media. &lt;p&gt; This is like {@link getFilesDir()} in that these files will be deleted when the application is uninstalled, however there are some important differences: &lt;ul&gt; &lt;li&gt;Shared storage may not always be available, since removable media can be ejected by the user. Media state can be checked using {@link EnvironmentgetExternalStorageState(File)}. &lt;li&gt;There is no security enforced with these files. For example, any application holding {@link android.Manifest.permissionWRITE_EXTERNAL_STORAGE} can write to these files. &lt;ul&gt; &lt;p&gt; If a shared storage device is emulated (as determined by {@link EnvironmentisExternalStorageEmulated(File)}), it's contents are backed by a private user data partition, which means there is little benefit to storing data here instead of the private directories returned by {@link getFilesDir()}, etc. &lt;p&gt; Starting in {@link android.os.Build.VERSION_CODESKITKAT}, no permissions are required to read or write to the returned path; it's always accessible to the calling app. This only applies to paths generate" />
-      <item value="Returns the absolute path to the directory on the primary sharedexternal storage device where the application can place persistent files it owns. These files are internal to the applications, and not typically visible to the user as media. &lt;p&gt; This is like {@link getFilesDir()} in that these files will be deleted when the application is uninstalled, however there are some important differences: &lt;ul&gt; &lt;li&gt;Shared storage may not always be available, since removable media can be ejected by the user. Media state can be checked using {@link EnvironmentgetExternalStorageState(File)}. &lt;li&gt;There is no security enforced with these files. For example, any application holding" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="126" />
-        <entry key="RUSSIAN" value="125" />
+        <entry key="ENGLISH" value="127" />
+        <entry key="RUSSIAN" value="126" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
