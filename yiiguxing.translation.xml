@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Activity for scanning and displaying available Bluetooth LE devices." />
+      <item value="Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License." />
+      <item value="Unless" />
       <item value="This device has no Bluetooth hardware" />
       <item value="check Permissions" />
       <item value="REQUEST ENABLE" />
@@ -22,7 +25,6 @@
       <item value="ACCESS LOCATION REQUEST" />
       <item value="This class includes a small subset of standard GATT attributes for demonstration purposes." />
       <item value="Use this check to determine whether BLE is supported on the device. Then you can selectively disable BLE-related features." />
-      <item value="Activity for scanning and displaying available Bluetooth LE devices." />
       <item value="Ensures Bluetooth is enabled on the device. If Bluetooth is not currently enabled, fire an intent to display a dialog asking the user to grant permission to enable it. if (!mBluetoothAdapter.isEnabled()) {" />
       <item value="Initializes a Bluetooth adapter. For API level 18 and above, get a reference to BluetoothAdapter through BluetoothManager." />
       <item value="Device scan callback." />
@@ -49,13 +51,11 @@
       <item value="Returns the absolute path to the directory on the primary sharedexternal storage device where the application can place persistent files it owns. These files are internal to the applications, and not typically visible to the user as media. &lt;p&gt; This is like {@link getFilesDir()} in that these files will be deleted when the application is uninstalled, however there are some important differences: &lt;ul&gt; &lt;li&gt;Shared storage may not always be available, since removable media can be ejected by the user. Media state can be checked using {@link EnvironmentgetExternalStorageState(File)}. &lt;li&gt;There is no security enforced with these files. For example, any application holding" />
       <item value="Returns absolute paths to application-specific directories on all sharedexternal storage devices where the application can place persistent files it owns. These files are internal to the application, and not typically visible to the user as media. &lt;p&gt; This is like {@link getFilesDir()} in that these files will be deleted when the application is uninstalled, however there are some important differences: &lt;ul&gt; &lt;li&gt;Shared storage may not always be available, since removable media can be ejected by the user. Media state can be checked using {@link EnvironmentgetExternalStorageState(File)}. &lt;li&gt;There is no security enforced with these files. For example, any application holding {@link android.Manifest.permissionWRITE_EXTERNAL_STORAGE} can write to these files. &lt;ul&gt; &lt;p&gt; If a shared storage device is emulated (as determined by {@link EnvironmentisExternalStorageEmulated(File)}), it's contents are backed by a private user data partition, which means there is little benefit to storing data here instead of the private directories returned by {@link getFilesDir()}, etc." />
       <item value="Builder" />
-      <item value="Storage" />
-      <item value="KEY LAST UPDATED TIME STRING" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="119" />
-        <entry key="RUSSIAN" value="118" />
+        <entry key="ENGLISH" value="123" />
+        <entry key="RUSSIAN" value="122" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
