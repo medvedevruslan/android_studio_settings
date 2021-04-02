@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="User chose not to enable Bluetooth." />
       <item value="Initializes list view adapter." />
       <item value="Ensures Bluetooth is enabled on the device. If Bluetooth is not currently enabled, fire an intent to display a dialog asking the user to grant permission to enable it." />
       <item value="Stops scanning after a pre-defined scan period." />
@@ -50,12 +51,11 @@
       <item value="Crypt" />
       <item value="External storage is not available" />
       <item value="External storage is not writable" />
-      <item value="mounted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="136" />
-        <entry key="RUSSIAN" value="135" />
+        <entry key="ENGLISH" value="137" />
+        <entry key="RUSSIAN" value="136" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
