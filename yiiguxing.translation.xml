@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="m Data Field" />
+      <item value="m Connection State" />
       <item value="n: Attempt to invoke virtual method 'void android.app.ActionBar.setTitle(java.lang.CharSequence)' on a null object reference" />
       <item value="EXTRAS DEVICE ADDRESS" />
       <item value="EXTRAS DEVICE NAME" />
@@ -49,13 +51,11 @@
       <item value="No Application available to view File" />
       <item value="java.lang.IllegalStateException: You need to use a Theme.AppCompat theme (or descendant) with this activity." />
       <item value="exist" />
-      <item value="NOTE: Do not place your application dependencies here; they belong in the individual module build.gradle files" />
-      <item value="Top-level build file where you can add configuration options common to all sub-projectsmodules." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="144" />
-        <entry key="RUSSIAN" value="143" />
+        <entry key="ENGLISH" value="146" />
+        <entry key="RUSSIAN" value="145" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
