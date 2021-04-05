@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Implements callback methods for GATT events that the app cares about. For example, connection change and services discovered." />
+      <item value="Implements callback methods for GATT events that the app cares about. For example," />
+      <item value="rate" />
+      <item value="Heart rate Service" />
+      <item value="Sample Services." />
       <item value="Sample Gatt Attributes" />
       <item value="MEASUREMENT" />
       <item value="Service for managing connection and data communication with a GATT server hosted on a given Bluetooth LE device." />
@@ -46,16 +51,11 @@
       <item value="This class includes a small subset of standard GATT attributes for demonstration purposes." />
       <item value="Ensures Bluetooth is enabled on the device. If Bluetooth is not currently enabled, fire an intent to display a dialog asking the user to grant permission to enable it. if (!mBluetoothAdapter.isEnabled()) {" />
       <item value="actionbar indeterminate progress" />
-      <item value="set Action View" />
-      <item value="access modifiers changed from: private" />
-      <item value="Use this check to determine whether BLE is supported on the device. Then you can selectively disable BLE-related features" />
-      <item value="A {@code Method} provides information about, and access to, a single method on a class or interface. The reflected method may be a class method or an instance method (including an abstract method). &lt;p&gt;A {@code Method} permits widening conversions to occur when matching the actual parameters to invoke with the underlying method's formal parameters, but it throws an {@code IllegalArgumentException} if a narrowing conversion would occur." />
-      <item value="Discovered LE Device" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="149" />
-        <entry key="RUSSIAN" value="148" />
+        <entry key="ENGLISH" value="156" />
+        <entry key="RUSSIAN" value="155" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
