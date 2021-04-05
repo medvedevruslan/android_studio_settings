@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This is special handling for the Heart Rate Measurement profile. Data parsing is carried out as per profile specifications:" />
       <item value="This is special handling for the Heart Rate Measurement profile. Data parsing is carried out as per profile specifications: http:developer.bluetooth.orggattcharacteristicsPagesCharacteristicViewer.aspx?u=org.bluetooth.characteristic.heart_rate_measurement.xml" />
       <item value="broadcast Update" />
       <item value="intent Action" />
@@ -50,12 +51,11 @@
       <item value="registerReceiver(locationServiceStateReceiver, new IntentFilter((LocationManager.MODE_CHANGED_ACTION))); registerReceiver(bloodPressureDataReceiver, new IntentFilter( BluetoothHandler.MEASUREMENT_BLOODPRESSURE )); registerReceiver(temperatureDataReceiver, new IntentFilter( BluetoothHandler.MEASUREMENT_TEMPERATURE )); registerReceiver(heartRateDataReceiver, new IntentFilter( BluetoothHandler.MEASUREMENT_HEARTRATE )); registerReceiver(pulseOxDataReceiver, new IntentFilter( BluetoothHandler.MEASUREMENT_PULSE_OX )); registerReceiver(weightDataReceiver, new IntentFilter(BluetoothHandler.MEASUREMENT_WEIGHT)); registerReceiver(glucoseDataReceiver, new IntentFilter(BluetoothHandler.MEASUREMENT_GLUCOSE));" />
       <item value="blood Pressure Value" />
       <item value="REQUEST ENABLE BT" />
-      <item value="ACCESS LOCATION REQUEST" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="159" />
-        <entry key="RUSSIAN" value="158" />
+        <entry key="ENGLISH" value="162" />
+        <entry key="RUSSIAN" value="161" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
