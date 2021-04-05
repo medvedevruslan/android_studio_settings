@@ -1,9 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="update Broadcast" />
+      <item value="EXTRA DATA" />
+      <item value="ACTION GATT AVAILABLE" />
+      <item value="ACTION GATT DISCOVERED" />
+      <item value="Broadcast" />
+      <item value="broadcast Update" />
       <item value="This is special handling for the Heart Rate Measurement profile. Data parsing is carried out as per profile specifications:" />
       <item value="This is special handling for the Heart Rate Measurement profile. Data parsing is carried out as per profile specifications: http:developer.bluetooth.orggattcharacteristicsPagesCharacteristicViewer.aspx?u=org.bluetooth.characteristic.heart_rate_measurement.xml" />
-      <item value="broadcast Update" />
       <item value="intent Action" />
       <item value="Implements callback methods for GATT events that the app cares about. For example, connection change and services discovered." />
       <item value="Implements callback methods for GATT events that the app cares about. For example," />
@@ -46,16 +51,11 @@
       <item value="location Service State Receiver" />
       <item value="blood Pressure Data Receiver" />
       <item value="Location Manager" />
-      <item value="MODE CHANGED ACTION" />
-      <item value="register Receiver" />
-      <item value="registerReceiver(locationServiceStateReceiver, new IntentFilter((LocationManager.MODE_CHANGED_ACTION))); registerReceiver(bloodPressureDataReceiver, new IntentFilter( BluetoothHandler.MEASUREMENT_BLOODPRESSURE )); registerReceiver(temperatureDataReceiver, new IntentFilter( BluetoothHandler.MEASUREMENT_TEMPERATURE )); registerReceiver(heartRateDataReceiver, new IntentFilter( BluetoothHandler.MEASUREMENT_HEARTRATE )); registerReceiver(pulseOxDataReceiver, new IntentFilter( BluetoothHandler.MEASUREMENT_PULSE_OX )); registerReceiver(weightDataReceiver, new IntentFilter(BluetoothHandler.MEASUREMENT_WEIGHT)); registerReceiver(glucoseDataReceiver, new IntentFilter(BluetoothHandler.MEASUREMENT_GLUCOSE));" />
-      <item value="blood Pressure Value" />
-      <item value="REQUEST ENABLE BT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="162" />
-        <entry key="RUSSIAN" value="161" />
+        <entry key="ENGLISH" value="169" />
+        <entry key="RUSSIAN" value="168" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
