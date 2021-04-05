@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="broadcast Update" />
+      <item value="intent Action" />
       <item value="Implements callback methods for GATT events that the app cares about. For example, connection change and services discovered." />
       <item value="Implements callback methods for GATT events that the app cares about. For example," />
       <item value="rate" />
@@ -49,13 +51,11 @@
       <item value="REQUEST ENABLE BT" />
       <item value="ACCESS LOCATION REQUEST" />
       <item value="This class includes a small subset of standard GATT attributes for demonstration purposes." />
-      <item value="Ensures Bluetooth is enabled on the device. If Bluetooth is not currently enabled, fire an intent to display a dialog asking the user to grant permission to enable it. if (!mBluetoothAdapter.isEnabled()) {" />
-      <item value="actionbar indeterminate progress" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="156" />
-        <entry key="RUSSIAN" value="155" />
+        <entry key="ENGLISH" value="158" />
+        <entry key="RUSSIAN" value="157" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
