@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sample Characteristics." />
+      <item value="Sample Services." />
       <item value="Attempting to start service discovery:&quot; +" />
       <item value="Attempting to start service discovery" />
       <item value="Attempts to discover services after successful connection." />
@@ -20,7 +22,6 @@
       <item value="Implements callback methods for GATT events that the app cares about. For example," />
       <item value="rate" />
       <item value="Heart rate Service" />
-      <item value="Sample Services." />
       <item value="Sample Gatt Attributes" />
       <item value="MEASUREMENT" />
       <item value="Service for managing connection and data communication with a GATT server hosted on a given Bluetooth LE device." />
@@ -50,12 +51,11 @@
       <item value="android.bluetooth.adapter.action.REQUEST ENABLE&quot;" />
       <item value="is Bluetooth Enabled" />
       <item value="glucose Data Receiver" />
-      <item value="weight Data Receiver" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="176" />
-        <entry key="RUSSIAN" value="175" />
+        <entry key="ENGLISH" value="178" />
+        <entry key="RUSSIAN" value="177" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
