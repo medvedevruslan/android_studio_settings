@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Attempting to start service discovery:&quot; +" />
+      <item value="Attempting to start service discovery" />
+      <item value="Attempts to discover services after successful connection." />
       <item value="For all other profiles, writes the data formatted in HEX." />
       <item value="ACTION DATA AVAILABLE" />
       <item value="heart Rate" />
@@ -48,14 +51,11 @@
       <item value="is Bluetooth Enabled" />
       <item value="glucose Data Receiver" />
       <item value="weight Data Receiver" />
-      <item value="pulse Ox Data Receiver" />
-      <item value="heart Rate Data Receiver" />
-      <item value="temperature Data Receiver" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="173" />
-        <entry key="RUSSIAN" value="172" />
+        <entry key="ENGLISH" value="176" />
+        <entry key="RUSSIAN" value="175" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
