@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sample Gatt Attributes" />
+      <item value="MEASUREMENT" />
       <item value="Service for managing connection and data communication with a GATT server hosted on a given Bluetooth LE device." />
       <item value="m Data Field" />
       <item value="m Connection State" />
@@ -49,13 +51,11 @@
       <item value="Use this check to determine whether BLE is supported on the device. Then you can selectively disable BLE-related features" />
       <item value="A {@code Method} provides information about, and access to, a single method on a class or interface. The reflected method may be a class method or an instance method (including an abstract method). &lt;p&gt;A {@code Method} permits widening conversions to occur when matching the actual parameters to invoke with the underlying method's formal parameters, but it throws an {@code IllegalArgumentException} if a narrowing conversion would occur." />
       <item value="Discovered LE Device" />
-      <item value="No Application available to view File" />
-      <item value="java.lang.IllegalStateException: You need to use a Theme.AppCompat theme (or descendant) with this activity." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="147" />
-        <entry key="RUSSIAN" value="146" />
+        <entry key="ENGLISH" value="149" />
+        <entry key="RUSSIAN" value="148" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
