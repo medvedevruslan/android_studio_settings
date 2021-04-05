@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="For all other profiles, writes the data formatted in HEX." />
+      <item value="ACTION DATA AVAILABLE" />
       <item value="heart Rate" />
       <item value="update Broadcast" />
       <item value="EXTRA DATA" />
@@ -49,13 +51,11 @@
       <item value="pulse Ox Data Receiver" />
       <item value="heart Rate Data Receiver" />
       <item value="temperature Data Receiver" />
-      <item value="location Service State Receiver" />
-      <item value="blood Pressure Data Receiver" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="170" />
-        <entry key="RUSSIAN" value="169" />
+        <entry key="ENGLISH" value="173" />
+        <entry key="RUSSIAN" value="172" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
