@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Service for managing connection and data communication with a GATT server hosted on a given Bluetooth LE device." />
       <item value="m Data Field" />
       <item value="m Connection State" />
       <item value="n: Attempt to invoke virtual method 'void android.app.ActionBar.setTitle(java.lang.CharSequence)' on a null object reference" />
@@ -50,12 +51,11 @@
       <item value="Discovered LE Device" />
       <item value="No Application available to view File" />
       <item value="java.lang.IllegalStateException: You need to use a Theme.AppCompat theme (or descendant) with this activity." />
-      <item value="exist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="146" />
-        <entry key="RUSSIAN" value="145" />
+        <entry key="ENGLISH" value="147" />
+        <entry key="RUSSIAN" value="146" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
