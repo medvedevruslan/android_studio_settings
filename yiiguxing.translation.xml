@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="This is special handling for the Heart Rate Measurement profile. Data parsing is carried out as per profile specifications: http:developer.bluetooth.orggattcharacteristicsPagesCharacteristicViewer.aspx?u=org.bluetooth.characteristic.heart_rate_measurement.xml" />
       <item value="broadcast Update" />
       <item value="intent Action" />
       <item value="Implements callback methods for GATT events that the app cares about. For example, connection change and services discovered." />
@@ -50,12 +51,11 @@
       <item value="blood Pressure Value" />
       <item value="REQUEST ENABLE BT" />
       <item value="ACCESS LOCATION REQUEST" />
-      <item value="This class includes a small subset of standard GATT attributes for demonstration purposes." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="158" />
-        <entry key="RUSSIAN" value="157" />
+        <entry key="ENGLISH" value="159" />
+        <entry key="RUSSIAN" value="158" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
