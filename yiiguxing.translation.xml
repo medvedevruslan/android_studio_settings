@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="vehicle" />
+      <item value="Binder" />
+      <item value="Local Binder" />
       <item value="Sample Characteristics." />
       <item value="Sample Services." />
       <item value="Attempting to start service discovery:&quot; +" />
@@ -48,19 +52,16 @@
       <item value="This device has no Bluetooth hardware" />
       <item value="check Permissions" />
       <item value="REQUEST ENABLE" />
-      <item value="android.bluetooth.adapter.action.REQUEST ENABLE&quot;" />
-      <item value="is Bluetooth Enabled" />
-      <item value="glucose Data Receiver" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="178" />
-        <entry key="RUSSIAN" value="177" />
+        <entry key="ENGLISH" value="180" />
+        <entry key="RUSSIAN" value="179" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617253699672" />
+    <option name="lastTrimTime" value="1617687113784" />
   </component>
 </application>
