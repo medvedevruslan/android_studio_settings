@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The application may be doing too much work on its main thread." />
       <item value="vehicle" />
       <item value="Binder" />
       <item value="Local Binder" />
@@ -51,12 +52,11 @@
       <item value="Unless" />
       <item value="This device has no Bluetooth hardware" />
       <item value="check Permissions" />
-      <item value="REQUEST ENABLE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="180" />
-        <entry key="RUSSIAN" value="179" />
+        <entry key="ENGLISH" value="181" />
+        <entry key="RUSSIAN" value="180" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
