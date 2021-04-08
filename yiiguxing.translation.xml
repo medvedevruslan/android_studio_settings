@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Caused by: java.lang.IllegalArgumentException: Service Intent must be explicit: Intent { act=com.example.service3_2_startandroid94.MyService3 (has extras) }" />
+      <item value="java.lang.IllegalStateException: Could not execute method for android:onClick" />
+      <item value="get PatchStore::createDisableExceptionQarthFile method fail" />
       <item value="Executor Service" />
       <item value="The application may be doing too much work on its main thread." />
       <item value="vehicle" />
@@ -49,14 +52,11 @@
       <item value="General ListView optimization code" />
       <item value="Layout I" />
       <item value="Activity for scanning and displaying available Bluetooth LE devices." />
-      <item value="Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License." />
-      <item value="Unless" />
-      <item value="This device has no Bluetooth hardware" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="182" />
-        <entry key="RUSSIAN" value="181" />
+        <entry key="ENGLISH" value="185" />
+        <entry key="RUSSIAN" value="184" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
