@@ -2,9 +2,12 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Service Intent must be explicit: Intent { act=com.example.Service3_2_startandroid94.MyService3 (has extras) }" />
+      <item value="s.Runtime Init Method And Args Caller.run(Runtime Init.java:524)" />
+      <item value="Could not execute method for android:onClick" />
+      <item value="get PatchStore::createDisableExceptionQarthFile method fail" />
       <item value="Caused by: java.lang.IllegalArgumentException: Service Intent must be explicit: Intent { act=com.example.service3_2_startandroid94.MyService3 (has extras) }" />
       <item value="java.lang.IllegalStateException: Could not execute method for android:onClick" />
-      <item value="get PatchStore::createDisableExceptionQarthFile method fail" />
       <item value="Executor Service" />
       <item value="The application may be doing too much work on its main thread." />
       <item value="vehicle" />
@@ -49,14 +52,11 @@
       <item value="Use this check to determine whether BLE is supported on the device. Then you can selectively disable BLE-related features." />
       <item value="Device scan callback." />
       <item value="convert View" />
-      <item value="General ListView optimization code" />
-      <item value="Layout I" />
-      <item value="Activity for scanning and displaying available Bluetooth LE devices." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="185" />
-        <entry key="RUSSIAN" value="184" />
+        <entry key="ENGLISH" value="189" />
+        <entry key="RUSSIAN" value="188" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
