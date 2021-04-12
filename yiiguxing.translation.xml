@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns the current object mapper used for JSON serializationdeserialization." />
       <item value="Returns the current object mapper used for JSON serializationdeserialization. &lt;p&gt; Note: If you make changes to the object mapper, remember to set it back via &lt;code&gt;setObjectMapper&lt;code&gt; in order to trigger HTTP client rebuilding. &lt;p&gt; @return Object mapper" />
       <item value="Build the Client used to make HTTP requests with the latest settings, i.e. objectMapper and debugging. TODO: better to use the Builder Pattern? @return API client" />
       <item value="Apply authentication settings to header and query params." />
@@ -51,7 +52,6 @@
       <item value="User chose not to enable Bluetooth." />
       <item value="Initializes list view adapter." />
       <item value="Ensures Bluetooth is enabled on the device. If Bluetooth is not currently enabled, fire an intent to display a dialog asking the user to grant permission to enable it." />
-      <item value="Stops scanning after a pre-defined scan period." />
     </histories>
     <option name="languageScores">
       <map>
