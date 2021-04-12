@@ -2,6 +2,10 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Pair" />
+      <item value="allowable Values" />
+      <item value="Deserializer for ThreeTen temporal {@link Instant}s, {@link OffsetDateTime}, and {@link ZonedDateTime}s. Adapted from the jackson threetenbp InstantDeserializer to add support for deserializing rfc822 format." />
+      <item value="@param authName The authentication name @return The authentication, null if not found" />
       <item value="Returns the current object mapper used for JSON serializationdeserialization." />
       <item value="Returns the current object mapper used for JSON serializationdeserialization. &lt;p&gt; Note: If you make changes to the object mapper, remember to set it back via &lt;code&gt;setObjectMapper&lt;code&gt; in order to trigger HTTP client rebuilding. &lt;p&gt; @return Object mapper" />
       <item value="Build the Client used to make HTTP requests with the latest settings, i.e. objectMapper and debugging. TODO: better to use the Builder Pattern? @return API client" />
@@ -48,15 +52,11 @@
       <item value="n: Attempt to invoke virtual method 'void android.app.ActionBar.setTitle(java.lang.CharSequence)' on a null object reference" />
       <item value="EXTRAS DEVICE ADDRESS" />
       <item value="EXTRAS DEVICE NAME" />
-      <item value="For a given BLE device, this Activity provides the user interface to connect, display data, and display GATT services and characteristics supported by the device. The Activity communicates with {@code BluetoothLeService}, which in turn interacts with the Bluetooth LE API." />
-      <item value="User chose not to enable Bluetooth." />
-      <item value="Initializes list view adapter." />
-      <item value="Ensures Bluetooth is enabled on the device. If Bluetooth is not currently enabled, fire an intent to display a dialog asking the user to grant permission to enable it." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="194" />
-        <entry key="RUSSIAN" value="193" />
+        <entry key="ENGLISH" value="198" />
+        <entry key="RUSSIAN" value="197" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
