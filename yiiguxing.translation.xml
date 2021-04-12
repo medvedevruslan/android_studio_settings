@@ -2,6 +2,8 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Apply authentication settings to header and query params." />
+      <item value="Gets the token, which together with the scheme, will be sent as the value of the Authorization header." />
       <item value="Not allowed to start service Intent { act=com.example.Service3_2_startandroid94 pkg=com.example.Service3_2_startandroid94 (has extras) } without permission TODO" />
       <item value="Service Intent must be explicit: Intent { act=com.example.Service3_2_startandroid94.MyService3 (has extras) }" />
       <item value="s.Runtime Init Method And Args Caller.run(Runtime Init.java:524)" />
@@ -50,18 +52,16 @@
       <item value="Stops scanning after a pre-defined scan period." />
       <item value="Checks if Bluetooth is supported on the device." />
       <item value="Initializes a Bluetooth adapter. For API level 18 and above, get a reference to BluetoothAdapter through BluetoothManager." />
-      <item value="Use this check to determine whether BLE is supported on the device. Then you can selectively disable BLE-related features." />
-      <item value="Device scan callback." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="190" />
-        <entry key="RUSSIAN" value="189" />
+        <entry key="ENGLISH" value="192" />
+        <entry key="RUSSIAN" value="191" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617687113784" />
+    <option name="lastTrimTime" value="1618211773903" />
   </component>
 </application>
