@@ -2,6 +2,9 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="After using a given BLE device, the app must call this method to ensure resources are released properly." />
+      <item value="update Broadcast" />
+      <item value="on Services Discovered" />
       <item value="Pair" />
       <item value="allowable Values" />
       <item value="Deserializer for ThreeTen temporal {@link Instant}s, {@link OffsetDateTime}, and {@link ZonedDateTime}s. Adapted from the jackson threetenbp InstantDeserializer to add support for deserializing rfc822 format." />
@@ -31,7 +34,6 @@
       <item value="For all other profiles, writes the data formatted in HEX." />
       <item value="ACTION DATA AVAILABLE" />
       <item value="heart Rate" />
-      <item value="update Broadcast" />
       <item value="EXTRA DATA" />
       <item value="ACTION GATT AVAILABLE" />
       <item value="ACTION GATT DISCOVERED" />
@@ -50,8 +52,6 @@
       <item value="m Data Field" />
       <item value="m Connection State" />
       <item value="n: Attempt to invoke virtual method 'void android.app.ActionBar.setTitle(java.lang.CharSequence)' on a null object reference" />
-      <item value="EXTRAS DEVICE ADDRESS" />
-      <item value="EXTRAS DEVICE NAME" />
     </histories>
     <option name="languageScores">
       <map>
