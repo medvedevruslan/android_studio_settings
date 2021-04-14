@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Handles various events fired by the Service. ACTION_GATT_CONNECTED: connected to a GATT server. ACTION_GATT_DISCONNECTED: disconnected from a GATT server. ACTION_GATT_SERVICES_DISCOVERED: discovered GATT services. ACTION_DATA_AVAILABLE: received data from the device. This can be a result of read or notification operations." />
+      <item value="Automatically connects to the device upon successful start-up initialization." />
+      <item value="Unable to initialize Bluetooth" />
+      <item value="Code to manage Service lifecycle." />
+      <item value="For a given BLE device, this Activity provides the user interface to connect, display data, and display GATT services and characteristics supported by the device. The Activity communicates with {@code BluetoothLeService}, which in turn interacts with the Bluetooth LE API." />
+      <item value="Retrieves a list of supported GATT services on the connected device. This should be invoked only after {@code BluetoothGattdiscoverServices()} completes successfully. @return A {@code List} of supported services." />
+      <item value="This is specific to Heart Rate Measurement." />
       <item value="Request a read on a given {@code BluetoothGattCharacteristic}. The read result is reported asynchronously through the {@code BluetoothGattCallbackonCharacteristicRead(android.bluetooth.BluetoothGatt, android.bluetooth.BluetoothGattCharacteristic, int)} callback. @param characteristic The characteristic to read from." />
       <item value="Enables or disables notification on a give characteristic." />
       <item value="Enables or disables notification on a give characteristic. @param characteristic Characteristic to act on. @param enabled If true, enable notification. False otherwise." />
@@ -48,13 +55,6 @@
       <item value="Binder" />
       <item value="Local Binder" />
       <item value="Sample Characteristics." />
-      <item value="Sample Services." />
-      <item value="Attempting to start service discovery:&quot; +" />
-      <item value="Attempting to start service discovery" />
-      <item value="Attempts to discover services after successful connection." />
-      <item value="For all other profiles, writes the data formatted in HEX." />
-      <item value="ACTION DATA AVAILABLE" />
-      <item value="heart Rate" />
     </histories>
     <option name="languageScores">
       <map>
