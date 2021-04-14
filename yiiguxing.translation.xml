@@ -2,6 +2,7 @@
   <component name="AppStorage">
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="After using a given device, you should make sure that BluetoothGatt.close() is called such that resources are cleaned up properly. In this particular example, close() is invoked when the UI is disconnected from the Service." />
       <item value="After using a given BLE device, the app must call this method to ensure resources are released properly." />
       <item value="update Broadcast" />
       <item value="on Services Discovered" />
@@ -51,7 +52,6 @@
       <item value="Service for managing connection and data communication with a GATT server hosted on a given Bluetooth LE device." />
       <item value="m Data Field" />
       <item value="m Connection State" />
-      <item value="n: Attempt to invoke virtual method 'void android.app.ActionBar.setTitle(java.lang.CharSequence)' on a null object reference" />
     </histories>
     <option name="languageScores">
       <map>
