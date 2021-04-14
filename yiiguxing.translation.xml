@@ -1,7 +1,15 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="708" />
+    <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Подключается к серверу GATT, размещенному на устройстве Bluetooth LE" />
+      <item value="Connects to the GATT server hosted on the Bluetooth LE device. @param address The device address of the destination device. @return Return true if the connection is initiated successfully. The connection result is reported asynchronously through the {@code BluetoothGattCallbackonConnectionStateChange(android.bluetooth.BluetoothGatt, int, int)} callback." />
+      <item value="Unable to obtain a BluetoothAdapter" />
+      <item value="Unable to initialize BluetoothManager" />
+      <item value="Initializes a reference to the local Bluetooth adapter. @return Return true if the initialization is successful." />
       <item value="After using a given device, you should make sure that BluetoothGatt.close() is called such that resources are cleaned up properly. In this particular example, close() is invoked when the UI is disconnected from the Service." />
       <item value="After using a given BLE device, the app must call this method to ensure resources are released properly." />
       <item value="update Broadcast" />
@@ -47,11 +55,6 @@
       <item value="Implements callback methods for GATT events that the app cares about. For example," />
       <item value="rate" />
       <item value="Heart rate Service" />
-      <item value="Sample Gatt Attributes" />
-      <item value="MEASUREMENT" />
-      <item value="Service for managing connection and data communication with a GATT server hosted on a given Bluetooth LE device." />
-      <item value="m Data Field" />
-      <item value="m Connection State" />
     </histories>
     <option name="languageScores">
       <map>
