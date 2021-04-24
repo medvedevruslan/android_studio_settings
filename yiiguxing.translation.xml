@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="If there is an active notification on a characteristic, clear it first so it doesn't update the data field on the user interface." />
       <item value="If a given GATT characteristic is selected, check for supported features. This sample demonstrates 'Read' and 'Notify' features. See http:d.android.comreferenceandroidbluetoothBluetoothGatt.html for the complete list of supported characteristic features." />
       <item value="Show all the supported services and characteristics on the user interface." />
       <item value="Handles various events fired by the Service. ACTION_GATT_CONNECTED: connected to a GATT server. ACTION_GATT_DISCONNECTED: disconnected from a GATT server. ACTION_GATT_SERVICES_DISCOVERED: discovered GATT services. ACTION_DATA_AVAILABLE: received data from the device. This can be a result of read or notification operations." />
@@ -54,7 +55,6 @@
       <item value="Executor Service" />
       <item value="The application may be doing too much work on its main thread." />
       <item value="vehicle" />
-      <item value="Binder" />
     </histories>
     <option name="languageScores">
       <map>
