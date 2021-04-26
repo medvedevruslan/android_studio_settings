@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="on Connection State Change" />
       <item value="discover Services" />
       <item value="The profile is in connected state" />
       <item value="If there is an active notification on a characteristic, clear it first so it doesn't update the data field on the user interface." />
@@ -54,7 +55,6 @@
       <item value="get PatchStore::createDisableExceptionQarthFile method fail" />
       <item value="Caused by: java.lang.IllegalArgumentException: Service Intent must be explicit: Intent { act=com.example.service3_2_startandroid94.MyService3 (has extras) }" />
       <item value="java.lang.IllegalStateException: Could not execute method for android:onClick" />
-      <item value="Executor Service" />
     </histories>
     <option name="languageScores">
       <map>
