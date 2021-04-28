@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="on Services Discovered" />
+      <item value="set Listener Bluetooth State" />
+      <item value="current Time Millis" />
+      <item value="data Mutual Thread" />
+      <item value="current Thread" />
       <item value="接收到脂肪测量秤返回回来的阻抗值" />
       <item value="接收到脂肪测量结果" />
       <item value="Scale" />
@@ -45,16 +50,11 @@
       <item value="Initializes a reference to the local Bluetooth adapter. @return Return true if the initialization is successful." />
       <item value="After using a given device, you should make sure that BluetoothGatt.close() is called such that resources are cleaned up properly. In this particular example, close() is invoked when the UI is disconnected from the Service." />
       <item value="update Broadcast" />
-      <item value="on Services Discovered" />
       <item value="Pair" />
       <item value="allowable Values" />
       <item value="Deserializer for ThreeTen temporal {@link Instant}s, {@link OffsetDateTime}, and {@link ZonedDateTime}s. Adapted from the jackson threetenbp InstantDeserializer to add support for deserializing rfc822 format." />
       <item value="@param authName The authentication name @return The authentication, null if not found" />
       <item value="Returns the current object mapper used for JSON serializationdeserialization." />
-      <item value="Returns the current object mapper used for JSON serializationdeserialization. &lt;p&gt; Note: If you make changes to the object mapper, remember to set it back via &lt;code&gt;setObjectMapper&lt;code&gt; in order to trigger HTTP client rebuilding. &lt;p&gt; @return Object mapper" />
-      <item value="Build the Client used to make HTTP requests with the latest settings, i.e. objectMapper and debugging. TODO: better to use the Builder Pattern? @return API client" />
-      <item value="Apply authentication settings to header and query params." />
-      <item value="Gets the token, which together with the scheme, will be sent as the value of the Authorization header." />
     </histories>
     <option name="languageScores">
       <map>
