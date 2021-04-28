@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="接收到脂肪测量秤返回回来的阻抗值" />
+      <item value="接收到脂肪测量结果" />
+      <item value="Scale" />
       <item value="access modifiers changed from: protected" />
       <item value="Translucent" />
       <item value="defined" />
@@ -52,9 +55,6 @@
       <item value="Build the Client used to make HTTP requests with the latest settings, i.e. objectMapper and debugging. TODO: better to use the Builder Pattern? @return API client" />
       <item value="Apply authentication settings to header and query params." />
       <item value="Gets the token, which together with the scheme, will be sent as the value of the Authorization header." />
-      <item value="Not allowed to start service Intent { act=com.example.Service3_2_startandroid94 pkg=com.example.Service3_2_startandroid94 (has extras) } without permission TODO" />
-      <item value="Service Intent must be explicit: Intent { act=com.example.Service3_2_startandroid94.MyService3 (has extras) }" />
-      <item value="s.Runtime Init Method And Args Caller.run(Runtime Init.java:524)" />
     </histories>
     <option name="languageScores">
       <map>
