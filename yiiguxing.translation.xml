@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Adapter for holding devices found through scanning." />
+      <item value="Activity for scanning and displaying available Bluetooth LE devices." />
       <item value="on Services Discovered" />
       <item value="set Listener Bluetooth State" />
       <item value="current Time Millis" />
@@ -53,8 +55,6 @@
       <item value="Pair" />
       <item value="allowable Values" />
       <item value="Deserializer for ThreeTen temporal {@link Instant}s, {@link OffsetDateTime}, and {@link ZonedDateTime}s. Adapted from the jackson threetenbp InstantDeserializer to add support for deserializing rfc822 format." />
-      <item value="@param authName The authentication name @return The authentication, null if not found" />
-      <item value="Returns the current object mapper used for JSON serializationdeserialization." />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619186283221" />
+    <option name="lastTrimTime" value="1619679989711" />
   </component>
 </application>
