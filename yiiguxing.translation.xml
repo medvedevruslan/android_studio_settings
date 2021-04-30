@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="s cannot be cast to andr" />
       <item value="Adapter for holding devices found through scanning." />
       <item value="Activity for scanning and displaying available Bluetooth LE devices." />
       <item value="on Services Discovered" />
@@ -54,7 +55,6 @@
       <item value="update Broadcast" />
       <item value="Pair" />
       <item value="allowable Values" />
-      <item value="Deserializer for ThreeTen temporal {@link Instant}s, {@link OffsetDateTime}, and {@link ZonedDateTime}s. Adapted from the jackson threetenbp InstantDeserializer to add support for deserializing rfc822 format." />
     </histories>
     <option name="languageScores">
       <map>
