@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Initializes a Bluetooth adapter. For API level 18 and above, get a reference to BluetoothAdapter through BluetoothManager." />
       <item value="Use this check to determine whether BLE is supported on the device. Then you can selectively disable BLE-related features." />
       <item value="REQUEST ENABLE BT" />
       <item value="REQUEST_" />
@@ -54,7 +55,6 @@
       <item value="Unable to obtain a BluetoothAdapter" />
       <item value="Unable to initialize BluetoothManager" />
       <item value="Initializes a reference to the local Bluetooth adapter. @return Return true if the initialization is successful." />
-      <item value="After using a given device, you should make sure that BluetoothGatt.close() is called such that resources are cleaned up properly. In this particular example, close() is invoked when the UI is disconnected from the Service." />
     </histories>
     <option name="languageScores">
       <map>
