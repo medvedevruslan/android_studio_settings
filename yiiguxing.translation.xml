@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="EXTRAS" />
+      <item value="EXTRAS DEVICE ADDRESS" />
+      <item value="EXTRAS DEVICE NAME" />
+      <item value="User chose not to enable Bluetooth" />
+      <item value="Initializes list view adapter." />
+      <item value="Ensures Bluetooth is enabled on the device. If Bluetooth is not currently enabled, fire an intent to display a dialog asking the user to grant permission to enable it." />
       <item value="Stops scanning after a pre-defined scan period." />
       <item value="Checks if Bluetooth is supported on the device." />
       <item value="Initializes a Bluetooth adapter. For API level 18 and above, get a reference to BluetoothAdapter through BluetoothManager." />
@@ -49,12 +55,6 @@
       <item value="We want to directly connect to the device, so we are setting the autoConnect parameter to false." />
       <item value="Unable to connect." />
       <item value="Trying to use an existing mBluetoothGatt for connection" />
-      <item value="Previously connected device. Try to reconnect." />
-      <item value="BluetoothAdapter not initialized or unspecified address" />
-      <item value="Connects to the GATT server hosted on the Bluetooth LE device." />
-      <item value="Подключается к серверу GATT, размещенному на устройстве Bluetooth LE" />
-      <item value="Connects to the GATT server hosted on the Bluetooth LE device. @param address The device address of the destination device. @return Return true if the connection is initiated successfully. The connection result is reported asynchronously through the {@code BluetoothGattCallbackonConnectionStateChange(android.bluetooth.BluetoothGatt, int, int)} callback." />
-      <item value="Unable to obtain a BluetoothAdapter" />
     </histories>
     <option name="languageScores">
       <map>
