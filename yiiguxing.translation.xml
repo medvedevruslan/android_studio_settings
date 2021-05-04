@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Use this check to determine whether BLE is supported on the device. Then you can selectively disable BLE-related features." />
+      <item value="REQUEST ENABLE BT" />
+      <item value="REQUEST_" />
       <item value="s cannot be cast to andr" />
       <item value="Adapter for holding devices found through scanning." />
       <item value="Activity for scanning and displaying available Bluetooth LE devices." />
@@ -52,9 +55,6 @@
       <item value="Unable to initialize BluetoothManager" />
       <item value="Initializes a reference to the local Bluetooth adapter. @return Return true if the initialization is successful." />
       <item value="After using a given device, you should make sure that BluetoothGatt.close() is called such that resources are cleaned up properly. In this particular example, close() is invoked when the UI is disconnected from the Service." />
-      <item value="update Broadcast" />
-      <item value="Pair" />
-      <item value="allowable Values" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1619679989711" />
+    <option name="lastTrimTime" value="1620126220217" />
   </component>
 </application>
