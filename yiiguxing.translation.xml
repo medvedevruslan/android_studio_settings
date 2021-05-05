@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Holder" />
       <item value="General ListView optimization code." />
       <item value="EXTRAS" />
       <item value="EXTRAS DEVICE ADDRESS" />
@@ -54,7 +55,6 @@
       <item value="Disconnects an existing connection or cancel a pending connection. The disconnection result is reported asynchronously through the {@code BluetoothGattCallbackonConnectionStateChange(android.bluetooth.BluetoothGatt, int, int)} callback." />
       <item value="Trying to create a new connection." />
       <item value="We want to directly connect to the device, so we are setting the autoConnect parameter to false." />
-      <item value="Unable to connect." />
     </histories>
     <option name="languageScores">
       <map>
