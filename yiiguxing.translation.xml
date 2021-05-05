@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Service for managing connection and data communication with a GATT server hosted on a given Bluetooth LE device." />
+      <item value="Unable to initialize BluetoothManager" />
+      <item value="Unable to initialize Bluetooth" />
+      <item value="initialize" />
       <item value="Code to manage Service lifecycle." />
       <item value="Notify" />
       <item value="m Notify Characteristic" />
@@ -50,11 +54,7 @@
       <item value="Show all the supported services and characteristics on the user interface." />
       <item value="Handles various events fired by the Service. ACTION_GATT_CONNECTED: connected to a GATT server. ACTION_GATT_DISCONNECTED: disconnected from a GATT server. ACTION_GATT_SERVICES_DISCOVERED: discovered GATT services. ACTION_DATA_AVAILABLE: received data from the device. This can be a result of read or notification operations." />
       <item value="Automatically connects to the device upon successful start-up initialization." />
-      <item value="Unable to initialize Bluetooth" />
       <item value="Retrieves a list of supported GATT services on the connected device. This should be invoked only after {@code BluetoothGattdiscoverServices()} completes successfully. @return A {@code List} of supported services." />
-      <item value="This is specific to Heart Rate Measurement." />
-      <item value="Request a read on a given {@code BluetoothGattCharacteristic}. The read result is reported asynchronously through the {@code BluetoothGattCallbackonCharacteristicRead(android.bluetooth.BluetoothGatt, android.bluetooth.BluetoothGattCharacteristic, int)} callback. @param characteristic The characteristic to read from." />
-      <item value="Enables or disables notification on a give characteristic." />
     </histories>
     <option name="languageScores">
       <map>
