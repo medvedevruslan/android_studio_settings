@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="on Services Discovered received" />
+      <item value="onServicesDiscovered received" />
+      <item value="GATT SUCCESS" />
+      <item value="broadcast Update" />
       <item value="Attempting to start service discovery" />
       <item value="Attempts to discover services after successful connection." />
       <item value="on Connection State Change" />
@@ -51,10 +55,6 @@
       <item value="Scale" />
       <item value="access modifiers changed from: protected" />
       <item value="Translucent" />
-      <item value="defined" />
-      <item value="'' is not a valid file-based resource name character: File-based resource names must contain only lowercase a-z, 0-9, or underscore" />
-      <item value="discover Services" />
-      <item value="The profile is in connected state" />
     </histories>
     <option name="languageScores">
       <map>
