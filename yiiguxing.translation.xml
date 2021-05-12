@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Receiver" />
       <item value="on Services Discovered received" />
       <item value="onServicesDiscovered received" />
       <item value="GATT SUCCESS" />
@@ -54,7 +55,6 @@
       <item value="接收到脂肪测量结果" />
       <item value="Scale" />
       <item value="access modifiers changed from: protected" />
-      <item value="Translucent" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620126220217" />
+    <option name="lastTrimTime" value="1620802338539" />
   </component>
 </application>
