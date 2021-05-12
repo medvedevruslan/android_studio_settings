@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Constructs a string builder with no characters in it and an initial capacity specified by the {@code capacity} argument." />
+      <item value="Received" />
+      <item value="For all other profiles, writes the data formatted in HEX." />
       <item value="This is special handling for the Heart Rate Measurement profile. Data parsing is carried out as per profile specifications: http:developer.bluetooth.orggattcharacteristicsPagesCharacteristicViewer.aspx?u=org.bluetooth.characteristic.heart_rate_measurement.xml" />
       <item value="Receive" />
       <item value="Receiver" />
@@ -52,9 +55,6 @@
       <item value="set Listener Bluetooth State" />
       <item value="current Time Millis" />
       <item value="data Mutual Thread" />
-      <item value="current Thread" />
-      <item value="接收到脂肪测量秤返回回来的阻抗值" />
-      <item value="接收到脂肪测量结果" />
     </histories>
     <option name="languageScores">
       <map>
