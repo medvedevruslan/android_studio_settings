@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Receive" />
       <item value="Receiver" />
       <item value="on Services Discovered received" />
       <item value="onServicesDiscovered received" />
@@ -54,7 +55,6 @@
       <item value="接收到脂肪测量秤返回回来的阻抗值" />
       <item value="接收到脂肪测量结果" />
       <item value="Scale" />
-      <item value="access modifiers changed from: protected" />
     </histories>
     <option name="languageScores">
       <map>
