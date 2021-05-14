@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="include" />
       <item value="Constructs a string builder with no characters in it and an initial capacity specified by the {@code capacity} argument." />
       <item value="Received" />
       <item value="For all other profiles, writes the data formatted in HEX." />
@@ -54,7 +55,6 @@
       <item value="on Services Discovered" />
       <item value="set Listener Bluetooth State" />
       <item value="current Time Millis" />
-      <item value="data Mutual Thread" />
     </histories>
     <option name="languageScores">
       <map>
