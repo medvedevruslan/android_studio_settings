@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Service Intent must be explicit:" />
       <item value="include" />
       <item value="Constructs a string builder with no characters in it and an initial capacity specified by the {@code capacity} argument." />
       <item value="Received" />
@@ -54,7 +55,6 @@
       <item value="Activity for scanning and displaying available Bluetooth LE devices." />
       <item value="on Services Discovered" />
       <item value="set Listener Bluetooth State" />
-      <item value="current Time Millis" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1620802338539" />
+    <option name="lastTrimTime" value="1621237293488" />
   </component>
 </application>
