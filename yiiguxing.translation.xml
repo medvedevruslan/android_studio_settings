@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Bind" />
+      <item value="Binder" />
       <item value="explicit" />
       <item value="Service Intent must be explicit:" />
       <item value="include" />
@@ -53,8 +55,6 @@
       <item value="REQUEST_" />
       <item value="s cannot be cast to andr" />
       <item value="Adapter for holding devices found through scanning." />
-      <item value="Activity for scanning and displaying available Bluetooth LE devices." />
-      <item value="on Services Discovered" />
     </histories>
     <option name="languageScores">
       <map>
