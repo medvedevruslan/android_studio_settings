@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Interface for monitoring the state of an application service. See {@link android.app.Service} and {@link ContextbindService Context.bindService()} for more information. &lt;p&gt;Like many callbacks from the system, the methods on this class are called from the main thread of your process." />
       <item value="Bind" />
       <item value="Binder" />
       <item value="explicit" />
@@ -54,7 +55,6 @@
       <item value="REQUEST ENABLE BT" />
       <item value="REQUEST_" />
       <item value="s cannot be cast to andr" />
-      <item value="Adapter for holding devices found through scanning." />
     </histories>
     <option name="languageScores">
       <map>
