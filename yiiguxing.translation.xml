@@ -5,6 +5,30 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="current Service Data" />
+      <item value="lookup" />
+      <item value="display Gatt Services" />
+      <item value="Loops through available Characteristics." />
+      <item value="put" />
+      <item value="Loops through available GATT Services." />
+      <item value="gatt Service Data" />
+      <item value="Show all the supported services and characteristics on the user interface." />
+      <item value="Receiver" />
+      <item value="update Connection State" />
+      <item value="Handles various events fired by the Service. ACTION_GATT_CONNECTED: connected to a GATT server. ACTION_GATT_DISCONNECTED: disconnected from a GATT server. ACTION_GATT_SERVICES_DISCOVERED: discovered GATT services. ACTION_DATA_AVAILABLE: received data from the device. This can be a result of read or notification operations." />
+      <item value="Trying to create a new connection" />
+      <item value="We want to directly connect to the device, so we are setting the autoConnect parameter to false." />
+      <item value="get Remote Device" />
+      <item value="Unable to connect" />
+      <item value="Trying to use an existing mBluetoothGatt for connection." />
+      <item value="Previously connected device. Try to reconnect." />
+      <item value="BluetoothAdapter not initialized or unspecified address" />
+      <item value="Connects to the GATT server hosted on the Bluetooth LE device. @param address The device address of the destination device. @return Return true if the connection is initiated successfully. The connection result is reported asynchronously through the {@code BluetoothGattCallbackonConnectionStateChange(android.bluetooth.BluetoothGatt, int, int)} callback." />
+      <item value="Automatically connects to the device upon successful start-up initialization." />
+      <item value="Unable to obtain a BluetoothAdapter" />
+      <item value="Unable to initialize BluetoothManager" />
+      <item value="For API level 18 and above, get a reference to BluetoothAdapter through BluetoothManager." />
+      <item value="Unable to initialize Bluetooth" />
       <item value="Bound" />
       <item value="Called when a connection to the Service has been established, with the {@link android.os.IBinder} of the communication channel to the Service. &lt;p class=&quot;note&quot;&gt;&lt;b&gt;Note:&lt;b&gt; If the system has started to bind your client app to a service, it's possible that your app will never receive this callback. Your app won't receive a callback if there's an issue with the service, such as the service crashing while being created. @param name The concrete component name of the service that has been connected. @param service The IBinder of the Service's communication channel, which you can now make calls on." />
       <item value="Interface for monitoring the state of an application service. See {@link android.app.Service} and {@link ContextbindService Context.bindService()} for more information. &lt;p&gt;Like many callbacks from the system, the methods on this class are called from the main thread of your process." />
@@ -18,7 +42,6 @@
       <item value="For all other profiles, writes the data formatted in HEX." />
       <item value="This is special handling for the Heart Rate Measurement profile. Data parsing is carried out as per profile specifications: http:developer.bluetooth.orggattcharacteristicsPagesCharacteristicViewer.aspx?u=org.bluetooth.characteristic.heart_rate_measurement.xml" />
       <item value="Receive" />
-      <item value="Receiver" />
       <item value="on Services Discovered received" />
       <item value="onServicesDiscovered received" />
       <item value="GATT SUCCESS" />
@@ -31,30 +54,7 @@
       <item value="This class includes a small subset of standard GATT attributes for demonstration purposes." />
       <item value="Sample Services." />
       <item value="Service for managing connection and data communication with a GATT server hosted on a given Bluetooth LE device." />
-      <item value="Unable to initialize BluetoothManager" />
-      <item value="Unable to initialize Bluetooth" />
       <item value="initialize" />
-      <item value="Code to manage Service lifecycle." />
-      <item value="Notify" />
-      <item value="m Notify Characteristic" />
-      <item value="Notify Characteristic" />
-      <item value="Data Field" />
-      <item value="Field" />
-      <item value="For a given BLE device, this Activity provides the user interface to connect, display data, and display GATT services and characteristics supported by the device. The Activity communicates with {@code BluetoothLeService}, which in turn interacts with the Bluetooth LE API." />
-      <item value="notify Data Set Changed" />
-      <item value="Holder" />
-      <item value="General ListView optimization code." />
-      <item value="EXTRAS" />
-      <item value="EXTRAS DEVICE ADDRESS" />
-      <item value="EXTRAS DEVICE NAME" />
-      <item value="User chose not to enable Bluetooth" />
-      <item value="Initializes list view adapter." />
-      <item value="Ensures Bluetooth is enabled on the device. If Bluetooth is not currently enabled, fire an intent to display a dialog asking the user to grant permission to enable it." />
-      <item value="Stops scanning after a pre-defined scan period." />
-      <item value="Checks if Bluetooth is supported on the device." />
-      <item value="Initializes a Bluetooth adapter. For API level 18 and above, get a reference to BluetoothAdapter through BluetoothManager." />
-      <item value="Use this check to determine whether BLE is supported on the device. Then you can selectively disable BLE-related features." />
-      <item value="REQUEST ENABLE BT" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621237293488" />
+    <option name="lastTrimTime" value="1621834063684" />
   </component>
 </application>
