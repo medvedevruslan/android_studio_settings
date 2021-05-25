@@ -4,7 +4,7 @@
     <property name="created">2021-02-04T08:23:29</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.1.2.0</property>
-    <property name="modified">2021-05-25T11:41:18</property>
+    <property name="modified">2021-05-25T11:56:25</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1442,9 +1442,9 @@
         <option name="BACKGROUND" value="9688" />
       </value>
     </option>
-    <option name="LOGCAT_ASSERT_OUTPUT">
+    <option name="LOGCAT_INFO_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="e3919f" />
+        <option name="FOREGROUND" value="e5cf37" />
       </value>
     </option>
     <option name="LOG_DEBUG_OUTPUT">
