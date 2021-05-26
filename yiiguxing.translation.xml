@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="homeruslanДокументыAndroidStudioProjects2021.05Lessons_2expandablelistview_klimovsrcmainjavacomexampleexpandablelistview_klimovMainActivity.java:129: error: no suitable constructor found for SimpleExpandableListAdapter(MainActivity,ArrayList&lt;Map&lt;String,String&gt;&gt;,int,String[],int[],ArrayList&lt;ArrayList&lt;Map&lt;String,String&gt;&gt;&gt;,int,String[],int[],ArrayList&lt;ArrayList&lt;Map&lt;String,Byte&gt;&gt;&gt;,int,String[],int[])" />
       <item value="current Service Data" />
       <item value="lookup" />
       <item value="display Gatt Services" />
@@ -54,7 +55,6 @@
       <item value="This class includes a small subset of standard GATT attributes for demonstration purposes." />
       <item value="Sample Services." />
       <item value="Service for managing connection and data communication with a GATT server hosted on a given Bluetooth LE device." />
-      <item value="initialize" />
     </histories>
     <option name="languageScores">
       <map>
