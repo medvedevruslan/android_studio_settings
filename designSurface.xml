@@ -2,6 +2,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="LocalBinder_startandroid_98/src/main/res/layout/activity_main.xml" value="0.5083333333333333" />
         <entry key="StartAndroid_98_localBinder_1/src/main/res/layout/activity_main.xml" value="0.5914855072463768" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.39779005524861877" />
