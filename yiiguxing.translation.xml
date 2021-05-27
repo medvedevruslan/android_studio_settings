@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="no idea why this code is working" />
       <item value="Expand" />
       <item value="OPTIONAL : Show one list at a time" />
       <item value="parent adapter" />
@@ -54,7 +55,6 @@
       <item value="Attempting to start service discovery" />
       <item value="Attempts to discover services after successful connection." />
       <item value="on Connection State Change" />
-      <item value="Implements callback methods for GATT events that the app cares about. For example, connection change and services discovered." />
     </histories>
     <option name="languageScores">
       <map>
