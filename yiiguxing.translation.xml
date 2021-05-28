@@ -5,10 +5,12 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Link the ListView (superclass) to the expandable list data through the connector" />
+      <item value="Set member variable" />
+      <item value="999999 is a size in pixels. ExpandableListView requires a maximum height in order to do measurement calculations." />
       <item value="Gets a View that displays the given group. This View is only for the group--the Views for the group's children will be fetched using {@link getChildView(int, int, boolean, View, ViewGroup)}. @param groupPosition the position of the group for which the View is returned @param isExpanded whether the group is expanded or collapsed @param convertView the old view to reuse, if possible. You should check that this view is non-null and of an appropriate type before using. If it is not possible to convert this view to display the correct data, this method can create a new view. It is not guaranteed that the convertView will have been previously created by {@link getGroupView(int, boolean, View, ViewGroup)}. @param parent the parent that this view will eventually be attached to @return the View corresponding to the group at the specified position" />
       <item value="@param groupPosition the position of the group for which the View is returned" />
       <item value="headers" />
-      <item value="999999 is a size in pixels. ExpandableListView requires a maximum height in order to do measurement calculations." />
       <item value="get System Service" />
       <item value="color Primary" />
       <item value="convert View" />
@@ -53,8 +55,6 @@
       <item value="Service Intent must be explicit:" />
       <item value="include" />
       <item value="Constructs a string builder with no characters in it and an initial capacity specified by the {@code capacity} argument." />
-      <item value="Received" />
-      <item value="For all other profiles, writes the data formatted in HEX." />
     </histories>
     <option name="languageScores">
       <map>
