@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="@param groupPosition the position of the group for which the View is returned" />
       <item value="headers" />
       <item value="999999 is a size in pixels. ExpandableListView requires a maximum height in order to do measurement calculations." />
       <item value="get System Service" />
@@ -54,7 +55,6 @@
       <item value="Received" />
       <item value="For all other profiles, writes the data formatted in HEX." />
       <item value="This is special handling for the Heart Rate Measurement profile. Data parsing is carried out as per profile specifications: http:developer.bluetooth.orggattcharacteristicsPagesCharacteristicViewer.aspx?u=org.bluetooth.characteristic.heart_rate_measurement.xml" />
-      <item value="Receive" />
     </histories>
     <option name="languageScores">
       <map>
