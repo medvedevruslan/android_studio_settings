@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="If a given GATT characteristic is selected, check for supported features. This sample demonstrates 'Read' and 'Notify' features. See http:d.android.comreferenceandroidbluetoothBluetoothGatt.html for the complete list of supported characteristic features." />
       <item value="Retrieves a list of supported GATT services on the connected device. This should be invoked only after {@code BluetoothGattdiscoverServices()} completes successfully." />
       <item value="This is specific to Heart Rate Measurement." />
       <item value="If true, enable notification. False otherwise" />
@@ -54,7 +55,6 @@
       <item value="BluetoothAdapter not initialized or unspecified address" />
       <item value="Connects to the GATT server hosted on the Bluetooth LE device. @param address The device address of the destination device. @return Return true if the connection is initiated successfully. The connection result is reported asynchronously through the {@code BluetoothGattCallbackonConnectionStateChange(android.bluetooth.BluetoothGatt, int, int)} callback." />
       <item value="Automatically connects to the device upon successful start-up initialization." />
-      <item value="Unable to obtain a BluetoothAdapter" />
     </histories>
     <option name="languageScores">
       <map>
