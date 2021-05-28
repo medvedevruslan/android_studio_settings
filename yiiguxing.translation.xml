@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Gets a View that displays the given group. This View is only for the group--the Views for the group's children will be fetched using {@link getChildView(int, int, boolean, View, ViewGroup)}. @param groupPosition the position of the group for which the View is returned @param isExpanded whether the group is expanded or collapsed @param convertView the old view to reuse, if possible. You should check that this view is non-null and of an appropriate type before using. If it is not possible to convert this view to display the correct data, this method can create a new view. It is not guaranteed that the convertView will have been previously created by {@link getGroupView(int, boolean, View, ViewGroup)}. @param parent the parent that this view will eventually be attached to @return the View corresponding to the group at the specified position" />
       <item value="@param groupPosition the position of the group for which the View is returned" />
       <item value="headers" />
       <item value="999999 is a size in pixels. ExpandableListView requires a maximum height in order to do measurement calculations." />
@@ -54,7 +55,6 @@
       <item value="Constructs a string builder with no characters in it and an initial capacity specified by the {@code capacity} argument." />
       <item value="Received" />
       <item value="For all other profiles, writes the data formatted in HEX." />
-      <item value="This is special handling for the Heart Rate Measurement profile. Data parsing is carried out as per profile specifications: http:developer.bluetooth.orggattcharacteristicsPagesCharacteristicViewer.aspx?u=org.bluetooth.characteristic.heart_rate_measurement.xml" />
     </histories>
     <option name="languageScores">
       <map>
