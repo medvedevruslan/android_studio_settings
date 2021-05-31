@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Notifies the attached observers that the underlying data has been changed and any View reflecting the data set should refresh itself." />
       <item value="has System Feature" />
       <item value="Sets up UI references." />
       <item value="If there is an active notification on a characteristic, clear it first so it doesn't update the data field on the user interface." />
@@ -54,7 +55,6 @@
       <item value="get Remote Device" />
       <item value="Unable to connect" />
       <item value="Trying to use an existing mBluetoothGatt for connection." />
-      <item value="Previously connected device. Try to reconnect." />
     </histories>
     <option name="languageScores">
       <map>
