@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Enabled" />
       <item value="Notifies the attached observers that the underlying data has been changed and any View reflecting the data set should refresh itself." />
       <item value="has System Feature" />
       <item value="Sets up UI references." />
@@ -54,7 +55,6 @@
       <item value="We want to directly connect to the device, so we are setting the autoConnect parameter to false." />
       <item value="get Remote Device" />
       <item value="Unable to connect" />
-      <item value="Trying to use an existing mBluetoothGatt for connection." />
     </histories>
     <option name="languageScores">
       <map>
