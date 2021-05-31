@@ -5,10 +5,52 @@
         <entry key="../../../../../../layout/custom_preview.xml" value="0.1" />
         <entry key="LocalBinder_startandroid_98/src/main/res/layout/activity_main.xml" value="0.5083333333333333" />
         <entry key="StartAndroid_98_localBinder_1/src/main/res/layout/activity_main.xml" value="0.5914855072463768" />
+        <entry key="app/src/main/res/layout/abc_action_bar_title_item.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/abc_action_bar_up_container.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/abc_action_menu_item_layout.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/abc_action_menu_layout.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/abc_action_mode_bar.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/abc_action_mode_close_item_material.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/abc_activity_chooser_view.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/abc_activity_chooser_view_list_item.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/abc_alert_dialog_button_bar_material.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/abc_alert_dialog_material.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/abc_tooltip.xml" value="0.825" />
         <entry key="app/src/main/res/layout/actionbar_indeterminate_progress.xml" value="0.625" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.39779005524861877" />
+        <entry key="app/src/main/res/layout/activity_about.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/activity_about_device.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/activity_add_reminder.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/activity_base.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/activity_contact_management.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/activity_device.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/activity_device_a.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/activity_event.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/activity_event_managment.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/activity_history_list.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/activity_login_web.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/activity_logo.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/activity_navigation.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/activity_note.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/activity_notification.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/activity_profile_conditions.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/activity_sync.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/browser_actions_context_menu_page.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/browser_actions_context_menu_row.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/design_bottom_sheet_dialog.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/design_layout_snackbar.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/design_layout_snackbar_include.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/design_layout_tab_icon.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/fragment_add_reminder.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/fragment_contact_delete.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/fragment_contact_edit.xml" value="0.825" />
         <entry key="app/src/main/res/layout/gatt_services_characteristics.xml" value="0.4953125" />
         <entry key="app/src/main/res/layout/listitem_device.xml" value="0.4953125" />
+        <entry key="app/src/main/res/layout/notification_template_part_chronometer.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/notification_template_part_time.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/window_overview_list.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/window_progress.xml" value="0.825" />
         <entry key="expandablelistview_klimov/src/main/res/layout/activity_main.xml" value="0.38699146157709696" />
         <entry key="localbinder_startandroid_98_2/src/main/res/layout/activity_main.xml" value="0.2111111111111111" />
         <entry key="three_levels_expendablelistview/src/main/res/layout/activity_main.xml" value="0.7916666666666666" />

@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="lower Case" />
       <item value="is Enabled" />
       <item value="is already connected devices.don't do scan operate." />
       <item value="is already connected devices.don't do scan operate" />
@@ -54,7 +55,6 @@
       <item value="Receiver" />
       <item value="update Connection State" />
       <item value="Handles various events fired by the Service. ACTION_GATT_CONNECTED: connected to a GATT server. ACTION_GATT_DISCONNECTED: disconnected from a GATT server. ACTION_GATT_SERVICES_DISCOVERED: discovered GATT services. ACTION_DATA_AVAILABLE: received data from the device. This can be a result of read or notification operations." />
-      <item value="Trying to create a new connection" />
     </histories>
     <option name="languageScores">
       <map>
