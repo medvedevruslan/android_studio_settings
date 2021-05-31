@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="has System Feature" />
       <item value="Sets up UI references." />
       <item value="If there is an active notification on a characteristic, clear it first so it doesn't update the data field on the user interface." />
       <item value="If a given GATT characteristic is selected, check for supported features. This sample demonstrates 'Read' and 'Notify' features. See http:d.android.comreferenceandroidbluetoothBluetoothGatt.html for the complete list of supported characteristic features." />
@@ -54,7 +55,6 @@
       <item value="Unable to connect" />
       <item value="Trying to use an existing mBluetoothGatt for connection." />
       <item value="Previously connected device. Try to reconnect." />
-      <item value="BluetoothAdapter not initialized or unspecified address" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621834063684" />
+    <option name="lastTrimTime" value="1622437232805" />
   </component>
 </application>
