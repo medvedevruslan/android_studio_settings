@@ -6,6 +6,9 @@
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
       <item value="is Enabled" />
+      <item value="is already connected devices.don't do scan operate." />
+      <item value="is already connected devices.don't do scan operate" />
+      <item value="&quot;is already scan devices.don't scan again" />
       <item value="Notifies the attached observers that the underlying data has been changed and any View reflecting the data set should refresh itself." />
       <item value="has System Feature" />
       <item value="Sets up UI references." />
@@ -52,9 +55,6 @@
       <item value="update Connection State" />
       <item value="Handles various events fired by the Service. ACTION_GATT_CONNECTED: connected to a GATT server. ACTION_GATT_DISCONNECTED: disconnected from a GATT server. ACTION_GATT_SERVICES_DISCOVERED: discovered GATT services. ACTION_DATA_AVAILABLE: received data from the device. This can be a result of read or notification operations." />
       <item value="Trying to create a new connection" />
-      <item value="We want to directly connect to the device, so we are setting the autoConnect parameter to false." />
-      <item value="get Remote Device" />
-      <item value="Unable to connect" />
     </histories>
     <option name="languageScores">
       <map>
