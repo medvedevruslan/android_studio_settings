@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="missing udev rules? user is in the plugdev group" />
       <item value="PatchStore::createDisableExceptionQarthFile method fail." />
       <item value="thread Seconder" />
       <item value="Runnable" />
@@ -54,7 +55,6 @@
       <item value="put" />
       <item value="Loops through available GATT Services." />
       <item value="gatt Service Data" />
-      <item value="Show all the supported services and characteristics on the user interface." />
     </histories>
     <option name="languageScores">
       <map>
