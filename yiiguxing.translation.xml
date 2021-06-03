@@ -5,12 +5,15 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Lollipop" />
+      <item value="is Enabled" />
+      <item value="&quot;begin to scan bluetooth devices." />
+      <item value="&quot;begin to scan bluetooth devices..." />
       <item value="missing udev rules? user is in the plugdev group" />
       <item value="PatchStore::createDisableExceptionQarthFile method fail." />
       <item value="thread Seconder" />
       <item value="Runnable" />
       <item value="lower Case" />
-      <item value="is Enabled" />
       <item value="is already connected devices.don't do scan operate." />
       <item value="is already connected devices.don't do scan operate" />
       <item value="&quot;is already scan devices.don't scan again" />
@@ -52,9 +55,6 @@
       <item value="lookup" />
       <item value="display Gatt Services" />
       <item value="Loops through available Characteristics." />
-      <item value="put" />
-      <item value="Loops through available GATT Services." />
-      <item value="gatt Service Data" />
     </histories>
     <option name="languageScores">
       <map>
