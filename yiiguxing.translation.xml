@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="on Batch Scan Results" />
       <item value="Firmware Ver" />
       <item value="bleFirmwareVer is" />
       <item value="request Firmware Version" />
@@ -54,7 +55,6 @@
       <item value="parent adapter" />
       <item value="@param expandedGroupLayout resource identifier of a view layout that defines the views for an expanded group. The layout file should include at least those named views defined in &quot;groupTo&quot;" />
       <item value="homeruslanДокументыAndroidStudioProjects2021.05Lessons_2expandablelistview_klimovsrcmainjavacomexampleexpandablelistview_klimovMainActivity.java:129: error: no suitable constructor found for SimpleExpandableListAdapter(MainActivity,ArrayList&lt;Map&lt;String,String&gt;&gt;,int,String[],int[],ArrayList&lt;ArrayList&lt;Map&lt;String,String&gt;&gt;&gt;,int,String[],int[],ArrayList&lt;ArrayList&lt;Map&lt;String,Byte&gt;&gt;&gt;,int,String[],int[])" />
-      <item value="current Service Data" />
     </histories>
     <option name="languageScores">
       <map>
