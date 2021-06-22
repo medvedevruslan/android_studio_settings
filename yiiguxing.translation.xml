@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Fild" />
+      <item value="Body Fat-B1" />
       <item value="This class is a Parcelable wrapper around {@link UUID} which is an immutable representation of a 128-bit universally unique identifier." />
       <item value="on Batch Scan Results" />
       <item value="Firmware Ver" />
@@ -53,8 +55,6 @@
       <item value="no idea why this code is working" />
       <item value="Expand" />
       <item value="OPTIONAL : Show one list at a time" />
-      <item value="parent adapter" />
-      <item value="@param expandedGroupLayout resource identifier of a view layout that defines the views for an expanded group. The layout file should include at least those named views defined in &quot;groupTo&quot;" />
     </histories>
     <option name="languageScores">
       <map>
