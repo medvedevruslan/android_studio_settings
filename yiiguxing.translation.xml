@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="SCALE NAME" />
       <item value="Body Fat-B1" />
       <item value="contains" />
       <item value="Fild" />
@@ -54,7 +55,6 @@
       <item value="is Expanded" />
       <item value="has Stable Ids" />
       <item value="no idea why this code is working" />
-      <item value="Expand" />
     </histories>
     <option name="languageScores">
       <map>
