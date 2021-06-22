@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="contains" />
       <item value="Fild" />
       <item value="Body Fat-B1" />
       <item value="This class is a Parcelable wrapper around {@link UUID} which is an immutable representation of a 128-bit universally unique identifier." />
@@ -54,7 +55,6 @@
       <item value="has Stable Ids" />
       <item value="no idea why this code is working" />
       <item value="Expand" />
-      <item value="OPTIONAL : Show one list at a time" />
     </histories>
     <option name="languageScores">
       <map>
