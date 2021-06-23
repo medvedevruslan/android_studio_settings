@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Abstract Device Data Handle" />
+      <item value="device Address Bytes" />
       <item value="Trigger a callback for every Bluetooth advertisement found that matches the filter criteria. If no filter is active, all advertisement packets are reported." />
       <item value="ch 100" />
       <item value="SCALE NAME" />
@@ -53,8 +55,6 @@
       <item value="headers" />
       <item value="get System Service" />
       <item value="color Primary" />
-      <item value="convert View" />
-      <item value="is Expanded" />
     </histories>
     <option name="languageScores">
       <map>
