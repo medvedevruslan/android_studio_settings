@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="I Blue Tooth Message Call Back" />
       <item value="Abstract Device Data Handle" />
       <item value="device Address Bytes" />
       <item value="Trigger a callback for every Bluetooth advertisement found that matches the filter criteria. If no filter is active, all advertisement packets are reported." />
@@ -54,7 +55,6 @@
       <item value="@param groupPosition the position of the group for which the View is returned" />
       <item value="headers" />
       <item value="get System Service" />
-      <item value="color Primary" />
     </histories>
     <option name="languageScores">
       <map>
