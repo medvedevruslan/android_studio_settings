@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Bt Scan Lollipop And Auto Gatt Listener" />
+      <item value="Fild" />
       <item value="on Bluetooth Closed" />
       <item value="on Ble Version Got" />
       <item value="on Bind Success" />
@@ -19,7 +21,6 @@
       <item value="SCALE NAME" />
       <item value="Body Fat-B1" />
       <item value="contains" />
-      <item value="Fild" />
       <item value="This class is a Parcelable wrapper around {@link UUID} which is an immutable representation of a 128-bit universally unique identifier." />
       <item value="on Batch Scan Results" />
       <item value="Firmware Ver" />
@@ -54,7 +55,6 @@
       <item value="BluetoothAdapter not initialized" />
       <item value="After using a given device, you should make sure that BluetoothGatt.close() is called such that resources are cleaned up properly. In this particular example, close() is invoked when the UI is disconnected from the Service." />
       <item value="make Gatt Update Intent Filter" />
-      <item value="Link the ListView (superclass) to the expandable list data through the connector" />
     </histories>
     <option name="languageScores">
       <map>
