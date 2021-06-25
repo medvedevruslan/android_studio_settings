@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="delay Disconnect And Stop Scan" />
+      <item value="app Backgrounded" />
+      <item value="appBackgrounded appBackgrounded" />
+      <item value="is Foreground" />
+      <item value="instance" />
       <item value="Listener" />
       <item value="start Conn Heartbeat" />
       <item value="on Descriptor Write" />
@@ -50,11 +55,6 @@
       <item value="If a given GATT characteristic is selected, check for supported features. This sample demonstrates 'Read' and 'Notify' features. See http:d.android.comreferenceandroidbluetoothBluetoothGatt.html for the complete list of supported characteristic features." />
       <item value="Retrieves a list of supported GATT services on the connected device. This should be invoked only after {@code BluetoothGattdiscoverServices()} completes successfully." />
       <item value="This is specific to Heart Rate Measurement." />
-      <item value="If true, enable notification. False otherwise" />
-      <item value="Characteristic to act on" />
-      <item value="Enables or disables notification on a give characteristic." />
-      <item value="The characteristic to read from." />
-      <item value="Request a read on a given {@code BluetoothGattCharacteristic}. The read result is reported asynchronously through the {@code BluetoothGattCallbackonCharacteristicRead(android.bluetooth.BluetoothGatt, android.bluetooth.BluetoothGattCharacteristic, int)} callback." />
     </histories>
     <option name="languageScores">
       <map>
