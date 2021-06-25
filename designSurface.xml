@@ -6,6 +6,9 @@
         <entry key="LocalBinder_startandroid_98/src/main/res/layout/activity_main.xml" value="0.5083333333333333" />
         <entry key="StartAndroid_98_localBinder_1/src/main/res/layout/activity_main.xml" value="0.5914855072463768" />
         <entry key="app/handler_startandroid_84/src/main/res/layout/activity_main.xml" value="0.24722222222222223" />
+        <entry key="app/src/main/res/layout-v26/abc_screen_toolbar.xml" value="0.4953125" />
+        <entry key="app/src/main/res/layout-watch-v20/abc_alert_dialog_button_bar_material.xml" value="0.4953125" />
+        <entry key="app/src/main/res/layout-watch-v20/abc_alert_dialog_title_material.xml" value="0.4953125" />
         <entry key="app/src/main/res/layout/abc_action_bar_title_item.xml" value="0.825" />
         <entry key="app/src/main/res/layout/abc_action_bar_up_container.xml" value="0.825" />
         <entry key="app/src/main/res/layout/abc_action_menu_item_layout.xml" value="0.825" />
@@ -34,11 +37,13 @@
         <entry key="app/src/main/res/layout/activity_navigation.xml" value="0.825" />
         <entry key="app/src/main/res/layout/activity_note.xml" value="0.825" />
         <entry key="app/src/main/res/layout/activity_notification.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/activity_picture.xml" value="0.4953125" />
         <entry key="app/src/main/res/layout/activity_profile.xml" value="0.825" />
         <entry key="app/src/main/res/layout/activity_profile_conditions.xml" value="0.825" />
         <entry key="app/src/main/res/layout/activity_sync.xml" value="0.825" />
         <entry key="app/src/main/res/layout/browser_actions_context_menu_page.xml" value="0.825" />
         <entry key="app/src/main/res/layout/browser_actions_context_menu_row.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/change_theme_color_activity.xml" value="0.4953125" />
         <entry key="app/src/main/res/layout/design_bottom_sheet_dialog.xml" value="0.825" />
         <entry key="app/src/main/res/layout/design_layout_snackbar.xml" value="0.825" />
         <entry key="app/src/main/res/layout/design_layout_snackbar_include.xml" value="0.825" />
