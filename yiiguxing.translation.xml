@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Listener" />
       <item value="start Conn Heartbeat" />
       <item value="on Descriptor Write" />
       <item value="get Scan Timeout" />
@@ -54,7 +55,6 @@
       <item value="Enables or disables notification on a give characteristic." />
       <item value="The characteristic to read from." />
       <item value="Request a read on a given {@code BluetoothGattCharacteristic}. The read result is reported asynchronously through the {@code BluetoothGattCallbackonCharacteristicRead(android.bluetooth.BluetoothGatt, android.bluetooth.BluetoothGattCharacteristic, int)} callback." />
-      <item value="After using a given BLE device, the app must call this method to ensure resources are released properly." />
     </histories>
     <option name="languageScores">
       <map>
