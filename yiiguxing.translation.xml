@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="on Descriptor Write" />
+      <item value="get Scan Timeout" />
       <item value="found target device" />
       <item value="Bt Scan Lollipop And Auto Gatt Listener" />
       <item value="Fild" />
@@ -53,8 +55,6 @@
       <item value="Request a read on a given {@code BluetoothGattCharacteristic}. The read result is reported asynchronously through the {@code BluetoothGattCallbackonCharacteristicRead(android.bluetooth.BluetoothGatt, android.bluetooth.BluetoothGattCharacteristic, int)} callback." />
       <item value="After using a given BLE device, the app must call this method to ensure resources are released properly." />
       <item value="Disconnects an existing connection or cancel a pending connection. The disconnection result is reported asynchronously through the {@code BluetoothGattCallbackonConnectionStateChange(android.bluetooth.BluetoothGatt, int, int)} callback." />
-      <item value="BluetoothAdapter not initialized" />
-      <item value="After using a given device, you should make sure that BluetoothGatt.close() is called such that resources are cleaned up properly. In this particular example, close() is invoked when the UI is disconnected from the Service." />
     </histories>
     <option name="languageScores">
       <map>
