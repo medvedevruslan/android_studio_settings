@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="connect device timeout. do restart device bluetooth" />
+      <item value="Write" />
       <item value="&quot;do delayDisconnectAndStopScan&quot;" />
       <item value="current Time Millis" />
       <item value="data Mutual Thread" />
@@ -53,8 +55,6 @@
       <item value="thread Seconder" />
       <item value="Runnable" />
       <item value="lower Case" />
-      <item value="is already connected devices.don't do scan operate." />
-      <item value="is already connected devices.don't do scan operate" />
     </histories>
     <option name="languageScores">
       <map>
