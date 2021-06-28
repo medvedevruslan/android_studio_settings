@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="上傳測試" />
       <item value="get Mainscreen" />
       <item value="Add Member Action Request" />
       <item value="send Edit Birth Profile" />
@@ -54,7 +55,6 @@
       <item value="I Blue Tooth Message Call Back" />
       <item value="Abstract Device Data Handle" />
       <item value="device Address Bytes" />
-      <item value="Trigger a callback for every Bluetooth advertisement found that matches the filter criteria. If no filter is active, all advertisement packets are reported." />
     </histories>
     <option name="languageScores">
       <map>
