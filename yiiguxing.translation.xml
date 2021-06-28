@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Listener Bluetooth State" />
       <item value="connect device timeout. do restart device bluetooth" />
       <item value="Write" />
       <item value="&quot;do delayDisconnectAndStopScan&quot;" />
@@ -54,7 +55,6 @@
       <item value="PatchStore::createDisableExceptionQarthFile method fail." />
       <item value="thread Seconder" />
       <item value="Runnable" />
-      <item value="lower Case" />
     </histories>
     <option name="languageScores">
       <map>
