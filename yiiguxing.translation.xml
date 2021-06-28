@@ -5,9 +5,14 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Mainscreen" />
+      <item value="Add Member Action Request" />
+      <item value="send Edit Birth Profile" />
+      <item value="send Add Temperature" />
+      <item value="send Add Temperature Remind" />
+      <item value="send Mail Share Temperature" />
       <item value="add Log Event" />
       <item value="Share Temperature" />
-      <item value="send Add Temperature" />
       <item value="Fat Result" />
       <item value="Scan Result Callback" />
       <item value="Firmware Upgrade Callback" />
@@ -50,11 +55,6 @@
       <item value="Abstract Device Data Handle" />
       <item value="device Address Bytes" />
       <item value="Trigger a callback for every Bluetooth advertisement found that matches the filter criteria. If no filter is active, all advertisement packets are reported." />
-      <item value="ch 100" />
-      <item value="SCALE NAME" />
-      <item value="Body Fat-B1" />
-      <item value="contains" />
-      <item value="This class is a Parcelable wrapper around {@link UUID} which is an immutable representation of a 128-bit universally unique identifier." />
     </histories>
     <option name="languageScores">
       <map>
