@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Fat Result" />
+      <item value="Scan Result Callback" />
+      <item value="Firmware Upgrade Callback" />
+      <item value="Weight Data Handle" />
       <item value="operate" />
       <item value="status is not 0. do close operate" />
       <item value="On Device Bind Found Listener" />
@@ -51,10 +55,6 @@
       <item value="on Batch Scan Results" />
       <item value="Firmware Ver" />
       <item value="bleFirmwareVer is" />
-      <item value="request Firmware Version" />
-      <item value="Lollipop" />
-      <item value="is Enabled" />
-      <item value="&quot;begin to scan bluetooth devices." />
     </histories>
     <option name="languageScores">
       <map>
