@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="do releaseDevice for huaweihealth sdk" />
       <item value="set Listener Bluetooth State" />
       <item value="is Listenered Ble State" />
       <item value="delay Disconnect And Stop Scan" />
@@ -54,7 +55,6 @@
       <item value="&quot;begin to scan bluetooth devices..." />
       <item value="missing udev rules? user is in the plugdev group" />
       <item value="PatchStore::createDisableExceptionQarthFile method fail." />
-      <item value="thread Seconder" />
     </histories>
     <option name="languageScores">
       <map>
