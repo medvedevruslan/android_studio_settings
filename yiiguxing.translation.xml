@@ -5,8 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="is Listenered Ble State" />
       <item value="set Listener Bluetooth State" />
+      <item value="is Listenered Ble State" />
       <item value="delay Disconnect And Stop Scan" />
       <item value="connect device timeout. do restart device bluetooth" />
       <item value="Write" />
