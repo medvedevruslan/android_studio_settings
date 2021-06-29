@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="on Touch Event" />
+      <item value="set Overview Bt Touch Listener" />
+      <item value="JADX WARNING: Removed duplicated region for block: B:17:0x0068" />
       <item value="On Get Add BT Data Listener" />
       <item value="On Get Edit Bt Data Listener" />
       <item value="overview bt bottom sheet" />
@@ -52,9 +55,6 @@
       <item value="connect device timeout. do restart device bluetooth" />
       <item value="Write" />
       <item value="&quot;do delayDisconnectAndStopScan&quot;" />
-      <item value="current Time Millis" />
-      <item value="data Mutual Thread" />
-      <item value="connect Timeout Thread" />
     </histories>
     <option name="languageScores">
       <map>
