@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ambient Temperature" />
+      <item value="measure Temperature" />
       <item value="aka" />
       <item value="請輸入完整資訊" />
       <item value="add Member Action Request" />
@@ -53,8 +55,6 @@
       <item value="on Ble Version Got" />
       <item value="on Bind Success" />
       <item value="on Auth Success" />
-      <item value="on Auth Failed" />
-      <item value="scale" />
     </histories>
     <option name="languageScores">
       <map>
