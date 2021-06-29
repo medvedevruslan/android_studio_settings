@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Over View Weight Fragment" />
       <item value="last chart cc" />
       <item value="Over View Fragment" />
       <item value="Log.d(TAG, &quot;----janet0917 OverViewFragment.commit()&quot;);" />
@@ -54,7 +55,6 @@
       <item value="remove Callbacks" />
       <item value="Foreground" />
       <item value="app Backgrounded" />
-      <item value="appBackgrounded cancel, app is Foreground." />
     </histories>
     <option name="languageScores">
       <map>
