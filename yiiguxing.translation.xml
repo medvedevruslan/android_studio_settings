@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="overview body temperature" />
+      <item value="BT Factory" />
       <item value="ambient Temperature" />
       <item value="measure Temperature" />
       <item value="aka" />
@@ -53,8 +55,6 @@
       <item value="Fild" />
       <item value="on Bluetooth Closed" />
       <item value="on Ble Version Got" />
-      <item value="on Bind Success" />
-      <item value="on Auth Success" />
     </histories>
     <option name="languageScores">
       <map>
