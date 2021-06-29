@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="main line view" />
+      <item value="main overview frame" />
+      <item value="main reminder frame" />
+      <item value="check Access Token" />
+      <item value="get Member Data Response" />
       <item value="overview body temperature" />
       <item value="BT Factory" />
       <item value="ambient Temperature" />
@@ -50,11 +55,6 @@
       <item value="start Conn Heartbeat" />
       <item value="on Descriptor Write" />
       <item value="get Scan Timeout" />
-      <item value="found target device" />
-      <item value="Bt Scan Lollipop And Auto Gatt Listener" />
-      <item value="Fild" />
-      <item value="on Bluetooth Closed" />
-      <item value="on Ble Version Got" />
     </histories>
     <option name="languageScores">
       <map>
