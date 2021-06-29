@@ -5,8 +5,12 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="janet0917 OverViewFragment.commit()" />
+      <item value="last chart cc" />
+      <item value="Over View Fragment" />
+      <item value="Log.d(TAG, &quot;----janet0917 OverViewFragment.commit()&quot;);" />
       <item value="hide Current Fragment" />
+      <item value="send User Info To Scale" />
+      <item value="janet0917 OverViewFragment.commit()" />
       <item value="re Set Bottom" />
       <item value="main line view" />
       <item value="main overview frame" />
@@ -51,10 +55,6 @@
       <item value="Foreground" />
       <item value="app Backgrounded" />
       <item value="appBackgrounded cancel, app is Foreground." />
-      <item value="is Foreground" />
-      <item value="appBackgrounded appBackgrounded" />
-      <item value="instance" />
-      <item value="Listener" />
     </histories>
     <option name="languageScores">
       <map>

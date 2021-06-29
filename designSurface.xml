@@ -55,6 +55,7 @@
         <entry key="app/src/main/res/layout/listitem_device.xml" value="0.4953125" />
         <entry key="app/src/main/res/layout/notification_template_part_chronometer.xml" value="0.825" />
         <entry key="app/src/main/res/layout/notification_template_part_time.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/overview_bpm_bottom_sheet.xml" value="0.825" />
         <entry key="app/src/main/res/layout/window_overview_list.xml" value="0.825" />
         <entry key="app/src/main/res/layout/window_progress.xml" value="0.825" />
         <entry key="expandablelistview_klimov/src/main/res/layout/activity_main.xml" value="0.38699146157709696" />
