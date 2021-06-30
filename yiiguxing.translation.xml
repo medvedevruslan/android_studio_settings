@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="write Logto File" />
+      <item value="bondedBTReceiver binding" />
+      <item value="bondedBTReceiver can't bind" />
       <item value="Can't fix incorrect switch cases order, some code will duplicate" />
       <item value="data Result" />
       <item value="on Write Message" />
@@ -52,9 +55,6 @@
       <item value="aka" />
       <item value="請輸入完整資訊" />
       <item value="add Member Action Request" />
-      <item value="上傳測試" />
-      <item value="get Mainscreen" />
-      <item value="Add Member Action Request" />
     </histories>
     <option name="languageScores">
       <map>
