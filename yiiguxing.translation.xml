@@ -5,6 +5,12 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="bond" />
+      <item value="bond Mac Address" />
+      <item value="UPLOAD MEASURE DATA" />
+      <item value="build Cmd String For Thermo" />
+      <item value="REPLY" />
+      <item value="Utils" />
       <item value="Time Out" />
       <item value="連線時間" />
       <item value="連線時間Time Out" />
@@ -49,12 +55,6 @@
       <item value="send Edit Birth Profile" />
       <item value="send Add Temperature" />
       <item value="send Add Temperature Remind" />
-      <item value="send Mail Share Temperature" />
-      <item value="add Log Event" />
-      <item value="Share Temperature" />
-      <item value="Fat Result" />
-      <item value="Scan Result Callback" />
-      <item value="Firmware Upgrade Callback" />
     </histories>
     <option name="languageScores">
       <map>
