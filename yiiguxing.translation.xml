@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Time Out" />
+      <item value="連線時間" />
+      <item value="連線時間Time Out" />
+      <item value="LOOP" />
+      <item value="SCAN LOOP" />
+      <item value="bluetooth communications result." />
+      <item value="bluetooth scan success." />
       <item value="Bluetooth LE Utils" />
       <item value="BluetoothGatt 操作類" />
       <item value="Write" />
@@ -48,13 +55,6 @@
       <item value="Fat Result" />
       <item value="Scan Result Callback" />
       <item value="Firmware Upgrade Callback" />
-      <item value="Weight Data Handle" />
-      <item value="operate" />
-      <item value="status is not 0. do close operate" />
-      <item value="On Device Bind Found Listener" />
-      <item value="do releaseDevice for huaweihealth sdk" />
-      <item value="set Listener Bluetooth State" />
-      <item value="is Listenered Ble State" />
     </histories>
     <option name="languageScores">
       <map>
