@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="split" />
+      <item value="upper Case" />
+      <item value="data Result" />
       <item value="connect" />
       <item value="connection Status" />
       <item value="Fuel" />
@@ -14,7 +17,6 @@
       <item value="bondedBTReceiver binding" />
       <item value="bondedBTReceiver can't bind" />
       <item value="Can't fix incorrect switch cases order, some code will duplicate" />
-      <item value="data Result" />
       <item value="on Write Message" />
       <item value="bond" />
       <item value="bond Mac Address" />
@@ -53,8 +55,6 @@
       <item value="main overview frame" />
       <item value="main reminder frame" />
       <item value="check Access Token" />
-      <item value="get Member Data Response" />
-      <item value="overview body temperature" />
     </histories>
     <option name="languageScores">
       <map>
