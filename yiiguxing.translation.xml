@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="remote Device" />
+      <item value="BOND STATE CHANGED" />
+      <item value="is Support Bluetooth" />
       <item value="get Instance" />
       <item value="Connect Timeout" />
       <item value="Connect State" />
@@ -52,9 +55,6 @@
       <item value="last chart cc" />
       <item value="Over View Fragment" />
       <item value="Log.d(TAG, &quot;----janet0917 OverViewFragment.commit()&quot;);" />
-      <item value="hide Current Fragment" />
-      <item value="send User Info To Scale" />
-      <item value="janet0917 OverViewFragment.commit()" />
     </histories>
     <option name="languageScores">
       <map>
