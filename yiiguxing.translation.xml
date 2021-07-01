@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="m On Notify State Listener" />
       <item value="split" />
       <item value="upper Case" />
       <item value="data Result" />
@@ -54,7 +55,6 @@
       <item value="main line view" />
       <item value="main overview frame" />
       <item value="main reminder frame" />
-      <item value="check Access Token" />
     </histories>
     <option name="languageScores">
       <map>
