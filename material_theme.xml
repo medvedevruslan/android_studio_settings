@@ -2,8 +2,8 @@
   <component name="MaterialThemeConfig">
     <option name="allowDataCollection" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="accentColor" value="63a9f1" />
-    <option name="selectedTheme" value="NATIVE" />
+    <option name="accentColor" value="ff9800" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="-2e4c0d55:1776b673f8c:-8000" />
     <option name="version" value="5.2.0" />
   </component>
