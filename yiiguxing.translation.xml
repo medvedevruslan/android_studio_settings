@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="On Connect State Listener" />
       <item value="write Logto File" />
       <item value="bondedBTReceiver binding" />
       <item value="bondedBTReceiver can't bind" />
@@ -54,7 +55,6 @@
       <item value="measure Temperature" />
       <item value="aka" />
       <item value="請輸入完整資訊" />
-      <item value="add Member Action Request" />
     </histories>
     <option name="languageScores">
       <map>
