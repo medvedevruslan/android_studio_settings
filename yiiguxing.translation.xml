@@ -5,11 +5,14 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Remote Device" />
+      <item value="remote Device" />
+      <item value="Receiver" />
+      <item value="bond" />
       <item value="MY UUID NOTIFY" />
       <item value="MY UUID WRITE" />
       <item value="bondedBTReceiver BOND_NONE" />
       <item value="bondedBTReceiver BOND_NON" />
-      <item value="remote Device" />
       <item value="BOND STATE CHANGED" />
       <item value="is Support Bluetooth" />
       <item value="get Instance" />
@@ -30,7 +33,6 @@
       <item value="bondedBTReceiver can't bind" />
       <item value="Can't fix incorrect switch cases order, some code will duplicate" />
       <item value="on Write Message" />
-      <item value="bond" />
       <item value="bond Mac Address" />
       <item value="UPLOAD MEASURE DATA" />
       <item value="build Cmd String For Thermo" />
@@ -53,8 +55,6 @@
       <item value="On Get Add BT Data Listener" />
       <item value="On Get Edit Bt Data Listener" />
       <item value="overview bt bottom sheet" />
-      <item value="show Record Date" />
-      <item value="BT Factory" />
     </histories>
     <option name="languageScores">
       <map>
