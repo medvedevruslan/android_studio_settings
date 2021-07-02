@@ -1,66 +1,70 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="596" />
+    <option name="newTranslationDialogX" value="708" />
+    <option name="newTranslationDialogY" value="973" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="This device has no Bluetooth hardware" />
-      <item value="check Permissions" />
-      <item value="REQUEST ENABLE" />
-      <item value="android.bluetooth.adapter.action.REQUEST ENABLE&quot;" />
-      <item value="is Bluetooth Enabled" />
-      <item value="glucose Data Receiver" />
-      <item value="weight Data Receiver" />
-      <item value="pulse Ox Data Receiver" />
-      <item value="heart Rate Data Receiver" />
-      <item value="temperature Data Receiver" />
-      <item value="location Service State Receiver" />
-      <item value="blood Pressure Data Receiver" />
-      <item value="Location Manager" />
-      <item value="MODE CHANGED ACTION" />
-      <item value="register Receiver" />
-      <item value="registerReceiver(locationServiceStateReceiver, new IntentFilter((LocationManager.MODE_CHANGED_ACTION))); registerReceiver(bloodPressureDataReceiver, new IntentFilter( BluetoothHandler.MEASUREMENT_BLOODPRESSURE )); registerReceiver(temperatureDataReceiver, new IntentFilter( BluetoothHandler.MEASUREMENT_TEMPERATURE )); registerReceiver(heartRateDataReceiver, new IntentFilter( BluetoothHandler.MEASUREMENT_HEARTRATE )); registerReceiver(pulseOxDataReceiver, new IntentFilter( BluetoothHandler.MEASUREMENT_PULSE_OX )); registerReceiver(weightDataReceiver, new IntentFilter(BluetoothHandler.MEASUREMENT_WEIGHT)); registerReceiver(glucoseDataReceiver, new IntentFilter(BluetoothHandler.MEASUREMENT_GLUCOSE));" />
-      <item value="blood Pressure Value" />
-      <item value="REQUEST ENABLE BT" />
-      <item value="ACCESS LOCATION REQUEST" />
-      <item value="This class includes a small subset of standard GATT attributes for demonstration purposes." />
-      <item value="Use this check to determine whether BLE is supported on the device. Then you can selectively disable BLE-related features." />
-      <item value="Activity for scanning and displaying available Bluetooth LE devices." />
-      <item value="Ensures Bluetooth is enabled on the device. If Bluetooth is not currently enabled, fire an intent to display a dialog asking the user to grant permission to enable it. if (!mBluetoothAdapter.isEnabled()) {" />
-      <item value="Initializes a Bluetooth adapter. For API level 18 and above, get a reference to BluetoothAdapter through BluetoothManager." />
-      <item value="Device scan callback." />
-      <item value="Stops scanning after a pre-defined scan period." />
-      <item value="actionbar indeterminate progress" />
-      <item value="set Action View" />
-      <item value="Ensures Bluetooth is enabled on the device. If Bluetooth is not currently enabled, fire an intent to display a dialog asking the user to grant permission to enable it." />
-      <item value="access modifiers changed from: private" />
-      <item value="Use this check to determine whether BLE is supported on the device. Then you can selectively disable BLE-related features" />
-      <item value="A {@code Method} provides information about, and access to, a single method on a class or interface. The reflected method may be a class method or an instance method (including an abstract method). &lt;p&gt;A {@code Method} permits widening conversions to occur when matching the actual parameters to invoke with the underlying method's formal parameters, but it throws an {@code IllegalArgumentException} if a narrowing conversion would occur." />
-      <item value="Discovered LE Device" />
-      <item value="No Application available to view File" />
-      <item value="java.lang.IllegalStateException: You need to use a Theme.AppCompat theme (or descendant) with this activity." />
-      <item value="exist" />
-      <item value="NOTE: Do not place your application dependencies here; they belong in the individual module build.gradle files" />
-      <item value="Top-level build file where you can add configuration options common to all sub-projectsmodules." />
-      <item value="Manifest merger failed with multiple errors, see logs" />
-      <item value="Crypt" />
-      <item value="External storage is not available" />
-      <item value="External storage is not writable" />
-      <item value="mounted" />
-      <item value="@param type The type of files directory to return. May be {@code null} for the root of the files directory or one of the following constants for a subdirectory: {@link android.os.EnvironmentDIRECTORY_MUSIC}, {@link android.os.EnvironmentDIRECTORY_PODCASTS}, {@link android.os.EnvironmentDIRECTORY_RINGTONES}, {@link android.os.EnvironmentDIRECTORY_ALARMS}, {@link android.os.EnvironmentDIRECTORY_NOTIFICATIONS}, {@link android.os.EnvironmentDIRECTORY_PICTURES}, or {@link android.os.EnvironmentDIRECTORY_MOVIES}. @return the absolute path to application-specific directory. May return" />
-      <item value="Returns the absolute path to the directory on the primary sharedexternal storage device where the application can place persistent files it owns. These files are internal to the applications, and not typically visible to the user as media. &lt;p&gt; This is like {@link getFilesDir()} in that these files will be deleted when the application is uninstalled, however there are some important differences: &lt;ul&gt; &lt;li&gt;Shared storage may not always be available, since removable media can be ejected by the user. Media state can be checked using {@link EnvironmentgetExternalStorageState(File)}. &lt;li&gt;There is no security enforced with these files. For example, any application holding {@link android.Manifest.permissionWRITE_EXTERNAL_STORAGE} can write to these files. &lt;ul&gt; &lt;p&gt; If a shared storage device is emulated (as determined by {@link EnvironmentisExternalStorageEmulated(File)}), it's contents are backed by a private user data partition, which means there is little benefit to storing data here instead of the private directories returned by {@link getFilesDir()}, etc. &lt;p&gt; Starting in {@link android.os.Build.VERSION_CODESKITKAT}, no permissions are required to read or write to the returned path; it's always accessible to the calling app. This only applies to paths generate" />
-      <item value="Returns the absolute path to the directory on the primary sharedexternal storage device where the application can place persistent files it owns. These files are internal to the applications, and not typically visible to the user as media. &lt;p&gt; This is like {@link getFilesDir()} in that these files will be deleted when the application is uninstalled, however there are some important differences: &lt;ul&gt; &lt;li&gt;Shared storage may not always be available, since removable media can be ejected by the user. Media state can be checked using {@link EnvironmentgetExternalStorageState(File)}. &lt;li&gt;There is no security enforced with these files. For example, any application holding" />
-      <item value="Returns absolute paths to application-specific directories on all sharedexternal storage devices where the application can place persistent files it owns. These files are internal to the application, and not typically visible to the user as media. &lt;p&gt; This is like {@link getFilesDir()} in that these files will be deleted when the application is uninstalled, however there are some important differences: &lt;ul&gt; &lt;li&gt;Shared storage may not always be available, since removable media can be ejected by the user. Media state can be checked using {@link EnvironmentgetExternalStorageState(File)}. &lt;li&gt;There is no security enforced with these files. For example, any application holding {@link android.Manifest.permissionWRITE_EXTERNAL_STORAGE} can write to these files. &lt;ul&gt; &lt;p&gt; If a shared storage device is emulated (as determined by {@link EnvironmentisExternalStorageEmulated(File)}), it's contents are backed by a private user data partition, which means there is little benefit to storing data here instead of the private directories returned by {@link getFilesDir()}, etc." />
-      <item value="Builder" />
-      <item value="Storage" />
-      <item value="KEY LAST UPDATED TIME STRING" />
+      <item value="get Remote Device" />
+      <item value="remote Device" />
+      <item value="Receiver" />
+      <item value="bond" />
+      <item value="MY UUID NOTIFY" />
+      <item value="MY UUID WRITE" />
+      <item value="bondedBTReceiver BOND_NONE" />
+      <item value="bondedBTReceiver BOND_NON" />
+      <item value="BOND STATE CHANGED" />
+      <item value="is Support Bluetooth" />
+      <item value="get Instance" />
+      <item value="Connect Timeout" />
+      <item value="Connect State" />
+      <item value="receive Error Count" />
+      <item value="m On Notify State Listener" />
+      <item value="split" />
+      <item value="upper Case" />
+      <item value="data Result" />
+      <item value="connect" />
+      <item value="connection Status" />
+      <item value="Fuel" />
+      <item value="on Connect State Listener" />
+      <item value="On Connect State Listener" />
+      <item value="write Logto File" />
+      <item value="bondedBTReceiver binding" />
+      <item value="bondedBTReceiver can't bind" />
+      <item value="Can't fix incorrect switch cases order, some code will duplicate" />
+      <item value="on Write Message" />
+      <item value="bond Mac Address" />
+      <item value="UPLOAD MEASURE DATA" />
+      <item value="build Cmd String For Thermo" />
+      <item value="REPLY" />
+      <item value="Utils" />
+      <item value="Time Out" />
+      <item value="連線時間" />
+      <item value="連線時間Time Out" />
+      <item value="LOOP" />
+      <item value="SCAN LOOP" />
+      <item value="bluetooth communications result." />
+      <item value="bluetooth scan success." />
+      <item value="Bluetooth LE Utils" />
+      <item value="BluetoothGatt 操作類" />
+      <item value="Write" />
+      <item value="Write Thread" />
+      <item value="on Touch Event" />
+      <item value="set Overview Bt Touch Listener" />
+      <item value="JADX WARNING: Removed duplicated region for block: B:17:0x0068" />
+      <item value="On Get Add BT Data Listener" />
+      <item value="On Get Edit Bt Data Listener" />
+      <item value="overview bt bottom sheet" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="119" />
-        <entry key="RUSSIAN" value="118" />
+        <entry key="ENGLISH" value="198" />
+        <entry key="RUSSIAN" value="197" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1617253699672" />
+    <option name="lastTrimTime" value="1624857187828" />
   </component>
 </application>
