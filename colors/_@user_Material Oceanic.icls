@@ -4,12 +4,12 @@
     <property name="created">2021-02-04T08:23:29</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.1.2.0</property>
-    <property name="modified">2021-06-22T15:21:16</property>
+    <property name="modified">2021-07-02T22:33:23</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
-    <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="16" />
   </font>
   <font>
