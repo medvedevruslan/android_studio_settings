@@ -1,6 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="Kotlin/Introduce import alias" />
-    <ignoreAction name="Kotlin Android/Add activity to manifest" />
-  </component>
-</application>
