@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="extract Services" />
+      <item value="advertise" />
+      <item value="append" />
+      <item value="Bt Man" />
       <item value="ADV DATA FLAG" />
       <item value="Scheduled Thread Pool Executor" />
       <item value="ADV_16_BIT UUID FINISH" />
@@ -51,10 +55,6 @@
       <item value="Utils" />
       <item value="Time Out" />
       <item value="連線時間" />
-      <item value="連線時間Time Out" />
-      <item value="LOOP" />
-      <item value="SCAN LOOP" />
-      <item value="bluetooth communications result." />
     </histories>
     <option name="languageScores">
       <map>
