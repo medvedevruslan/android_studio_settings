@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="on Connection Attempt" />
       <item value="ordinal" />
       <item value="Log Monitor" />
       <item value="'' is not a valid file-based resource name character: File-based resource names must contain only lowercase a-z, 0-9, or underscore" />
@@ -54,7 +55,6 @@
       <item value="BluetoothGatt 操作類" />
       <item value="Write" />
       <item value="Write Thread" />
-      <item value="on Touch Event" />
     </histories>
     <option name="languageScores">
       <map>
