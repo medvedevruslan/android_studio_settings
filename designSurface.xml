@@ -53,6 +53,7 @@
         <entry key="app/src/main/res/layout/fragment_contact_edit.xml" value="0.825" />
         <entry key="app/src/main/res/layout/gatt_services_characteristics.xml" value="0.4953125" />
         <entry key="app/src/main/res/layout/listitem_device.xml" value="0.4953125" />
+        <entry key="app/src/main/res/layout/main_screen.xml" value="0.8546875" />
         <entry key="app/src/main/res/layout/notification_template_part_chronometer.xml" value="0.825" />
         <entry key="app/src/main/res/layout/notification_template_part_time.xml" value="0.825" />
         <entry key="app/src/main/res/layout/overview_bpm_bottom_sheet.xml" value="0.825" />
