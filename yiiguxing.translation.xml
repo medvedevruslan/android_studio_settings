@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="LOCATION SOURCE SETTINGS" />
+      <item value="request Location Services" />
       <item value="get Remote Device" />
       <item value="remote Device" />
       <item value="Receiver" />
@@ -53,8 +55,6 @@
       <item value="set Overview Bt Touch Listener" />
       <item value="JADX WARNING: Removed duplicated region for block: B:17:0x0068" />
       <item value="On Get Add BT Data Listener" />
-      <item value="On Get Edit Bt Data Listener" />
-      <item value="overview bt bottom sheet" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624857187828" />
+    <option name="lastTrimTime" value="1625475158643" />
   </component>
 </application>
