@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="'' is not a valid file-based resource name character: File-based resource names must contain only lowercase a-z, 0-9, or underscore" />
       <item value="LOCATION SOURCE SETTINGS" />
       <item value="request Location Services" />
       <item value="get Remote Device" />
@@ -54,7 +55,6 @@
       <item value="on Touch Event" />
       <item value="set Overview Bt Touch Listener" />
       <item value="JADX WARNING: Removed duplicated region for block: B:17:0x0068" />
-      <item value="On Get Add BT Data Listener" />
     </histories>
     <option name="languageScores">
       <map>
