@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ADV DATA FLAG" />
       <item value="Scheduled Thread Pool Executor" />
       <item value="ADV_16_BIT UUID FINISH" />
       <item value="Discovery" />
@@ -54,7 +55,6 @@
       <item value="LOOP" />
       <item value="SCAN LOOP" />
       <item value="bluetooth communications result." />
-      <item value="bluetooth scan success." />
     </histories>
     <option name="languageScores">
       <map>
