@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Scheduled Thread Pool Executor" />
+      <item value="ADV_16_BIT UUID FINISH" />
+      <item value="Discovery" />
+      <item value="m b Is Attempt Active" />
       <item value="on Connection Attempt" />
       <item value="ordinal" />
       <item value="Log Monitor" />
@@ -51,10 +55,6 @@
       <item value="SCAN LOOP" />
       <item value="bluetooth communications result." />
       <item value="bluetooth scan success." />
-      <item value="Bluetooth LE Utils" />
-      <item value="BluetoothGatt 操作類" />
-      <item value="Write" />
-      <item value="Write Thread" />
     </histories>
     <option name="languageScores">
       <map>
