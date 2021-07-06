@@ -47,6 +47,7 @@
         <entry key="app/src/main/res/layout/activity_about_device.xml" value="0.825" />
         <entry key="app/src/main/res/layout/activity_add_reminder.xml" value="0.825" />
         <entry key="app/src/main/res/layout/activity_base.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/activity_blinky.xml" value="0.7672101449275363" />
         <entry key="app/src/main/res/layout/activity_contact_management.xml" value="0.825" />
         <entry key="app/src/main/res/layout/activity_device.xml" value="0.825" />
         <entry key="app/src/main/res/layout/activity_device_a.xml" value="0.825" />
@@ -62,6 +63,7 @@
         <entry key="app/src/main/res/layout/activity_picture.xml" value="0.4953125" />
         <entry key="app/src/main/res/layout/activity_profile.xml" value="0.825" />
         <entry key="app/src/main/res/layout/activity_profile_conditions.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/activity_scanner.xml" value="0.7672101449275363" />
         <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.5973731884057971" />
         <entry key="app/src/main/res/layout/activity_sync.xml" value="0.825" />
         <entry key="app/src/main/res/layout/browser_actions_context_menu_page.xml" value="0.8546875" />
@@ -75,6 +77,7 @@
         <entry key="app/src/main/res/layout/design_layout_snackbar_include.xml" value="0.825" />
         <entry key="app/src/main/res/layout/design_layout_tab_icon.xml" value="0.825" />
         <entry key="app/src/main/res/layout/device_credential_handler_activity.xml" value="0.8546875" />
+        <entry key="app/src/main/res/layout/device_item.xml" value="0.7672101449275363" />
         <entry key="app/src/main/res/layout/fingerprint_dialog_layout.xml" value="0.8546875" />
         <entry key="app/src/main/res/layout/fragment_add_reminder.xml" value="0.825" />
         <entry key="app/src/main/res/layout/fragment_contact_delete.xml" value="0.825" />

@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="on Request Permissions Result" />
       <item value="Screen" />
       <item value="Splash" />
       <item value="Splash Screen Activity" />
@@ -54,7 +55,6 @@
       <item value="Can't fix incorrect switch cases order, some code will duplicate" />
       <item value="on Write Message" />
       <item value="bond Mac Address" />
-      <item value="UPLOAD MEASURE DATA" />
     </histories>
     <option name="languageScores">
       <map>
