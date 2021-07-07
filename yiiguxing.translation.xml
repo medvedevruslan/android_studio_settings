@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Characteristic supports notification" />
+      <item value="notification" />
+      <item value="Characteristic is broadcastable." />
+      <item value="Characteristic property: Characteristic supports notification" />
+      <item value="PROPERTY READ" />
       <item value="Appearance" />
       <item value="on Request Permissions Result" />
       <item value="Screen" />
@@ -50,11 +55,6 @@
       <item value="Fuel" />
       <item value="on Connect State Listener" />
       <item value="On Connect State Listener" />
-      <item value="write Logto File" />
-      <item value="bondedBTReceiver binding" />
-      <item value="bondedBTReceiver can't bind" />
-      <item value="Can't fix incorrect switch cases order, some code will duplicate" />
-      <item value="on Write Message" />
     </histories>
     <option name="languageScores">
       <map>
