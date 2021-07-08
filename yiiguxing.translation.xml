@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Writes the given data to the characteristic. The write type is taken from the characteristic. &lt;p&gt; Use {@link WriteRequestsplit() split()} or {@link WriteRequestsplit(DataSplitter) split(DataSplitter)} on the returned {@link WriteRequest} if data should be automatically split into multiple packets. If the characteristic is null, the {@link Requestfail(FailCallback) fail(FailCallback)} callback will be called. &lt;p&gt; The returned request must be either enqueued using {@link Requestenqueue()} for asynchronous use, or awaited using await() in synchronous execution. @param characteristic the characteristic to write to. @param data data to be written to the characteristic. @return The request." />
+      <item value="If the data received are valid (single byte equal to 0x00 or 0x01), the {@link BlinkyButtonDataCallbackonButtonStateChanged} will be called. Otherwise, the {@link BlinkyButtonDataCallbackonInvalidDataReceived(BluetoothDevice, Data)} will be called with the data received." />
       <item value="Surface" />
       <item value="ACTION DATA AVAILABLE" />
       <item value="GATT SUCCESS" />
@@ -53,8 +55,6 @@
       <item value="Connect Timeout" />
       <item value="Connect State" />
       <item value="receive Error Count" />
-      <item value="m On Notify State Listener" />
-      <item value="split" />
     </histories>
     <option name="languageScores">
       <map>
