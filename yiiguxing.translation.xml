@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="GATT SUCCESS" />
       <item value="ACTION DATA AVAILABLE" />
       <item value="gatt Update Receiver" />
       <item value="offset" />
@@ -54,7 +55,6 @@
       <item value="split" />
       <item value="upper Case" />
       <item value="data Result" />
-      <item value="connect" />
     </histories>
     <option name="languageScores">
       <map>
