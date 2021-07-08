@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Surface" />
       <item value="ACTION DATA AVAILABLE" />
       <item value="GATT SUCCESS" />
       <item value="make Gatt Update Intent Filter" />
@@ -54,7 +55,6 @@
       <item value="receive Error Count" />
       <item value="m On Notify State Listener" />
       <item value="split" />
-      <item value="upper Case" />
     </histories>
     <option name="languageScores">
       <map>
