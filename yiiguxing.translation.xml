@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Remote Device" />
       <item value="set Write Type" />
       <item value="execute Write" />
       <item value="Weaker Access" />
@@ -54,7 +55,6 @@
       <item value="Splash Screen Activity" />
       <item value="We don't want the splash screen to be interrupted" />
       <item value="DURATION" />
-      <item value="extract Services" />
     </histories>
     <option name="languageScores">
       <map>
