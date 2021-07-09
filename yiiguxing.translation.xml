@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Creates new Write Characteristic request. The request will not be executed if given characteristic is null or does not have WRITE property. After the operation is complete a proper callback will be invoked." />
+      <item value="Write Request" />
       <item value="execute Write" />
       <item value="on Write Message" />
       <item value="op Code" />
@@ -53,8 +55,6 @@
       <item value="advertise" />
       <item value="append" />
       <item value="Bt Man" />
-      <item value="ADV DATA FLAG" />
-      <item value="Scheduled Thread Pool Executor" />
     </histories>
     <option name="languageScores">
       <map>
