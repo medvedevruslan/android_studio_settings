@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="on Write Message" />
       <item value="op Code" />
       <item value="true when LED was enabled, false when disabled." />
       <item value="on Invalid Data Received" />
@@ -54,7 +55,6 @@
       <item value="Bt Man" />
       <item value="ADV DATA FLAG" />
       <item value="Scheduled Thread Pool Executor" />
-      <item value="ADV_16_BIT UUID FINISH" />
     </histories>
     <option name="languageScores">
       <map>
