@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Weaker Access" />
+      <item value="&quot;unused&quot;, &quot;WeakerAccess" />
       <item value="Creates new Write Characteristic request. The request will not be executed if given characteristic is null or does not have WRITE property. After the operation is complete a proper callback will be invoked." />
       <item value="Write Request" />
       <item value="execute Write" />
@@ -53,8 +55,6 @@
       <item value="DURATION" />
       <item value="extract Services" />
       <item value="advertise" />
-      <item value="append" />
-      <item value="Bt Man" />
     </histories>
     <option name="languageScores">
       <map>
