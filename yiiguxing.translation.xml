@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="param Read Write Job" />
+      <item value="Read Write Job" />
+      <item value="execute Write" />
       <item value="digit" />
       <item value="Converts this string to a new character array." />
       <item value="char Write List" />
@@ -52,9 +55,6 @@
       <item value="request Location Services" />
       <item value="get Remote Device" />
       <item value="remote Device" />
-      <item value="Receiver" />
-      <item value="bond" />
-      <item value="MY UUID NOTIFY" />
     </histories>
     <option name="languageScores">
       <map>
