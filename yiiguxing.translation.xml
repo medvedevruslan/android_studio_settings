@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="execute Write" />
       <item value="on Write Message" />
       <item value="op Code" />
       <item value="true when LED was enabled, false when disabled." />
@@ -18,7 +19,6 @@
       <item value="Sent" />
       <item value="param Read Write Job" />
       <item value="Read Write Job" />
-      <item value="execute Write" />
       <item value="digit" />
       <item value="Converts this string to a new character array." />
       <item value="char Write List" />
