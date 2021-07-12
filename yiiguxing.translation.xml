@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Gets the write type for this characteristic. @return Write type for this characteristic" />
+      <item value="init Characteristic" />
+      <item value="write To Parcel" />
       <item value="payload" />
       <item value="get Remote Device" />
       <item value="set Write Type" />
@@ -52,9 +55,6 @@
       <item value="Appearance" />
       <item value="on Request Permissions Result" />
       <item value="Screen" />
-      <item value="Splash" />
-      <item value="Splash Screen Activity" />
-      <item value="We don't want the splash screen to be interrupted" />
     </histories>
     <option name="languageScores">
       <map>
