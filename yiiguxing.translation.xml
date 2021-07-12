@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="payload" />
       <item value="get Remote Device" />
       <item value="set Write Type" />
       <item value="execute Write" />
@@ -54,7 +55,6 @@
       <item value="Splash" />
       <item value="Splash Screen Activity" />
       <item value="We don't want the splash screen to be interrupted" />
-      <item value="DURATION" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1625475158643" />
+    <option name="lastTrimTime" value="1626072365912" />
   </component>
 </application>
