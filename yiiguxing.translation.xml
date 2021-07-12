@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="PROPERTY SIGNED WRITE" />
+      <item value="PROPERTY WRITE" />
+      <item value="PROPERTY WRITE NO RESPONSE" />
       <item value="Gets the write type for this characteristic. @return Write type for this characteristic" />
       <item value="init Characteristic" />
       <item value="write To Parcel" />
@@ -52,9 +55,6 @@
       <item value="Characteristic is broadcastable." />
       <item value="Characteristic property: Characteristic supports notification" />
       <item value="PROPERTY READ" />
-      <item value="Appearance" />
-      <item value="on Request Permissions Result" />
-      <item value="Screen" />
     </histories>
     <option name="languageScores">
       <map>
