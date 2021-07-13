@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="current Service Data" />
+      <item value="get Supported Gatt Services" />
       <item value="PROPERTY SIGNED WRITE" />
       <item value="PROPERTY WRITE" />
       <item value="PROPERTY WRITE NO RESPONSE" />
@@ -53,8 +55,6 @@
       <item value="Characteristic supports notification" />
       <item value="notification" />
       <item value="Characteristic is broadcastable." />
-      <item value="Characteristic property: Characteristic supports notification" />
-      <item value="PROPERTY READ" />
     </histories>
     <option name="languageScores">
       <map>
