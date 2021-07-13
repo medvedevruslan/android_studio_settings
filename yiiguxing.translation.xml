@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Write characteristic including authentication signature" />
+      <item value="Write characteristic without requiring a response by the remote device" />
+      <item value="Write characteristic, requesting acknoledgement by the remote device" />
+      <item value="get Write Type" />
       <item value="current Service Data" />
       <item value="get Supported Gatt Services" />
       <item value="PROPERTY SIGNED WRITE" />
@@ -51,10 +55,6 @@
       <item value="make Gatt Update Intent Filter" />
       <item value="gatt Update Receiver" />
       <item value="offset" />
-      <item value="unsigned Bytes To Int" />
-      <item value="Characteristic supports notification" />
-      <item value="notification" />
-      <item value="Characteristic is broadcastable." />
     </histories>
     <option name="languageScores">
       <map>
