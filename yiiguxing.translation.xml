@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Notification" />
       <item value="Characteristic property: Characteristic supports write with signature" />
       <item value="Characteristic permission: Allow encrypted writes with man-in-the-middle protection" />
       <item value="Characteristic permission: Allow encrypted writes" />
@@ -54,7 +55,6 @@
       <item value="Initiates a reliable write transaction for a given remote device. &lt;p&gt;Once a reliable write transaction has been initiated, all calls to {@link writeCharacteristic} are sent to the remote device for verification and queued up for atomic execution. The application will receive an {@link BluetoothGattCallbackonCharacteristicWrite} callback in response to every {@link writeCharacteristic} call and is responsible for verifying if the value has been transmitted accurately. &lt;p&gt;After all characteristics have been queued up and verified, {@link executeReliableWrite} will execute all writes. If a characteristic was not written correctly, calling {@link abortReliableWrite} will cancel the current transaction without committing any values on the remote device." />
       <item value="Blinky Led Data Callback" />
       <item value="enqueue" />
-      <item value="turn Led" />
     </histories>
     <option name="languageScores">
       <map>
