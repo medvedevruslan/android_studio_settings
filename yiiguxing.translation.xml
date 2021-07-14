@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Show all the supported services and characteristics on the user interface." />
+      <item value="received" />
       <item value="Enables or disables notification on a give characteristic." />
       <item value="execute Write" />
       <item value="Prefer LE transport for GATT connections to remote dual-mode devices" />
@@ -53,8 +55,6 @@
       <item value="Sent" />
       <item value="param Read Write Job" />
       <item value="Read Write Job" />
-      <item value="digit" />
-      <item value="Converts this string to a new character array." />
     </histories>
     <option name="languageScores">
       <map>
