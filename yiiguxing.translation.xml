@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Prefer LE transport for GATT connections to remote dual-mode devices" />
+      <item value="connection Attempt" />
       <item value="toast" />
       <item value="parse" />
       <item value="pattern Found" />
@@ -53,8 +55,6 @@
       <item value="digit" />
       <item value="Converts this string to a new character array." />
       <item value="char Write List" />
-      <item value="access modifiers changed from: protected" />
-      <item value="set Characteristic Notification" />
     </histories>
     <option name="languageScores">
       <map>
