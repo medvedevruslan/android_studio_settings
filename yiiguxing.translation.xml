@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="execute Write" />
       <item value="Prefer LE transport for GATT connections to remote dual-mode devices" />
       <item value="connection Attempt" />
       <item value="toast" />
@@ -34,7 +35,6 @@
       <item value="payload" />
       <item value="get Remote Device" />
       <item value="set Write Type" />
-      <item value="execute Write" />
       <item value="Weaker Access" />
       <item value="&quot;unused&quot;, &quot;WeakerAccess" />
       <item value="Creates new Write Characteristic request. The request will not be executed if given characteristic is null or does not have WRITE property. After the operation is complete a proper callback will be invoked." />
