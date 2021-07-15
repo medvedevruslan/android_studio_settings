@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="lookup" />
+      <item value="current Service Data" />
       <item value="true, if the requested notification status was set successfully" />
       <item value="The characteristic for which to enable notifications" />
       <item value="Set to true to enable notificationsindications" />
@@ -30,7 +32,6 @@
       <item value="Write characteristic without requiring a response by the remote device" />
       <item value="Write characteristic, requesting acknoledgement by the remote device" />
       <item value="get Write Type" />
-      <item value="current Service Data" />
       <item value="get Supported Gatt Services" />
       <item value="PROPERTY SIGNED WRITE" />
       <item value="PROPERTY WRITE" />
@@ -54,7 +55,6 @@
       <item value="Returns an integer value from the byte array. &lt;p&gt; &lt;p&gt;The formatType parameter determines how the value is to be interpreted. For example, setting formatType to {@link FORMAT_UINT16} specifies that the first two bytes of the value at the given offset are interpreted to generate the return value. @param formatType The format type used to interpret the value. @param offset Offset at which the integer value can be found. @return Cached value or null of offset exceeds value size." />
       <item value="on Data Sent" />
       <item value="on Data Received" />
-      <item value="Received" />
     </histories>
     <option name="languageScores">
       <map>
