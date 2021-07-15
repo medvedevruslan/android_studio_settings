@@ -5,12 +5,12 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="connection Attempt" />
       <item value="Show all the supported services and characteristics on the user interface." />
       <item value="received" />
       <item value="Enables or disables notification on a give characteristic." />
       <item value="execute Write" />
       <item value="Prefer LE transport for GATT connections to remote dual-mode devices" />
-      <item value="connection Attempt" />
       <item value="toast" />
       <item value="parse" />
       <item value="pattern Found" />

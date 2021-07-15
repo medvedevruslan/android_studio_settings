@@ -82,7 +82,7 @@
         <entry key="app/src/main/res/layout/fragment_add_reminder.xml" value="0.825" />
         <entry key="app/src/main/res/layout/fragment_contact_delete.xml" value="0.825" />
         <entry key="app/src/main/res/layout/fragment_contact_edit.xml" value="0.825" />
-        <entry key="app/src/main/res/layout/gatt_services_characteristics.xml" value="0.4139757820383451" />
+        <entry key="app/src/main/res/layout/gatt_services_characteristics.xml" value="0.5166666666666667" />
         <entry key="app/src/main/res/layout/listitem_device.xml" value="0.4953125" />
         <entry key="app/src/main/res/layout/main_screen.xml" value="0.8546875" />
         <entry key="app/src/main/res/layout/notification_action.xml" value="0.8546875" />
