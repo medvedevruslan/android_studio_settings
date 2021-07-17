@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="On Write State Listener" />
+      <item value="On IM Bluetooth LE Listener" />
+      <item value="handle Received" />
+      <item value="UPLOAD MEASURE DATA" />
+      <item value="CMD REPLY RESULT SUCCESS" />
+      <item value="RECEIVED ERROR COUNT" />
+      <item value="SEND REQUEST" />
       <item value="lookup" />
       <item value="current Service Data" />
       <item value="true, if the requested notification status was set successfully" />
@@ -48,13 +55,6 @@
       <item value="Write Request" />
       <item value="on Write Message" />
       <item value="op Code" />
-      <item value="true when LED was enabled, false when disabled." />
-      <item value="on Invalid Data Received" />
-      <item value="Offset at which the integer value can be found." />
-      <item value="@param formatType The format type used to interpret the value." />
-      <item value="Returns an integer value from the byte array. &lt;p&gt; &lt;p&gt;The formatType parameter determines how the value is to be interpreted. For example, setting formatType to {@link FORMAT_UINT16} specifies that the first two bytes of the value at the given offset are interpreted to generate the return value. @param formatType The format type used to interpret the value. @param offset Offset at which the integer value can be found. @return Cached value or null of offset exceeds value size." />
-      <item value="on Data Sent" />
-      <item value="on Data Received" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626072365912" />
+    <option name="lastTrimTime" value="1626506662919" />
   </component>
 </application>
