@@ -5,15 +5,20 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Is Data Encrypt" />
+      <item value="set Device Address" />
+      <item value="接收到重复消息内容" />
+      <item value="Weight Data Handle" />
+      <item value="ACK SET ALARM," />
+      <item value="ACK GET SDKAUTH" />
+      <item value="record Set" />
       <item value="is Need Encrypt" />
       <item value="expect Ack" />
       <item value="build Cmd String For Thermo" />
       <item value="is Data Encrypt" />
-      <item value="Weight Data Handle" />
       <item value="HEAD UP" />
       <item value="HEAD DOWN" />
       <item value="is The Same Data" />
-      <item value="接收到重复消息内容" />
       <item value="receive device data" />
       <item value="Returns a string representation of the integer argument as an unsigned integer in base&amp;nbsp;16. &lt;p&gt;The unsigned integer value is the argument plus 2&lt;sup&gt;32&lt;sup&gt; if the argument is negative; otherwise, it is equal to the argument. This value is converted to a string of ASCII digits in hexadecimal (base&amp;nbsp;16) with no extra leading {@code 0}s." />
       <item value="curr Mutual Time" />
@@ -50,11 +55,6 @@
       <item value="Write characteristic including authentication signature" />
       <item value="Write characteristic without requiring a response by the remote device" />
       <item value="Write characteristic, requesting acknoledgement by the remote device" />
-      <item value="get Write Type" />
-      <item value="get Supported Gatt Services" />
-      <item value="PROPERTY SIGNED WRITE" />
-      <item value="PROPERTY WRITE" />
-      <item value="PROPERTY WRITE NO RESPONSE" />
     </histories>
     <option name="languageScores">
       <map>
