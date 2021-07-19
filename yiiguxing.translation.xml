@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="send Data To Device" />
       <item value="handler Data" />
       <item value="Exception" />
       <item value="is Need Encrypt" />
@@ -54,7 +55,6 @@
       <item value="Characteristic permission: Allow reading with man-in-the-middle protection" />
       <item value="Characteristic permission: Allow encrypted read operations" />
       <item value="Characteristic read permission" />
-      <item value="Characteristic proprty: Characteristic is broadcastable." />
     </histories>
     <option name="languageScores">
       <map>
