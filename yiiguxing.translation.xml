@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Need Encrypt" />
+      <item value="expect Ack" />
       <item value="build Cmd String For Thermo" />
       <item value="is Data Encrypt" />
       <item value="Weight Data Handle" />
@@ -53,8 +55,6 @@
       <item value="PROPERTY SIGNED WRITE" />
       <item value="PROPERTY WRITE" />
       <item value="PROPERTY WRITE NO RESPONSE" />
-      <item value="Gets the write type for this characteristic. @return Write type for this characteristic" />
-      <item value="init Characteristic" />
     </histories>
     <option name="languageScores">
       <map>
