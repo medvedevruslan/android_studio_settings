@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="receive device data" />
       <item value="Returns a string representation of the integer argument as an unsigned integer in base&amp;nbsp;16. &lt;p&gt;The unsigned integer value is the argument plus 2&lt;sup&gt;32&lt;sup&gt; if the argument is negative; otherwise, it is equal to the argument. This value is converted to a string of ASCII digits in hexadecimal (base&amp;nbsp;16) with no extra leading {@code 0}s." />
       <item value="curr Mutual Time" />
       <item value="On Write State Listener" />
@@ -54,7 +55,6 @@
       <item value="Weaker Access" />
       <item value="&quot;unused&quot;, &quot;WeakerAccess" />
       <item value="Creates new Write Characteristic request. The request will not be executed if given characteristic is null or does not have WRITE property. After the operation is complete a proper callback will be invoked." />
-      <item value="Write Request" />
     </histories>
     <option name="languageScores">
       <map>
