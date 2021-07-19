@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="handler Data" />
+      <item value="Exception" />
+      <item value="is Need Encrypt" />
+      <item value="heartbeat Runnable" />
       <item value="set Is Data Encrypt" />
       <item value="set Device Address" />
       <item value="接收到重复消息内容" />
@@ -12,7 +16,6 @@
       <item value="ACK SET ALARM," />
       <item value="ACK GET SDKAUTH" />
       <item value="record Set" />
-      <item value="is Need Encrypt" />
       <item value="expect Ack" />
       <item value="build Cmd String For Thermo" />
       <item value="is Data Encrypt" />
@@ -52,9 +55,6 @@
       <item value="Characteristic permission: Allow encrypted read operations" />
       <item value="Characteristic read permission" />
       <item value="Characteristic proprty: Characteristic is broadcastable." />
-      <item value="Write characteristic including authentication signature" />
-      <item value="Write characteristic without requiring a response by the remote device" />
-      <item value="Write characteristic, requesting acknoledgement by the remote device" />
     </histories>
     <option name="languageScores">
       <map>
