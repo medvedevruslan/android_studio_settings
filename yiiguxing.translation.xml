@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="BLE UNPAIRING TIMEOUT" />
       <item value="测量结果解密后数据内容" />
       <item value="send Data To Device" />
       <item value="handler Data" />
@@ -54,7 +55,6 @@
       <item value="Characteristic permission: Allow encrypted writes" />
       <item value="Characteristic write permission" />
       <item value="Characteristic permission: Allow reading with man-in-the-middle protection" />
-      <item value="Characteristic permission: Allow encrypted read operations" />
     </histories>
     <option name="languageScores">
       <map>
