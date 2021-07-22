@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Timeout MS" />
       <item value="]BLEOperationWriteCharacteristicBytes::run: unable to set or write to characteristic&quot;" />
       <item value="BLE Operations Queue" />
       <item value="access 1800" />
@@ -54,7 +55,6 @@
       <item value="RECEIVED ERROR COUNT" />
       <item value="SEND REQUEST" />
       <item value="lookup" />
-      <item value="current Service Data" />
     </histories>
     <option name="languageScores">
       <map>
