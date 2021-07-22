@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="uuid From Short String" />
+      <item value="send Rtc Packet" />
       <item value="set Date Time Setting" />
       <item value="COMMAND SET TIME" />
       <item value="COMMAND GET GOAL CALORIE" />
@@ -53,8 +55,6 @@
       <item value="HEAD DOWN" />
       <item value="is The Same Data" />
       <item value="receive device data" />
-      <item value="Returns a string representation of the integer argument as an unsigned integer in base&amp;nbsp;16. &lt;p&gt;The unsigned integer value is the argument plus 2&lt;sup&gt;32&lt;sup&gt; if the argument is negative; otherwise, it is equal to the argument. This value is converted to a string of ASCII digits in hexadecimal (base&amp;nbsp;16) with no extra leading {@code 0}s." />
-      <item value="curr Mutual Time" />
     </histories>
     <option name="languageScores">
       <map>
