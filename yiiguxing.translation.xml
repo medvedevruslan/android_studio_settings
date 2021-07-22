@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="execute" />
       <item value="ENABLE INDICATION VALUE" />
       <item value="BLE Operation Keep Data To Write" />
       <item value="BLE UNPAIRING TIMEOUT" />
@@ -54,7 +55,6 @@
       <item value="Notification" />
       <item value="Characteristic property: Characteristic supports write with signature" />
       <item value="Characteristic permission: Allow encrypted writes with man-in-the-middle protection" />
-      <item value="Characteristic permission: Allow encrypted writes" />
     </histories>
     <option name="languageScores">
       <map>
