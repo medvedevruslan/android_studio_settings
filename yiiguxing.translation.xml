@@ -5,9 +5,10 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Success" />
+      <item value="set Date Time Setting" />
       <item value="uuid From Short String" />
       <item value="send Rtc Packet" />
-      <item value="set Date Time Setting" />
       <item value="COMMAND SET TIME" />
       <item value="COMMAND GET GOAL CALORIE" />
       <item value="SAL Service Weight" />
@@ -54,7 +55,6 @@
       <item value="HEAD UP" />
       <item value="HEAD DOWN" />
       <item value="is The Same Data" />
-      <item value="receive device data" />
     </histories>
     <option name="languageScores">
       <map>
