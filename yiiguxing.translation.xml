@@ -5,9 +5,24 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="]BLEOperationWriteCharacteristicBytes::run: unable to set or write to characteristic&quot;" />
+      <item value="BLE Operations Queue" />
+      <item value="access 1800" />
+      <item value="on Key Value Pair" />
+      <item value="SLP VERBOSE" />
+      <item value="&quot;BLE NotifyCharacteristics: listener" />
+      <item value="Notify Characteristics" />
+      <item value="cancel Delay Services Discovery Runnable" />
+      <item value="close Gatt And Notify Disconnected" />
+      <item value="Pair" />
+      <item value="platform Pair" />
+      <item value="BLE Operation Keep Data To Write" />
+      <item value="Logger.str(&quot;[E]BtLETransport::writeCharacteristic: Attempt to write BLE characteristic before connection to device&quot;);" />
+      <item value="&quot;[E]BtLETransport::writeCharacteristic: Attempt to write BLE characteristic before connection to device&quot;" />
+      <item value="Logger.str(&quot;BLEOperationWriteCharacteristicBytes: Default write is not permitted while no response is OK for characteristic = &quot; + this.m_gattCharacteristic.getUuid());" />
+      <item value="BLE Operation Write Characteristic Bytes" />
       <item value="execute" />
       <item value="ENABLE INDICATION VALUE" />
-      <item value="BLE Operation Keep Data To Write" />
       <item value="BLE UNPAIRING TIMEOUT" />
       <item value="测量结果解密后数据内容" />
       <item value="send Data To Device" />
@@ -40,21 +55,6 @@
       <item value="SEND REQUEST" />
       <item value="lookup" />
       <item value="current Service Data" />
-      <item value="true, if the requested notification status was set successfully" />
-      <item value="The characteristic for which to enable notifications" />
-      <item value="Set to true to enable notificationsindications" />
-      <item value="connection Attempt" />
-      <item value="Show all the supported services and characteristics on the user interface." />
-      <item value="received" />
-      <item value="Enables or disables notification on a give characteristic." />
-      <item value="execute Write" />
-      <item value="Prefer LE transport for GATT connections to remote dual-mode devices" />
-      <item value="toast" />
-      <item value="parse" />
-      <item value="pattern Found" />
-      <item value="Notification" />
-      <item value="Characteristic property: Characteristic supports write with signature" />
-      <item value="Characteristic permission: Allow encrypted writes with man-in-the-middle protection" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626506662919" />
+    <option name="lastTrimTime" value="1626938671935" />
   </component>
 </application>
