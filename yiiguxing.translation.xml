@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="AD Gatt Service" />
       <item value="get Timeout MS" />
       <item value="]BLEOperationWriteCharacteristicBytes::run: unable to set or write to characteristic&quot;" />
       <item value="BLE Operations Queue" />
@@ -54,7 +55,6 @@
       <item value="CMD REPLY RESULT SUCCESS" />
       <item value="RECEIVED ERROR COUNT" />
       <item value="SEND REQUEST" />
-      <item value="lookup" />
     </histories>
     <option name="languageScores">
       <map>
