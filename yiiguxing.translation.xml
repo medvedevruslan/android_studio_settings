@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="GATT SUCCESS" />
       <item value="connection Attempt" />
       <item value="Custom View Demo Activity" />
       <item value="is Success" />
@@ -54,7 +55,6 @@
       <item value="expect Ack" />
       <item value="build Cmd String For Thermo" />
       <item value="is Data Encrypt" />
-      <item value="HEAD UP" />
     </histories>
     <option name="languageScores">
       <map>
