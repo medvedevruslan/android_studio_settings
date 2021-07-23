@@ -98,6 +98,7 @@
         <entry key="app/src/main/res/layout/window_overview_list.xml" value="0.825" />
         <entry key="app/src/main/res/layout/window_progress.xml" value="0.825" />
         <entry key="app/src/main/res/menu/crop_image_menu.xml" value="0.8546875" />
+        <entry key="app/src/main/res/menu/gatt_services.xml" value="0.50625" />
         <entry key="expandablelistview_klimov/src/main/res/layout/activity_main.xml" value="0.38699146157709696" />
         <entry key="handler_startandroid_84/src/main/res/layout/activity_main.xml" value="0.24722222222222223" />
         <entry key="handlerthread_javaway_site/src/main/res/layout/activity_main.xml" value="0.1" />
