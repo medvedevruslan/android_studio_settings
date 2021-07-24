@@ -1,0 +1,18 @@
+<keymap version="1" name="GNOME copy 1" parent="Default for GNOME">
+  <action id="CloseEditor">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="ToggleSideMode">
+    <keyboard-shortcut first-keystroke="shift ctrl q" />
+  </action>
+  <action id="UpdateRunningApplication" />
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl f10" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="ctrl alt f10" />
+  </action>
+</keymap>

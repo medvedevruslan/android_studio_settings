@@ -5,56 +5,56 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="get Remote Device" />
-      <item value="remote Device" />
-      <item value="Receiver" />
-      <item value="bond" />
-      <item value="MY UUID NOTIFY" />
-      <item value="MY UUID WRITE" />
-      <item value="bondedBTReceiver BOND_NONE" />
-      <item value="bondedBTReceiver BOND_NON" />
-      <item value="BOND STATE CHANGED" />
-      <item value="is Support Bluetooth" />
-      <item value="get Instance" />
-      <item value="Connect Timeout" />
-      <item value="Connect State" />
-      <item value="receive Error Count" />
-      <item value="m On Notify State Listener" />
-      <item value="split" />
-      <item value="upper Case" />
-      <item value="data Result" />
-      <item value="connect" />
-      <item value="connection Status" />
-      <item value="Fuel" />
-      <item value="on Connect State Listener" />
-      <item value="On Connect State Listener" />
-      <item value="write Logto File" />
-      <item value="bondedBTReceiver binding" />
-      <item value="bondedBTReceiver can't bind" />
-      <item value="Can't fix incorrect switch cases order, some code will duplicate" />
-      <item value="on Write Message" />
-      <item value="bond Mac Address" />
-      <item value="UPLOAD MEASURE DATA" />
+      <item value="GATT SUCCESS" />
+      <item value="connection Attempt" />
+      <item value="Custom View Demo Activity" />
+      <item value="is Success" />
+      <item value="set Date Time Setting" />
+      <item value="uuid From Short String" />
+      <item value="send Rtc Packet" />
+      <item value="COMMAND SET TIME" />
+      <item value="COMMAND GET GOAL CALORIE" />
+      <item value="SAL Service Weight" />
+      <item value="DashBoard onReceive TYPE_INDICATION_VALUE" />
+      <item value="BP CHAR" />
+      <item value="k Dashboard Activity" />
+      <item value="AD Gatt Service" />
+      <item value="get Timeout MS" />
+      <item value="]BLEOperationWriteCharacteristicBytes::run: unable to set or write to characteristic&quot;" />
+      <item value="BLE Operations Queue" />
+      <item value="access 1800" />
+      <item value="on Key Value Pair" />
+      <item value="SLP VERBOSE" />
+      <item value="&quot;BLE NotifyCharacteristics: listener" />
+      <item value="Notify Characteristics" />
+      <item value="cancel Delay Services Discovery Runnable" />
+      <item value="close Gatt And Notify Disconnected" />
+      <item value="Pair" />
+      <item value="platform Pair" />
+      <item value="BLE Operation Keep Data To Write" />
+      <item value="Logger.str(&quot;[E]BtLETransport::writeCharacteristic: Attempt to write BLE characteristic before connection to device&quot;);" />
+      <item value="&quot;[E]BtLETransport::writeCharacteristic: Attempt to write BLE characteristic before connection to device&quot;" />
+      <item value="Logger.str(&quot;BLEOperationWriteCharacteristicBytes: Default write is not permitted while no response is OK for characteristic = &quot; + this.m_gattCharacteristic.getUuid());" />
+      <item value="BLE Operation Write Characteristic Bytes" />
+      <item value="execute" />
+      <item value="ENABLE INDICATION VALUE" />
+      <item value="BLE UNPAIRING TIMEOUT" />
+      <item value="测量结果解密后数据内容" />
+      <item value="send Data To Device" />
+      <item value="handler Data" />
+      <item value="Exception" />
+      <item value="is Need Encrypt" />
+      <item value="heartbeat Runnable" />
+      <item value="set Is Data Encrypt" />
+      <item value="set Device Address" />
+      <item value="接收到重复消息内容" />
+      <item value="Weight Data Handle" />
+      <item value="ACK SET ALARM," />
+      <item value="ACK GET SDKAUTH" />
+      <item value="record Set" />
+      <item value="expect Ack" />
       <item value="build Cmd String For Thermo" />
-      <item value="REPLY" />
-      <item value="Utils" />
-      <item value="Time Out" />
-      <item value="連線時間" />
-      <item value="連線時間Time Out" />
-      <item value="LOOP" />
-      <item value="SCAN LOOP" />
-      <item value="bluetooth communications result." />
-      <item value="bluetooth scan success." />
-      <item value="Bluetooth LE Utils" />
-      <item value="BluetoothGatt 操作類" />
-      <item value="Write" />
-      <item value="Write Thread" />
-      <item value="on Touch Event" />
-      <item value="set Overview Bt Touch Listener" />
-      <item value="JADX WARNING: Removed duplicated region for block: B:17:0x0068" />
-      <item value="On Get Add BT Data Listener" />
-      <item value="On Get Edit Bt Data Listener" />
-      <item value="overview bt bottom sheet" />
+      <item value="is Data Encrypt" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1624857187828" />
+    <option name="lastTrimTime" value="1626938671935" />
   </component>
 </application>
