@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set On Write State Listener" />
+      <item value="queue Read Write Job" />
+      <item value="create And Connect Le Device" />
+      <item value="m map Discovered Devices" />
       <item value="always Read Close On Touch Attr" />
       <item value="Field" />
       <item value="is Success" />
@@ -51,10 +55,6 @@
       <item value="set Device Address" />
       <item value="接收到重复消息内容" />
       <item value="Weight Data Handle" />
-      <item value="ACK SET ALARM," />
-      <item value="ACK GET SDKAUTH" />
-      <item value="record Set" />
-      <item value="expect Ack" />
     </histories>
     <option name="languageScores">
       <map>
