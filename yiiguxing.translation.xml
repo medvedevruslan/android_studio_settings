@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="always Read Close On Touch Attr" />
       <item value="Field" />
       <item value="is Success" />
       <item value="GATT SUCCESS" />
@@ -54,7 +55,6 @@
       <item value="ACK GET SDKAUTH" />
       <item value="record Set" />
       <item value="expect Ack" />
-      <item value="build Cmd String For Thermo" />
     </histories>
     <option name="languageScores">
       <map>
