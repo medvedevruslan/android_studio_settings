@@ -5,10 +5,10 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Success" />
       <item value="GATT SUCCESS" />
       <item value="connection Attempt" />
       <item value="Custom View Demo Activity" />
-      <item value="is Success" />
       <item value="set Date Time Setting" />
       <item value="uuid From Short String" />
       <item value="send Rtc Packet" />
