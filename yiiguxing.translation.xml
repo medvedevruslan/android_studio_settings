@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Updates the locally stored value of this characteristic. &lt;p&gt;This function modifies the locally stored cached value of this characteristic. To send the value to the remote device, call {@link BluetoothGattwriteCharacteristic} to send the value to the remote device. @param value New value for this characteristic @return true if the locally stored value has been set, false if the requested value could not be stored locally." />
       <item value="get Supported Gatt Services" />
       <item value="EMISSION" />
       <item value="FIRMWARE" />
@@ -54,7 +55,6 @@
       <item value="handler Data" />
       <item value="Exception" />
       <item value="is Need Encrypt" />
-      <item value="heartbeat Runnable" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626938671935" />
+    <option name="lastTrimTime" value="1627374414986" />
   </component>
 </application>
