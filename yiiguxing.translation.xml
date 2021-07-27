@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Supported Gatt Services" />
       <item value="EMISSION" />
       <item value="FIRMWARE" />
       <item value="Sample Gatt Attributes" />
@@ -54,7 +55,6 @@
       <item value="Exception" />
       <item value="is Need Encrypt" />
       <item value="heartbeat Runnable" />
-      <item value="set Is Data Encrypt" />
     </histories>
     <option name="languageScores">
       <map>
