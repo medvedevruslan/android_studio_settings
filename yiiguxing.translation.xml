@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ACTION DATA AVAILABLE" />
+      <item value="DATA AVAILABLE" />
       <item value="Updates the locally stored value of this characteristic. &lt;p&gt;This function modifies the locally stored cached value of this characteristic. To send the value to the remote device, call {@link BluetoothGattwriteCharacteristic} to send the value to the remote device. @param value New value for this characteristic @return true if the locally stored value has been set, false if the requested value could not be stored locally." />
       <item value="get Supported Gatt Services" />
       <item value="EMISSION" />
@@ -53,8 +55,6 @@
       <item value="测量结果解密后数据内容" />
       <item value="send Data To Device" />
       <item value="handler Data" />
-      <item value="Exception" />
-      <item value="is Need Encrypt" />
     </histories>
     <option name="languageScores">
       <map>
