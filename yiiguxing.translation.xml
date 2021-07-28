@@ -5,12 +5,20 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="DEVICE CODE THERMO APP REPLY" />
+      <item value="HEADER" />
+      <item value="build Cmd String For Thermo" />
+      <item value="receive Error" />
+      <item value="reply Mac Address Or Time" />
+      <item value="set Ambient Temperature" />
+      <item value="reply Upload Measure Data" />
+      <item value="on Response Upload Measure Data" />
+      <item value="on Data Response Listener" />
       <item value="old Com" />
       <item value="SEND REQUEST" />
       <item value="ambient Temperature" />
       <item value="handle Received" />
       <item value="import Hex String" />
-      <item value="receive Error" />
       <item value="App Compat Theme list Preferred Item Height Small" />
       <item value="Edit Event Window View Binder" />
       <item value="历史数据解密后数据内容" />
@@ -47,14 +55,6 @@
       <item value="]BLEOperationWriteCharacteristicBytes::run: unable to set or write to characteristic&quot;" />
       <item value="BLE Operations Queue" />
       <item value="access 1800" />
-      <item value="on Key Value Pair" />
-      <item value="SLP VERBOSE" />
-      <item value="&quot;BLE NotifyCharacteristics: listener" />
-      <item value="Notify Characteristics" />
-      <item value="cancel Delay Services Discovery Runnable" />
-      <item value="close Gatt And Notify Disconnected" />
-      <item value="Pair" />
-      <item value="platform Pair" />
     </histories>
     <option name="languageScores">
       <map>
