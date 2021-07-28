@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="old Com" />
       <item value="SEND REQUEST" />
       <item value="ambient Temperature" />
       <item value="handle Received" />
@@ -54,7 +55,6 @@
       <item value="close Gatt And Notify Disconnected" />
       <item value="Pair" />
       <item value="platform Pair" />
-      <item value="BLE Operation Keep Data To Write" />
     </histories>
     <option name="languageScores">
       <map>
