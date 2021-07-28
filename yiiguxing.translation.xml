@@ -5,9 +5,12 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="handle" />
+      <item value="handle Received" />
+      <item value="reply Upload Measure Data" />
+      <item value="SEND_REQUEST data" />
       <item value="build Cmd String For Thermo" />
       <item value="calc Checksum" />
-      <item value="reply Upload Measure Data" />
       <item value="import Hex String" />
       <item value="ERROR FOR AMBIENT H" />
       <item value="ERROR FOR AMBIENT L" />
@@ -25,7 +28,6 @@
       <item value="old Com" />
       <item value="SEND REQUEST" />
       <item value="ambient Temperature" />
-      <item value="handle Received" />
       <item value="App Compat Theme list Preferred Item Height Small" />
       <item value="Edit Event Window View Binder" />
       <item value="历史数据解密后数据内容" />
@@ -53,8 +55,6 @@
       <item value="send Rtc Packet" />
       <item value="COMMAND SET TIME" />
       <item value="COMMAND GET GOAL CALORIE" />
-      <item value="SAL Service Weight" />
-      <item value="DashBoard onReceive TYPE_INDICATION_VALUE" />
     </histories>
     <option name="languageScores">
       <map>
