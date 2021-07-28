@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ambient Temperature" />
       <item value="handle" />
       <item value="handle Received" />
       <item value="reply Upload Measure Data" />
@@ -27,7 +28,6 @@
       <item value="on Data Response Listener" />
       <item value="old Com" />
       <item value="SEND REQUEST" />
-      <item value="ambient Temperature" />
       <item value="App Compat Theme list Preferred Item Height Small" />
       <item value="Edit Event Window View Binder" />
       <item value="历史数据解密后数据内容" />
