@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="handle Received" />
+      <item value="import Hex String" />
+      <item value="App Compat Theme list Preferred Item Height Small" />
+      <item value="Edit Event Window View Binder" />
       <item value="历史数据解密后数据内容" />
       <item value="receive scale clock" />
       <item value="Surface Temperature" />
@@ -51,10 +55,6 @@
       <item value="Logger.str(&quot;[E]BtLETransport::writeCharacteristic: Attempt to write BLE characteristic before connection to device&quot;);" />
       <item value="&quot;[E]BtLETransport::writeCharacteristic: Attempt to write BLE characteristic before connection to device&quot;" />
       <item value="Logger.str(&quot;BLEOperationWriteCharacteristicBytes: Default write is not permitted while no response is OK for characteristic = &quot; + this.m_gattCharacteristic.getUuid());" />
-      <item value="BLE Operation Write Characteristic Bytes" />
-      <item value="execute" />
-      <item value="ENABLE INDICATION VALUE" />
-      <item value="BLE UNPAIRING TIMEOUT" />
     </histories>
     <option name="languageScores">
       <map>
