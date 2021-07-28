@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="calc Checksum" />
       <item value="Returns a formatted string using the specified format string and arguments." />
       <item value="reply Upload Measure Data" />
       <item value="CMD REPLY RESULT SUCCESS" />
@@ -14,7 +15,6 @@
       <item value="handle" />
       <item value="handle Received" />
       <item value="SEND_REQUEST data" />
-      <item value="calc Checksum" />
       <item value="import Hex String" />
       <item value="ERROR FOR AMBIENT H" />
       <item value="ERROR FOR AMBIENT L" />
