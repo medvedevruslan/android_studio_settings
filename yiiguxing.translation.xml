@@ -6,8 +6,8 @@
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
       <item value="handle Received" />
-      <item value="receive Error" />
       <item value="import Hex String" />
+      <item value="receive Error" />
       <item value="App Compat Theme list Preferred Item Height Small" />
       <item value="Edit Event Window View Binder" />
       <item value="历史数据解密后数据内容" />
