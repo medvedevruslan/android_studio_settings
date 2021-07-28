@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ambient Temperature" />
       <item value="handle Received" />
       <item value="import Hex String" />
       <item value="receive Error" />
@@ -54,7 +55,6 @@
       <item value="platform Pair" />
       <item value="BLE Operation Keep Data To Write" />
       <item value="Logger.str(&quot;[E]BtLETransport::writeCharacteristic: Attempt to write BLE characteristic before connection to device&quot;);" />
-      <item value="&quot;[E]BtLETransport::writeCharacteristic: Attempt to write BLE characteristic before connection to device&quot;" />
     </histories>
     <option name="languageScores">
       <map>
