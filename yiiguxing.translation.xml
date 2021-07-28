@@ -6,6 +6,8 @@
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
       <item value="reply Upload Measure Data" />
+      <item value="add Big Respond Array" />
+      <item value="add Not Respond Array" />
       <item value="write BLW Message" />
       <item value="receive Error Count" />
       <item value="receive Error" />
@@ -53,8 +55,6 @@
       <item value="BP CHAR" />
       <item value="k Dashboard Activity" />
       <item value="AD Gatt Service" />
-      <item value="get Timeout MS" />
-      <item value="]BLEOperationWriteCharacteristicBytes::run: unable to set or write to characteristic&quot;" />
     </histories>
     <option name="languageScores">
       <map>
