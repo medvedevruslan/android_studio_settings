@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns the length of this string. The length is equal to the number of &lt;a href=&quot;Character.htmlunicode&quot;&gt;Unicode code units&lt;a&gt; in the string." />
       <item value="calc Checksum" />
       <item value="Returns a formatted string using the specified format string and arguments." />
       <item value="reply Upload Measure Data" />
@@ -54,7 +55,6 @@
       <item value="Custom View Demo Activity" />
       <item value="set Date Time Setting" />
       <item value="uuid From Short String" />
-      <item value="send Rtc Packet" />
     </histories>
     <option name="languageScores">
       <map>
