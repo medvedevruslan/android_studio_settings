@@ -5,7 +5,12 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="build Cmd String For Thermo" />
+      <item value="calc Checksum" />
       <item value="reply Upload Measure Data" />
+      <item value="import Hex String" />
+      <item value="ERROR FOR AMBIENT H" />
+      <item value="ERROR FOR AMBIENT L" />
       <item value="add Big Respond Array" />
       <item value="add Not Respond Array" />
       <item value="write BLW Message" />
@@ -14,7 +19,6 @@
       <item value="on Response Upload Measure Data" />
       <item value="DEVICE CODE THERMO APP REPLY" />
       <item value="HEADER" />
-      <item value="build Cmd String For Thermo" />
       <item value="reply Mac Address Or Time" />
       <item value="set Ambient Temperature" />
       <item value="on Data Response Listener" />
@@ -22,7 +26,6 @@
       <item value="SEND REQUEST" />
       <item value="ambient Temperature" />
       <item value="handle Received" />
-      <item value="import Hex String" />
       <item value="App Compat Theme list Preferred Item Height Small" />
       <item value="Edit Event Window View Binder" />
       <item value="历史数据解密后数据内容" />
@@ -52,9 +55,6 @@
       <item value="COMMAND GET GOAL CALORIE" />
       <item value="SAL Service Weight" />
       <item value="DashBoard onReceive TYPE_INDICATION_VALUE" />
-      <item value="BP CHAR" />
-      <item value="k Dashboard Activity" />
-      <item value="AD Gatt Service" />
     </histories>
     <option name="languageScores">
       <map>
