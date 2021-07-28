@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="历史数据解密后数据内容" />
+      <item value="receive scale clock" />
       <item value="Surface Temperature" />
       <item value="ACTION DATA AVAILABLE" />
       <item value="DATA AVAILABLE" />
@@ -53,8 +55,6 @@
       <item value="execute" />
       <item value="ENABLE INDICATION VALUE" />
       <item value="BLE UNPAIRING TIMEOUT" />
-      <item value="测量结果解密后数据内容" />
-      <item value="send Data To Device" />
     </histories>
     <option name="languageScores">
       <map>
