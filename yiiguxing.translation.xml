@@ -5,12 +5,14 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="CMD REPLY RESULT SUCCESS" />
+      <item value="SEND REQUEST" />
+      <item value="reply Upload Measure Data" />
+      <item value="build Cmd String For Thermo" />
       <item value="ambient Temperature" />
       <item value="handle" />
       <item value="handle Received" />
-      <item value="reply Upload Measure Data" />
       <item value="SEND_REQUEST data" />
-      <item value="build Cmd String For Thermo" />
       <item value="calc Checksum" />
       <item value="import Hex String" />
       <item value="ERROR FOR AMBIENT H" />
@@ -27,7 +29,6 @@
       <item value="set Ambient Temperature" />
       <item value="on Data Response Listener" />
       <item value="old Com" />
-      <item value="SEND REQUEST" />
       <item value="App Compat Theme list Preferred Item Height Small" />
       <item value="Edit Event Window View Binder" />
       <item value="历史数据解密后数据内容" />
@@ -54,7 +55,6 @@
       <item value="uuid From Short String" />
       <item value="send Rtc Packet" />
       <item value="COMMAND SET TIME" />
-      <item value="COMMAND GET GOAL CALORIE" />
     </histories>
     <option name="languageScores">
       <map>
