@@ -5,14 +5,16 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="reply Upload Measure Data" />
+      <item value="write BLW Message" />
+      <item value="receive Error Count" />
+      <item value="receive Error" />
+      <item value="on Response Upload Measure Data" />
       <item value="DEVICE CODE THERMO APP REPLY" />
       <item value="HEADER" />
       <item value="build Cmd String For Thermo" />
-      <item value="receive Error" />
       <item value="reply Mac Address Or Time" />
       <item value="set Ambient Temperature" />
-      <item value="reply Upload Measure Data" />
-      <item value="on Response Upload Measure Data" />
       <item value="on Data Response Listener" />
       <item value="old Com" />
       <item value="SEND REQUEST" />
@@ -53,8 +55,6 @@
       <item value="AD Gatt Service" />
       <item value="get Timeout MS" />
       <item value="]BLEOperationWriteCharacteristicBytes::run: unable to set or write to characteristic&quot;" />
-      <item value="BLE Operations Queue" />
-      <item value="access 1800" />
     </histories>
     <option name="languageScores">
       <map>
