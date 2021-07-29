@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="For input string: &quot; 0&quot;" />
+      <item value="PatchStore::createDisableExceptionQarthFile method fail." />
       <item value="java.lang.NullPointerException: Attempt to write to field 'java.lang.Object android.os.Message.obj' on a null object reference" />
       <item value="handle Message" />
       <item value="jank_removeInvalidNode all the node in jank list is out of time" />
@@ -53,8 +55,6 @@
       <item value="Sample Gatt Attributes" />
       <item value="set On Write State Listener" />
       <item value="queue Read Write Job" />
-      <item value="create And Connect Le Device" />
-      <item value="m map Discovered Devices" />
     </histories>
     <option name="languageScores">
       <map>
