@@ -5,13 +5,14 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="SEND REQUEST" />
+      <item value="DEVICE CODE THERMO APP REPLY" />
       <item value="all Received Command" />
       <item value="Returns the length of this string. The length is equal to the number of &lt;a href=&quot;Character.htmlunicode&quot;&gt;Unicode code units&lt;a&gt; in the string." />
       <item value="calc Checksum" />
       <item value="Returns a formatted string using the specified format string and arguments." />
       <item value="reply Upload Measure Data" />
       <item value="CMD REPLY RESULT SUCCESS" />
-      <item value="SEND REQUEST" />
       <item value="build Cmd String For Thermo" />
       <item value="ambient Temperature" />
       <item value="handle" />
@@ -26,7 +27,6 @@
       <item value="receive Error Count" />
       <item value="receive Error" />
       <item value="on Response Upload Measure Data" />
-      <item value="DEVICE CODE THERMO APP REPLY" />
       <item value="HEADER" />
       <item value="reply Mac Address Or Time" />
       <item value="set Ambient Temperature" />
