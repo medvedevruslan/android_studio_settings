@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Replaces each substring of this string that matches the given &lt;a href=&quot;..utilregexPattern.htmlsum&quot;&gt;regular expression&lt;a&gt; with the given replacement." />
       <item value="For input string: &quot; 0&quot;" />
       <item value="PatchStore::createDisableExceptionQarthFile method fail." />
       <item value="java.lang.NullPointerException: Attempt to write to field 'java.lang.Object android.os.Message.obj' on a null object reference" />
@@ -54,7 +55,6 @@
       <item value="FIRMWARE" />
       <item value="Sample Gatt Attributes" />
       <item value="set On Write State Listener" />
-      <item value="queue Read Write Job" />
     </histories>
     <option name="languageScores">
       <map>
