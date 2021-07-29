@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="java.lang.NullPointerException: Attempt to write to field 'java.lang.Object android.os.Message.obj' on a null object reference" />
       <item value="handle Message" />
       <item value="jank_removeInvalidNode all the node in jank list is out of time" />
       <item value="Returns a string whose value is this string, with any leading and trailing whitespace removed." />
@@ -54,7 +55,6 @@
       <item value="queue Read Write Job" />
       <item value="create And Connect Le Device" />
       <item value="m map Discovered Devices" />
-      <item value="always Read Close On Touch Attr" />
     </histories>
     <option name="languageScores">
       <map>
