@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns the numeric value of the character {@code ch} in the specified radix." />
       <item value="data" />
       <item value="calc Checksum" />
       <item value="add Not Respond Array" />
@@ -54,7 +55,6 @@
       <item value="get Supported Gatt Services" />
       <item value="EMISSION" />
       <item value="FIRMWARE" />
-      <item value="Sample Gatt Attributes" />
     </histories>
     <option name="languageScores">
       <map>
