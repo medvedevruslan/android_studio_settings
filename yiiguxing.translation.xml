@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="add Not Respond Array" />
+      <item value="add Big Respond Array" />
       <item value="Replaces each substring of this string that matches the given &lt;a href=&quot;..utilregexPattern.htmlsum&quot;&gt;regular expression&lt;a&gt; with the given replacement." />
       <item value="For input string: &quot; 0&quot;" />
       <item value="PatchStore::createDisableExceptionQarthFile method fail." />
@@ -31,8 +33,6 @@
       <item value="import Hex String" />
       <item value="ERROR FOR AMBIENT H" />
       <item value="ERROR FOR AMBIENT L" />
-      <item value="add Big Respond Array" />
-      <item value="add Not Respond Array" />
       <item value="write BLW Message" />
       <item value="receive Error Count" />
       <item value="receive Error" />
