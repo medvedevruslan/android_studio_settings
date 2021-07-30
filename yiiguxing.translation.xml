@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="receive Error" />
+      <item value="get Correct Length" />
       <item value="Returns the numeric value of the character {@code ch} in the specified radix." />
       <item value="data" />
       <item value="calc Checksum" />
@@ -37,7 +39,6 @@
       <item value="ERROR FOR AMBIENT L" />
       <item value="write BLW Message" />
       <item value="receive Error Count" />
-      <item value="receive Error" />
       <item value="on Response Upload Measure Data" />
       <item value="HEADER" />
       <item value="reply Mac Address Or Time" />
@@ -54,7 +55,6 @@
       <item value="Updates the locally stored value of this characteristic. &lt;p&gt;This function modifies the locally stored cached value of this characteristic. To send the value to the remote device, call {@link BluetoothGattwriteCharacteristic} to send the value to the remote device. @param value New value for this characteristic @return true if the locally stored value has been set, false if the requested value could not be stored locally." />
       <item value="get Supported Gatt Services" />
       <item value="EMISSION" />
-      <item value="FIRMWARE" />
     </histories>
     <option name="languageScores">
       <map>
