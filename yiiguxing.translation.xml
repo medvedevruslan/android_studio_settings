@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Just Date" />
       <item value="Only the original thread that created a view hierarchy can touch its views." />
       <item value="Only the original thread that created a view hierarchy can touch its views" />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.bluetooth_le_gatt_sborkacom.example.bluetooth_le_gatt_sborka.DeviceControlActivity}: java.lang.IllegalStateException: You need to use a Theme.AppCompat theme (or descendant) with this activity." />
@@ -54,7 +55,6 @@
       <item value="receive scale clock" />
       <item value="Surface Temperature" />
       <item value="ACTION DATA AVAILABLE" />
-      <item value="DATA AVAILABLE" />
     </histories>
     <option name="languageScores">
       <map>
