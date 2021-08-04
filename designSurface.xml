@@ -78,6 +78,7 @@
         <entry key="app/src/main/res/layout/design_layout_tab_icon.xml" value="0.825" />
         <entry key="app/src/main/res/layout/device_credential_handler_activity.xml" value="0.8546875" />
         <entry key="app/src/main/res/layout/device_item.xml" value="0.7672101449275363" />
+        <entry key="app/src/main/res/layout/device_scan_appcompatactivity.xml" value="0.48541666666666666" />
         <entry key="app/src/main/res/layout/fingerprint_dialog_layout.xml" value="0.8546875" />
         <entry key="app/src/main/res/layout/fragment_add_reminder.xml" value="0.825" />
         <entry key="app/src/main/res/layout/fragment_contact_delete.xml" value="0.825" />
@@ -91,6 +92,7 @@
         <entry key="app/src/main/res/layout/notification_template_part_time.xml" value="0.8546875" />
         <entry key="app/src/main/res/layout/overview_bpm_bottom_sheet.xml" value="0.825" />
         <entry key="app/src/main/res/layout/overview_bt_bottom_sheet.xml" value="0.825" />
+        <entry key="app/src/main/res/layout/result.xml" value="0.48541666666666666" />
         <entry key="app/src/main/res/layout/select_dialog_item_material.xml" value="0.8546875" />
         <entry key="app/src/main/res/layout/select_dialog_multichoice_material.xml" value="0.8546875" />
         <entry key="app/src/main/res/layout/select_dialog_singlechoice_material.xml" value="0.8546875" />
