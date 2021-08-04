@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="data Received" />
+      <item value="set Test Type" />
       <item value="Just Date" />
       <item value="Only the original thread that created a view hierarchy can touch its views." />
       <item value="Only the original thread that created a view hierarchy can touch its views" />
@@ -53,8 +55,6 @@
       <item value="Edit Event Window View Binder" />
       <item value="历史数据解密后数据内容" />
       <item value="receive scale clock" />
-      <item value="Surface Temperature" />
-      <item value="ACTION DATA AVAILABLE" />
     </histories>
     <option name="languageScores">
       <map>
