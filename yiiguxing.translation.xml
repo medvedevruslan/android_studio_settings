@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Invoke-customs are only supported starting with Android O (--min-api 26)" />
+      <item value="Kotlin plugin should be enabled before 'kotlin-android-extensions'" />
       <item value="data Received" />
       <item value="set Test Type" />
       <item value="Just Date" />
@@ -53,8 +55,6 @@
       <item value="old Com" />
       <item value="App Compat Theme list Preferred Item Height Small" />
       <item value="Edit Event Window View Binder" />
-      <item value="历史数据解密后数据内容" />
-      <item value="receive scale clock" />
     </histories>
     <option name="languageScores">
       <map>
