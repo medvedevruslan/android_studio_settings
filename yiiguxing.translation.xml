@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Inflate view and obtain an instance of the binding class" />
       <item value="Select and remove a word from the list" />
       <item value="shuffle" />
       <item value="The list of words - the front of the list is the next word to guess" />
@@ -54,7 +55,6 @@
       <item value="import Hex String" />
       <item value="ERROR FOR AMBIENT H" />
       <item value="ERROR FOR AMBIENT L" />
-      <item value="write BLW Message" />
     </histories>
     <option name="languageScores">
       <map>
