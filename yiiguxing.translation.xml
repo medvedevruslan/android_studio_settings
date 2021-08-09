@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Assignable From" />
       <item value="Return the arguments supplied when the fragment was instantiated." />
       <item value="@param factory a {@code Factory} which will be used to instantiate new {@code ViewModels}" />
       <item value="@param owner a {@code ViewModelStoreOwner} whose {@link ViewModelStore} will be used to retain {@code ViewModels} @param factory a {@code Factory} which will be used to instantiate new {@code ViewModels}" />
@@ -14,7 +15,6 @@
       <item value="Creates {@code ViewModelProvider}, which will create {@code ViewModels} via the given {@code Factory} and retain them in a store of the given {@code ViewModelStoreOwner}." />
       <item value="ory a {@code Factory} which will be used to instantiate new {@code ViewModels}" />
       <item value="Creates {@code ViewModelProvider}. This will create {@code ViewModels} and retain them in a store of the given {@code ViewModelStoreOwner}. &lt;p&gt; This method will use the" />
-      <item value="is Assignable From" />
       <item value="require Arguments" />
       <item value="shuffle" />
       <item value="Inflate view and obtain an instance of the binding class" />
