@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Assignable From" />
       <item value="require Arguments" />
       <item value="shuffle" />
       <item value="Inflate view and obtain an instance of the binding class" />
@@ -54,7 +55,6 @@
       <item value="handle Received" />
       <item value="SEND_REQUEST data" />
       <item value="import Hex String" />
-      <item value="ERROR FOR AMBIENT H" />
     </histories>
     <option name="languageScores">
       <map>
