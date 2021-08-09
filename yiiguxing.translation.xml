@@ -5,8 +5,13 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="Creates {@code ViewModelProvider}, which will create {@code ViewModels} via the given {@code Factory} and retain them in a store of the given {@code ViewModelStoreOwner}." />
+      <item value="Return the arguments supplied when the fragment was instantiated." />
       <item value="@param factory a {@code Factory} which will be used to instantiate new {@code ViewModels}" />
+      <item value="@param owner a {@code ViewModelStoreOwner} whose {@link ViewModelStore} will be used to retain {@code ViewModels} @param factory a {@code Factory} which will be used to instantiate new {@code ViewModels}" />
+      <item value="{@link HasDefaultViewModelProviderFactorygetDefaultViewModelProviderFactory() default factory} if the owner implements {@link HasDefaultViewModelProviderFactory}. Otherwise, a {@link NewInstanceFactory} will be used." />
+      <item value="Creates {@code ViewModelProvider}. This will create {@code ViewModels} and retain them in a store of the given {@code ViewModelStoreOwner}. &lt;p&gt;" />
+      <item value="@param owner a {@code ViewModelStoreOwner} whose {@link ViewModelStore} will be used to retain {@code ViewModels}" />
+      <item value="Creates {@code ViewModelProvider}, which will create {@code ViewModels} via the given {@code Factory} and retain them in a store of the given {@code ViewModelStoreOwner}." />
       <item value="ory a {@code Factory} which will be used to instantiate new {@code ViewModels}" />
       <item value="Creates {@code ViewModelProvider}. This will create {@code ViewModels} and retain them in a store of the given {@code ViewModelStoreOwner}. &lt;p&gt; This method will use the" />
       <item value="is Assignable From" />
@@ -50,11 +55,6 @@
       <item value="DEVICE CODE THERMO APP REPLY" />
       <item value="all Received Command" />
       <item value="Returns the length of this string. The length is equal to the number of &lt;a href=&quot;Character.htmlunicode&quot;&gt;Unicode code units&lt;a&gt; in the string." />
-      <item value="Returns a formatted string using the specified format string and arguments." />
-      <item value="reply Upload Measure Data" />
-      <item value="CMD REPLY RESULT SUCCESS" />
-      <item value="build Cmd String For Thermo" />
-      <item value="ambient Temperature" />
     </histories>
     <option name="languageScores">
       <map>
