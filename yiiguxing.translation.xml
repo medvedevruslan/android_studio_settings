@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="require Arguments" />
       <item value="shuffle" />
       <item value="Inflate view and obtain an instance of the binding class" />
       <item value="Select and remove a word from the list" />
@@ -54,7 +55,6 @@
       <item value="SEND_REQUEST data" />
       <item value="import Hex String" />
       <item value="ERROR FOR AMBIENT H" />
-      <item value="ERROR FOR AMBIENT L" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1627888325217" />
+    <option name="lastTrimTime" value="1628507797209" />
   </component>
 </application>
