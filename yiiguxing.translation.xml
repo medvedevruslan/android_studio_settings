@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="notify Data Set Changed" />
+      <item value="Holder" />
       <item value="Just Date" />
       <item value="The specified Android SDK Build Tools version (29.0.3) is ignored, as it is below the minimum supported version (30.0.2) for Android Gradle Plugin 7.0.0. Android SDK Build Tools 30.0.2 will be used. To suppress this warning, remove &quot;buildToolsVersion '29.0.3'&quot; from your build.gradle file, as each version of the Android Gradle Plugin now has a default version of the build tools." />
       <item value="Cannot fit requested classes in a single dex file ( methods: 74601 &gt; 65536)" />
@@ -53,8 +55,6 @@
       <item value="PatchStore::createDisableExceptionQarthFile method fail." />
       <item value="java.lang.NullPointerException: Attempt to write to field 'java.lang.Object android.os.Message.obj' on a null object reference" />
       <item value="handle Message" />
-      <item value="jank_removeInvalidNode all the node in jank list is out of time" />
-      <item value="Returns a string whose value is this string, with any leading and trailing whitespace removed." />
     </histories>
     <option name="languageScores">
       <map>
