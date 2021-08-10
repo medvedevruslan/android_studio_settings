@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="A problem occurred evaluating project ':app'. &gt; Failed to apply plugin 'com.android.internal.application'. &gt; Android Gradle plugin requires Java 11 to run. You are currently using Java 1.8. You can try some of the following options: - changing the IDE settings. - changing the JAVA_HOME environment variable. - changing `org.gradle.java.home` in `gradle.properties`." />
       <item value="On Requery Factory" />
       <item value="Implementations of {@code Factory} interface are responsible to instantiate ViewModels." />
       <item value="Fragment where the final score is shown, after the game is over" />
@@ -54,7 +55,6 @@
       <item value="Unhandled exception in callback" />
       <item value="E: [ZeroHung]zrhung_get_config: Get config failed for wp[0x0008]" />
       <item value="WARNING: This method may be invoked early during VM initialization before IntegerCache is initialized. Care must be taken to not use the valueOf method." />
-      <item value="SEND REQUEST" />
     </histories>
     <option name="languageScores">
       <map>
