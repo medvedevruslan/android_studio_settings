@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Fragment where the final score is shown, after the game is over" />
       <item value="is Assignable From" />
       <item value="Return the arguments supplied when the fragment was instantiated." />
       <item value="@param factory a {@code Factory} which will be used to instantiate new {@code ViewModels}" />
@@ -54,7 +55,6 @@
       <item value="SEND REQUEST" />
       <item value="DEVICE CODE THERMO APP REPLY" />
       <item value="all Received Command" />
-      <item value="Returns the length of this string. The length is equal to the number of &lt;a href=&quot;Character.htmlunicode&quot;&gt;Unicode code units&lt;a&gt; in the string." />
     </histories>
     <option name="languageScores">
       <map>
