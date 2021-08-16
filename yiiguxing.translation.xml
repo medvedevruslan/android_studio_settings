@@ -6,6 +6,7 @@
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
       <item value="Return the {@link FragmentActivity} this fragment is currently associated with." />
+      <item value="&quot;Connect request result =" />
       <item value="needed Device Found" />
       <item value="Marks the API that is dependent on the experimental unsigned types, including those types themselves. Usages of such API will be reported as warnings unless an explicit opt-in with the [OptIn] annotation, e.g. `@OptIn(ExperimentalUnsignedTypes::class)`, or with the `-Xopt-in=kotlin.ExperimentalUnsignedTypes` compiler option is given. It's recommended to propagate the experimental status to the API that depends on unsigned types by annotating it with this annotation." />
       <item value="Experimental Unsigned Types" />
@@ -54,7 +55,6 @@
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.bluetooth_le_gatt_sborkacom.example.bluetooth_le_gatt_sborka.DeviceControlActivity}: java.lang.IllegalStateException: You need to use a Theme.AppCompat theme (or descendant) with this activity." />
       <item value="receive Error" />
       <item value="get Correct Length" />
-      <item value="Returns the numeric value of the character {@code ch} in the specified radix." />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1628507797209" />
+    <option name="lastTrimTime" value="1629091661920" />
   </component>
 </application>
