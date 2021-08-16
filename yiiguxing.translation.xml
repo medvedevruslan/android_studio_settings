@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="UPLOAD MEASURE DATA" />
+      <item value="SEND REQUEST" />
       <item value="Return the {@link FragmentActivity} this fragment is currently associated with." />
       <item value="&quot;Connect request result =" />
       <item value="needed Device Found" />
@@ -53,8 +55,6 @@
       <item value="Only the original thread that created a view hierarchy can touch its views." />
       <item value="Only the original thread that created a view hierarchy can touch its views" />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.bluetooth_le_gatt_sborkacom.example.bluetooth_le_gatt_sborka.DeviceControlActivity}: java.lang.IllegalStateException: You need to use a Theme.AppCompat theme (or descendant) with this activity." />
-      <item value="receive Error" />
-      <item value="get Correct Length" />
     </histories>
     <option name="languageScores">
       <map>
