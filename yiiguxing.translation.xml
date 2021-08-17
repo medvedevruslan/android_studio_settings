@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Return the arguments supplied when the fragment was instantiated." />
       <item value="&quot;Connect request result" />
       <item value="Connect request result" />
       <item value="Experimental Unsigned Types" />
@@ -31,7 +32,6 @@
       <item value="Implementations of {@code Factory} interface are responsible to instantiate ViewModels." />
       <item value="Fragment where the final score is shown, after the game is over" />
       <item value="is Assignable From" />
-      <item value="Return the arguments supplied when the fragment was instantiated." />
       <item value="@param factory a {@code Factory} which will be used to instantiate new {@code ViewModels}" />
       <item value="@param owner a {@code ViewModelStoreOwner} whose {@link ViewModelStore} will be used to retain {@code ViewModels} @param factory a {@code Factory} which will be used to instantiate new {@code ViewModels}" />
       <item value="{@link HasDefaultViewModelProviderFactorygetDefaultViewModelProviderFactory() default factory} if the owner implements {@link HasDefaultViewModelProviderFactory}. Otherwise, a {@link NewInstanceFactory} will be used." />
