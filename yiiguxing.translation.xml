@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="lateinit property bluetoothAdapter has not been initialized" />
       <item value="STATE DATA RECEIVED" />
       <item value="ACTION DATA AVAILABLE" />
       <item value="CONNECT" />
@@ -54,7 +55,6 @@
       <item value="Select and remove a word from the list" />
       <item value="The list of words - the front of the list is the next word to guess" />
       <item value="The current word" />
-      <item value="Fragment where the game is played" />
     </histories>
     <option name="languageScores">
       <map>
