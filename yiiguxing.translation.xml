@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="No virtual method postDelayed(LjavalangRunnable;LjavalangObject;J)Z in class LandroidosHandler; or its super classes (declaration of 'android.os.Handler' appears in systemframeworkframework.jar)" />
       <item value="needed Device Found" />
       <item value="lateinit property bluetoothAdapter has not been initialized" />
       <item value="STATE DATA RECEIVED" />
@@ -54,7 +55,6 @@
       <item value="Inflate view and obtain an instance of the binding class" />
       <item value="Select and remove a word from the list" />
       <item value="The list of words - the front of the list is the next word to guess" />
-      <item value="The current word" />
     </histories>
     <option name="languageScores">
       <map>
