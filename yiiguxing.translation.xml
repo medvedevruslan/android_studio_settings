@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Error receiving broadcast Inten" />
+      <item value="Error receiving broadcast Intent { act=lord.main.linear_pre_trip_control.bluetooth_le.STATE_DEFAULT_BLE flg=0x10 } in lord.main.linear_pre_trip_control.bluetooth_le.fragment_and_data_ble.BLEFragmentgattUpdateReceiver1@c954ad8" />
+      <item value="not attached to a context." />
       <item value="No virtual method postDelayed(LjavalangRunnable;LjavalangObject;J)Z in class LandroidosHandler; or its super classes (declaration of 'android.os.Handler' appears in systemframeworkframework.jar)" />
       <item value="needed Device Found" />
       <item value="lateinit property bluetoothAdapter has not been initialized" />
@@ -52,9 +55,6 @@
       <item value="Creates {@code ViewModelProvider}. This will create {@code ViewModels} and retain them in a store of the given {@code ViewModelStoreOwner}. &lt;p&gt; This method will use the" />
       <item value="require Arguments" />
       <item value="shuffle" />
-      <item value="Inflate view and obtain an instance of the binding class" />
-      <item value="Select and remove a word from the list" />
-      <item value="The list of words - the front of the list is the next word to guess" />
     </histories>
     <option name="languageScores">
       <map>
