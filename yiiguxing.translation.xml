@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Source code recreated from a .class file by IntelliJ IDEA (powered by FernFlower decompiler)" />
       <item value="Error receiving broadcast Inten" />
       <item value="Error receiving broadcast Intent { act=lord.main.linear_pre_trip_control.bluetooth_le.STATE_DEFAULT_BLE flg=0x10 } in lord.main.linear_pre_trip_control.bluetooth_le.fragment_and_data_ble.BLEFragmentgattUpdateReceiver1@c954ad8" />
       <item value="not attached to a context." />
@@ -54,7 +55,6 @@
       <item value="ory a {@code Factory} which will be used to instantiate new {@code ViewModels}" />
       <item value="Creates {@code ViewModelProvider}. This will create {@code ViewModels} and retain them in a store of the given {@code ViewModelStoreOwner}. &lt;p&gt; This method will use the" />
       <item value="require Arguments" />
-      <item value="shuffle" />
     </histories>
     <option name="languageScores">
       <map>
