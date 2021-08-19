@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="needed Device Found" />
       <item value="lateinit property bluetoothAdapter has not been initialized" />
       <item value="STATE DATA RECEIVED" />
       <item value="ACTION DATA AVAILABLE" />
@@ -23,7 +24,6 @@
       <item value="SEND REQUEST" />
       <item value="Return the {@link FragmentActivity} this fragment is currently associated with." />
       <item value="&quot;Connect request result =" />
-      <item value="needed Device Found" />
       <item value="Marks the API that is dependent on the experimental unsigned types, including those types themselves. Usages of such API will be reported as warnings unless an explicit opt-in with the [OptIn] annotation, e.g. `@OptIn(ExperimentalUnsignedTypes::class)`, or with the `-Xopt-in=kotlin.ExperimentalUnsignedTypes` compiler option is given. It's recommended to propagate the experimental status to the API that depends on unsigned types by annotating it with this annotation." />
       <item value="observe" />
       <item value="Increments the number of likes." />
