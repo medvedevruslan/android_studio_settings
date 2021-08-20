@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Marks the API that is dependent on the experimental unsigned types, including those types themselves. Usages of such API will be reported as warnings unless an explicit opt-in with the [OptIn] annotation, e.g. `@OptIn(ExperimentalUnsignedTypes::class)`, or with the `-Xopt-in=kotlin.ExperimentalUnsignedTypes` compiler option is given. It's recommended to propagate the experimental status to the API that depends on unsigned types by annotating it with this annotation." />
       <item value="null cannot be cast to non-null type android.app.ActivityManager" />
       <item value="Indicates whether some other object is &quot;equal to&quot; this one. Implementations must fulfil the following requirements:" />
       <item value="Source code recreated from a .class file by IntelliJ IDEA (powered by FernFlower decompiler)" />
@@ -31,7 +32,6 @@
       <item value="SEND REQUEST" />
       <item value="Return the {@link FragmentActivity} this fragment is currently associated with." />
       <item value="&quot;Connect request result =" />
-      <item value="Marks the API that is dependent on the experimental unsigned types, including those types themselves. Usages of such API will be reported as warnings unless an explicit opt-in with the [OptIn] annotation, e.g. `@OptIn(ExperimentalUnsignedTypes::class)`, or with the `-Xopt-in=kotlin.ExperimentalUnsignedTypes` compiler option is given. It's recommended to propagate the experimental status to the API that depends on unsigned types by annotating it with this annotation." />
       <item value="observe" />
       <item value="Increments the number of likes." />
       <item value="This is to prevent external modification of the variable." />
