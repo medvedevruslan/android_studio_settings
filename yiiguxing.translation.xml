@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="For detailed usage information see the documentation for [scope functions](https:kotlinlang.orgdocsreferencescope-functions.htmlapply)." />
+      <item value="Calls the specified function [block] with `this` value as its receiver and returns `this` value." />
       <item value="Return the number of entries currently in the back stack." />
       <item value="Return the FragmentManager for interacting with fragments associated with this activity." />
       <item value="lateinit property viewModel has not been initialized" />
@@ -25,7 +27,6 @@
       <item value="STATE DATA RECEIVED" />
       <item value="ACTION DATA AVAILABLE" />
       <item value="CONNECT" />
-      <item value="Calls the specified function [block] with `this` value as its receiver and returns `this` value." />
       <item value="Return a private FragmentManager for placing and managing Fragments inside of this Fragment." />
       <item value="update Connection State" />
       <item value="Date" />
@@ -54,7 +55,6 @@
       <item value="On Requery Factory" />
       <item value="Implementations of {@code Factory} interface are responsible to instantiate ViewModels." />
       <item value="Fragment where the final score is shown, after the game is over" />
-      <item value="is Assignable From" />
     </histories>
     <option name="languageScores">
       <map>
