@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="lateinit property viewModel has not been initialized" />
       <item value="DATA AVAILABLE" />
       <item value="STATE" />
       <item value="AVAILABLE" />
@@ -54,7 +55,6 @@
       <item value="is Assignable From" />
       <item value="@param factory a {@code Factory} which will be used to instantiate new {@code ViewModels}" />
       <item value="@param owner a {@code ViewModelStoreOwner} whose {@link ViewModelStore} will be used to retain {@code ViewModels} @param factory a {@code Factory} which will be used to instantiate new {@code ViewModels}" />
-      <item value="{@link HasDefaultViewModelProviderFactorygetDefaultViewModelProviderFactory() default factory} if the owner implements {@link HasDefaultViewModelProviderFactory}. Otherwise, a {@link NewInstanceFactory} will be used." />
     </histories>
     <option name="languageScores">
       <map>
