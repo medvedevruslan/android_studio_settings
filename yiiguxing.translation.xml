@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="number Decimal" />
+      <item value="number Signed" />
+      <item value="number" />
+      <item value="Phonetic" />
+      <item value="text Filter" />
+      <item value="text Postal Address" />
+      <item value="text Person Name" />
+      <item value="text Long Message" />
+      <item value="text Long Message text Person Name text Postal Address text Password text Visible Password (без автокоррекции) text Web Edit Text text Filter text Phonetic number number Signed number Decimal phone date time date time" />
+      <item value="textShortMessage textLongMessage textPersonName textPostalAddress textPassword textVisiblePassword (без автокоррекции) textWebEditText textFilter textPhonetic number numberSigned numberDecimal phone datetime date time" />
       <item value="For detailed usage information see the documentation for [scope functions](https:kotlinlang.orgdocsreferencescope-functions.htmlapply)." />
       <item value="Calls the specified function [block] with `this` value as its receiver and returns `this` value." />
       <item value="Return the number of entries currently in the back stack." />
@@ -45,16 +55,6 @@
       <item value="This is to prevent external modification of the variable." />
       <item value="Creates a new instance of the [Lazy] that uses the specified initialization function [initializer] and the default thread-safety mode [LazyThreadSafetyMode.SYNCHRONIZED]. If the initialization of a value throws an exception, it will attempt to reinitialize the value at next access. Note that the returned instance uses itself to synchronize on. Do not synchronize from external code on the returned instance as it may cause accidental deadlock. Also this behavior can be changed in the future." />
       <item value="Creates a new instance of the [Lazy] that uses the specified initialization function [initializer] and thread-safety [mode]. If the initialization of a value throws an exception, it will attempt to reinitialize the value at next access. Note that when the [LazyThreadSafetyMode.SYNCHRONIZED] mode is specified the returned instance uses itself to synchronize on. Do not synchronize from external code on the returned instance as it may cause accidental deadlock. Also this behavior can be changed in the future." />
-      <item value="notify Data Set Changed" />
-      <item value="Holder" />
-      <item value="Just Date" />
-      <item value="The specified Android SDK Build Tools version (29.0.3) is ignored, as it is below the minimum supported version (30.0.2) for Android Gradle Plugin 7.0.0. Android SDK Build Tools 30.0.2 will be used. To suppress this warning, remove &quot;buildToolsVersion '29.0.3'&quot; from your build.gradle file, as each version of the Android Gradle Plugin now has a default version of the build tools." />
-      <item value="Cannot fit requested classes in a single dex file ( methods: 74601 &gt; 65536)" />
-      <item value="buckets" />
-      <item value="A problem occurred evaluating project ':app'. &gt; Failed to apply plugin 'com.android.internal.application'. &gt; Android Gradle plugin requires Java 11 to run. You are currently using Java 1.8. You can try some of the following options: - changing the IDE settings. - changing the JAVA_HOME environment variable. - changing `org.gradle.java.home` in `gradle.properties`." />
-      <item value="On Requery Factory" />
-      <item value="Implementations of {@code Factory} interface are responsible to instantiate ViewModels." />
-      <item value="Fragment where the final score is shown, after the game is over" />
     </histories>
     <option name="languageScores">
       <map>
