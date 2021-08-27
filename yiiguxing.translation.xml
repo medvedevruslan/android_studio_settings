@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="SPAN_EXCLUSIVE_EXCLUSIVE spans cannot have a zero length" />
       <item value="reply Upload Measure Data" />
       <item value="on Editor Action" />
       <item value="View null does not have a NavController set" />
@@ -54,7 +55,6 @@
       <item value="Return the {@link FragmentActivity} this fragment is currently associated with." />
       <item value="&quot;Connect request result =" />
       <item value="observe" />
-      <item value="Increments the number of likes." />
     </histories>
     <option name="languageScores">
       <map>
