@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="reply Upload Measure Data" />
       <item value="on Editor Action" />
       <item value="View null does not have a NavController set" />
       <item value="number Decimal" />
@@ -54,7 +55,6 @@
       <item value="&quot;Connect request result =" />
       <item value="observe" />
       <item value="Increments the number of likes." />
-      <item value="This is to prevent external modification of the variable." />
     </histories>
     <option name="languageScores">
       <map>
