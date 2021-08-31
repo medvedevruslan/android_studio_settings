@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="if Service Is Born Field" />
+      <item value="service Is Born Field" />
+      <item value="service Born Field" />
       <item value="Unable to instantiate fragment lord.main.linear_pre_trip_control.support.QuestionDialogFragment: could not find Fragment constructor" />
       <item value="SPAN_EXCLUSIVE_EXCLUSIVE spans cannot have a zero length" />
       <item value="reply Upload Measure Data" />
@@ -52,9 +55,6 @@
       <item value="Connect request result" />
       <item value="Suppress Lint" />
       <item value="UPLOAD MEASURE DATA" />
-      <item value="SEND REQUEST" />
-      <item value="Return the {@link FragmentActivity} this fragment is currently associated with." />
-      <item value="&quot;Connect request result =" />
     </histories>
     <option name="languageScores">
       <map>
