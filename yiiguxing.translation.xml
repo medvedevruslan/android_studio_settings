@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Unable to instantiate fragment lord.main.linear_pre_trip_control.support.QuestionDialogFragment: could not find Fragment constructor" />
       <item value="SPAN_EXCLUSIVE_EXCLUSIVE spans cannot have a zero length" />
       <item value="reply Upload Measure Data" />
       <item value="on Editor Action" />
@@ -54,7 +55,6 @@
       <item value="SEND REQUEST" />
       <item value="Return the {@link FragmentActivity} this fragment is currently associated with." />
       <item value="&quot;Connect request result =" />
-      <item value="observe" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1629805272250" />
+    <option name="lastTrimTime" value="1630408739568" />
   </component>
 </application>
