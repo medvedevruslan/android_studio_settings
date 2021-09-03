@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Asynchronously send the request and notify {@code callback} of its response or if an error occurred talking to the server, creating the request, or processing the response." />
       <item value="print Stack Trace" />
       <item value="An HTTP response." />
       <item value="The deserialized response body of a {@linkplain isSuccessful() successful} response." />
@@ -54,7 +55,6 @@
       <item value="Date" />
       <item value="public class Date implements Serializable, Cloneable, Comparable&lt;Date&gt; { public Date() { throw new RuntimeException(&quot;Stub!&quot;); }" />
       <item value="Experimental Unsigned Types" />
-      <item value="Return the arguments supplied when the fragment was instantiated." />
     </histories>
     <option name="languageScores">
       <map>
