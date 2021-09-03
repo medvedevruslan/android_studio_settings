@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Specifies whether the argument value to the annotated method parameter is already URL encoded." />
       <item value="if Service Is Born Field" />
       <item value="service Is Born Field" />
       <item value="service Born Field" />
@@ -54,7 +55,6 @@
       <item value="&quot;Connect request result" />
       <item value="Connect request result" />
       <item value="Suppress Lint" />
-      <item value="UPLOAD MEASURE DATA" />
     </histories>
     <option name="languageScores">
       <map>
