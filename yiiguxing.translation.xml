@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="print Stack Trace" />
+      <item value="An HTTP response." />
+      <item value="The deserialized response body of a {@linkplain isSuccessful() successful} response." />
       <item value="Specifies whether the argument value to the annotated method parameter is already URL encoded." />
       <item value="if Service Is Born Field" />
       <item value="service Is Born Field" />
@@ -52,9 +55,6 @@
       <item value="public class Date implements Serializable, Cloneable, Comparable&lt;Date&gt; { public Date() { throw new RuntimeException(&quot;Stub!&quot;); }" />
       <item value="Experimental Unsigned Types" />
       <item value="Return the arguments supplied when the fragment was instantiated." />
-      <item value="&quot;Connect request result" />
-      <item value="Connect request result" />
-      <item value="Suppress Lint" />
     </histories>
     <option name="languageScores">
       <map>
