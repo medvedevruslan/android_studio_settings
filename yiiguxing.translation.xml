@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Istance" />
+      <item value="m Istance" />
       <item value="RecyclerView can perform several optimizations if it can know in advance that RecyclerView's size is not affected by the adapter contents. RecyclerView can still change its size based on other factors (e.g. its parent's size) but this size calculation cannot depend on the size of its children or contents of its adapter (except the number of items in the adapter). &lt;p&gt; If your use of RecyclerView falls into this category, set this to {@code true}. It will allow RecyclerView to avoid invalidating the whole layout when its adapter contents change. @param hasFixedSize true if adapter changes cannot affect the size of the RecyclerView." />
       <item value="Bind View Holder" />
       <item value="on Bind View Holder" />
@@ -53,8 +55,6 @@
       <item value="Error receiving broadcast Intent { act=lord.main.linear_pre_trip_control.bluetooth_le.STATE_DEFAULT_BLE flg=0x10 } in lord.main.linear_pre_trip_control.bluetooth_le.fragment_and_data_ble.BLEFragmentgattUpdateReceiver1@c954ad8" />
       <item value="not attached to a context." />
       <item value="No virtual method postDelayed(LjavalangRunnable;LjavalangObject;J)Z in class LandroidosHandler; or its super classes (declaration of 'android.os.Handler' appears in systemframeworkframework.jar)" />
-      <item value="needed Device Found" />
-      <item value="lateinit property bluetoothAdapter has not been initialized" />
     </histories>
     <option name="languageScores">
       <map>
