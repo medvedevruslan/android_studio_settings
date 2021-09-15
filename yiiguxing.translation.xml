@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="@Query(&quot;lowerPreassure&quot;) lowerPreassure: Int," />
       <item value="Static Field Leak" />
       <item value="Returns a string obtained by concatenating this string with the string representation of the given [other] object." />
       <item value="Message" />
@@ -54,7 +55,6 @@
       <item value="reply Upload Measure Data" />
       <item value="on Editor Action" />
       <item value="View null does not have a NavController set" />
-      <item value="number Decimal" />
     </histories>
     <option name="languageScores">
       <map>
