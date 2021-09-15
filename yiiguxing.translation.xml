@@ -5,6 +5,11 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Message" />
+      <item value="Message(" />
+      <item value="send Message" />
+      <item value="public final void removeMessages(int what) { throw new RuntimeException(&quot;Stub!&quot;); }" />
+      <item value="DNetworkSecurityConfig: No Network Security Config specified, using platform default" />
       <item value="enqueue" />
       <item value="Overview" />
       <item value="api Interface.get User Statistics(driver Id).enqueue" />
@@ -50,11 +55,6 @@
       <item value="number Decimal" />
       <item value="number Signed" />
       <item value="number" />
-      <item value="Phonetic" />
-      <item value="text Filter" />
-      <item value="text Postal Address" />
-      <item value="text Person Name" />
-      <item value="text Long Message" />
     </histories>
     <option name="languageScores">
       <map>
