@@ -5,6 +5,26 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Overview" />
+      <item value="api Interface.get User Statistics(driver Id).enqueue" />
+      <item value="roidx.lifecycle.View Model" />
+      <item value="Copyright 2018 The Android Open Source Project Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); you may not use this file except in compliance with the License. You may obtain a copy of the License at" />
+      <item value="Caused by: java.lang.IllegalArgumentException: URL &quot;statistics{userId}&quot; does not contain &quot;{userGuid}&quot;. (parameter 1)" />
+      <item value="Unable to create converter for java.util.List&lt;lord.main.linear_pre_trip_control.server_connect.PacketMeasurements&gt;" />
+      <item value="Marks declarations in the coroutines that are delicate &amp;mdash; they have limited use-case and shall be used with care in general code. Any use of a delicate declaration has to be carefully reviewed to make sure it is properly used and does not create problems like memory and resource leaks. Carefully read documentation of any declaration marked as `DelicateCoroutinesApi`." />
+      <item value="An annotation that indicates this member should be serialized to JSON with the provided name value as its field name." />
+      <item value="response" />
+      <item value="is Successful" />
+      <item value="!response.is Successful" />
+      <item value="SHOW ALL" />
+      <item value="SHOW BUY" />
+      <item value="SHOW RENT" />
+      <item value="Gets filtered Mars real estate property information from the Mars API Retrofit service and updates the [MarsProperty] [List] and [MarsApiStatus] [LiveData]. The Retrofit service returns a coroutine Deferred, which we await to get the result of the transaction. @param filter the [MarsApiFilter] that is sent as part of the web server request" />
+      <item value="Create an implementation of the API endpoints defined by the {@code service} interface." />
+      <item value="suspend" />
+      <item value="get Mars Real Estate Properties" />
+      <item value="This binding adapter displays the [MarsApiStatus] of the network request in an image view. When the request is loading, it displays a loading_animation. If the request has an error, it displays a broken image to reflect the connection error. When the request is finished, it hides the image view." />
+      <item value="interceptor" />
       <item value="Istance" />
       <item value="m Istance" />
       <item value="RecyclerView can perform several optimizations if it can know in advance that RecyclerView's size is not affected by the adapter contents. RecyclerView can still change its size based on other factors (e.g. its parent's size) but this size calculation cannot depend on the size of its children or contents of its adapter (except the number of items in the adapter). &lt;p&gt; If your use of RecyclerView falls into this category, set this to {@code true}. It will allow RecyclerView to avoid invalidating the whole layout when its adapter contents change. @param hasFixedSize true if adapter changes cannot affect the size of the RecyclerView." />
@@ -12,7 +32,6 @@
       <item value="on Bind View Holder" />
       <item value="Asynchronously send the request and notify {@code callback} of its response or if an error occurred talking to the server, creating the request, or processing the response." />
       <item value="enqueue" />
-      <item value="response" />
       <item value="Error occurred while getting request!" />
       <item value="&quot;Error occurred while getting request" />
       <item value="on Response" />
@@ -36,25 +55,6 @@
       <item value="text Postal Address" />
       <item value="text Person Name" />
       <item value="text Long Message" />
-      <item value="text Long Message text Person Name text Postal Address text Password text Visible Password (без автокоррекции) text Web Edit Text text Filter text Phonetic number number Signed number Decimal phone date time date time" />
-      <item value="textShortMessage textLongMessage textPersonName textPostalAddress textPassword textVisiblePassword (без автокоррекции) textWebEditText textFilter textPhonetic number numberSigned numberDecimal phone datetime date time" />
-      <item value="For detailed usage information see the documentation for [scope functions](https:kotlinlang.orgdocsreferencescope-functions.htmlapply)." />
-      <item value="Calls the specified function [block] with `this` value as its receiver and returns `this` value." />
-      <item value="Return the number of entries currently in the back stack." />
-      <item value="Return the FragmentManager for interacting with fragments associated with this activity." />
-      <item value="lateinit property viewModel has not been initialized" />
-      <item value="DATA AVAILABLE" />
-      <item value="STATE" />
-      <item value="AVAILABLE" />
-      <item value="STATE ACTION DATA AVAILABLE" />
-      <item value="Marks the API that is dependent on the experimental unsigned types, including those types themselves. Usages of such API will be reported as warnings unless an explicit opt-in with the [OptIn] annotation, e.g. `@OptIn(ExperimentalUnsignedTypes::class)`, or with the `-Xopt-in=kotlin.ExperimentalUnsignedTypes` compiler option is given. It's recommended to propagate the experimental status to the API that depends on unsigned types by annotating it with this annotation." />
-      <item value="null cannot be cast to non-null type android.app.ActivityManager" />
-      <item value="Indicates whether some other object is &quot;equal to&quot; this one. Implementations must fulfil the following requirements:" />
-      <item value="Source code recreated from a .class file by IntelliJ IDEA (powered by FernFlower decompiler)" />
-      <item value="Error receiving broadcast Inten" />
-      <item value="Error receiving broadcast Intent { act=lord.main.linear_pre_trip_control.bluetooth_le.STATE_DEFAULT_BLE flg=0x10 } in lord.main.linear_pre_trip_control.bluetooth_le.fragment_and_data_ble.BLEFragmentgattUpdateReceiver1@c954ad8" />
-      <item value="not attached to a context." />
-      <item value="No virtual method postDelayed(LjavalangRunnable;LjavalangObject;J)Z in class LandroidosHandler; or its super classes (declaration of 'android.os.Handler' appears in systemframeworkframework.jar)" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630913724223" />
+    <option name="lastTrimTime" value="1631510510992" />
   </component>
 </application>
