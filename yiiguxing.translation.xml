@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Simple Date Format" />
       <item value="get Scaled Scroll Factor" />
       <item value="lower Preassure" />
       <item value="@Query(&quot;lowerPreassure&quot;) lowerPreassure: Int," />
@@ -54,7 +55,6 @@
       <item value="service Born Field" />
       <item value="Unable to instantiate fragment lord.main.linear_pre_trip_control.support.QuestionDialogFragment: could not find Fragment constructor" />
       <item value="SPAN_EXCLUSIVE_EXCLUSIVE spans cannot have a zero length" />
-      <item value="reply Upload Measure Data" />
     </histories>
     <option name="languageScores">
       <map>
