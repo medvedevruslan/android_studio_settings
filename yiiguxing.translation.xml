@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="apply" />
       <item value="Specifies that an additional static method needs to be generated from this element if it's a function. If this element is a property, additional static gettersetter methods should be generated. See the [Kotlin language documentation](https:kotlinlang.orgdocsreferencejava-to-kotlin-interop.htmlstatic-methods) for more information." />
       <item value="on Response" />
       <item value="Caused by: java.lang.IllegalArgumentException: Cannot serialize Kotlin type com.example.apitest.MeasurePacket. Reflective serialization of Kotlin classes without using kotlin-reflect has undefined and unexpected behavior. Please use KotlinJsonAdapterFactory from the moshi-kotlin artifact or use code gen from the moshi-kotlin-codegen artifact." />
@@ -54,7 +55,6 @@
       <item value="The deserialized response body of a {@linkplain isSuccessful() successful} response." />
       <item value="Specifies whether the argument value to the annotated method parameter is already URL encoded." />
       <item value="if Service Is Born Field" />
-      <item value="service Is Born Field" />
     </histories>
     <option name="languageScores">
       <map>
