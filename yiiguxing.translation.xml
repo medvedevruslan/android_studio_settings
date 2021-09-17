@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="on Response" />
       <item value="Caused by: java.lang.IllegalArgumentException: Cannot serialize Kotlin type com.example.apitest.MeasurePacket. Reflective serialization of Kotlin classes without using kotlin-reflect has undefined and unexpected behavior. Please use KotlinJsonAdapterFactory from the moshi-kotlin artifact or use code gen from the moshi-kotlin-codegen artifact." />
       <item value="updatejson" />
       <item value="Simple Date Format" />
@@ -47,7 +48,6 @@
       <item value="Asynchronously send the request and notify {@code callback} of its response or if an error occurred talking to the server, creating the request, or processing the response." />
       <item value="Error occurred while getting request!" />
       <item value="&quot;Error occurred while getting request" />
-      <item value="on Response" />
       <item value="print Stack Trace" />
       <item value="An HTTP response." />
       <item value="The deserialized response body of a {@linkplain isSuccessful() successful} response." />
@@ -58,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="198" />
-        <entry key="RUSSIAN" value="197" />
+        <entry key="ENGLISH" value="200" />
+        <entry key="RUSSIAN" value="199" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
