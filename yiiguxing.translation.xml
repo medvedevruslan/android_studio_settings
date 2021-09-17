@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Caused by: java.lang.IllegalArgumentException: Cannot serialize Kotlin type com.example.apitest.MeasurePacket. Reflective serialization of Kotlin classes without using kotlin-reflect has undefined and unexpected behavior. Please use KotlinJsonAdapterFactory from the moshi-kotlin artifact or use code gen from the moshi-kotlin-codegen artifact." />
       <item value="updatejson" />
       <item value="Simple Date Format" />
       <item value="get Scaled Scroll Factor" />
@@ -54,7 +55,6 @@
       <item value="if Service Is Born Field" />
       <item value="service Is Born Field" />
       <item value="service Born Field" />
-      <item value="Unable to instantiate fragment lord.main.linear_pre_trip_control.support.QuestionDialogFragment: could not find Fragment constructor" />
     </histories>
     <option name="languageScores">
       <map>
