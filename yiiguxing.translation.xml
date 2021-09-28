@@ -5,6 +5,13 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Add a breadcrumb that will be sent with the next event(s)" />
+      <item value="how to apply the native bundle plugin" />
+      <item value="how to apply the sentry android gradle plugin plugin" />
+      <item value="You must set your org, project and auth token" />
+      <item value="a custom event from C++ code" />
+      <item value="The Id (SentryId object) of the event" />
+      <item value="Captures the message." />
       <item value="Mutable List" />
       <item value="This is the interface for text that has markup objects attached to ranges of it. Not all text classes have mutable markup or text; see {@link Spannable} for mutable markup and {@link Editable} for mutable text." />
       <item value="ooks like you've changed schema but forgot to update the version number. You can simply fix this by increasing the version number." />
@@ -48,13 +55,6 @@
       <item value="SHOW BUY" />
       <item value="SHOW RENT" />
       <item value="Gets filtered Mars real estate property information from the Mars API Retrofit service and updates the [MarsProperty] [List] and [MarsApiStatus] [LiveData]. The Retrofit service returns a coroutine Deferred, which we await to get the result of the transaction. @param filter the [MarsApiFilter] that is sent as part of the web server request" />
-      <item value="Create an implementation of the API endpoints defined by the {@code service} interface." />
-      <item value="suspend" />
-      <item value="get Mars Real Estate Properties" />
-      <item value="This binding adapter displays the [MarsApiStatus] of the network request in an image view. When the request is loading, it displays a loading_animation. If the request has an error, it displays a broken image to reflect the connection error. When the request is finished, it hides the image view." />
-      <item value="interceptor" />
-      <item value="Istance" />
-      <item value="m Istance" />
     </histories>
     <option name="languageScores">
       <map>
