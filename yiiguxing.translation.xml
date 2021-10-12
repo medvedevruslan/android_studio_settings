@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Wait one second then update the tap count." />
       <item value="Add a breadcrumb that will be sent with the next event(s)" />
       <item value="how to apply the native bundle plugin" />
       <item value="how to apply the sentry android gradle plugin plugin" />
@@ -54,17 +55,16 @@
       <item value="SHOW ALL" />
       <item value="SHOW BUY" />
       <item value="SHOW RENT" />
-      <item value="Gets filtered Mars real estate property information from the Mars API Retrofit service and updates the [MarsProperty] [List] and [MarsApiStatus] [LiveData]. The Retrofit service returns a coroutine Deferred, which we await to get the result of the transaction. @param filter the [MarsApiFilter] that is sent as part of the web server request" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="200" />
-        <entry key="RUSSIAN" value="199" />
+        <entry key="ENGLISH" value="201" />
+        <entry key="RUSSIAN" value="200" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1631510510992" />
+    <option name="lastTrimTime" value="1634039748472" />
   </component>
 </application>
