@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="populate Database" />
       <item value="is Assignable From" />
       <item value="[CoroutineScope] tied to this [ViewModel]. This scope will be canceled when ViewModel will be cleared, i.e [ViewModel.onCleared] is called This scope is bound to [Dispatchers.Main] val ViewModel.viewModelScope: CoroutineScope" />
       <item value="Wait one second then update the tap count." />
@@ -54,12 +55,11 @@
       <item value="response" />
       <item value="is Successful" />
       <item value="!response.is Successful" />
-      <item value="SHOW ALL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="203" />
-        <entry key="RUSSIAN" value="202" />
+        <entry key="ENGLISH" value="204" />
+        <entry key="RUSSIAN" value="203" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
