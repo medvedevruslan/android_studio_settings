@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns an empty read-only list. The returned list is serializable (JVM)." />
+      <item value="Returns a new read-only list of given elements. The returned list is serializable (JVM)." />
       <item value="populate Database" />
       <item value="is Assignable From" />
       <item value="[CoroutineScope] tied to this [ViewModel]. This scope will be canceled when ViewModel will be cleared, i.e [ViewModel.onCleared] is called This scope is bound to [Dispatchers.Main] val ViewModel.viewModelScope: CoroutineScope" />
@@ -53,18 +55,16 @@
       <item value="Marks declarations in the coroutines that are delicate &amp;mdash; they have limited use-case and shall be used with care in general code. Any use of a delicate declaration has to be carefully reviewed to make sure it is properly used and does not create problems like memory and resource leaks. Carefully read documentation of any declaration marked as `DelicateCoroutinesApi`." />
       <item value="An annotation that indicates this member should be serialized to JSON with the provided name value as its field name." />
       <item value="response" />
-      <item value="is Successful" />
-      <item value="!response.is Successful" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="204" />
-        <entry key="RUSSIAN" value="203" />
+        <entry key="ENGLISH" value="206" />
+        <entry key="RUSSIAN" value="205" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1634039748472" />
+    <option name="lastTrimTime" value="1634563437453" />
   </component>
 </application>
