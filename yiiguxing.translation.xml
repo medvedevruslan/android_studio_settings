@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="epresents a generic pair of two values. There is no meaning attached to values in this class, it can be used for any purpose. Pair exhibits value semantics, i.e. two pairs are equal if both components are equal." />
       <item value="The type with only one value: the `Unit` object. This type corresponds to the `void` type in Java." />
       <item value="Returns an empty read-only list. The returned list is serializable (JVM)." />
       <item value="Returns a new read-only list of given elements. The returned list is serializable (JVM)." />
@@ -54,12 +55,11 @@
       <item value="Caused by: java.lang.IllegalArgumentException: URL &quot;statistics{userId}&quot; does not contain &quot;{userGuid}&quot;. (parameter 1)" />
       <item value="Unable to create converter for java.util.List&lt;lord.main.linear_pre_trip_control.server_connect.PacketMeasurements&gt;" />
       <item value="Marks declarations in the coroutines that are delicate &amp;mdash; they have limited use-case and shall be used with care in general code. Any use of a delicate declaration has to be carefully reviewed to make sure it is properly used and does not create problems like memory and resource leaks. Carefully read documentation of any declaration marked as `DelicateCoroutinesApi`." />
-      <item value="An annotation that indicates this member should be serialized to JSON with the provided name value as its field name." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="207" />
-        <entry key="RUSSIAN" value="206" />
+        <entry key="ENGLISH" value="208" />
+        <entry key="RUSSIAN" value="207" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
