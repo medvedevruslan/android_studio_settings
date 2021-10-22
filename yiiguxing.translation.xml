@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="notify Item Range Inserted" />
+      <item value="Notify any registered observers that the currently reflected &lt;code&gt;itemCount&lt;code&gt; items starting at &lt;code&gt;positionStart&lt;code&gt; have been newly inserted. The items previously located at &lt;code&gt;positionStart&lt;code&gt; and beyond can now be found starting at position &lt;code&gt;positionStart + itemCount&lt;code&gt;. &lt;p&gt;This is a structural change event. Representations of other existing items in the data set are still considered up to date and will not be rebound, though their positions may be altered.&lt;p&gt;" />
+      <item value="root Directory Path" />
       <item value="epresents a generic pair of two values. There is no meaning attached to values in this class, it can be used for any purpose. Pair exhibits value semantics, i.e. two pairs are equal if both components are equal." />
       <item value="The type with only one value: the `Unit` object. This type corresponds to the `void` type in Java." />
       <item value="Returns an empty read-only list. The returned list is serializable (JVM)." />
@@ -52,14 +55,11 @@
       <item value="api Interface.get User Statistics(driver Id).enqueue" />
       <item value="roidx.lifecycle.View Model" />
       <item value="Copyright 2018 The Android Open Source Project Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); you may not use this file except in compliance with the License. You may obtain a copy of the License at" />
-      <item value="Caused by: java.lang.IllegalArgumentException: URL &quot;statistics{userId}&quot; does not contain &quot;{userGuid}&quot;. (parameter 1)" />
-      <item value="Unable to create converter for java.util.List&lt;lord.main.linear_pre_trip_control.server_connect.PacketMeasurements&gt;" />
-      <item value="Marks declarations in the coroutines that are delicate &amp;mdash; they have limited use-case and shall be used with care in general code. Any use of a delicate declaration has to be carefully reviewed to make sure it is properly used and does not create problems like memory and resource leaks. Carefully read documentation of any declaration marked as `DelicateCoroutinesApi`." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="208" />
-        <entry key="RUSSIAN" value="207" />
+        <entry key="ENGLISH" value="211" />
+        <entry key="RUSSIAN" value="210" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
