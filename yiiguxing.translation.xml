@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="cache File Does Not Exist" />
+      <item value="ASSET NAME" />
       <item value="java.lang.IllegalArgumentException: Couldn't find meta-data for provider with authority com.example.fileprovider_klimov" />
       <item value="Couldn't find meta-data for provider with authority com.example.fileprovider_klimov" />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.fileprovider_klimovcom.example.fileprovider_klimov.MainActivity}: java.lang.ClassCastException: androidx.constraintlayout.widget.ConstraintLayout cannot be cast to android.widget.Button" />
@@ -53,14 +55,12 @@
       <item value="updatejson" />
       <item value="Simple Date Format" />
       <item value="get Scaled Scroll Factor" />
-      <item value="lower Preassure" />
-      <item value="@Query(&quot;lowerPreassure&quot;) lowerPreassure: Int," />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="223" />
+        <entry key="ENGLISH" value="225" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="223" />
+        <entry key="RUSSIAN" value="225" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
