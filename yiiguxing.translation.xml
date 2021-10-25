@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="storage Dir" />
       <item value="share" />
       <item value="assets" />
       <item value="inputStream = assets.open(ASSET_NAME)" />
@@ -54,17 +55,17 @@
       <item value="Returns a string obtained by concatenating this string with the string representation of the given [other] object." />
       <item value="Message" />
       <item value="Message(" />
-      <item value="send Message" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="219" />
-        <entry key="RUSSIAN" value="218" />
+        <entry key="GERMAN" value="1" />
+        <entry key="RUSSIAN" value="219" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1634563437453" />
+    <option name="lastTrimTime" value="1635152567371" />
   </component>
 </application>
