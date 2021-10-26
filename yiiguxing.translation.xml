@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Calls the specified function [block] with `this` value as its argument and returns `this` value. For detailed usage information see the documentation for [scope functions](https:kotlinlang.orgdocsreferencescope-functions.htmlalso)." />
       <item value="share" />
       <item value="Recently Non Null" />
       <item value="Recently Nullable" />
@@ -54,13 +55,12 @@
       <item value="apply" />
       <item value="Specifies that an additional static method needs to be generated from this element if it's a function. If this element is a property, additional static gettersetter methods should be generated. See the [Kotlin language documentation](https:kotlinlang.orgdocsreferencejava-to-kotlin-interop.htmlstatic-methods) for more information." />
       <item value="on Response" />
-      <item value="Caused by: java.lang.IllegalArgumentException: Cannot serialize Kotlin type com.example.apitest.MeasurePacket. Reflective serialization of Kotlin classes without using kotlin-reflect has undefined and unexpected behavior. Please use KotlinJsonAdapterFactory from the moshi-kotlin artifact or use code gen from the moshi-kotlin-codegen artifact." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="229" />
+        <entry key="ENGLISH" value="230" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="229" />
+        <entry key="RUSSIAN" value="230" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
