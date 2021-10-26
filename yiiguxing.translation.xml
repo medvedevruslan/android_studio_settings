@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Constraint Layout" />
+      <item value="Environment" />
       <item value="Calls the specified function [block] with `this` value as its argument and returns `this` value. For detailed usage information see the documentation for [scope functions](https:kotlinlang.orgdocsreferencescope-functions.htmlalso)." />
       <item value="share" />
       <item value="Recently Non Null" />
@@ -15,7 +17,6 @@
       <item value="java.lang.IllegalArgumentException: Couldn't find meta-data for provider with authority com.example.fileprovider_klimov" />
       <item value="Couldn't find meta-data for provider with authority com.example.fileprovider_klimov" />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.fileprovider_klimovcom.example.fileprovider_klimov.MainActivity}: java.lang.ClassCastException: androidx.constraintlayout.widget.ConstraintLayout cannot be cast to android.widget.Button" />
-      <item value="Environment" />
       <item value="storage Dir" />
       <item value="assets" />
       <item value="inputStream = assets.open(ASSET_NAME)" />
@@ -54,13 +55,12 @@
       <item value="send Packages To Server" />
       <item value="apply" />
       <item value="Specifies that an additional static method needs to be generated from this element if it's a function. If this element is a property, additional static gettersetter methods should be generated. See the [Kotlin language documentation](https:kotlinlang.orgdocsreferencejava-to-kotlin-interop.htmlstatic-methods) for more information." />
-      <item value="on Response" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="230" />
+        <entry key="ENGLISH" value="232" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="230" />
+        <entry key="RUSSIAN" value="232" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
