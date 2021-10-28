@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ask Confirm Delete" />
       <item value="exists" />
       <item value="Constraint Layout" />
       <item value="Environment" />
@@ -54,13 +55,12 @@
       <item value="send" />
       <item value="send Packages To Server" />
       <item value="apply" />
-      <item value="Specifies that an additional static method needs to be generated from this element if it's a function. If this element is a property, additional static gettersetter methods should be generated. See the [Kotlin language documentation](https:kotlinlang.orgdocsreferencejava-to-kotlin-interop.htmlstatic-methods) for more information." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="233" />
+        <entry key="ENGLISH" value="234" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="233" />
+        <entry key="RUSSIAN" value="234" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
