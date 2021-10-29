@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="to Typed Array" />
       <item value="permissions To Request" />
       <item value="Shared Storage Photo" />
       <item value="load Photos From Internal Storage Into Recycler View" />
@@ -54,13 +55,12 @@
       <item value="a custom event from C++ code" />
       <item value="The Id (SentryId object) of the event" />
       <item value="Captures the message." />
-      <item value="Mutable List" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="251" />
+        <entry key="ENGLISH" value="252" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="251" />
+        <entry key="RUSSIAN" value="252" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
