@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Convenience method to launch a no-argument registered call without needing to pass in `null`." />
       <item value="internal Storage Photo Adapter" />
       <item value="Shared Storage Photo" />
       <item value="ask Confirm Delete" />
@@ -54,13 +55,12 @@
       <item value="Indicates this network uses a Cellular transport." />
       <item value="Returns details about the currently active default data network. When connected, this network is the default route for outgoing connections. You should always check {@link NetworkInfoisConnected()} before initiating network traffic. This may return {@code null} when there is no default network. Note that if the default network is a VPN, this method will return the NetworkInfo for one of its underlying networks instead, or null if the VPN agent did not specify any. Apps interested in learning about VPNs should use {@link getNetworkInfo(android.net.Network)} instead. @return a {@link NetworkInfo} object for the current default network or {@code null} if no default network is currently active" />
       <item value="Server" />
-      <item value="send" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="236" />
+        <entry key="ENGLISH" value="237" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="236" />
+        <entry key="RUSSIAN" value="237" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
