@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="permissions To Request" />
       <item value="Shared Storage Photo" />
       <item value="load Photos From Internal Storage Into Recycler View" />
       <item value="setup Internal Storage Recycler View" />
@@ -54,13 +55,12 @@
       <item value="The Id (SentryId object) of the event" />
       <item value="Captures the message." />
       <item value="Mutable List" />
-      <item value="This is the interface for text that has markup objects attached to ranges of it. Not all text classes have mutable markup or text; see {@link Spannable} for mutable markup and {@link Editable} for mutable text." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="250" />
+        <entry key="ENGLISH" value="251" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="250" />
+        <entry key="RUSSIAN" value="251" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
