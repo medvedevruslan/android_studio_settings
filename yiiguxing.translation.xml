@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="projection" />
       <item value="to Typed Array" />
       <item value="permissions To Request" />
       <item value="Shared Storage Photo" />
@@ -54,18 +55,17 @@
       <item value="You must set your org, project and auth token" />
       <item value="a custom event from C++ code" />
       <item value="The Id (SentryId object) of the event" />
-      <item value="Captures the message." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="252" />
+        <entry key="ENGLISH" value="253" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="252" />
+        <entry key="RUSSIAN" value="253" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635152567371" />
+    <option name="lastTrimTime" value="1635838909993" />
   </component>
 </application>
