@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Suspends current coroutine until all given jobs are complete. This method is semantically equivalent to joining all given jobs one by one with `jobs.forEach { it.join()" />
       <item value="Creates a coroutine and returns its future result as an implementation of [Deferred]. The running coroutine is cancelled when the resulting deferred is [cancelled][Job.cancel]. The resulting coroutine has a key difference compared with similar primitives in other languages and frameworks: it cancels the parent job (or outer scope) on failure to enforce structured concurrency paradigm. To change that behaviour, supervising parent ([SupervisorJob] or [supervisorScope]) can be used." />
       <item value="Runs a new coroutine and blocks the current thread _interruptibly_ until its completion. This function should not be used from a coroutine. It is designed to bridge regular blocking code to libraries that are written in suspending style, to be used in `main` functions and in tests." />
       <item value="Convenience method to launch a no-argument registered call without needing to pass in `null`." />
@@ -54,13 +55,12 @@
       <item value="Add a breadcrumb that will be sent with the next event(s)" />
       <item value="how to apply the native bundle plugin" />
       <item value="how to apply the sentry android gradle plugin plugin" />
-      <item value="You must set your org, project and auth token" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="256" />
+        <entry key="ENGLISH" value="257" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="256" />
+        <entry key="RUSSIAN" value="257" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
