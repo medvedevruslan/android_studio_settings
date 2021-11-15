@@ -70,6 +70,10 @@
           <option name="url" value="https://github.com/philipplackner/AndroidStorage.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dan9112/Smart_Truck.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Документы/AndroidStudioProjects/2021.11" />
