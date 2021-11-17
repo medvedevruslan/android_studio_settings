@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Tint" />
       <item value="ripple" />
       <item value="layout width" />
       <item value="Allow permanently disabling the Delete confirmation dialog Do not use animations if they are disabled systemwide Added some translation improvements" />
@@ -54,13 +55,12 @@
       <item value="populate Database" />
       <item value="is Assignable From" />
       <item value="[CoroutineScope] tied to this [ViewModel]. This scope will be canceled when ViewModel will be cleared, i.e [ViewModel.onCleared] is called This scope is bound to [Dispatchers.Main] val ViewModel.viewModelScope: CoroutineScope" />
-      <item value="Wait one second then update the tap count." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="261" />
+        <entry key="ENGLISH" value="262" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="261" />
+        <entry key="RUSSIAN" value="262" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
