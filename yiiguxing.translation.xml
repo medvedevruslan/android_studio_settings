@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="unit" />
       <item value="Tint" />
       <item value="ripple" />
       <item value="layout width" />
@@ -54,13 +55,12 @@
       <item value="Returns a new read-only list of given elements. The returned list is serializable (JVM)." />
       <item value="populate Database" />
       <item value="is Assignable From" />
-      <item value="[CoroutineScope] tied to this [ViewModel]. This scope will be canceled when ViewModel will be cleared, i.e [ViewModel.onCleared] is called This scope is bound to [Dispatchers.Main] val ViewModel.viewModelScope: CoroutineScope" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="262" />
+        <entry key="ENGLISH" value="263" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="262" />
+        <entry key="RUSSIAN" value="263" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
