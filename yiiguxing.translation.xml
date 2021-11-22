@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Speakable Text Present Check" />
       <item value="@param context Current context, will be used to access resources. @param orientation Layout orientation. Should be {@link HORIZONTAL} or {@link VERTICAL}. @param reverseLayout When set to true, layouts from end to start." />
       <item value="unit" />
       <item value="Tint" />
@@ -54,18 +55,17 @@
       <item value="The type with only one value: the `Unit` object. This type corresponds to the `void` type in Java." />
       <item value="Returns an empty read-only list. The returned list is serializable (JVM)." />
       <item value="Returns a new read-only list of given elements. The returned list is serializable (JVM)." />
-      <item value="populate Database" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="264" />
+        <entry key="ENGLISH" value="265" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="264" />
+        <entry key="RUSSIAN" value="265" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637127515418" />
+    <option name="lastTrimTime" value="1637571011834" />
   </component>
 </application>
