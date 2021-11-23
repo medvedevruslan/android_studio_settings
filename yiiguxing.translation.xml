@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="recycler Height" />
       <item value="Speakable Text Present Check" />
       <item value="@param context Current context, will be used to access resources. @param orientation Layout orientation. Should be {@link HORIZONTAL} or {@link VERTICAL}. @param reverseLayout When set to true, layouts from end to start." />
       <item value="unit" />
@@ -54,13 +55,12 @@
       <item value="epresents a generic pair of two values. There is no meaning attached to values in this class, it can be used for any purpose. Pair exhibits value semantics, i.e. two pairs are equal if both components are equal." />
       <item value="The type with only one value: the `Unit` object. This type corresponds to the `void` type in Java." />
       <item value="Returns an empty read-only list. The returned list is serializable (JVM)." />
-      <item value="Returns a new read-only list of given elements. The returned list is serializable (JVM)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="265" />
+        <entry key="ENGLISH" value="266" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="265" />
+        <entry key="RUSSIAN" value="266" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
