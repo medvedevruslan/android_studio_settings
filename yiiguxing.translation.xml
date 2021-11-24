@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="tint" />
       <item value="Screen" />
       <item value="until" />
       <item value="DENSITY" />
@@ -54,13 +55,12 @@
       <item value="path" />
       <item value="notify Item Range Inserted" />
       <item value="Notify any registered observers that the currently reflected &lt;code&gt;itemCount&lt;code&gt; items starting at &lt;code&gt;positionStart&lt;code&gt; have been newly inserted. The items previously located at &lt;code&gt;positionStart&lt;code&gt; and beyond can now be found starting at position &lt;code&gt;positionStart + itemCount&lt;code&gt;. &lt;p&gt;This is a structural change event. Representations of other existing items in the data set are still considered up to date and will not be rebound, though their positions may be altered.&lt;p&gt;" />
-      <item value="root Directory Path" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="269" />
+        <entry key="ENGLISH" value="270" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="269" />
+        <entry key="RUSSIAN" value="270" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
