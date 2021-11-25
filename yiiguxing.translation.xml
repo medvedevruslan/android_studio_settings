@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="on Label Click" />
       <item value="droidx.fragment.app.FragmentManagerImpl cannot be cast to ru.kamaz.smart_truck.history.DatePickerDatePickedListener" />
       <item value="ru.kamaz.smart_truck.ActivityAll.MainActivity cannot be cast to ru.kamaz.smart_truck.history.DatePickerDatePickedListener" />
       <item value="ru.kamaz.smart_truck.ActivityAll.MainActivity@ca566af must implement ru.kamaz.smart_truck.history.DatePickerDatePickedListener" />
@@ -54,13 +55,12 @@
       <item value="storage Dir" />
       <item value="assets" />
       <item value="inputStream = assets.open(ASSET_NAME)" />
-      <item value="output Stream" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="276" />
+        <entry key="ENGLISH" value="277" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="276" />
+        <entry key="RUSSIAN" value="277" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
