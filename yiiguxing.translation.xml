@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Bind" />
       <item value="possible variation: &quot;button&quot; or &quot;status&quot;" />
       <item value="scale XY" />
       <item value="Pager Adapter Frag" />
@@ -54,13 +55,12 @@
       <item value="Failed to find configured root that contains" />
       <item value="cache File Does Not Exist" />
       <item value="ASSET NAME" />
-      <item value="java.lang.IllegalArgumentException: Couldn't find meta-data for provider with authority com.example.fileprovider_klimov" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="283" />
+        <entry key="ENGLISH" value="284" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="283" />
+        <entry key="RUSSIAN" value="284" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
