@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="one Month Ago Calendar" />
+      <item value="current Date" />
       <item value="invoke" />
       <item value="Bind" />
       <item value="possible variation: &quot;button&quot; or &quot;status&quot;" />
@@ -53,19 +55,17 @@
       <item value="share" />
       <item value="Recently Non Null" />
       <item value="Recently Nullable" />
-      <item value="Failed to find configured root that contains" />
-      <item value="cache File Does Not Exist" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="285" />
+        <entry key="ENGLISH" value="287" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="285" />
+        <entry key="RUSSIAN" value="287" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1637571011834" />
+    <option name="lastTrimTime" value="1638187831124" />
   </component>
 </application>
