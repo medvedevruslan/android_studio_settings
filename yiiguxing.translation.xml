@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Can Bus Data Receiver Callback" />
       <item value="for check internet over Bluetooth" />
       <item value="for other device how are able to connect with Ethernet" />
       <item value="is Network Available" />
@@ -54,13 +55,12 @@
       <item value="Dispatchers" />
       <item value="with Context" />
       <item value="internal Storage Photo Adapter" />
-      <item value="ask Confirm Delete" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="296" />
+        <entry key="ENGLISH" value="297" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="296" />
+        <entry key="RUSSIAN" value="297" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
