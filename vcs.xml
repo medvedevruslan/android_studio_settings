@@ -78,9 +78,13 @@
           <option name="url" value="https://github.com/medvedevruslan/TypeZ.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/AlekseiBazhenov/CanBusApp.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Документы/AndroidStudioProjects/2021.11" />
+    <option name="cloneParentDir" value="$USER_HOME$/Документы/AndroidStudioProjects/2021.12" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
