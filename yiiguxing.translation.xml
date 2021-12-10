@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="behavior hideable" />
+      <item value="layout behavior" />
       <item value="ERROR:homemedvedevДокументыAndroidStudioProjects2021.11Smart_Truckappsrcmainreslayoutfragment_seat_bottom.xml:25: AAPT: error: 'drawableseat_render' is incompatible with attribute src (attr) reference|color." />
       <item value="swipe strip" />
       <item value="Wide View With Margins" />
@@ -53,14 +55,12 @@
       <item value="Shared Storage Photo" />
       <item value="load Photos From Internal Storage Into Recycler View" />
       <item value="setup Internal Storage Recycler View" />
-      <item value="Returns a list containing only elements matching the given [predicate]." />
-      <item value="Returns an array of abstract pathnames denoting the files in the directory denoted by this abstract pathname." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="301" />
+        <entry key="ENGLISH" value="303" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="301" />
+        <entry key="RUSSIAN" value="303" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
