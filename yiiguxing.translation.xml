@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="as" />
       <item value="Spot" />
       <item value="outline Spot Shadow Color" />
       <item value="outline Ambient Shadow Color" />
@@ -54,13 +55,12 @@
       <item value="Convenience method to launch a no-argument registered call without needing to pass in `null`." />
       <item value="projection" />
       <item value="to Typed Array" />
-      <item value="permissions To Request" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="306" />
+        <entry key="ENGLISH" value="307" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="306" />
+        <entry key="RUSSIAN" value="307" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
