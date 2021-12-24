@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="A resource failed to call close." />
       <item value="Rect" />
       <item value="Rounded" />
       <item value="Error inflating class io.ghyeok.stickyswitch.widget.StickySw" />
@@ -54,13 +55,12 @@
       <item value="Speakable Text Present Check" />
       <item value="@param context Current context, will be used to access resources. @param orientation Layout orientation. Should be {@link HORIZONTAL} or {@link VERTICAL}. @param reverseLayout When set to true, layouts from end to start." />
       <item value="unit" />
-      <item value="Tint" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="317" />
+        <entry key="ENGLISH" value="318" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="317" />
+        <entry key="RUSSIAN" value="318" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
