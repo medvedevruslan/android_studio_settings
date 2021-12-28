@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="986" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Implement this method to handle touch screen motion events. &lt;p&gt; If this method is used to detect click actions, it is recommended that the actions be performed by implementing and calling {@link performClick()}. This will ensure consistent system behavior, including: &lt;ul&gt; &lt;li&gt;obeying click sound preferences &lt;li&gt;dispatching OnClickListener calls &lt;li&gt;handling {@link AccessibilityNodeInfoACTION_CLICK ACTION_CLICK} when accessibility features are enabled &lt;ul&gt; @param event The motion event. @return True if the event was handled, false otherwise." />
       <item value="def Style Attr" />
       <item value="torrent Windows Max" />
       <item value="Remove any pending posts of Runnable r that are in the message queue." />
@@ -54,13 +55,12 @@
       <item value="Could not find method onLabelClick(View) in a parent or ancestor Context for android:onClick attribute defined on view class com.google.android.material.textview.MaterialTextView with id 'text_view_selected_date'" />
       <item value="tint" />
       <item value="Screen" />
-      <item value="until" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="322" />
+        <entry key="ENGLISH" value="323" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="322" />
+        <entry key="RUSSIAN" value="323" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
