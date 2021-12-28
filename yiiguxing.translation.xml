@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="973" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Remove any pending posts of Runnable r that are in the message queue." />
       <item value="node" />
       <item value="translatable" />
       <item value="A resource failed to call close." />
@@ -54,13 +55,12 @@
       <item value="until" />
       <item value="DENSITY" />
       <item value="recycler Height" />
-      <item value="Speakable Text Present Check" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="320" />
+        <entry key="ENGLISH" value="321" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="320" />
+        <entry key="RUSSIAN" value="321" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
