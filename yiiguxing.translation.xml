@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="986" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="def Style Attr" />
       <item value="torrent Windows Max" />
       <item value="Remove any pending posts of Runnable r that are in the message queue." />
       <item value="node" />
@@ -54,11 +55,10 @@
       <item value="tint" />
       <item value="Screen" />
       <item value="until" />
-      <item value="DENSITY" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="321" />
+        <entry key="ENGLISH" value="322" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="322" />
         <entry key="GALICIAN" value="1" />
