@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="986" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="before" />
+      <item value="java.lang.IllegalStateException: Fragment LightBottomFragment{8bdeed4} (fcdeaeb2-deeb-425b-878c-dbb8cf3053eb id=0x7f0a0240) did not return a View from onCreateView() or this was called before onCreateView()." />
+      <item value="Get the root view for the fragment's layout (the one returned by {@link onCreateView}). @throws IllegalStateException if no view was returned by {@link onCreateView}. @see getView()" />
+      <item value="Returns the ViewTreeObserver for this view's hierarchy. The view tree observer can be used to get notifications when global events, like layout, happen. The returned ViewTreeObserver observer is not guaranteed to remain valid for the lifetime of this View. If the caller of this method keeps a long-lived reference to ViewTreeObserver, it should always check for the return value of {@link ViewTreeObserverisAlive()}. @return The ViewTreeObserver for this view's hierarchy." />
       <item value="as" />
       <item value="Implement this method to handle touch screen motion events. &lt;p&gt; If this method is used to detect click actions, it is recommended that the actions be performed by implementing and calling {@link performClick()}. This will ensure consistent system behavior, including: &lt;ul&gt; &lt;li&gt;obeying click sound preferences &lt;li&gt;dispatching OnClickListener calls &lt;li&gt;handling {@link AccessibilityNodeInfoACTION_CLICK ACTION_CLICK} when accessibility features are enabled &lt;ul&gt; @param event The motion event. @return True if the event was handled, false otherwise." />
       <item value="def Style Attr" />
@@ -51,16 +55,12 @@
       <item value="Voice Assistant Fragment" />
       <item value="droidx.fragment.app.FragmentManagerImpl cannot be cast to ru.kamaz.smart_truck.history.DatePickerDatePickedListener" />
       <item value="ru.kamaz.smart_truck.ActivityAll.MainActivity cannot be cast to ru.kamaz.smart_truck.history.DatePickerDatePickedListener" />
-      <item value="ru.kamaz.smart_truck.ActivityAll.MainActivity@ca566af must implement ru.kamaz.smart_truck.history.DatePickerDatePickedListener" />
-      <item value="Could not find method onLabelClick(View) in a parent or ancestor Context for android:onClick attribute defined on view class com.google.android.material.textview.MaterialTextView with id 'text_view_selected_date'" />
-      <item value="tint" />
-      <item value="Screen" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="324" />
+        <entry key="ENGLISH" value="328" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="324" />
+        <entry key="RUSSIAN" value="328" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
