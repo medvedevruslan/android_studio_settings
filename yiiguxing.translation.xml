@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="986" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="@return A handler associated with the thread running the View. This handler can be used to pump events in the UI events queue." />
       <item value=") did not return a View from onCreateView() or this was called before onCreateView()." />
       <item value="before" />
       <item value="java.lang.IllegalStateException: Fragment LightBottomFragment{8bdeed4} (fcdeaeb2-deeb-425b-878c-dbb8cf3053eb id=0x7f0a0240) did not return a View from onCreateView() or this was called before onCreateView()." />
@@ -54,13 +55,12 @@
       <item value="Pager Adapter Frag" />
       <item value="Views Car Pager Adapter" />
       <item value="Voice Assistant Fragment" />
-      <item value="droidx.fragment.app.FragmentManagerImpl cannot be cast to ru.kamaz.smart_truck.history.DatePickerDatePickedListener" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="329" />
+        <entry key="ENGLISH" value="330" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="329" />
+        <entry key="RUSSIAN" value="330" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
