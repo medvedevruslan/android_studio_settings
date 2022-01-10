@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="986" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="clicker" />
       <item value="@return A handler associated with the thread running the View. This handler can be used to pump events in the UI events queue." />
       <item value=") did not return a View from onCreateView() or this was called before onCreateView()." />
       <item value="before" />
@@ -54,18 +55,17 @@
       <item value="scale XY" />
       <item value="Pager Adapter Frag" />
       <item value="Views Car Pager Adapter" />
-      <item value="Voice Assistant Fragment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="331" />
+        <entry key="ENGLISH" value="332" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="331" />
+        <entry key="RUSSIAN" value="332" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1640587766313" />
+    <option name="lastTrimTime" value="1641795062447" />
   </component>
 </application>
