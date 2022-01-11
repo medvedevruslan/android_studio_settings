@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="986" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="high" />
       <item value="Direction" />
       <item value="stroke" />
       <item value="solid" />
@@ -54,13 +55,12 @@
       <item value="current Date" />
       <item value="invoke" />
       <item value="Bind" />
-      <item value="possible variation: &quot;button&quot; or &quot;status&quot;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="335" />
+        <entry key="ENGLISH" value="337" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="336" />
+        <entry key="RUSSIAN" value="337" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
