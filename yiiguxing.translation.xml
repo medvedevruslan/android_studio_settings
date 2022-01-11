@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="618" />
-    <option name="newTranslationDialogX" value="740" />
-    <option name="newTranslationDialogY" value="986" />
-    <option name="pinNewTranslationDialog" value="true" />
+    <option name="newTranslationDialogWidth" value="2051" />
+    <option name="newTranslationDialogX" value="4339" />
+    <option name="newTranslationDialogY" value="982" />
     <histories>
+      <item value="Set a tinting option for the image. Assumes {@link PorterDuff.ModeSRC_ATOP} blending mode. @param color Color tint to apply. @attr ref android.R.styleableImageView_tint" />
       <item value="high" />
       <item value="Direction" />
       <item value="stroke" />
@@ -54,13 +54,12 @@
       <item value="one Month Ago Calendar" />
       <item value="current Date" />
       <item value="invoke" />
-      <item value="Bind" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="337" />
+        <entry key="ENGLISH" value="340" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="337" />
+        <entry key="RUSSIAN" value="340" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
