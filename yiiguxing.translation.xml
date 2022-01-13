@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="4339" />
     <option name="newTranslationDialogY" value="982" />
     <histories>
+      <item value="Hitch Info Fragment" />
       <item value="Set a tinting option for the image. Assumes {@link PorterDuff.ModeSRC_ATOP} blending mode. @param color Color tint to apply. @attr ref android.R.styleableImageView_tint" />
       <item value="wipers Zero" />
       <item value="high" />
@@ -53,13 +54,12 @@
       <item value="java.lang.IllegalArgumentException: bound must be greater than origin" />
       <item value="on Label Click" />
       <item value="one Month Ago Calendar" />
-      <item value="current Date" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="342" />
+        <entry key="ENGLISH" value="344" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="342" />
+        <entry key="RUSSIAN" value="344" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
