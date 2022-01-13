@@ -4,8 +4,8 @@
     <option name="newTranslationDialogX" value="4339" />
     <option name="newTranslationDialogY" value="982" />
     <histories>
-      <item value="wipers Zero" />
       <item value="Set a tinting option for the image. Assumes {@link PorterDuff.ModeSRC_ATOP} blending mode. @param color Color tint to apply. @attr ref android.R.styleableImageView_tint" />
+      <item value="wipers Zero" />
       <item value="high" />
       <item value="Direction" />
       <item value="stroke" />
@@ -57,9 +57,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="341" />
+        <entry key="ENGLISH" value="342" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="341" />
+        <entry key="RUSSIAN" value="342" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
