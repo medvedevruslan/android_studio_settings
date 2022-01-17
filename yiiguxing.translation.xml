@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="4339" />
     <option name="newTranslationDialogY" value="982" />
     <histories>
+      <item value="Padding added because of clipping of the bottom buttons" />
       <item value="Discarding envelope from cache: datauser0ru.kamaz.smart_truckcachesentry2bec94b3-98ed-4457-bc21-63266892e705.envelope" />
       <item value="Envelope flushed" />
       <item value="Creates a Transaction and returns the instance. Started transaction is set on the scope." />
@@ -37,7 +38,6 @@
       <item value="Error inflating class io.ghyeok.stickyswitch.widget.StickySw" />
       <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.stickyswitchcom.example.stickyswitch.MainActivity}: android.view.InflateException: Binary XML file line 36 in com.example.stickyswitch:layoutactivity_main: Binary XML file line 36 in com.example.stickyswitch:layoutactivity_main: Error inflating class io.ghyeok.stickyswitch.widget.StickySwitch" />
       <item value="set Visability" />
-      <item value="Padding added because of clipping of the bottom buttons" />
       <item value="Dismiss the fragment and its dialog. If the fragment was added to the back stack, all back stack state up to and including this entry will be popped. Otherwise, a new transaction will be committed to remove the fragment." />
       <item value="require Context" />
       <item value="path Data" />
@@ -57,9 +57,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="350" />
+        <entry key="ENGLISH" value="351" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="350" />
+        <entry key="RUSSIAN" value="351" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
