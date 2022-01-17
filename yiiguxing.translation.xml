@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="4339" />
     <option name="newTranslationDialogY" value="982" />
     <histories>
+      <item value="Discarding envelope from cache: datauser0ru.kamaz.smart_truckcachesentry2bec94b3-98ed-4457-bc21-63266892e705.envelope" />
+      <item value="Envelope flushed" />
       <item value="Creates a Transaction and returns the instance. Started transaction is set on the scope." />
       <item value="If you keep the line number information, uncomment this to hide the original source file name. -renamesourcefileattribute SourceFile" />
       <item value="it's 30s by default, making it 5s for testing" />
@@ -52,14 +54,12 @@
       <item value="for check internet over Bluetooth" />
       <item value="for other device how are able to connect with Ethernet" />
       <item value="is Network Available" />
-      <item value="No cached version of com.mapbox.mapboxsdk:mapbox-sdk-services:6.1.0 available for offline mode." />
-      <item value="Kotlin plugin should be enabled before 'kotlin-android-extensions'" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="348" />
+        <entry key="ENGLISH" value="350" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="348" />
+        <entry key="RUSSIAN" value="350" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
