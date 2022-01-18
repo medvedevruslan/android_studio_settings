@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="4339" />
     <option name="newTranslationDialogY" value="982" />
     <histories>
+      <item value="three Days Ago Calendar" />
       <item value="Padding added because of clipping of the bottom buttons" />
       <item value="Discarding envelope from cache: datauser0ru.kamaz.smart_truckcachesentry2bec94b3-98ed-4457-bc21-63266892e705.envelope" />
       <item value="Envelope flushed" />
@@ -53,13 +54,12 @@
       <item value="Can Bus Data Receiver Callback" />
       <item value="for check internet over Bluetooth" />
       <item value="for other device how are able to connect with Ethernet" />
-      <item value="is Network Available" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="351" />
+        <entry key="ENGLISH" value="352" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="351" />
+        <entry key="RUSSIAN" value="352" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
