@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="4339" />
     <option name="newTranslationDialogY" value="982" />
     <histories>
+      <item value="Replace an existing fragment that was added to a container. This is essentially the same as calling {@link remove(Fragment)} for all currently added fragments that were added with the same containerViewId and then {@link add(int, Fragment, String)} with the same arguments given here. @param containerViewId Identifier of the container whose fragment(s) are to be replaced. @param fragment The new fragment to place in the container. @param tag Optional tag name for the fragment, to later retrieve the fragment with {@link FragmentManagerfindFragmentByTag(String) FragmentManager.findFragmentByTag(String)}. @return Returns the same FragmentTransaction instance." />
+      <item value="Calls {@link replace(int, Fragment, String)} with a null tag." />
+      <item value="tart a series of edit operations on the Fragments associated with this FragmentManager. &lt;p&gt;Note: A fragment transaction can only be createdcommitted prior to an activity saving its state. If you try to commit a transaction after {@link FragmentActivityonSaveInstanceState FragmentActivity.onSaveInstanceState()} (and prior to a following {@link FragmentActivityonStart FragmentActivity.onStart} or {@link FragmentActivityonResume FragmentActivity.onResume()}, you will get an error. This is because the framework takes care of saving your current fragments in the state, and if changes are made after the state is saved then they will be lost.&lt;p&gt;" />
+      <item value="Return the FragmentManager for interacting with fragments associated with this activity." />
+      <item value="Return the FragmentManager for interacting with fragments associated with this activity" />
       <item value="it used for visualizing items as buttons in section 'indicators settings'" />
       <item value="bind" />
       <item value="variation" />
@@ -49,17 +54,12 @@
       <item value="set Visability" />
       <item value="Dismiss the fragment and its dialog. If the fragment was added to the back stack, all back stack state up to and including this entry will be popped. Otherwise, a new transaction will be committed to remove the fragment." />
       <item value="require Context" />
-      <item value="path Data" />
-      <item value="Spot" />
-      <item value="outline Spot Shadow Color" />
-      <item value="outline Ambient Shadow Color" />
-      <item value="behavior hideable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="363" />
+        <entry key="ENGLISH" value="369" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="363" />
+        <entry key="RUSSIAN" value="369" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
