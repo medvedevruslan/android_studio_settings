@@ -4,6 +4,10 @@
     <option name="newTranslationDialogX" value="4339" />
     <option name="newTranslationDialogY" value="982" />
     <histories>
+      <item value="Hitch Info Fragment" />
+      <item value="Wheel" />
+      <item value="Wheel Info Fragment" />
+      <item value="on Click Speech" />
       <item value="Schedules a commit of this transaction. The commit does not happen immediately; it will be scheduled as work on the main thread to be done the next time that thread is ready. &lt;p class=&quot;note&quot;&gt;A transaction can only be committed with this method prior to its containing activity saving its state. If the commit is attempted after that point, an exception will be thrown. This is because the state after the commit can be lost if the activity needs to be restored from its state. See {@link commitAllowingStateLoss()} for situations where it may be okay to lose the commit.&lt;p&gt; @return Returns the identifier of this transaction's back stack entry, if {@link addToBackStack(String)} had been called. Otherwise, returns a negative number." />
       <item value="Replace an existing fragment that was added to a container. This is essentially the same as calling {@link remove(Fragment)} for all currently added fragments that were added with the same containerViewId and then {@link add(int, Fragment, String)} with the same arguments given here. @param containerViewId Identifier of the container whose fragment(s) are to be replaced. @param fragment The new fragment to place in the container. @param tag Optional tag name for the fragment, to later retrieve the fragment with {@link FragmentManagerfindFragmentByTag(String) FragmentManager.findFragmentByTag(String)}. @return Returns the same FragmentTransaction instance." />
       <item value="Calls {@link replace(int, Fragment, String)} with a null tag." />
@@ -26,7 +30,6 @@
       <item value="If you keep the line number information, uncomment this to hide the original source file name. -renamesourcefileattribute SourceFile" />
       <item value="it's 30s by default, making it 5s for testing" />
       <item value="&lt;!-- enable debug mode, it's disabled by default --&gt;" />
-      <item value="Hitch Info Fragment" />
       <item value="Set a tinting option for the image. Assumes {@link PorterDuff.ModeSRC_ATOP} blending mode. @param color Color tint to apply. @attr ref android.R.styleableImageView_tint" />
       <item value="wipers Zero" />
       <item value="high" />
@@ -51,15 +54,12 @@
       <item value="Rect" />
       <item value="Rounded" />
       <item value="Error inflating class io.ghyeok.stickyswitch.widget.StickySw" />
-      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.stickyswitchcom.example.stickyswitch.MainActivity}: android.view.InflateException: Binary XML file line 36 in com.example.stickyswitch:layoutactivity_main: Binary XML file line 36 in com.example.stickyswitch:layoutactivity_main: Error inflating class io.ghyeok.stickyswitch.widget.StickySwitch" />
-      <item value="set Visability" />
-      <item value="Dismiss the fragment and its dialog. If the fragment was added to the back stack, all back stack state up to and including this entry will be popped. Otherwise, a new transaction will be committed to remove the fragment." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="370" />
+        <entry key="ENGLISH" value="374" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="370" />
+        <entry key="RUSSIAN" value="374" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
