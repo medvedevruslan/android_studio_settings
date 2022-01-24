@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="4339" />
     <option name="newTranslationDialogY" value="982" />
     <histories>
+      <item value="assembly List" />
+      <item value="shipment Busy" />
+      <item value="Connect To Server" />
       <item value="Instrumented test, which will execute on an Android device. See [testing documentation](http:d.android.comtoolstesting)." />
       <item value="Supply the construction arguments for this fragment. The arguments supplied here will be retained across fragment destroy and creation. &lt;p&gt;This method cannot be called if the fragment is added to a FragmentManager and if {@link isStateSaved()} would return true.&lt;p&gt;" />
       <item value="Hitch Info Fragment" />
@@ -51,15 +54,12 @@
       <item value="torrent Windows Max" />
       <item value="Remove any pending posts of Runnable r that are in the message queue." />
       <item value="node" />
-      <item value="translatable" />
-      <item value="A resource failed to call close." />
-      <item value="Rect" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="376" />
+        <entry key="ENGLISH" value="379" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="376" />
+        <entry key="RUSSIAN" value="379" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
