@@ -1,9 +1,25 @@
 <application>
   <component name="AppStorage">
-    <option name="newTranslationDialogWidth" value="2051" />
-    <option name="newTranslationDialogX" value="4339" />
-    <option name="newTranslationDialogY" value="982" />
+    <option name="newTranslationDialogHeight" value="626" />
+    <option name="newTranslationDialogWidth" value="2047" />
+    <option name="newTranslationDialogX" value="4494" />
+    <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="Extension functions and Binding Adapters" />
+      <item value="snackbar" />
+      <item value="Triggers a snackbar message when the value contained by snackbarTaskMessageLiveEvent is modified." />
+      <item value="Sets the {@link LifecycleOwner} that should be used for observing changes of LiveData in this binding. If a {@link LiveData} is in one of the binding expressions and no LifecycleOwner is set, the LiveData will not be observed and updates to it will not be propagated to the UI. When using Data Binding with Fragments, make sure to use Fragment.getViewLifecycleOwner(). Using the Fragment as the LifecycleOwner might cause memory leaks since the Fragment's Lifecycle outlives the view Lifecycle. When using Data Binding with Activities, you can use the Activity as the LifecycleOwner. @param lifecycleOwner The LifecycleOwner that should be used for observing changes of LiveData in this binding." />
+      <item value="Main UI for the statistics screen." />
+      <item value="isCompleted whether or not this task is completed" />
+      <item value="whether" />
+      <item value="Immutable model class for a Task. In order to compile with Room, we can't use @JvmOverloads to generate multiple constructors" />
+      <item value="multiple" />
+      <item value="to compile" />
+      <item value="whether or not this task is completed" />
+      <item value="description of the task" />
+      <item value="title of the task" />
+      <item value="Immutable" />
+      <item value="source" />
       <item value="refresh" />
       <item value="fresh" />
       <item value="refresh Tasks" />
@@ -39,27 +55,13 @@
       <item value="Wheel" />
       <item value="Wheel Info Fragment" />
       <item value="on Click Speech" />
-      <item value="Schedules a commit of this transaction. The commit does not happen immediately; it will be scheduled as work on the main thread to be done the next time that thread is ready. &lt;p class=&quot;note&quot;&gt;A transaction can only be committed with this method prior to its containing activity saving its state. If the commit is attempted after that point, an exception will be thrown. This is because the state after the commit can be lost if the activity needs to be restored from its state. See {@link commitAllowingStateLoss()} for situations where it may be okay to lose the commit.&lt;p&gt; @return Returns the identifier of this transaction's back stack entry, if {@link addToBackStack(String)} had been called. Otherwise, returns a negative number." />
-      <item value="Replace an existing fragment that was added to a container. This is essentially the same as calling {@link remove(Fragment)} for all currently added fragments that were added with the same containerViewId and then {@link add(int, Fragment, String)} with the same arguments given here. @param containerViewId Identifier of the container whose fragment(s) are to be replaced. @param fragment The new fragment to place in the container. @param tag Optional tag name for the fragment, to later retrieve the fragment with {@link FragmentManagerfindFragmentByTag(String) FragmentManager.findFragmentByTag(String)}. @return Returns the same FragmentTransaction instance." />
-      <item value="Calls {@link replace(int, Fragment, String)} with a null tag." />
-      <item value="tart a series of edit operations on the Fragments associated with this FragmentManager. &lt;p&gt;Note: A fragment transaction can only be createdcommitted prior to an activity saving its state. If you try to commit a transaction after {@link FragmentActivityonSaveInstanceState FragmentActivity.onSaveInstanceState()} (and prior to a following {@link FragmentActivityonStart FragmentActivity.onStart} or {@link FragmentActivityonResume FragmentActivity.onResume()}, you will get an error. This is because the framework takes care of saving your current fragments in the state, and if changes are made after the state is saved then they will be lost.&lt;p&gt;" />
-      <item value="Return the FragmentManager for interacting with fragments associated with this activity." />
-      <item value="Return the FragmentManager for interacting with fragments associated with this activity" />
-      <item value="it used for visualizing items as buttons in section 'indicators settings'" />
-      <item value="bind" />
-      <item value="variation" />
-      <item value="Return the arguments supplied when the fragment was instantiated, if any." />
-      <item value="Exception" />
-      <item value="FAILURE: Build failed with an exception. What went wrong: Execution failed for task ':app:testDebugUnitTest'. &gt; No tests found for given includes: [ru.kamaz.smart_truck.history.HistoryEventsFragmentTest](filter.includeTestsMatching) Try: Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights. Get more help at https:help.gradle.org" />
-      <item value="mismatch" />
-      <item value="three Days Ago Calendar" />
-      <item value="Padding added because of clipping of the bottom buttons" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="408" />
+        <entry key="ENGLISH" value="424" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="408" />
+        <entry key="RUSSIAN" value="424" />
+        <entry key="DUTCH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
