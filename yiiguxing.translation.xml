@@ -4,6 +4,22 @@
     <option name="newTranslationDialogX" value="4339" />
     <option name="newTranslationDialogY" value="982" />
     <histories>
+      <item value="TASKS SERVICE DATA" />
+      <item value="SERVICE LATENCY IN MILLIS" />
+      <item value="Implementation of the data source that adds a latency simulating network" />
+      <item value="data source" />
+      <item value="Base class to be extended by all coroutine dispatcher implementations." />
+      <item value="implementations" />
+      <item value="extended" />
+      <item value="Main entry point for accessing tasks data" />
+      <item value="accessing" />
+      <item value="entry point" />
+      <item value="Concrete implementation to load tasks from the data sources into a cache." />
+      <item value="cache" />
+      <item value="data sources" />
+      <item value="implementation" />
+      <item value="Concrete" />
+      <item value="A generic class that holds a value with its loading status." />
       <item value="Frag" />
       <item value="~ Unless required by applicable law or agreed to in writing, software ~ distributed under the License is distributed on an &quot;AS IS&quot; BASIS, ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. ~ See the License for the specific language governing permissions and ~ limitations under the License." />
       <item value="Returns the currently selected page. If no page can sensibly be selected because there is no adapter or the adapter is empty, returns 0." />
@@ -38,28 +54,12 @@
       <item value="Discarding envelope from cache: datauser0ru.kamaz.smart_truckcachesentry2bec94b3-98ed-4457-bc21-63266892e705.envelope" />
       <item value="Envelope flushed" />
       <item value="Creates a Transaction and returns the instance. Started transaction is set on the scope." />
-      <item value="If you keep the line number information, uncomment this to hide the original source file name. -renamesourcefileattribute SourceFile" />
-      <item value="it's 30s by default, making it 5s for testing" />
-      <item value="&lt;!-- enable debug mode, it's disabled by default --&gt;" />
-      <item value="Set a tinting option for the image. Assumes {@link PorterDuff.ModeSRC_ATOP} blending mode. @param color Color tint to apply. @attr ref android.R.styleableImageView_tint" />
-      <item value="wipers Zero" />
-      <item value="high" />
-      <item value="Direction" />
-      <item value="stroke" />
-      <item value="solid" />
-      <item value="clicker" />
-      <item value="@return A handler associated with the thread running the View. This handler can be used to pump events in the UI events queue." />
-      <item value=") did not return a View from onCreateView() or this was called before onCreateView()." />
-      <item value="before" />
-      <item value="java.lang.IllegalStateException: Fragment LightBottomFragment{8bdeed4} (fcdeaeb2-deeb-425b-878c-dbb8cf3053eb id=0x7f0a0240) did not return a View from onCreateView() or this was called before onCreateView()." />
-      <item value="Get the root view for the fragment's layout (the one returned by {@link onCreateView}). @throws IllegalStateException if no view was returned by {@link onCreateView}. @see getView()" />
-      <item value="Returns the ViewTreeObserver for this view's hierarchy. The view tree observer can be used to get notifications when global events, like layout, happen. The returned ViewTreeObserver observer is not guaranteed to remain valid for the lifetime of this View. If the caller of this method keeps a long-lived reference to ViewTreeObserver, it should always check for the return value of {@link ViewTreeObserverisAlive()}. @return The ViewTreeObserver for this view's hierarchy." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="389" />
+        <entry key="ENGLISH" value="405" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="390" />
+        <entry key="RUSSIAN" value="405" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
