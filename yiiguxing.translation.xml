@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="4339" />
     <option name="newTranslationDialogY" value="982" />
     <histories>
+      <item value="refresh" />
+      <item value="fresh" />
+      <item value="refresh Tasks" />
       <item value="TASKS SERVICE DATA" />
       <item value="SERVICE LATENCY IN MILLIS" />
       <item value="Implementation of the data source that adds a latency simulating network" />
@@ -51,15 +54,12 @@
       <item value="mismatch" />
       <item value="three Days Ago Calendar" />
       <item value="Padding added because of clipping of the bottom buttons" />
-      <item value="Discarding envelope from cache: datauser0ru.kamaz.smart_truckcachesentry2bec94b3-98ed-4457-bc21-63266892e705.envelope" />
-      <item value="Envelope flushed" />
-      <item value="Creates a Transaction and returns the instance. Started transaction is set on the scope." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="405" />
+        <entry key="ENGLISH" value="408" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="405" />
+        <entry key="RUSSIAN" value="408" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
