@@ -4,6 +4,8 @@
     <option name="newTranslationDialogX" value="4339" />
     <option name="newTranslationDialogY" value="982" />
     <histories>
+      <item value="Returns the currently selected page. If no page can sensibly be selected because there is no adapter or the adapter is empty, returns 0." />
+      <item value="Returns an element at the given [index] or throws an [IndexOutOfBoundsException] if the [index] is out of bounds of this collection." />
       <item value="Inserts a Serializable value into the mapping of this Bundle, replacing any existing value for the given key. Either key or value may be null." />
       <item value="@param value a Serializable object, or null" />
       <item value="Supply the construction arguments for this fragment. The arguments supplied here will be retained across fragment destroy and creation. &lt;p&gt;This method cannot be called if the fragment is added to a FragmentManager and if {@link isStateSaved()} would return true.&lt;p&gt;" />
@@ -52,14 +54,12 @@
       <item value="Returns the ViewTreeObserver for this view's hierarchy. The view tree observer can be used to get notifications when global events, like layout, happen. The returned ViewTreeObserver observer is not guaranteed to remain valid for the lifetime of this View. If the caller of this method keeps a long-lived reference to ViewTreeObserver, it should always check for the return value of {@link ViewTreeObserverisAlive()}. @return The ViewTreeObserver for this view's hierarchy." />
       <item value="as" />
       <item value="Implement this method to handle touch screen motion events. &lt;p&gt; If this method is used to detect click actions, it is recommended that the actions be performed by implementing and calling {@link performClick()}. This will ensure consistent system behavior, including: &lt;ul&gt; &lt;li&gt;obeying click sound preferences &lt;li&gt;dispatching OnClickListener calls &lt;li&gt;handling {@link AccessibilityNodeInfoACTION_CLICK ACTION_CLICK} when accessibility features are enabled &lt;ul&gt; @param event The motion event. @return True if the event was handled, false otherwise." />
-      <item value="def Style Attr" />
-      <item value="torrent Windows Max" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="386" />
+        <entry key="ENGLISH" value="388" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="386" />
+        <entry key="RUSSIAN" value="388" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
