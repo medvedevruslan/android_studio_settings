@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="4339" />
     <option name="newTranslationDialogY" value="982" />
     <histories>
+      <item value="Frag" />
       <item value="~ Unless required by applicable law or agreed to in writing, software ~ distributed under the License is distributed on an &quot;AS IS&quot; BASIS, ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. ~ See the License for the specific language governing permissions and ~ limitations under the License." />
       <item value="Returns the currently selected page. If no page can sensibly be selected because there is no adapter or the adapter is empty, returns 0." />
       <item value="Returns an element at the given [index] or throws an [IndexOutOfBoundsException] if the [index] is out of bounds of this collection." />
@@ -53,13 +54,12 @@
       <item value="java.lang.IllegalStateException: Fragment LightBottomFragment{8bdeed4} (fcdeaeb2-deeb-425b-878c-dbb8cf3053eb id=0x7f0a0240) did not return a View from onCreateView() or this was called before onCreateView()." />
       <item value="Get the root view for the fragment's layout (the one returned by {@link onCreateView}). @throws IllegalStateException if no view was returned by {@link onCreateView}. @see getView()" />
       <item value="Returns the ViewTreeObserver for this view's hierarchy. The view tree observer can be used to get notifications when global events, like layout, happen. The returned ViewTreeObserver observer is not guaranteed to remain valid for the lifetime of this View. If the caller of this method keeps a long-lived reference to ViewTreeObserver, it should always check for the return value of {@link ViewTreeObserverisAlive()}. @return The ViewTreeObserver for this view's hierarchy." />
-      <item value="as" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="389" />
-        <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="389" />
+        <entry key="GERMAN" value="2" />
+        <entry key="RUSSIAN" value="390" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
