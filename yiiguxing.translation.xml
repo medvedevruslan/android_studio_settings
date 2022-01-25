@@ -4,11 +4,12 @@
     <option name="newTranslationDialogX" value="4339" />
     <option name="newTranslationDialogY" value="982" />
     <histories>
+      <item value="Supply the construction arguments for this fragment. The arguments supplied here will be retained across fragment destroy and creation. &lt;p&gt;This method cannot be called if the fragment is added to a FragmentManager and if {@link isStateSaved()} would return true.&lt;p&gt;" />
+      <item value="Return the arguments supplied when the fragment was instantiated." />
       <item value="assembly List" />
       <item value="shipment Busy" />
       <item value="Connect To Server" />
       <item value="Instrumented test, which will execute on an Android device. See [testing documentation](http:d.android.comtoolstesting)." />
-      <item value="Supply the construction arguments for this fragment. The arguments supplied here will be retained across fragment destroy and creation. &lt;p&gt;This method cannot be called if the fragment is added to a FragmentManager and if {@link isStateSaved()} would return true.&lt;p&gt;" />
       <item value="Hitch Info Fragment" />
       <item value="Wheel" />
       <item value="Wheel Info Fragment" />
@@ -23,7 +24,6 @@
       <item value="bind" />
       <item value="variation" />
       <item value="Return the arguments supplied when the fragment was instantiated, if any." />
-      <item value="Return the arguments supplied when the fragment was instantiated." />
       <item value="Exception" />
       <item value="FAILURE: Build failed with an exception. What went wrong: Execution failed for task ':app:testDebugUnitTest'. &gt; No tests found for given includes: [ru.kamaz.smart_truck.history.HistoryEventsFragmentTest](filter.includeTestsMatching) Try: Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights. Get more help at https:help.gradle.org" />
       <item value="mismatch" />
@@ -57,9 +57,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="379" />
+        <entry key="ENGLISH" value="383" />
         <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="379" />
+        <entry key="RUSSIAN" value="383" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
