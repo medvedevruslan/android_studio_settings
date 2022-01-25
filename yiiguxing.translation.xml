@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="Function that does some trivial computation. Used to showcase unit tests" />
+      <item value="Function that does some trivial computation. Used to showcase unit tests." />
+      <item value="trivial" />
+      <item value="Extension functions and Binding Adapters." />
+      <item value="Transforms static java function Snackbar.make() to an extension function on View" />
       <item value="Extension functions and Binding Adapters" />
       <item value="snackbar" />
       <item value="Triggers a snackbar message when the value contained by snackbarTaskMessageLiveEvent is modified." />
@@ -50,17 +55,12 @@
       <item value="assembly List" />
       <item value="shipment Busy" />
       <item value="Connect To Server" />
-      <item value="Instrumented test, which will execute on an Android device. See [testing documentation](http:d.android.comtoolstesting)." />
-      <item value="Hitch Info Fragment" />
-      <item value="Wheel" />
-      <item value="Wheel Info Fragment" />
-      <item value="on Click Speech" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="424" />
+        <entry key="ENGLISH" value="431" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="424" />
+        <entry key="RUSSIAN" value="431" />
         <entry key="DUTCH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
