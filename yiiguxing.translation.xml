@@ -5,14 +5,16 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="number Of Active Tasks" />
+      <item value="Returns the number of elements matching the given" />
+      <item value="predicate" />
+      <item value="Returns the number of elements matching the given [predicate]." />
       <item value="no Completed" />
       <item value="returns Hundred Zero" />
       <item value="get Active And Completed Stats no Completed returns Hundred Zero" />
       <item value="unable to enhance gradle daemon classloader with idea_rt.jar" />
       <item value="whether or not this task is completed" />
       <item value="Classes that inherit from this interface can be represented as a sequence of elements that can be iterated over. @param T the type of element being iterated over. The iterator is covariant in its element type." />
-      <item value="Returns the number of elements matching the given" />
-      <item value="Returns the number of elements matching the given [predicate]." />
       <item value="total" />
       <item value="Used to showcase unit tests." />
       <item value="showcase" />
@@ -53,14 +55,12 @@
       <item value="Main entry point for accessing tasks data" />
       <item value="accessing" />
       <item value="entry point" />
-      <item value="Concrete implementation to load tasks from the data sources into a cache." />
-      <item value="cache" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="450" />
+        <entry key="ENGLISH" value="455" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="450" />
+        <entry key="RUSSIAN" value="455" />
         <entry key="DUTCH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
