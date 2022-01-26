@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="whether or not this task is completed" />
+      <item value="Classes that inherit from this interface can be represented as a sequence of elements that can be iterated over. @param T the type of element being iterated over. The iterator is covariant in its element type." />
+      <item value="Returns the number of elements matching the given" />
+      <item value="Returns the number of elements matching the given [predicate]." />
+      <item value="total" />
       <item value="Used to showcase unit tests." />
       <item value="showcase" />
       <item value="Function that does some trivial computation" />
@@ -27,7 +32,6 @@
       <item value="Immutable model class for a Task. In order to compile with Room, we can't use @JvmOverloads to generate multiple constructors" />
       <item value="multiple" />
       <item value="to compile" />
-      <item value="whether or not this task is completed" />
       <item value="description of the task" />
       <item value="title of the task" />
       <item value="Immutable" />
@@ -51,16 +55,12 @@
       <item value="implementation" />
       <item value="Concrete" />
       <item value="A generic class that holds a value with its loading status." />
-      <item value="Frag" />
-      <item value="~ Unless required by applicable law or agreed to in writing, software ~ distributed under the License is distributed on an &quot;AS IS&quot; BASIS, ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. ~ See the License for the specific language governing permissions and ~ limitations under the License." />
-      <item value="Returns the currently selected page. If no page can sensibly be selected because there is no adapter or the adapter is empty, returns 0." />
-      <item value="Returns an element at the given [index] or throws an [IndexOutOfBoundsException] if the [index] is out of bounds of this collection." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="439" />
+        <entry key="ENGLISH" value="444" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="439" />
+        <entry key="RUSSIAN" value="444" />
         <entry key="DUTCH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
