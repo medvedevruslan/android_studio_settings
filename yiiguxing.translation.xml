@@ -5,10 +5,12 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="Extension functions and Binding Adapters." />
+      <item value="Transforms static java function Snackbar.make() to an extension function on View." />
+      <item value="ransforms static java function Snackbar.make() to an extension function on View." />
       <item value="Function that does some trivial computation. Used to showcase unit tests" />
       <item value="Function that does some trivial computation. Used to showcase unit tests." />
       <item value="trivial" />
-      <item value="Extension functions and Binding Adapters." />
       <item value="Transforms static java function Snackbar.make() to an extension function on View" />
       <item value="Extension functions and Binding Adapters" />
       <item value="snackbar" />
@@ -53,14 +55,12 @@
       <item value="Supply the construction arguments for this fragment. The arguments supplied here will be retained across fragment destroy and creation. &lt;p&gt;This method cannot be called if the fragment is added to a FragmentManager and if {@link isStateSaved()} would return true.&lt;p&gt;" />
       <item value="Return the arguments supplied when the fragment was instantiated." />
       <item value="assembly List" />
-      <item value="shipment Busy" />
-      <item value="Connect To Server" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="431" />
+        <entry key="ENGLISH" value="433" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="431" />
+        <entry key="RUSSIAN" value="433" />
         <entry key="DUTCH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
