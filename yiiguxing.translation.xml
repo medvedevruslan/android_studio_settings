@@ -5,11 +5,11 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="no Completed" />
       <item value="number Of Active Tasks" />
       <item value="Returns the number of elements matching the given" />
       <item value="predicate" />
       <item value="Returns the number of elements matching the given [predicate]." />
-      <item value="no Completed" />
       <item value="returns Hundred Zero" />
       <item value="get Active And Completed Stats no Completed returns Hundred Zero" />
       <item value="unable to enhance gradle daemon classloader with idea_rt.jar" />
@@ -58,9 +58,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="455" />
+        <entry key="ENGLISH" value="456" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="455" />
+        <entry key="RUSSIAN" value="456" />
         <entry key="DUTCH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
