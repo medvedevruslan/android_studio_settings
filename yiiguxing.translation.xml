@@ -5,7 +5,11 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="content" />
       <item value="Returns the content and prevents its use again." />
+      <item value="Allow" />
+      <item value="Allow external read but not write" />
+      <item value="get Or Await Value" />
       <item value="Used as a wrapper for data that is exposed via a LiveData that represents an event." />
       <item value="out" />
       <item value="Called by the Data Binding library and the FAB's click listener." />
@@ -51,16 +55,12 @@
       <item value="refresh Tasks" />
       <item value="TASKS SERVICE DATA" />
       <item value="SERVICE LATENCY IN MILLIS" />
-      <item value="Implementation of the data source that adds a latency simulating network" />
-      <item value="data source" />
-      <item value="Base class to be extended by all coroutine dispatcher implementations." />
-      <item value="implementations" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="463" />
+        <entry key="ENGLISH" value="470" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="463" />
+        <entry key="RUSSIAN" value="470" />
         <entry key="DUTCH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
