@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="Returns the content and prevents its use again." />
       <item value="Used as a wrapper for data that is exposed via a LiveData that represents an event." />
       <item value="out" />
       <item value="Called by the Data Binding library and the FAB's click listener." />
@@ -54,13 +55,12 @@
       <item value="data source" />
       <item value="Base class to be extended by all coroutine dispatcher implementations." />
       <item value="implementations" />
-      <item value="extended" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="461" />
+        <entry key="ENGLISH" value="463" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="461" />
+        <entry key="RUSSIAN" value="463" />
         <entry key="DUTCH" value="1" />
         <entry key="GALICIAN" value="1" />
       </map>
