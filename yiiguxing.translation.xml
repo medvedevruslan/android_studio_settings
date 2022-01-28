@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="snack" />
+      <item value="snac" />
+      <item value="snackbar" />
       <item value="no Task Icon Drawable" />
       <item value="no Tasks Label String" />
       <item value="filtering Label String" />
@@ -44,7 +47,6 @@
       <item value="Function that does some trivial computation. Used to showcase unit tests." />
       <item value="Transforms static java function Snackbar.make() to an extension function on View" />
       <item value="Extension functions and Binding Adapters" />
-      <item value="snackbar" />
       <item value="Triggers a snackbar message when the value contained by snackbarTaskMessageLiveEvent is modified." />
       <item value="Sets the {@link LifecycleOwner} that should be used for observing changes of LiveData in this binding. If a {@link LiveData} is in one of the binding expressions and no LifecycleOwner is set, the LiveData will not be observed and updates to it will not be propagated to the UI. When using Data Binding with Fragments, make sure to use Fragment.getViewLifecycleOwner(). Using the Fragment as the LifecycleOwner might cause memory leaks since the Fragment's Lifecycle outlives the view Lifecycle. When using Data Binding with Activities, you can use the Activity as the LifecycleOwner. @param lifecycleOwner The LifecycleOwner that should be used for observing changes of LiveData in this binding." />
       <item value="Main UI for the statistics screen." />
@@ -53,15 +55,13 @@
       <item value="Immutable model class for a Task. In order to compile with Room, we can't use @JvmOverloads to generate multiple constructors" />
       <item value="multiple" />
       <item value="to compile" />
-      <item value="description of the task" />
-      <item value="title of the task" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="478" />
+        <entry key="ENGLISH" value="481" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="478" />
-        <entry key="DUTCH" value="1" />
+        <entry key="RUSSIAN" value="481" />
+        <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
     </option>
