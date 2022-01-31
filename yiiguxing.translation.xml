@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="sealed" />
+      <item value="A generic class that holds a value with its loading status." />
       <item value="Devices Mac Address" />
       <item value="Build was configured to prefer settings repositories over project repositories but repository 'maven2' was added by build file 'build.gradle'" />
       <item value="Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file 'build.gradle'" />
@@ -53,14 +55,12 @@
       <item value="computation" />
       <item value="trivial computatio" />
       <item value="Extension functions and Binding Adapters." />
-      <item value="Transforms static java function Snackbar.make() to an extension function on View." />
-      <item value="ransforms static java function Snackbar.make() to an extension function on View." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="501" />
+        <entry key="ENGLISH" value="505" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="501" />
+        <entry key="RUSSIAN" value="505" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
