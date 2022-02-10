@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="otherwise" />
       <item value="sealed" />
       <item value="A generic class that holds a value with its loading status." />
       <item value="Devices Mac Address" />
@@ -18,7 +19,6 @@
       <item value="Then the new task event is triggered" />
       <item value="When adding a new task" />
       <item value="The annotated element would have &quot;private&quot; visibility" />
-      <item value="otherwise" />
       <item value="Returns the content and prevents its use again." />
       <item value="get Or Await Value" />
       <item value="snack" />
@@ -58,9 +58,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="505" />
+        <entry key="ENGLISH" value="507" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="505" />
+        <entry key="RUSSIAN" value="507" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
