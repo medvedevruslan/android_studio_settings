@@ -5,12 +5,12 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="A generic class that holds a value with its loading status." />
       <item value="amount" />
       <item value="currency From Selection" />
       <item value="currency" />
       <item value="sealed" />
       <item value="otherwise" />
-      <item value="A generic class that holds a value with its loading status." />
       <item value="Devices Mac Address" />
       <item value="Build was configured to prefer settings repositories over project repositories but repository 'maven2' was added by build file 'build.gradle'" />
       <item value="Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file 'build.gradle'" />
@@ -58,9 +58,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="511" />
+        <entry key="ENGLISH" value="512" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="511" />
+        <entry key="RUSSIAN" value="512" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
