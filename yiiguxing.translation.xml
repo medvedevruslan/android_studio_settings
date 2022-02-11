@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="Concrete implementation to load tasks from the data sources into a cache." />
       <item value="switch Map" />
       <item value="update Tasks From Remote Data Source" />
       <item value="A generic class that holds a value with its loading status." />
@@ -54,13 +55,12 @@
       <item value="Classes that inherit from this interface can be represented as a sequence of elements that can be iterated over. @param T the type of element being iterated over. The iterator is covariant in its element type." />
       <item value="total" />
       <item value="Used to showcase unit tests." />
-      <item value="showcase" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="514" />
+        <entry key="ENGLISH" value="515" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="514" />
+        <entry key="RUSSIAN" value="515" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
