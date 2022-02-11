@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="amount" />
+      <item value="currency From Selection" />
       <item value="currency" />
       <item value="sealed" />
       <item value="otherwise" />
@@ -53,14 +55,12 @@
       <item value="showcase" />
       <item value="Function that does some trivial computation" />
       <item value="trivial" />
-      <item value="computation" />
-      <item value="trivial computatio" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="509" />
+        <entry key="ENGLISH" value="511" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="509" />
+        <entry key="RUSSIAN" value="511" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
