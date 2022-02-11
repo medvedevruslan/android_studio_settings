@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="switch Map" />
       <item value="update Tasks From Remote Data Source" />
       <item value="A generic class that holds a value with its loading status." />
       <item value="amount" />
@@ -54,13 +55,12 @@
       <item value="total" />
       <item value="Used to showcase unit tests." />
       <item value="showcase" />
-      <item value="Function that does some trivial computation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="513" />
+        <entry key="ENGLISH" value="514" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="513" />
+        <entry key="RUSSIAN" value="514" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
