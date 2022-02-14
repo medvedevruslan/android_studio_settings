@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="Executes" />
+      <item value="Executes the given function [block] while holding the monitor of the given object [lock]." />
       <item value="Concrete implementation to load tasks from the data sources into a cache." />
       <item value="switch Map" />
       <item value="update Tasks From Remote Data Source" />
@@ -53,14 +55,12 @@
       <item value="unable to enhance gradle daemon classloader with idea_rt.jar" />
       <item value="whether or not this task is completed" />
       <item value="Classes that inherit from this interface can be represented as a sequence of elements that can be iterated over. @param T the type of element being iterated over. The iterator is covariant in its element type." />
-      <item value="total" />
-      <item value="Used to showcase unit tests." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="515" />
+        <entry key="ENGLISH" value="517" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="515" />
+        <entry key="RUSSIAN" value="517" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
