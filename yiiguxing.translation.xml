@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="seek Bar Wind Force Down" />
+      <item value="torrent" />
+      <item value="torrent Down" />
       <item value="change Is Enable" />
       <item value="Fake Data Source" />
       <item value="Returns a list of all elements sorted according to natural sort order of the value returned by specified [selector] function. The sort is _stable_. It means that equal elements preserve their order relative to each other after sorting." />
@@ -52,15 +55,12 @@
       <item value="number Of Active Tasks" />
       <item value="Returns the number of elements matching the given" />
       <item value="predicate" />
-      <item value="Returns the number of elements matching the given [predicate]." />
-      <item value="returns Hundred Zero" />
-      <item value="get Active And Completed Stats no Completed returns Hundred Zero" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="520" />
+        <entry key="ENGLISH" value="523" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="520" />
+        <entry key="RUSSIAN" value="524" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
