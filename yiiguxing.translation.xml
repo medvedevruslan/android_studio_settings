@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="Speakable Text Present Check" />
       <item value="True to smoothly scroll to the new item, false to transition immediately" />
       <item value="set Default Button" />
       <item value="on Page Change Callback" />
@@ -54,13 +55,12 @@
       <item value="Used as a wrapper for data that is exposed via a LiveData that represents an event" />
       <item value="content" />
       <item value="Allow" />
-      <item value="Allow external read but not write" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="529" />
+        <entry key="ENGLISH" value="530" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="529" />
+        <entry key="RUSSIAN" value="530" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
