@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="Channel is unrecoverably broken and will be disposed!" />
       <item value="fetch Data From Shared Preferences" />
       <item value="Flag indicating that if the described PendingIntent does not already exist, then simply return null instead of creating it. For use with {@link getActivity}, {@link getBroadcast}, and {@link getService}." />
       <item value="Supply the construction arguments for this fragment. The arguments supplied here will be retained across fragment destroy and creation. &lt;p&gt;This method cannot be called if the fragment is added to a FragmentManager and if {@link isStateSaved()} would return true.&lt;p&gt;" />
@@ -54,13 +55,12 @@
       <item value="no Tasks Label String" />
       <item value="filtering Label String" />
       <item value="{@link LiveData} which publicly exposes {@link setValue(T)} and {@link postValue(T)} method. @param &lt;T&gt; The type of data hold by this instance" />
-      <item value="Mutable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="536" />
+        <entry key="ENGLISH" value="537" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="536" />
+        <entry key="RUSSIAN" value="537" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
