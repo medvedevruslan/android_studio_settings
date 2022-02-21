@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="request All Tasks From Remote Data Source" />
       <item value="Main entry point for accessing tasks data." />
       <item value="Note, for testing and architecture purposes, it's bad practice to construct the repository here. We'll show you how to fix this during the codelab" />
       <item value=", for testing and architecture purposes, it's bad practice to construct the repository here. We'll show you how to fix this during the codelab" />
@@ -54,13 +55,12 @@
       <item value="get Or Await Value" />
       <item value="snack" />
       <item value="snac" />
-      <item value="snackbar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="542" />
+        <entry key="ENGLISH" value="543" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="542" />
+        <entry key="RUSSIAN" value="543" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
