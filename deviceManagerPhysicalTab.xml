@@ -1,0 +1,18 @@
+<application>
+  <component name="deviceManagerPhysicalTab">
+    <physicalDevices>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="8FX6R19322000299" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-02-22T04:58:30.279929Z" />
+        <name value="HUAWEI CMR-AL09" />
+        <target value="Android 9.0" />
+        <api value="28" />
+      </PhysicalDevice>
+    </physicalDevices>
+  </component>
+</application>
