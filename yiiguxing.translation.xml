@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="Pager Adapter Frag" />
       <item value="get Tasks request All Tasks From Remote Data Source" />
       <item value="grid" />
       <item value="Note, for testing and architecture purposes, it's bad practice to construct the repository here. We'll show you how to fix this during the codelab" />
@@ -54,13 +55,12 @@
       <item value="Then the new task event is triggered" />
       <item value="When adding a new task" />
       <item value="The annotated element would have &quot;private&quot; visibility" />
-      <item value="Returns the content and prevents its use again." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="547" />
+        <entry key="ENGLISH" value="548" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="547" />
+        <entry key="RUSSIAN" value="548" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
