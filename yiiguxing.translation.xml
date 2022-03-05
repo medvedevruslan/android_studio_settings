@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="This is to prevent external modification of the variable." />
       <item value="edit Comp" />
       <item value="Solution" />
       <item value="Plain old activity with lots of problems to fix." />
@@ -54,13 +55,12 @@
       <item value="Marks the API that is dependent on the experimental unsigned types, including those types themselves. Usages of such API will be reported as warnings unless an explicit opt-in with the [OptIn] annotation, e.g. `@OptIn(ExperimentalUnsignedTypes::class)`, or with the `-Xopt-in=kotlin.ExperimentalUnsignedTypes` compiler option is given. It's recommended to propagate the experimental status to the API that depends on unsigned types by annotating it with this annotation." />
       <item value="ViewModel for the task list screen." />
       <item value="A JUnit Test Rule that swaps the background executor used by the Architecture Components with a different one which executes each task synchronously." />
-      <item value="A JUnit Test Rule that swaps the background executor used by the Architecture Components with a different one which executes each task synchronously. &lt;p&gt; You can use this rule for your host side tests that use Architecture Components." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="552" />
+        <entry key="ENGLISH" value="553" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="552" />
+        <entry key="RUSSIAN" value="553" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
