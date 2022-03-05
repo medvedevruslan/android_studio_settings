@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="If a binding adapter provides the setter, check that the adapter is annotated correctly and that the parameter type matches." />
+      <item value="A Binding Adapter that is called whenever the value of the attribute `android:progressTint` changes. Depending on the value it determines the color of the progress bar." />
+      <item value="Applies a tint to the progress indicator, if one exists, or to the entire progress drawable otherwise. Does not modify the current tint mode, which is {@link PorterDuff.ModeSRC_IN} by default. &lt;p&gt; The progress indicator should be specified as a layer with id {@link android.R.idprogress} in a {@link LayerDrawable} used as the progress drawable. &lt;p&gt; Subsequent calls to {@link setProgressDrawable(Drawable)} will automatically mutate the drawable and apply the specified tint and tint mode using {@link DrawablesetTintList(ColorStateList)}. @param tint the tint to apply, may be {@code null} to clear tint @attr ref android.R.styleableProgressBar_progressTint @see getProgressTintList() @see DrawablesetTintList(ColorStateList)" />
+      <item value="get Associated Color" />
+      <item value="hide" />
+      <item value="hide If Zero" />
       <item value="Ensures that this value is not greater than the specified [maximumVa" />
       <item value="coerce At Most" />
       <item value="Ensures that this value is not greater than the specified [maximumValue]." />
@@ -49,18 +55,12 @@
       <item value="Executes" />
       <item value="Executes the given function [block] while holding the monitor of the given object [lock]." />
       <item value="Concrete implementation to load tasks from the data sources into a cache." />
-      <item value="switch Map" />
-      <item value="update Tasks From Remote Data Source" />
-      <item value="A generic class that holds a value with its loading status." />
-      <item value="amount" />
-      <item value="currency From Selection" />
-      <item value="currency" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="562" />
+        <entry key="ENGLISH" value="568" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="562" />
+        <entry key="RUSSIAN" value="568" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
