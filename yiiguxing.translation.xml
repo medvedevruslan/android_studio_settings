@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="execute" />
       <item value="Indicates that Lint should ignore the specified warnings for the annotated element." />
       <item value="If a binding adapter provides the setter, check that the adapter is annotated correctly and that the parameter type matches." />
       <item value="A Binding Adapter that is called whenever the value of the attribute `android:progressTint` changes. Depending on the value it determines the color of the progress bar." />
@@ -54,13 +55,12 @@
       <item value="Fake Data Source" />
       <item value="Returns a list of all elements sorted according to natural sort order of the value returned by specified [selector] function. The sort is _stable_. It means that equal elements preserve their order relative to each other after sorting." />
       <item value="Executes" />
-      <item value="Executes the given function [block] while holding the monitor of the given object [lock]." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="569" />
+        <entry key="ENGLISH" value="570" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="569" />
+        <entry key="RUSSIAN" value="570" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
