@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="Shapes" />
       <item value="execute" />
       <item value="Indicates that Lint should ignore the specified warnings for the annotated element." />
       <item value="If a binding adapter provides the setter, check that the adapter is annotated correctly and that the parameter type matches." />
@@ -54,13 +55,12 @@
       <item value="change Is Enable" />
       <item value="Fake Data Source" />
       <item value="Returns a list of all elements sorted according to natural sort order of the value returned by specified [selector] function. The sort is _stable_. It means that equal elements preserve their order relative to each other after sorting." />
-      <item value="Executes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="571" />
+        <entry key="ENGLISH" value="572" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="571" />
+        <entry key="RUSSIAN" value="572" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
