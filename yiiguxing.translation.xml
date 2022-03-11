@@ -5,13 +5,14 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="Set of Material typography styles to start with" />
+      <item value="Shapes" />
       <item value="This function should be used to help build responsive UIs that follow the system setting, to avoid harsh contrast changes when switching between applications. It is also recommended to provide user accessible overrides in your application, so users can choose to force an always-light or always-dark theme. To do this, you should provide the current theme value in a CompositionLocal or similar to components further down your hierarchy, only calling this effect once at the top level if no user override has been set. This also helps avoid multiple calls to this effect, which can be expensive as it queries system configuration. For example, to draw a white rectangle when in dark theme, and a black rectangle when in light theme:" />
       <item value="This function should be used to help build responsive UIs that follow the system setting, to avoid harsh contrast changes when switching between applications. It is also recommended to provide user accessible overrides in your application, so users can choose to force an always-light or always-dark theme. To do this, you should provide the current theme value in a CompositionLocal or similar to components further down your hierarchy, only calling this effect once at the top level if no user override has been set. This also helps avoid multiple calls to this effect, which can be expensive as it queries system configuration. For example, to draw a white rectangle when in dark theme, and a black rectangle when in light" />
       <item value="avoid" />
       <item value="avoid harsh" />
       <item value="harsh" />
       <item value="responsive" />
-      <item value="Shapes" />
       <item value="execute" />
       <item value="Indicates that Lint should ignore the specified warnings for the annotated element." />
       <item value="If a binding adapter provides the setter, check that the adapter is annotated correctly and that the parameter type matches." />
@@ -54,13 +55,12 @@
       <item value="on Page Change Callback" />
       <item value="change Views Alpha" />
       <item value="animation In Process Count" />
-      <item value="Set the enabled state of this view. The interpretation of the enabled state varies by subclass." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="580" />
+        <entry key="ENGLISH" value="582" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="580" />
+        <entry key="RUSSIAN" value="582" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
