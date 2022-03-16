@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="Use NavigationUI to set up Bottom Nav" />
       <item value="&lt;!-- The category applied to all items within this group." />
       <item value="&lt;!-- The category applied to all items within this group. (This will be or'ed with the orderInCategory attribute.) --&gt;" />
       <item value="handler Queue" />
@@ -54,13 +55,12 @@
       <item value="A [MapView] provides an embeddable map interface. You use this class to display map information and to manipulate the map contents from your application. You can center the map on a given coordinate, specify the size of the area you want to display, and style the features of the map to fit your application's use case. Use of [MapView] requires a Mapbox API access token. Obtain an access token on the [Mapbox account page](https:www.mapbox.comstudioaccounttokens). &lt;strong&gt;Warning:&lt;strong&gt; Please note that you are responsible for getting permission to use the map data, and for ensuring your use adheres to the relevant terms of use." />
       <item value="Boolean" />
       <item value="Speakable Text Present Check" />
-      <item value="True to smoothly scroll to the new item, false to transition immediately" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="586" />
+        <entry key="ENGLISH" value="587" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="586" />
+        <entry key="RUSSIAN" value="587" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
