@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="You should also remove the old appBarConfiguration setup above" />
+      <item value="In split screen mode, you can drag this view out from the left This does NOT modify the actionbar" />
       <item value="Use NavigationUI to set up Bottom Nav" />
       <item value="&lt;!-- The category applied to all items within this group." />
       <item value="&lt;!-- The category applied to all items within this group. (This will be or'ed with the orderInCategory attribute.) --&gt;" />
@@ -53,14 +55,12 @@
       <item value="Flag indicating that if the described PendingIntent does not already exist, then simply return null instead of creating it. For use with {@link getActivity}, {@link getBroadcast}, and {@link getService}." />
       <item value="Supply the construction arguments for this fragment. The arguments supplied here will be retained across fragment destroy and creation. &lt;p&gt;This method cannot be called if the fragment is added to a FragmentManager and if {@link isStateSaved()} would return true.&lt;p&gt;" />
       <item value="A [MapView] provides an embeddable map interface. You use this class to display map information and to manipulate the map contents from your application. You can center the map on a given coordinate, specify the size of the area you want to display, and style the features of the map to fit your application's use case. Use of [MapView] requires a Mapbox API access token. Obtain an access token on the [Mapbox account page](https:www.mapbox.comstudioaccounttokens). &lt;strong&gt;Warning:&lt;strong&gt; Please note that you are responsible for getting permission to use the map data, and for ensuring your use adheres to the relevant terms of use." />
-      <item value="Boolean" />
-      <item value="Speakable Text Present Check" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="587" />
+        <entry key="ENGLISH" value="590" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="587" />
+        <entry key="RUSSIAN" value="590" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
