@@ -5,11 +5,11 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="NOTE: Do not place your application dependencies here; they belong in the individual module build.gradle files" />
       <item value="implementation" />
       <item value="Top-level build file where you can add configuration options common to all sub-projectsmodules." />
       <item value="dependencies" />
       <item value="Enables namespacing of each library's R class so that its R class includes only the resources declared in the library itself and none from the library's dependencies, thereby reducing the size of the R class for that library" />
-      <item value="NOTE: Do not place your application dependencies here; they belong in the individual module build.gradle files" />
       <item value="This allows NavigationUI to decide what label to show in the action bar By using appBarConfig, it will also determine whether to show the up arrow or drawer menu icon" />
       <item value="You should also remove the old appBarConfiguration setup above" />
       <item value="In split screen mode, you can drag this view out from the left This does NOT modify the actionbar" />
@@ -58,9 +58,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="597" />
+        <entry key="ENGLISH" value="598" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="597" />
+        <entry key="RUSSIAN" value="598" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
