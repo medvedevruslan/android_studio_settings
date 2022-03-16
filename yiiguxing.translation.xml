@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="&lt;!-- The category applied to all items within this group." />
+      <item value="&lt;!-- The category applied to all items within this group. (This will be or'ed with the orderInCategory attribute.) --&gt;" />
       <item value="handler Queue" />
       <item value="moon Offset" />
       <item value="Set of Material typography styles to start with" />
@@ -53,14 +55,12 @@
       <item value="Boolean" />
       <item value="Speakable Text Present Check" />
       <item value="True to smoothly scroll to the new item, false to transition immediately" />
-      <item value="set Default Button" />
-      <item value="on Page Change Callback" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="584" />
+        <entry key="ENGLISH" value="586" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="584" />
+        <entry key="RUSSIAN" value="586" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
