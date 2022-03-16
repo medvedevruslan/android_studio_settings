@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="Set a {@link android.widget.Toolbar Toolbar} to act as the {@link androidx.appcompat.app.ActionBar} for this Activity window. &lt;p&gt;When set to a non-null value the {@link getActionBar()} method will return an {@link androidx.appcompat.app.ActionBar} object that can be used to control the given toolbar as if it were a traditional window decor action bar. The toolbar's menu will be populated with the Activity's options menu and the navigation button will be wired through the standard {@link android.R.idhome home} menu select action.&lt;p&gt; &lt;p&gt;In order to use a Toolbar within the Activity's window content the application must not request the window feature {@link android.view.WindowFEATURE_ACTION_BAR FEATURE_SUPPORT_ACTION_BAR}.&lt;p&gt; @param toolbar Toolbar to set as the Activity's action bar, or {@code null} to clear it" />
       <item value="NOTE: Do not place your application dependencies here; they belong in the individual module build.gradle files" />
       <item value="implementation" />
       <item value="Top-level build file where you can add configuration options common to all sub-projectsmodules." />
@@ -54,13 +55,12 @@
       <item value="No tests found for given includes:" />
       <item value="request All Tasks From Remote Data Source" />
       <item value="Main entry point for accessing tasks data." />
-      <item value=", for testing and architecture purposes, it's bad practice to construct the repository here. We'll show you how to fix this during the codelab" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="598" />
+        <entry key="ENGLISH" value="599" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="598" />
+        <entry key="RUSSIAN" value="599" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
