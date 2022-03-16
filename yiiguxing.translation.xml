@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="Top-level build file where you can add configuration options common to all sub-projectsmodules." />
       <item value="This allows NavigationUI to decide what label to show in the action bar By using appBarConfig, it will also determine whether to show the up arrow or drawer menu icon" />
       <item value="You should also remove the old appBarConfiguration setup above" />
       <item value="In split screen mode, you can drag this view out from the left This does NOT modify the actionbar" />
@@ -54,13 +55,12 @@
       <item value="Channel is unrecoverably broken and will be disposed!" />
       <item value="fetch Data From Shared Preferences" />
       <item value="Flag indicating that if the described PendingIntent does not already exist, then simply return null instead of creating it. For use with {@link getActivity}, {@link getBroadcast}, and {@link getService}." />
-      <item value="Supply the construction arguments for this fragment. The arguments supplied here will be retained across fragment destroy and creation. &lt;p&gt;This method cannot be called if the fragment is added to a FragmentManager and if {@link isStateSaved()} would return true.&lt;p&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="591" />
+        <entry key="ENGLISH" value="592" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="591" />
+        <entry key="RUSSIAN" value="592" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
