@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="The NavigationView already has these same navigation items, so we only add navigation items to the menu here if there isn't a NavigationView" />
+      <item value="ID does not reference a View inside this Activity" />
       <item value="Add an item for the settings fragment" />
       <item value="aused by: java.lang.IllegalArgumentException: navigation destination com.example.coursecurrencies:layoutactivity_main is not a direct child of this NavGraph" />
       <item value="primary" />
@@ -53,14 +55,12 @@
       <item value="Plain old activity with lots of problems to fix." />
       <item value="Bluetooth binder is null" />
       <item value="Pager Adapter Frag" />
-      <item value="get Tasks request All Tasks From Remote Data Source" />
-      <item value="grid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="603" />
+        <entry key="ENGLISH" value="605" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="603" />
+        <entry key="RUSSIAN" value="605" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
