@@ -98,6 +98,10 @@
           <option name="url" value="https://github.com/googlecodelabs/android-navigation" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/chetandwarkani/Clean-RecyclerView-with-MVVM-LiveData-Repository-design-pattern.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Документы/AndroidStudioProjects/2022.03" />
