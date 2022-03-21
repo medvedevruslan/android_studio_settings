@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="Set a value value in the Binding class. &lt;p&gt; Typically, the developer will be able to call the subclass's set method directly. For example, if there is a variable &lt;code&gt;x&lt;code&gt; in the Binding, a &lt;code&gt;setX&lt;code&gt; method will be generated. However, there are times when the specific subclass of ViewDataBinding is unknown, so the generated method cannot be discovered without reflection. The setVariable call allows the values of variables to be set without reflection." />
       <item value="Food Items DTO" />
       <item value="View Holder" />
       <item value="bind Recycler View Adapter" />
@@ -54,13 +55,12 @@
       <item value="Showcases Binding Adapters with multiple attributes. Note that this adapter is called whenever any of the attribute changes." />
       <item value="progress Scaled" />
       <item value="Solution" />
-      <item value="Unused Binding Adapter to replace the Binding Converter that hides a view if the number of likes is zero." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="611" />
+        <entry key="ENGLISH" value="612" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="611" />
+        <entry key="RUSSIAN" value="612" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
