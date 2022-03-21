@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="populate Data" />
       <item value="Bind" />
       <item value="on Bind View Holder" />
       <item value="bind" />
@@ -54,13 +55,12 @@
       <item value="Ensures that this value is not greater than the specified [maximumVa" />
       <item value="coerce At Most" />
       <item value="Ensures that this value is not greater than the specified [maximumValue]." />
-      <item value="Sets the value of the progress bar so that 5 likes will fill it up." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="615" />
+        <entry key="ENGLISH" value="616" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="615" />
+        <entry key="RUSSIAN" value="616" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
