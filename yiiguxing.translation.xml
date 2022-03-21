@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="Food Items DTO" />
       <item value="View Holder" />
       <item value="bind Recycler View Adapter" />
       <item value="Unable to load class 'javax.xml.bind.JAXBException'." />
@@ -54,13 +55,12 @@
       <item value="progress Scaled" />
       <item value="Solution" />
       <item value="Unused Binding Adapter to replace the Binding Converter that hides a view if the number of likes is zero." />
-      <item value="Transformation methods for {@link LiveData}. &lt;p&gt; These methods permit functional composition and delegation of {@link LiveData} instances. The transformations are calculated lazily, and will run only when the returned {@link LiveData} is observed. Lifecycle behavior is propagated from the input {@code source} {@link LiveData} to the returned one." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="610" />
+        <entry key="ENGLISH" value="611" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="610" />
+        <entry key="RUSSIAN" value="611" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
