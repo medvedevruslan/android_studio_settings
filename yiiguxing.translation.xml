@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="Avoid using context in viewmodels. Set an Event Listener and use it in fragment using liveData." />
       <item value="populate Data" />
       <item value="Bind" />
       <item value="on Bind View Holder" />
@@ -54,13 +55,12 @@
       <item value="hide If Zero" />
       <item value="Ensures that this value is not greater than the specified [maximumVa" />
       <item value="coerce At Most" />
-      <item value="Ensures that this value is not greater than the specified [maximumValue]." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="616" />
+        <entry key="ENGLISH" value="617" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="616" />
+        <entry key="RUSSIAN" value="617" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
