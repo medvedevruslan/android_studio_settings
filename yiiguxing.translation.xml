@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="Give a String qualifier" />
+      <item value="get News Use Case" />
+      <item value="GET NEWS USECASE" />
       <item value="remote" />
       <item value="invoke" />
       <item value="Response" />
@@ -52,15 +55,12 @@
       <item value="avoid harsh" />
       <item value="harsh" />
       <item value="responsive" />
-      <item value="execute" />
-      <item value="Indicates that Lint should ignore the specified warnings for the annotated element." />
-      <item value="If a binding adapter provides the setter, check that the adapter is annotated correctly and that the parameter type matches." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="626" />
+        <entry key="ENGLISH" value="629" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="626" />
+        <entry key="RUSSIAN" value="629" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
