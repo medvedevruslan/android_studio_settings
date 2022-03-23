@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="invoke" />
+      <item value="Response" />
+      <item value="Photo Response" />
       <item value="Storage" />
       <item value="Currency Storage" />
       <item value="User Storage" />
@@ -52,15 +55,12 @@
       <item value="Indicates that Lint should ignore the specified warnings for the annotated element." />
       <item value="If a binding adapter provides the setter, check that the adapter is annotated correctly and that the parameter type matches." />
       <item value="A Binding Adapter that is called whenever the value of the attribute `android:progressTint` changes. Depending on the value it determines the color of the progress bar." />
-      <item value="Applies a tint to the progress indicator, if one exists, or to the entire progress drawable otherwise. Does not modify the current tint mode, which is {@link PorterDuff.ModeSRC_IN} by default. &lt;p&gt; The progress indicator should be specified as a layer with id {@link android.R.idprogress} in a {@link LayerDrawable} used as the progress drawable. &lt;p&gt; Subsequent calls to {@link setProgressDrawable(Drawable)} will automatically mutate the drawable and apply the specified tint and tint mode using {@link DrawablesetTintList(ColorStateList)}. @param tint the tint to apply, may be {@code null} to clear tint @attr ref android.R.styleableProgressBar_progressTint @see getProgressTintList() @see DrawablesetTintList(ColorStateList)" />
-      <item value="get Associated Color" />
-      <item value="hide" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="621" />
+        <entry key="ENGLISH" value="625" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="621" />
+        <entry key="RUSSIAN" value="625" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
