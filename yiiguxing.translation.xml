@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="Setup Android Logger for Koin" />
       <item value="&gt; Could not get unknown property 'koin_version' for object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler." />
       <item value="Required by: project :app" />
       <item value="reified" />
@@ -54,13 +55,12 @@
       <item value="Shapes" />
       <item value="This function should be used to help build responsive UIs that follow the system setting, to avoid harsh contrast changes when switching between applications. It is also recommended to provide user accessible overrides in your application, so users can choose to force an always-light or always-dark theme. To do this, you should provide the current theme value in a CompositionLocal or similar to components further down your hierarchy, only calling this effect once at the top level if no user override has been set. This also helps avoid multiple calls to this effect, which can be expensive as it queries system configuration. For example, to draw a white rectangle when in dark theme, and a black rectangle when in light theme:" />
       <item value="This function should be used to help build responsive UIs that follow the system setting, to avoid harsh contrast changes when switching between applications. It is also recommended to provide user accessible overrides in your application, so users can choose to force an always-light or always-dark theme. To do this, you should provide the current theme value in a CompositionLocal or similar to components further down your hierarchy, only calling this effect once at the top level if no user override has been set. This also helps avoid multiple calls to this effect, which can be expensive as it queries system configuration. For example, to draw a white rectangle when in dark theme, and a black rectangle when in light" />
-      <item value="avoid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="633" />
+        <entry key="ENGLISH" value="634" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="633" />
+        <entry key="RUSSIAN" value="634" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
