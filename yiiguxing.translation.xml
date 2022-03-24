@@ -5,10 +5,10 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="remote" />
       <item value="Give a String qualifier" />
       <item value="get News Use Case" />
       <item value="GET NEWS USECASE" />
-      <item value="remote" />
       <item value="invoke" />
       <item value="Response" />
       <item value="Photo Response" />
@@ -58,9 +58,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="629" />
+        <entry key="ENGLISH" value="630" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="629" />
+        <entry key="RUSSIAN" value="630" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
