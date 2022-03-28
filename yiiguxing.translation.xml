@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="Owner" />
       <item value="IME ACTION SEARCH" />
       <item value="response" />
       <item value="issue Comment Url" />
@@ -18,7 +19,6 @@
       <item value="connect Timeout" />
       <item value="retry On Connection Failure" />
       <item value="create Retrofit Client" />
-      <item value="Owner" />
       <item value="Unable to invoke no-args constructor for interface java.security.acl.Owner. Registering an InstanceCreator with Gson for this type may fix this problem." />
       <item value="Git Hub Search Response" />
       <item value="total count" />
@@ -58,9 +58,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="679" />
+        <entry key="ENGLISH" value="680" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="679" />
+        <entry key="RUSSIAN" value="680" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
