@@ -5,6 +5,15 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="issue Comment Url" />
+      <item value="branches Url" />
+      <item value="subscription url" />
+      <item value="stargazers count" />
+      <item value="incomplete Results" />
+      <item value="is Network Available" />
+      <item value="write Timeou" />
+      <item value="read Timeout" />
+      <item value="connect Timeout" />
       <item value="retry On Connection Failure" />
       <item value="create Retrofit Client" />
       <item value="Owner" />
@@ -23,7 +32,6 @@
       <item value="Asynchronously send the request and notify {@code callback} of its response or if an error occurred talking to the server, creating the request, or processing the response." />
       <item value="enqueue" />
       <item value="Items Item" />
-      <item value="stargazers count" />
       <item value="Valid" />
       <item value="hide" />
       <item value="extensions" />
@@ -47,20 +55,12 @@
       <item value="on Bind View Holder" />
       <item value="bind" />
       <item value="Set a value value in the Binding class. &lt;p&gt; Typically, the developer will be able to call the subclass's set method directly. For example, if there is a variable &lt;code&gt;x&lt;code&gt; in the Binding, a &lt;code&gt;setX&lt;code&gt; method will be generated. However, there are times when the specific subclass of ViewDataBinding is unknown, so the generated method cannot be discovered without reflection. The setVariable call allows the values of variables to be set without reflection." />
-      <item value="Food Items DTO" />
-      <item value="View Holder" />
-      <item value="bind Recycler View Adapter" />
-      <item value="Unable to load class 'javax.xml.bind.JAXBException'." />
-      <item value="here you can make an API call for populating. If you are doing API call then return observables and observe them in the fragments accordingly." />
-      <item value="Flag indicating whether this window requests a translucent status bar. Corresponds to {@link android.view.WindowManager.LayoutParamsFLAG_TRANSLUCENT_STATUS}. --&gt;" />
-      <item value="The NavigationView already has these same navigation items, so we only add navigation items to the menu here if there isn't a NavigationView" />
-      <item value="ID does not reference a View inside this Activity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="667" />
+        <entry key="ENGLISH" value="677" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="667" />
+        <entry key="RUSSIAN" value="677" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
