@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="IME ACTION SEARCH" />
+      <item value="response" />
       <item value="issue Comment Url" />
       <item value="branches Url" />
       <item value="subscription url" />
@@ -53,14 +55,12 @@
       <item value="populate Data" />
       <item value="Bind" />
       <item value="on Bind View Holder" />
-      <item value="bind" />
-      <item value="Set a value value in the Binding class. &lt;p&gt; Typically, the developer will be able to call the subclass's set method directly. For example, if there is a variable &lt;code&gt;x&lt;code&gt; in the Binding, a &lt;code&gt;setX&lt;code&gt; method will be generated. However, there are times when the specific subclass of ViewDataBinding is unknown, so the generated method cannot be discovered without reflection. The setVariable call allows the values of variables to be set without reflection." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="677" />
+        <entry key="ENGLISH" value="679" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="677" />
+        <entry key="RUSSIAN" value="679" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
