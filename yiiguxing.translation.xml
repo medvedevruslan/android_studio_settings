@@ -5,10 +5,13 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="Owner" />
+      <item value="Unable to invoke no-args constructor for interface java.security.acl.Owner. Registering an InstanceCreator with Gson for this type may fix this problem." />
+      <item value="Git Hub Search Response" />
+      <item value="total count" />
       <item value="is Valid" />
       <item value="2022-03-28 14:04:48.389 20889-20889com.example.koinexamples EonFailure: Unable to invoke no-args constructor for interface java.security.acl.Owner. Registering an InstanceCreator with Gson for this type may fix this problem." />
       <item value="Unable to create converter for class com.example.koinexamples.reposearch.models.GitHubSearchResponse" />
-      <item value="Unable to invoke no-args constructor for interface java.security.acl.Owner. Registering an InstanceCreator with Gson for this type may fix this problem." />
       <item value="java.lang.NoSuchMethodError: No static method toDouble-impl(JLjavautilconcurrentTimeUnit;)D in class LkotlintimeDuration; or its super classes (declaration of 'kotlin.time.Duration' appears in dataappcom.example.koinexamples-arXziYZxHgJqIzXib62nFA==base.apk)" />
       <item value="set On Editor Action Listener" />
       <item value="query" />
@@ -17,9 +20,7 @@
       <item value="Non Recoverable Error" />
       <item value="Asynchronously send the request and notify {@code callback} of its response or if an error occurred talking to the server, creating the request, or processing the response." />
       <item value="enqueue" />
-      <item value="Owner" />
       <item value="Items Item" />
-      <item value="Git Hub Search Response" />
       <item value="stargazers count" />
       <item value="Valid" />
       <item value="hide" />
@@ -54,13 +55,12 @@
       <item value="ID does not reference a View inside this Activity" />
       <item value="Add an item for the settings fragment" />
       <item value="aused by: java.lang.IllegalArgumentException: navigation destination com.example.coursecurrencies:layoutactivity_main is not a direct child of this NavGraph" />
-      <item value="primary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="661" />
+        <entry key="ENGLISH" value="665" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="661" />
+        <entry key="RUSSIAN" value="665" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
