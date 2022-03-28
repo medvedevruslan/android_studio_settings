@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="is Valid" />
       <item value="2022-03-28 14:04:48.389 20889-20889com.example.koinexamples EonFailure: Unable to invoke no-args constructor for interface java.security.acl.Owner. Registering an InstanceCreator with Gson for this type may fix this problem." />
       <item value="Unable to create converter for class com.example.koinexamples.reposearch.models.GitHubSearchResponse" />
       <item value="Unable to invoke no-args constructor for interface java.security.acl.Owner. Registering an InstanceCreator with Gson for this type may fix this problem." />
@@ -21,7 +22,6 @@
       <item value="Git Hub Search Response" />
       <item value="stargazers count" />
       <item value="Valid" />
-      <item value="is Valid" />
       <item value="hide" />
       <item value="extensions" />
       <item value="Setup Android Logger for Koin" />
@@ -58,9 +58,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="660" />
+        <entry key="ENGLISH" value="661" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="660" />
+        <entry key="RUSSIAN" value="661" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
