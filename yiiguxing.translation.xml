@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="create Retrofit Client" />
       <item value="Owner" />
       <item value="Unable to invoke no-args constructor for interface java.security.acl.Owner. Registering an InstanceCreator with Gson for this type may fix this problem." />
       <item value="Git Hub Search Response" />
@@ -54,13 +55,12 @@
       <item value="The NavigationView already has these same navigation items, so we only add navigation items to the menu here if there isn't a NavigationView" />
       <item value="ID does not reference a View inside this Activity" />
       <item value="Add an item for the settings fragment" />
-      <item value="aused by: java.lang.IllegalArgumentException: navigation destination com.example.coursecurrencies:layoutactivity_main is not a direct child of this NavGraph" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="665" />
+        <entry key="ENGLISH" value="666" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="665" />
+        <entry key="RUSSIAN" value="666" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
