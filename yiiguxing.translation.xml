@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4467" />
     <option name="newTranslationDialogY" value="1031" />
     <histories>
+      <item value="Remove all secondary listener that were notified of any changes in scroll state or position." />
       <item value="create Web Service" />
       <item value="page" />
       <item value="regular" />
@@ -54,13 +55,12 @@
       <item value="set On Editor Action Listener" />
       <item value="query" />
       <item value="observe Data" />
-      <item value="Recoverable Error" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="706" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="706" />
+        <entry key="RUSSIAN" value="707" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
