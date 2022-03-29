@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="java.lang.IllegalStateException: Expected a string but was BEGIN_OBJECT at line 1 column 5078 path .items[0].license" />
       <item value="Owner" />
       <item value="IME ACTION SEARCH" />
       <item value="response" />
@@ -54,13 +55,12 @@
       <item value="Avoid using context in viewmodels. Set an Event Listener and use it in fragment using liveData." />
       <item value="populate Data" />
       <item value="Bind" />
-      <item value="on Bind View Holder" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="680" />
+        <entry key="ENGLISH" value="681" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="680" />
+        <entry key="RUSSIAN" value="681" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
