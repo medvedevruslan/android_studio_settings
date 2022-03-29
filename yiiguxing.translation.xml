@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="4494" />
     <option name="newTranslationDialogY" value="953" />
     <histories>
+      <item value="Interface that represents a Repository for getting [Photo] related data." />
+      <item value="Class that represents a Photo in the domain layer." />
       <item value="change Shipment Busy" />
       <item value="Asynchronously send the request and notify callback of its response or if an error occurred talking to the server, creating the request, or processing the response." />
       <item value="java.lang.IllegalStateException: Expected a string but was BEGIN_OBJECT at line 1 column 5078 path .items[0].license" />
@@ -53,14 +55,12 @@
       <item value="Photo Response" />
       <item value="Storage" />
       <item value="Currency Storage" />
-      <item value="User Storage" />
-      <item value="Avoid using context in viewmodels. Set an Event Listener and use it in fragment using liveData." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="682" />
+        <entry key="ENGLISH" value="684" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="682" />
+        <entry key="RUSSIAN" value="684" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
       </map>
