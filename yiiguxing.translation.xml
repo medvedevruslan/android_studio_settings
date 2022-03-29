@@ -1,10 +1,27 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="626" />
-    <option name="newTranslationDialogWidth" value="2043" />
-    <option name="newTranslationDialogX" value="4494" />
-    <option name="newTranslationDialogY" value="953" />
+    <option name="newTranslationDialogWidth" value="2039" />
+    <option name="newTranslationDialogX" value="4467" />
+    <option name="newTranslationDialogY" value="1031" />
     <histories>
+      <item value="typealias" />
+      <item value="By overriding invoke, we allow use cases to be called as &quot;invoking&quot;" />
+      <item value="This will ensure coroutine is cancelled if it's still running some tasks" />
+      <item value="use-case" />
+      <item value="Should be called when use-case owner is destroyed This will ensure coroutine is cancelled if it's still running some tasks" />
+      <item value="invoke" />
+      <item value="Members" />
+      <item value="region Members" />
+      <item value="region" />
+      <item value="endregion" />
+      <item value="Creates a supervisor job object in an active state. Children of a supervisor job can fail independently of each other. A failure or cancellation of a child does not cause the supervisor job to fail and does not affect its other children, so a supervisor can implement a custom policy for handling failures of its children" />
+      <item value="Creates a supervisor job object in an active state. Children of a supervisor job can fail independently of each other. A failure or cancellation of a child does not cause the supervisor job to fail and does not affect its other children, so a supervisor can implement a custom policy for handling failures of its children:" />
+      <item value="success Block" />
+      <item value="handle Result" />
+      <item value="State" />
+      <item value="Success" />
+      <item value="Failure" />
       <item value="Interface that represents a Repository for getting [Photo] related data." />
       <item value="Class that represents a Photo in the domain layer." />
       <item value="change Shipment Busy" />
@@ -38,31 +55,16 @@
       <item value="Non Recoverable Error" />
       <item value="Asynchronously send the request and notify {@code callback} of its response or if an error occurred talking to the server, creating the request, or processing the response." />
       <item value="enqueue" />
-      <item value="Items Item" />
-      <item value="Valid" />
-      <item value="hide" />
-      <item value="extensions" />
-      <item value="Setup Android Logger for Koin" />
-      <item value="&gt; Could not get unknown property 'koin_version' for object of type org.gradle.api.internal.artifacts.dsl.dependencies.DefaultDependencyHandler." />
-      <item value="Required by: project :app" />
-      <item value="reified" />
-      <item value="remote" />
-      <item value="Give a String qualifier" />
-      <item value="get News Use Case" />
-      <item value="GET NEWS USECASE" />
-      <item value="invoke" />
-      <item value="Response" />
-      <item value="Photo Response" />
-      <item value="Storage" />
-      <item value="Currency Storage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="684" />
+        <entry key="ENGLISH" value="701" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="684" />
+        <entry key="RUSSIAN" value="702" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
+        <entry key="NORWEGIAN" value="1" />
+        <entry key="GREEK" value="2" />
       </map>
     </option>
   </component>
