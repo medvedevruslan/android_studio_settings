@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="4467" />
     <option name="newTranslationDialogY" value="1031" />
     <histories>
+      <item value="TBD" />
+      <item value="API 'BaseVariant.getApplicationIdTextResource' is obsolete and has been replaced with 'VariantProperties.applicationId'." />
+      <item value="API 'BaseVariant.getApplicationIdTextResource' is obsolete and has been replaced with 'VariantProperties.applicationId'. It will be removed in version 7.0 of the Android Gradle plugin. For more information, see TBD. To determine what is calling BaseVariant.getApplicationIdTextResource, use -Pandroid.debug.obsoleteApi=true on the command line to display more information." />
       <item value="reified" />
       <item value="on Load More" />
       <item value="Unexpected exception thrown by non-Glide code" />
@@ -52,15 +55,12 @@
       <item value="use-case" />
       <item value="Should be called when use-case owner is destroyed This will ensure coroutine is cancelled if it's still running some tasks" />
       <item value="invoke" />
-      <item value="Members" />
-      <item value="region Members" />
-      <item value="region" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="745" />
+        <entry key="ENGLISH" value="748" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="745" />
+        <entry key="RUSSIAN" value="748" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
