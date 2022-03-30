@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4467" />
     <option name="newTranslationDialogY" value="1031" />
     <histories>
+      <item value="[SwipeRefreshLayout] works as expected when a scroll view is a direct child: it triggers the refresh only when the view is on top. This class adds a way (@link setScrollUpChild} to define which view controls this behavior." />
       <item value="handle Success" />
       <item value="This LiveData depends on another so we can use a transformation." />
       <item value="Returns an empty read-only list. The returned list is serializable (JVM)." />
@@ -54,13 +55,12 @@
       <item value="Failure" />
       <item value="Class that represents a Photo in the domain layer." />
       <item value="change Shipment Busy" />
-      <item value="Asynchronously send the request and notify callback of its response or if an error occurred talking to the server, creating the request, or processing the response." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="731" />
+        <entry key="ENGLISH" value="732" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="731" />
+        <entry key="RUSSIAN" value="732" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
