@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="4467" />
     <option name="newTranslationDialogY" value="1031" />
     <histories>
+      <item value="Library projects cannot set applicationId. applicationId is set to 'com.example.data' in default config." />
+      <item value="Dependent features configured but no package ID was set." />
       <item value="This behavior will not be allowed in Android Gradle plugin 8.0. Please use only AndroidX dependencies or set `android.enableJetifier=true` in the `gradle.properties` file to migrate your project to AndroidX (see https:developer.android.comjetpackandroidxmigrate for more info). The following legacy support libraries are detected:" />
       <item value="reified" />
       <item value="exist" />
@@ -53,14 +55,12 @@
       <item value="Creates a supervisor job object in an active state. Children of a supervisor job can fail independently of each other. A failure or cancellation of a child does not cause the supervisor job to fail and does not affect its other children, so a supervisor can implement a custom policy for handling failures of its children" />
       <item value="Creates a supervisor job object in an active state. Children of a supervisor job can fail independently of each other. A failure or cancellation of a child does not cause the supervisor job to fail and does not affect its other children, so a supervisor can implement a custom policy for handling failures of its children:" />
       <item value="success Block" />
-      <item value="handle Result" />
-      <item value="State" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="736" />
+        <entry key="ENGLISH" value="738" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="736" />
+        <entry key="RUSSIAN" value="738" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
