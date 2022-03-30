@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="4467" />
     <option name="newTranslationDialogY" value="1031" />
     <histories>
+      <item value="fab" />
+      <item value="fab margin" />
+      <item value="on Load More" />
+      <item value="Extends [SwipeRefreshLayout] to support non-direct descendant scrolling views. [SwipeRefreshLayout] works as expected when a scroll view is a direct child: it triggers the refresh only when the view is on top. This class adds a way (@link setScrollUpChild} to define which view controls this behavior." />
+      <item value="Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License." />
+      <item value="Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); you may not use this file except in compliance with the License. You may obtain a copy of the License at" />
       <item value="End has been reached" />
       <item value="visible Threshold" />
       <item value="first Visible Item" />
@@ -49,18 +55,12 @@
       <item value="incomplete Results" />
       <item value="is Network Available" />
       <item value="write Timeou" />
-      <item value="read Timeout" />
-      <item value="connect Timeout" />
-      <item value="retry On Connection Failure" />
-      <item value="create Retrofit Client" />
-      <item value="Unable to invoke no-args constructor for interface java.security.acl.Owner. Registering an InstanceCreator with Gson for this type may fix this problem." />
-      <item value="Git Hub Search Response" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="716" />
+        <entry key="ENGLISH" value="724" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="716" />
+        <entry key="RUSSIAN" value="724" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
