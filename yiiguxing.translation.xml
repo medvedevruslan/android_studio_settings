@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="4467" />
     <option name="newTranslationDialogY" value="1031" />
     <histories>
+      <item value="Callback for calculating the diff between two non-null items in a list. Used by ListAdapter to calculate the minimum number of changes between and old list and a new list that's been passed to `submitList`." />
+      <item value="The following documentation urls were checked: http:developer.android.comreferenceandroidanimationArgbEvaluator.htmlArgbEvaluator-- http:developer.android.comreferenceandroidanimationArgbEvaluator.html&lt;init&gt;() http:developer.android.comreferenceandroidanimationArgbEvaluator.htmlArgbEvaluator(" />
+      <item value="fade Animation" />
       <item value="fab" />
       <item value="fab margin" />
       <item value="on Load More" />
@@ -52,15 +55,12 @@
       <item value="branches Url" />
       <item value="subscription url" />
       <item value="stargazers count" />
-      <item value="incomplete Results" />
-      <item value="is Network Available" />
-      <item value="write Timeou" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="724" />
+        <entry key="ENGLISH" value="726" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="724" />
+        <entry key="RUSSIAN" value="726" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
