@@ -1,10 +1,11 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="626" />
-    <option name="newTranslationDialogWidth" value="2039" />
+    <option name="newTranslationDialogWidth" value="2035" />
     <option name="newTranslationDialogX" value="4467" />
     <option name="newTranslationDialogY" value="1031" />
     <histories>
+      <item value="Returns an empty read-only list. The returned list is serializable (JVM)." />
       <item value="process Stream" />
       <item value="receive Channel" />
       <item value="Receive Channel" />
@@ -54,13 +55,12 @@
       <item value="Asynchronously send the request and notify callback of its response or if an error occurred talking to the server, creating the request, or processing the response." />
       <item value="java.lang.IllegalStateException: Expected a string but was BEGIN_OBJECT at line 1 column 5078 path .items[0].license" />
       <item value="Owner" />
-      <item value="IME ACTION SEARCH" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="729" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="729" />
+        <entry key="RUSSIAN" value="730" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
