@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="4467" />
     <option name="newTranslationDialogY" value="1031" />
     <histories>
+      <item value="consume Each" />
+      <item value="Coroutine Scope" />
       <item value="Receive Channel" />
       <item value="receive Channel" />
       <item value="TBD" />
@@ -53,14 +55,12 @@
       <item value="By overriding invoke, we allow use cases to be called as &quot;invoking&quot;" />
       <item value="This will ensure coroutine is cancelled if it's still running some tasks" />
       <item value="use-case" />
-      <item value="Should be called when use-case owner is destroyed This will ensure coroutine is cancelled if it's still running some tasks" />
-      <item value="invoke" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="750" />
+        <entry key="ENGLISH" value="752" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="750" />
+        <entry key="RUSSIAN" value="752" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
