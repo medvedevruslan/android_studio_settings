@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="4467" />
     <option name="newTranslationDialogY" value="1031" />
     <histories>
+      <item value="Receive Channel" />
+      <item value="receive Channel" />
       <item value="TBD" />
       <item value="API 'BaseVariant.getApplicationIdTextResource' is obsolete and has been replaced with 'VariantProperties.applicationId'." />
       <item value="API 'BaseVariant.getApplicationIdTextResource' is obsolete and has been replaced with 'VariantProperties.applicationId'. It will be removed in version 7.0 of the Android Gradle plugin. For more information, see TBD. To determine what is calling BaseVariant.getApplicationIdTextResource, use -Pandroid.debug.obsoleteApi=true on the command line to display more information." />
@@ -24,8 +26,6 @@
       <item value="This LiveData depends on another so we can use a transformation." />
       <item value="Returns an empty read-only list. The returned list is serializable (JVM)." />
       <item value="process Stream" />
-      <item value="receive Channel" />
-      <item value="Receive Channel" />
       <item value="The class name of a Behavior class defining special runtime behavior for this child view." />
       <item value="Callback for calculating the diff between two non-null items in a list. Used by ListAdapter to calculate the minimum number of changes between and old list and a new list that's been passed to `submitList`." />
       <item value="The following documentation urls were checked: http:developer.android.comreferenceandroidanimationArgbEvaluator.htmlArgbEvaluator-- http:developer.android.comreferenceandroidanimationArgbEvaluator.html&lt;init&gt;() http:developer.android.comreferenceandroidanimationArgbEvaluator.htmlArgbEvaluator(" />
@@ -58,9 +58,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="748" />
+        <entry key="ENGLISH" value="750" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="748" />
+        <entry key="RUSSIAN" value="750" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
