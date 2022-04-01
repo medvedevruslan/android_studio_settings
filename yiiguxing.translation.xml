@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="4467" />
     <option name="newTranslationDialogY" value="1031" />
     <histories>
+      <item value="page" />
+      <item value="Creates a MutableLiveData with no value assigned to it." />
+      <item value="resolve" />
       <item value="consume Each" />
       <item value="Performs the given [action] for each received element and [cancels][ReceiveChannel.cancel] the channel after the execution of the block. If you need to iterate over the channel without consuming it, a regular `for` loop should be used instead. The operation is _terminal_. This function [consumes][ReceiveChannel.consume] all elements of the original [ReceiveChannel" />
       <item value="process Stream" />
@@ -48,19 +51,16 @@
       <item value="True if we are still waiting for the last set of data to load." />
       <item value="Remove all secondary listener that were notified of any changes in scroll state or position." />
       <item value="create Web Service" />
-      <item value="page" />
       <item value="regular" />
       <item value="response" />
       <item value="Interface that represents a Repository for getting [Photo] related data." />
       <item value="typealias" />
-      <item value="By overriding invoke, we allow use cases to be called as &quot;invoking&quot;" />
-      <item value="This will ensure coroutine is cancelled if it's still running some tasks" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="755" />
+        <entry key="ENGLISH" value="758" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="755" />
+        <entry key="RUSSIAN" value="758" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
