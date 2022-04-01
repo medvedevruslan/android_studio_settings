@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1031" />
     <histories>
       <item value="consume Each" />
+      <item value="Performs the given [action] for each received element and [cancels][ReceiveChannel.cancel] the channel after the execution of the block. If you need to iterate over the channel without consuming it, a regular `for` loop should be used instead. The operation is _terminal_. This function [consumes][ReceiveChannel.consume] all elements of the original [ReceiveChannel" />
+      <item value="process Stream" />
       <item value="Coroutine Scope" />
       <item value="Receive Channel" />
       <item value="receive Channel" />
@@ -27,7 +29,6 @@
       <item value="handle Success" />
       <item value="This LiveData depends on another so we can use a transformation." />
       <item value="Returns an empty read-only list. The returned list is serializable (JVM)." />
-      <item value="process Stream" />
       <item value="The class name of a Behavior class defining special runtime behavior for this child view." />
       <item value="Callback for calculating the diff between two non-null items in a list. Used by ListAdapter to calculate the minimum number of changes between and old list and a new list that's been passed to `submitList`." />
       <item value="The following documentation urls were checked: http:developer.android.comreferenceandroidanimationArgbEvaluator.htmlArgbEvaluator-- http:developer.android.comreferenceandroidanimationArgbEvaluator.html&lt;init&gt;() http:developer.android.comreferenceandroidanimationArgbEvaluator.htmlArgbEvaluator(" />
@@ -54,13 +55,12 @@
       <item value="typealias" />
       <item value="By overriding invoke, we allow use cases to be called as &quot;invoking&quot;" />
       <item value="This will ensure coroutine is cancelled if it's still running some tasks" />
-      <item value="use-case" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="752" />
+        <entry key="ENGLISH" value="755" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="752" />
+        <entry key="RUSSIAN" value="755" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
