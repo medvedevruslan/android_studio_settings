@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4467" />
     <option name="newTranslationDialogY" value="1031" />
     <histories>
+      <item value="scroll Up Child" />
       <item value="page" />
       <item value="Creates a MutableLiveData with no value assigned to it." />
       <item value="resolve" />
@@ -54,13 +55,12 @@
       <item value="regular" />
       <item value="response" />
       <item value="Interface that represents a Repository for getting [Photo] related data." />
-      <item value="typealias" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="758" />
+        <entry key="ENGLISH" value="759" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="758" />
+        <entry key="RUSSIAN" value="759" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
