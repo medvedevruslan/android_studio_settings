@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="4467" />
     <option name="newTranslationDialogY" value="1031" />
     <histories>
+      <item value="This class holds the information about the result of a {@link DiffUtilcalculateDiff(Callback, boolean)} call." />
+      <item value="correct animation." />
+      <item value="you can return the particular field that changed in the item and your" />
+      <item value="particular field that changed in the item and your" />
+      <item value="this method is called to get a payload about the change." />
       <item value="Callback for calculating the diff between two non-null items in a list. Used by ListAdapter to calculate the minimum number of changes between and old list and a new list that's been passed to `submitList`." />
       <item value="are Contents The Same" />
       <item value="Set the listener to be notified when a refresh is triggered via the swipe gesture." />
@@ -50,17 +55,12 @@
       <item value="visible Item Count" />
       <item value="total" />
       <item value="The total number of items in the dataset after the last load" />
-      <item value="An OnScrollListener can be added to a RecyclerView to receive messages when a scrolling event has occurred on that RecyclerView." />
-      <item value="True if we are still waiting for the last set of data to load." />
-      <item value="Remove all secondary listener that were notified of any changes in scroll state or position." />
-      <item value="create Web Service" />
-      <item value="regular" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="762" />
+        <entry key="ENGLISH" value="767" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="762" />
+        <entry key="RUSSIAN" value="767" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
@@ -69,6 +69,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648446245059" />
+    <option name="lastTrimTime" value="1649051998588" />
   </component>
 </application>
