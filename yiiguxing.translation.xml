@@ -5,12 +5,13 @@
     <option name="newTranslationDialogX" value="4467" />
     <option name="newTranslationDialogY" value="1031" />
     <histories>
+      <item value="as Domain Model" />
+      <item value="as Database Model" />
       <item value="launch Uri" />
       <item value="Event triggered for network error. This is private to avoid exposing a way to set this value to observers." />
       <item value="A playlist of videos that can be shown on the screen. Views should use this to get access to the data." />
       <item value="Convert Network results to database objects" />
       <item value="Videos represent a devbyte that can be played." />
-      <item value="as Domain Model" />
       <item value="Truncate long text with a preference for word boundaries and without trailing punctuation." />
       <item value="smart Truncate" />
       <item value="Short description is used for displaying truncated descriptions in the UI" />
@@ -54,13 +55,12 @@
       <item value="handle Success" />
       <item value="This LiveData depends on another so we can use a transformation." />
       <item value="Returns an empty read-only list. The returned list is serializable (JVM)." />
-      <item value="The class name of a Behavior class defining special runtime behavior for this child view." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="784" />
+        <entry key="ENGLISH" value="786" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="784" />
+        <entry key="RUSSIAN" value="786" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
