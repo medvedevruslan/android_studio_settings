@@ -5,12 +5,12 @@
     <option name="newTranslationDialogX" value="4467" />
     <option name="newTranslationDialogY" value="1031" />
     <histories>
+      <item value="Convert Network results to database objects" />
+      <item value="Videos represent a devbyte that can be played." />
       <item value="as Domain Model" />
       <item value="Truncate long text with a preference for word boundaries and without trailing punctuation." />
       <item value="smart Truncate" />
       <item value="Short description is used for displaying truncated descriptions in the UI" />
-      <item value="Convert Network results to database objects" />
-      <item value="Videos represent a devbyte that can be played." />
       <item value="description" />
       <item value="Dispatches update operations to the given Callback. &lt;p&gt; These updates are atomic such that the first update call affects every update call that comes after it (the same as RecyclerView)." />
       <item value="first" />
@@ -58,9 +58,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="779" />
+        <entry key="ENGLISH" value="781" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="779" />
+        <entry key="RUSSIAN" value="781" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
