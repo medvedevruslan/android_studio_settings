@@ -5,9 +5,11 @@
     <option name="newTranslationDialogX" value="4467" />
     <option name="newTranslationDialogY" value="1031" />
     <histories>
+      <item value="Truncate long text with a preference for word boundaries and without trailing punctuation." />
+      <item value="smart Truncate" />
+      <item value="Short description is used for displaying truncated descriptions in the UI" />
       <item value="Convert Network results to database objects" />
       <item value="Videos represent a devbyte that can be played." />
-      <item value="Short description is used for displaying truncated descriptions in the UI" />
       <item value="description" />
       <item value="Dispatches update operations to the given Callback. &lt;p&gt; These updates are atomic such that the first update call affects every update call that comes after it (the same as RecyclerView)." />
       <item value="first" />
@@ -53,14 +55,12 @@
       <item value="fade Animation" />
       <item value="fab" />
       <item value="fab margin" />
-      <item value="Extends [SwipeRefreshLayout] to support non-direct descendant scrolling views. [SwipeRefreshLayout] works as expected when a scroll view is a direct child: it triggers the refresh only when the view is on top. This class adds a way (@link setScrollUpChild} to define which view controls this behavior." />
-      <item value="Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="775" />
+        <entry key="ENGLISH" value="778" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="775" />
+        <entry key="RUSSIAN" value="778" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
