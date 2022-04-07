@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4544" />
     <option name="newTranslationDialogY" value="796" />
     <histories>
+      <item value="Unable to make protected void" />
       <item value="Caused by: java.lang.reflect.InaccessibleObjectException: Unable to make protected void java.util.ResourceBundle.setParent(java.util.ResourceBundle) accessible: module java.base does not &quot;opens java.util&quot; to unnamed module @3e07d849" />
       <item value="Template Fragment" />
       <item value="event Network Error" />
@@ -54,13 +55,12 @@
       <item value="receive Channel" />
       <item value="TBD" />
       <item value="API 'BaseVariant.getApplicationIdTextResource' is obsolete and has been replaced with 'VariantProperties.applicationId'." />
-      <item value="API 'BaseVariant.getApplicationIdTextResource' is obsolete and has been replaced with 'VariantProperties.applicationId'. It will be removed in version 7.0 of the Android Gradle plugin. For more information, see TBD. To determine what is calling BaseVariant.getApplicationIdTextResource, use -Pandroid.debug.obsoleteApi=true on the command line to display more information." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="799" />
+        <entry key="ENGLISH" value="801" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="799" />
+        <entry key="RUSSIAN" value="801" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
