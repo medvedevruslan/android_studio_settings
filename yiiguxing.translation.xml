@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4544" />
     <option name="newTranslationDialogY" value="796" />
     <histories>
+      <item value="Dev Byte Network" />
       <item value="Returns a list containing the results of applying the given [transform] function to each element in the original collection." />
       <item value="Returns a list containing the results of applying the given transform function to each element in the original collection" />
       <item value="instances" />
@@ -54,13 +55,12 @@
       <item value="Unexpected exception thrown by non-Glide code" />
       <item value="If a binding adapter provides the setter, check that the adapter is annotated correctly and that the parameter type matches." />
       <item value="Cannot find a setter for &lt;androidx.recyclerview.widget.RecyclerView items&gt; that accepts parameter type 'androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.domain.models.Photo&gt;&gt;'" />
-      <item value="specified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="793" />
+        <entry key="ENGLISH" value="794" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="793" />
+        <entry key="RUSSIAN" value="794" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
