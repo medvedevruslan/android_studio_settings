@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4544" />
     <option name="newTranslationDialogY" value="796" />
     <histories>
+      <item value="Template Fragment" />
       <item value="event Network Error" />
       <item value="_event Network Error" />
       <item value="hide" />
@@ -54,13 +55,12 @@
       <item value="API 'BaseVariant.getApplicationIdTextResource' is obsolete and has been replaced with 'VariantProperties.applicationId'." />
       <item value="API 'BaseVariant.getApplicationIdTextResource' is obsolete and has been replaced with 'VariantProperties.applicationId'. It will be removed in version 7.0 of the Android Gradle plugin. For more information, see TBD. To determine what is calling BaseVariant.getApplicationIdTextResource, use -Pandroid.debug.obsoleteApi=true on the command line to display more information." />
       <item value="reified" />
-      <item value="on Load More" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="797" />
+        <entry key="ENGLISH" value="798" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="797" />
+        <entry key="RUSSIAN" value="798" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
