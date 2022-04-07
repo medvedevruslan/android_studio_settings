@@ -1,10 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="626" />
-    <option name="newTranslationDialogWidth" value="2035" />
-    <option name="newTranslationDialogX" value="4467" />
-    <option name="newTranslationDialogY" value="1031" />
+    <option name="newTranslationDialogWidth" value="2031" />
+    <option name="newTranslationDialogX" value="4544" />
+    <option name="newTranslationDialogY" value="796" />
     <histories>
+      <item value="Returns a list containing the results of applying the given [transform] function to each element in the original collection." />
+      <item value="Returns a list containing the results of applying the given transform function to each element in the original collection" />
+      <item value="instances" />
+      <item value="permit functional composition" />
+      <item value="permit" />
+      <item value="Transformation methods for {@link LiveData}. &lt;p&gt; These methods permit functional composition and delegation of {@link LiveData} instances. The transformations are calculated lazily, and will run only when the returned {@link LiveData} is observed. Lifecycle behavior is propagated from the input {@code source} {@link LiveData} to the returned one." />
       <item value="suspend" />
       <item value="REPLACE" />
       <item value="OnConflict strategy constant to replace the old data and continue the transaction. An Insert DAO method that returns the inserted rows ids will never return -1 since this strategy will always insert a row even if there is a conflict" />
@@ -49,18 +55,12 @@
       <item value="If a binding adapter provides the setter, check that the adapter is annotated correctly and that the parameter type matches." />
       <item value="Cannot find a setter for &lt;androidx.recyclerview.widget.RecyclerView items&gt; that accepts parameter type 'androidx.lifecycle.LiveData&lt;java.util.List&lt;com.example.domain.models.Photo&gt;&gt;'" />
       <item value="specified" />
-      <item value="Library projects cannot set applicationId. applicationId is set to 'com.example.data' in default config." />
-      <item value="Dependent features configured but no package ID was set." />
-      <item value="This behavior will not be allowed in Android Gradle plugin 8.0. Please use only AndroidX dependencies or set `android.enableJetifier=true` in the `gradle.properties` file to migrate your project to AndroidX (see https:developer.android.comjetpackandroidxmigrate for more info). The following legacy support libraries are detected:" />
-      <item value="exist" />
-      <item value="Evaluates the pending bindings, updating any Views that have expressions bound to modified variables. This &lt;b&gt;must&lt;b&gt; be run on the UI thread." />
-      <item value="[SwipeRefreshLayout] works as expected when a scroll view is a direct child: it triggers the refresh only when the view is on top. This class adds a way (@link setScrollUpChild} to define which view controls this behavior." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="788" />
+        <entry key="ENGLISH" value="793" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="788" />
+        <entry key="RUSSIAN" value="793" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
