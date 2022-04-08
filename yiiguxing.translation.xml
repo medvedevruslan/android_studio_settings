@@ -1,14 +1,19 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="626" />
-    <option name="newTranslationDialogWidth" value="2031" />
-    <option name="newTranslationDialogX" value="4544" />
-    <option name="newTranslationDialogY" value="796" />
+    <option name="newTranslationDialogWidth" value="2027" />
+    <option name="newTranslationDialogX" value="720" />
+    <option name="newTranslationDialogY" value="955" />
     <histories>
+      <item value="Submits a new list to be diffed, and displayed. &lt;p&gt; If a list is already being displayed, a diff will be computed on a background thread, which will dispatch Adapter.notifyItem events on the main thread. @param list The new list to be displayed." />
+      <item value="child Count" />
+      <item value="The total number of items in the dataset after the last load" />
+      <item value="Add a listener that will be notified of any changes in scroll state or position. Components that add a listener should take care to remove it when finished. Other components that take ownership of a view may call clearOnScrollListeners() to remove all attached listeners" />
+      <item value="add On Scroll Listener" />
+      <item value="receive Channel" />
       <item value="handle Success" />
       <item value="fade Animation" />
       <item value="clear On Scroll Listeners" />
-      <item value="add On Scroll Listener" />
       <item value="Evaluates the pending bindings, updating any Views that have expressions bound to modified variables. This &lt;b&gt;must&lt;b&gt; be run on the UI thread." />
       <item value="Cannot resolve type 'recyclerViewModel'" />
       <item value="The Selection library calls {@link getItemDetails(MotionEvent)} when it needs access to information about the area andor {@link ItemDetails} under a {@link MotionEvent}. Your implementation must negotiate {@link RecyclerView.ViewHolder ViewHolder} lookup with the corresponding RecyclerView instance, and the subsequent conversion of the ViewHolder instance to an {@link ItemDetails} instance. &lt;p&gt; &lt;b&gt;Example&lt;b&gt; &lt;pre&gt; final class MyDetailsLookup extends ItemDetailsLookup&lt;Uri&gt; { private final RecyclerView mRecyclerView; MyDetailsLookup(RecyclerView recyclerView) { mRecyclerView = recyclerView; } public @Nullable ItemDetails&lt;Uri&gt; getItemDetails(@NonNull MotionEvent e) { View view = mRecyclerView.findChildViewUnder(e.getX(), e.getY()); if (view != null) { ViewHolder holder = mRecyclerView.getChildViewHolder(view); if (holder instanceof MyHolder) { return ((MyHolder) holder).getItemDetails(); } } return null;" />
@@ -50,17 +55,12 @@
       <item value="correct animation." />
       <item value="you can return the particular field that changed in the item and your" />
       <item value="particular field that changed in the item and your" />
-      <item value="this method is called to get a payload about the change." />
-      <item value="Callback for calculating the diff between two non-null items in a list. Used by ListAdapter to calculate the minimum number of changes between and old list and a new list that's been passed to `submitList`." />
-      <item value="are Contents The Same" />
-      <item value="Set the listener to be notified when a refresh is triggered via the swipe gesture." />
-      <item value="scroll Up Child" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="814" />
+        <entry key="ENGLISH" value="819" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="814" />
+        <entry key="RUSSIAN" value="819" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
