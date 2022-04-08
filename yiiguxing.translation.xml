@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="4544" />
     <option name="newTranslationDialogY" value="796" />
     <histories>
+      <item value="Evaluates the pending bindings, updating any Views that have expressions bound to modified variables. This &lt;b&gt;must&lt;b&gt; be run on the UI thread." />
       <item value="Cannot resolve type 'recyclerViewModel'" />
       <item value="The Selection library calls {@link getItemDetails(MotionEvent)} when it needs access to information about the area andor {@link ItemDetails} under a {@link MotionEvent}. Your implementation must negotiate {@link RecyclerView.ViewHolder ViewHolder} lookup with the corresponding RecyclerView instance, and the subsequent conversion of the ViewHolder instance to an {@link ItemDetails} instance. &lt;p&gt; &lt;b&gt;Example&lt;b&gt; &lt;pre&gt; final class MyDetailsLookup extends ItemDetailsLookup&lt;Uri&gt; { private final RecyclerView mRecyclerView; MyDetailsLookup(RecyclerView recyclerView) { mRecyclerView = recyclerView; } public @Nullable ItemDetails&lt;Uri&gt; getItemDetails(@NonNull MotionEvent e) { View view = mRecyclerView.findChildViewUnder(e.getX(), e.getY()); if (view != null) { ViewHolder holder = mRecyclerView.getChildViewHolder(view); if (holder instanceof MyHolder) { return ((MyHolder) holder).getItemDetails(); } } return null;" />
       <item value="The Selection library calls {@link getItemDetails(MotionEvent)} when it needs access to information about the area andor {@link ItemDetails} under a {@link MotionEvent}. Your implementation must negotiate {@link RecyclerView.ViewHolder ViewHolder} lookup with the corresponding RecyclerView instance, and the subsequent conversion of the ViewHolder instance to an {@link ItemDetails} instance." />
@@ -54,13 +55,12 @@
       <item value="Creates a MutableLiveData with no value assigned to it." />
       <item value="resolve" />
       <item value="consume Each" />
-      <item value="Performs the given [action] for each received element and [cancels][ReceiveChannel.cancel] the channel after the execution of the block. If you need to iterate over the channel without consuming it, a regular `for` loop should be used instead. The operation is _terminal_. This function [consumes][ReceiveChannel.consume] all elements of the original [ReceiveChannel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="808" />
+        <entry key="ENGLISH" value="809" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="808" />
+        <entry key="RUSSIAN" value="809" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
