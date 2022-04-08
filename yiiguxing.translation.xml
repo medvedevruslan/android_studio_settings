@@ -5,6 +5,9 @@
     <option name="newTranslationDialogX" value="720" />
     <option name="newTranslationDialogY" value="955" />
     <histories>
+      <item value="Get person from persistence and send it, synchronous" />
+      <item value="If a list is already being displayed, a diff will be computed on a background thread, which will dispatch Adapter.notifyItem events on the main thread." />
+      <item value="Submits a new list to be diffed, and displayed." />
       <item value="Submits a new list to be diffed, and displayed. &lt;p&gt; If a list is already being displayed, a diff will be computed on a background thread, which will dispatch Adapter.notifyItem events on the main thread. @param list The new list to be displayed." />
       <item value="child Count" />
       <item value="The total number of items in the dataset after the last load" />
@@ -52,15 +55,12 @@
       <item value="first" />
       <item value="Dispatches update operations to the given Callback. &lt;p&gt; These updates are atomic such that the first update call affects every update call that comes after it (the same as RecyclerView). @param updateCallback The callback to receive the update operations. @see dispatchUpdatesTo(RecyclerView.Adapter)" />
       <item value="This class holds the information about the result of a {@link DiffUtilcalculateDiff(Callback, boolean)} call." />
-      <item value="correct animation." />
-      <item value="you can return the particular field that changed in the item and your" />
-      <item value="particular field that changed in the item and your" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="819" />
+        <entry key="ENGLISH" value="822" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="819" />
+        <entry key="RUSSIAN" value="822" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="1" />
