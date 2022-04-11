@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="720" />
     <option name="newTranslationDialogY" value="955" />
     <histories>
+      <item value="Receiver's interface to Channel." />
       <item value="Nothing has no instances. You can use Nothing to represent &quot;a value that never exists&quot;: for example, if a function has the return type of Nothing, it means that it never returns (always throws an exception)." />
       <item value="state" />
       <item value="state Block" />
@@ -54,13 +55,12 @@
       <item value="as Database Model" />
       <item value="launch Uri" />
       <item value="Event triggered for network error. This is private to avoid exposing a way to set this value to observers." />
-      <item value="A playlist of videos that can be shown on the screen. Views should use this to get access to the data." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="831" />
+        <entry key="ENGLISH" value="832" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="831" />
+        <entry key="RUSSIAN" value="832" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
