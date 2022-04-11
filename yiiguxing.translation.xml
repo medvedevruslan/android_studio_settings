@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="720" />
     <option name="newTranslationDialogY" value="955" />
     <histories>
+      <item value="end region" />
+      <item value="endregion" />
       <item value="By overriding invoke, we allow use cases to be called as &quot;invoking&quot;" />
       <item value="invoke" />
       <item value="region" />
@@ -53,22 +55,20 @@
       <item value="Videos represent a devbyte that can be played." />
       <item value="Truncate long text with a preference for word boundaries and without trailing punctuation." />
       <item value="smart Truncate" />
-      <item value="Short description is used for displaying truncated descriptions in the UI" />
-      <item value="description" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="826" />
+        <entry key="ENGLISH" value="827" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="826" />
+        <entry key="RUSSIAN" value="827" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
-        <entry key="NORWEGIAN" value="1" />
+        <entry key="NORWEGIAN" value="2" />
         <entry key="GREEK" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649051998588" />
+    <option name="lastTrimTime" value="1649652957837" />
   </component>
 </application>
