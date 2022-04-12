@@ -5,11 +5,11 @@
     <option name="newTranslationDialogX" value="720" />
     <option name="newTranslationDialogY" value="955" />
     <histories>
+      <item value="Nothing has no instances. You can use Nothing to represent &quot;a value that never exists&quot;: for example, if a function has the return type of Nothing, it means that it never returns (always throws an exception)." />
       <item value="Returns a string representation of the object." />
       <item value="ndicates whether some other object is &quot;equal to&quot; this one. Implementations must fulfil the following requirements: Reflexive: for any non-null value x, x.equals(x) should return true. Symmetric: for any non-null values x and y, x.equals(y) should return true if and only if y.equals(x) returns true. Transitive: for any non-null values x, y, and z, if x.equals(y) returns true and y.equals(z) returns true, then x.equals(z) should return true. Consistent: for any non-null values x and y, multiple invocations of x.equals(y) consistently return true or consistently return false, provided no information used in equals comparisons on the objects is modified. Never equal to null: for any non-null value x, x.equals(null) should return fals" />
       <item value="The root of the Kotlin class hierarchy. Every Kotlin class has Any as a superclass." />
       <item value="Receiver's interface to Channel." />
-      <item value="Nothing has no instances. You can use Nothing to represent &quot;a value that never exists&quot;: for example, if a function has the return type of Nothing, it means that it never returns (always throws an exception)." />
       <item value="state" />
       <item value="state Block" />
       <item value="Failure" />
@@ -58,9 +58,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="835" />
+        <entry key="ENGLISH" value="836" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="835" />
+        <entry key="RUSSIAN" value="836" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
