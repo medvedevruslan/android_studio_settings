@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="720" />
     <option name="newTranslationDialogY" value="955" />
     <histories>
+      <item value="process Stream" />
+      <item value="resolve" />
+      <item value="Response Error" />
+      <item value="handle Result" />
       <item value="is Valid" />
       <item value="Nothing has no instances. You can use Nothing to represent &quot;a value that never exists&quot;: for example, if a function has the return type of Nothing, it means that it never returns (always throws an exception)." />
       <item value="Returns a string representation of the object." />
@@ -51,16 +55,12 @@
       <item value="instances" />
       <item value="permit functional composition" />
       <item value="permit" />
-      <item value="Transformation methods for {@link LiveData}. &lt;p&gt; These methods permit functional composition and delegation of {@link LiveData} instances. The transformations are calculated lazily, and will run only when the returned {@link LiveData} is observed. Lifecycle behavior is propagated from the input {@code source} {@link LiveData} to the returned one." />
-      <item value="suspend" />
-      <item value="REPLACE" />
-      <item value="OnConflict strategy constant to replace the old data and continue the transaction. An Insert DAO method that returns the inserted rows ids will never return -1 since this strategy will always insert a row even if there is a conflict" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="837" />
+        <entry key="ENGLISH" value="842" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="837" />
+        <entry key="RUSSIAN" value="842" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
