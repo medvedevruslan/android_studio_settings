@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="720" />
     <option name="newTranslationDialogY" value="955" />
     <histories>
+      <item value="Preferences" />
       <item value="Preferences Methods Fragment" />
       <item value="scale Type" />
       <item value="process Stream" />
@@ -54,13 +55,12 @@
       <item value="Dev Byte Network" />
       <item value="Returns a list containing the results of applying the given [transform] function to each element in the original collection." />
       <item value="Returns a list containing the results of applying the given transform function to each element in the original collection" />
-      <item value="instances" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="844" />
+        <entry key="ENGLISH" value="846" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="844" />
+        <entry key="RUSSIAN" value="846" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
