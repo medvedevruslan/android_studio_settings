@@ -5,6 +5,14 @@
     <option name="newTranslationDialogX" value="720" />
     <option name="newTranslationDialogY" value="955" />
     <histories>
+      <item value="Retrieve the {@link OnBackPressedDispatcher} that will be triggered when {@link onBackPressed()} is called. @return The {@link OnBackPressedDispatcher} associated with this ComponentActivity." />
+      <item value="Retrieve the {@link OnBackPressedDispatcher} that will be triggered when {@link onBackPressed()} is called. @return The {@link OnBackPressedDispatcher} associated with this ComponentActivity" />
+      <item value="on Back Pressed Dispatcher" />
+      <item value="Not Paired" />
+      <item value="Laments" />
+      <item value="Sets whether this dialog is canceled when touched outside the window's bounds. If setting to true, the dialog is set to be cancelable if not already set." />
+      <item value="set Canceled On Touch Outside" />
+      <item value="Dialog Modes" />
       <item value="handle On Back Pressed" />
       <item value="Preferences" />
       <item value="Preferences Methods Fragment" />
@@ -47,20 +55,12 @@
       <item value="Item Details Lookup" />
       <item value="The Selection library calls {@link getItemDetails(MotionEvent)} when it needs access to information about the area andor {@link ItemDetails} under a {@link MotionEvent}. Your implementation must negotiate {@link RecyclerView.ViewHolder ViewHolder} lookup with the corresponding RecyclerView instance, and the subsequent conversion of the ViewHolder instance to an {@link ItemDetails} instance. &lt;p&gt; &lt;b&gt;Example&lt;b&gt; &lt;pre&gt; final class MyDetailsLookup extends ItemDetailsLookup&lt;Uri&gt; { private final RecyclerView mRecyclerView; MyDetailsLookup(RecyclerView recyclerView) { mRecyclerView = recyclerView; } public @Nullable ItemDetails&lt;Uri&gt; getItemDetails(@NonNull MotionEvent e) { View view = mRecyclerView.findChildViewUnder(e.getX(), e.getY()); if (view != null) { ViewHolder holder = mRecyclerView.getChildViewHolder(view); if (holder instanceof MyHolder) { return ((MyHolder) holder).getItemDetails(); } } return null; } }" />
       <item value="save Complaints" />
-      <item value="Unable to make protected void" />
-      <item value="Caused by: java.lang.reflect.InaccessibleObjectException: Unable to make protected void java.util.ResourceBundle.setParent(java.util.ResourceBundle) accessible: module java.base does not &quot;opens java.util&quot; to unnamed module @3e07d849" />
-      <item value="Template Fragment" />
-      <item value="event Network Error" />
-      <item value="_event Network Error" />
-      <item value="hide" />
-      <item value="Dev Byte Network" />
-      <item value="Returns a list containing the results of applying the given [transform] function to each element in the original collection." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="847" />
+        <entry key="ENGLISH" value="856" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="847" />
+        <entry key="RUSSIAN" value="856" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
