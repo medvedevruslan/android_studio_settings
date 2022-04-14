@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="720" />
     <option name="newTranslationDialogY" value="955" />
     <histories>
+      <item value="Add Context instance to Koin container Params: androidContext - Context" />
       <item value="Template Fragment" />
       <item value="get Power Icon To Text" />
       <item value="get Text With Power Icon" />
@@ -54,13 +55,12 @@
       <item value="Submits a new list to be diffed, and displayed. &lt;p&gt; If a list is already being displayed, a diff will be computed on a background thread, which will dispatch Adapter.notifyItem events on the main thread. @param list The new list to be displayed." />
       <item value="child Count" />
       <item value="The total number of items in the dataset after the last load" />
-      <item value="Add a listener that will be notified of any changes in scroll state or position. Components that add a listener should take care to remove it when finished. Other components that take ownership of a view may call clearOnScrollListeners() to remove all attached listeners" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="869" />
+        <entry key="ENGLISH" value="870" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="869" />
+        <entry key="RUSSIAN" value="870" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
