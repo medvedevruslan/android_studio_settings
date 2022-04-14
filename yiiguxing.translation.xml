@@ -5,14 +5,14 @@
     <option name="newTranslationDialogX" value="720" />
     <option name="newTranslationDialogY" value="955" />
     <histories>
+      <item value="This is the class for text whose content and markup can both be changed." />
+      <item value="Spannable String Builder" />
       <item value="A problem occurred configuring project ':domain'. &gt; 'kotlin-android' plugin requires one of the Android Gradle plugins. Please apply one of the following plugins to ':domain' project:" />
       <item value="Add Context instance to Koin container Params: androidContext - Context" />
       <item value="Template Fragment" />
       <item value="get Power Icon To Text" />
       <item value="get Text With Power Icon" />
       <item value="shared Pref User Storage" />
-      <item value="This is the class for text whose content and markup can both be changed." />
-      <item value="Spannable String Builder" />
       <item value="current Toast" />
       <item value="hide" />
       <item value="enable debug mode, it's disabled by default" />
@@ -58,9 +58,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="871" />
+        <entry key="ENGLISH" value="873" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="871" />
+        <entry key="RUSSIAN" value="873" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
