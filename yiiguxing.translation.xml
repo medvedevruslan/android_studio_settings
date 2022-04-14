@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="720" />
     <option name="newTranslationDialogY" value="955" />
     <histories>
+      <item value="A problem occurred configuring project ':domain'. &gt; 'kotlin-android' plugin requires one of the Android Gradle plugins. Please apply one of the following plugins to ':domain' project:" />
       <item value="Add Context instance to Koin container Params: androidContext - Context" />
       <item value="Template Fragment" />
       <item value="get Power Icon To Text" />
@@ -54,13 +55,12 @@
       <item value="Submits a new list to be diffed, and displayed." />
       <item value="Submits a new list to be diffed, and displayed. &lt;p&gt; If a list is already being displayed, a diff will be computed on a background thread, which will dispatch Adapter.notifyItem events on the main thread. @param list The new list to be displayed." />
       <item value="child Count" />
-      <item value="The total number of items in the dataset after the last load" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="870" />
+        <entry key="ENGLISH" value="871" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="870" />
+        <entry key="RUSSIAN" value="871" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
