@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="720" />
     <option name="newTranslationDialogY" value="955" />
     <histories>
+      <item value="required" />
       <item value="Retrieve the {@link OnBackPressedDispatcher} that will be triggered when {@link onBackPressed()} is called. @return The {@link OnBackPressedDispatcher} associated with this ComponentActivity." />
       <item value="Retrieve the {@link OnBackPressedDispatcher} that will be triggered when {@link onBackPressed()} is called. @return The {@link OnBackPressedDispatcher} associated with this ComponentActivity" />
       <item value="on Back Pressed Dispatcher" />
@@ -54,13 +55,12 @@
       <item value="The Selection library calls {@link getItemDetails(MotionEvent)} when it needs access to information about the area andor {@link ItemDetails} under a {@link MotionEvent}. Your implementation must negotiate {@link RecyclerView.ViewHolder ViewHolder} lookup with the corresponding RecyclerView instance, and the subsequent conversion of the ViewHolder instance to an {@link ItemDetails} instance." />
       <item value="Item Details Lookup" />
       <item value="The Selection library calls {@link getItemDetails(MotionEvent)} when it needs access to information about the area andor {@link ItemDetails} under a {@link MotionEvent}. Your implementation must negotiate {@link RecyclerView.ViewHolder ViewHolder} lookup with the corresponding RecyclerView instance, and the subsequent conversion of the ViewHolder instance to an {@link ItemDetails} instance. &lt;p&gt; &lt;b&gt;Example&lt;b&gt; &lt;pre&gt; final class MyDetailsLookup extends ItemDetailsLookup&lt;Uri&gt; { private final RecyclerView mRecyclerView; MyDetailsLookup(RecyclerView recyclerView) { mRecyclerView = recyclerView; } public @Nullable ItemDetails&lt;Uri&gt; getItemDetails(@NonNull MotionEvent e) { View view = mRecyclerView.findChildViewUnder(e.getX(), e.getY()); if (view != null) { ViewHolder holder = mRecyclerView.getChildViewHolder(view); if (holder instanceof MyHolder) { return ((MyHolder) holder).getItemDetails(); } } return null; } }" />
-      <item value="save Complaints" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="856" />
+        <entry key="ENGLISH" value="857" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="856" />
+        <entry key="RUSSIAN" value="857" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
