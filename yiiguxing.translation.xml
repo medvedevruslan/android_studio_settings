@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="626" />
-    <option name="newTranslationDialogWidth" value="2027" />
-    <option name="newTranslationDialogX" value="720" />
-    <option name="newTranslationDialogY" value="955" />
+    <option name="newTranslationDialogWidth" value="2023" />
+    <option name="newTranslationDialogX" value="599" />
+    <option name="newTranslationDialogY" value="761" />
+    <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Receive callbacks to a new OnBackPressedCallback when the given LifecycleOwner is at least started. This will automatically call addCallback(OnBackPressedCallback) and remove the callback as the lifecycle state changes. As a corollary, if your lifecycle is already at least started, calling this method will result in an immediate call to addCallback(OnBackPressedCallback). When the LifecycleOwner is destroyed, it will automatically be removed from the list of callbacks. The only time you would need to manually call OnBackPressedCallback.remove() is if you'd like to remove the callback prior to destruction of the associated lifecycle. If the Lifecycle is already destroyed when this method is called, the callback will not be added. Params: owner – The LifecycleOwner which controls when the callback should be invoked onBackPressedCallback – The callback to add See Also: onBackPressed()" />
       <item value="This is the class for text whose content and markup can both be changed." />
       <item value="Spannable String Builder" />
       <item value="A problem occurred configuring project ':domain'. &gt; 'kotlin-android' plugin requires one of the Android Gradle plugins. Please apply one of the following plugins to ':domain' project:" />
@@ -54,13 +56,12 @@
       <item value="If a list is already being displayed, a diff will be computed on a background thread, which will dispatch Adapter.notifyItem events on the main thread." />
       <item value="Submits a new list to be diffed, and displayed." />
       <item value="Submits a new list to be diffed, and displayed. &lt;p&gt; If a list is already being displayed, a diff will be computed on a background thread, which will dispatch Adapter.notifyItem events on the main thread. @param list The new list to be displayed." />
-      <item value="child Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="873" />
+        <entry key="ENGLISH" value="875" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="873" />
+        <entry key="RUSSIAN" value="875" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
