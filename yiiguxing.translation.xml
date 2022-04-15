@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="761" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Valid" />
       <item value="Receive callbacks to a new OnBackPressedCallback when the given LifecycleOwner is at least started. This will automatically call addCallback(OnBackPressedCallback) and remove the callback as the lifecycle state changes. As a corollary, if your lifecycle is already at least started, calling this method will result in an immediate call to addCallback(OnBackPressedCallback). When the LifecycleOwner is destroyed, it will automatically be removed from the list of callbacks. The only time you would need to manually call OnBackPressedCallback.remove() is if you'd like to remove the callback prior to destruction of the associated lifecycle. If the Lifecycle is already destroyed when this method is called, the callback will not be added. Params: owner – The LifecycleOwner which controls when the callback should be invoked onBackPressedCallback – The callback to add See Also: onBackPressed()" />
       <item value="This is the class for text whose content and markup can both be changed." />
       <item value="Spannable String Builder" />
@@ -37,7 +38,6 @@
       <item value="resolve" />
       <item value="Response Error" />
       <item value="handle Result" />
-      <item value="is Valid" />
       <item value="Nothing has no instances. You can use Nothing to represent &quot;a value that never exists&quot;: for example, if a function has the return type of Nothing, it means that it never returns (always throws an exception)." />
       <item value="Returns a string representation of the object." />
       <item value="ndicates whether some other object is &quot;equal to&quot; this one. Implementations must fulfil the following requirements: Reflexive: for any non-null value x, x.equals(x) should return true. Symmetric: for any non-null values x and y, x.equals(y) should return true if and only if y.equals(x) returns true. Transitive: for any non-null values x, y, and z, if x.equals(y) returns true and y.equals(z) returns true, then x.equals(z) should return true. Consistent: for any non-null values x and y, multiple invocations of x.equals(y) consistently return true or consistently return false, provided no information used in equals comparisons on the objects is modified. Never equal to null: for any non-null value x, x.equals(null) should return fals" />
@@ -59,9 +59,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="875" />
+        <entry key="ENGLISH" value="876" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="875" />
+        <entry key="RUSSIAN" value="876" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
