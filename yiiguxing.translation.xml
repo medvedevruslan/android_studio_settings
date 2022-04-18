@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="761" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="handle On Back Pressed" />
+      <item value="Create a OnBackPressedCallback. Params: enabled – The default enabled state for this callback. See Also: setEnabled(boolean)" />
       <item value="Caused by: java.lang.IllegalStateException: Can't access the Fragment View's LifecycleOwner when getView() is null i.e., before onCreateView() or after onDestroyView()" />
       <item value="ccess the Fragment View's LifecycleOwner when getView() is null i.e., before onCreateView() or after onDestroyView()" />
       <item value="is Valid" />
@@ -32,7 +34,6 @@
       <item value="Sets whether this dialog is canceled when touched outside the window's bounds. If setting to true, the dialog is set to be cancelable if not already set." />
       <item value="set Canceled On Touch Outside" />
       <item value="Dialog Modes" />
-      <item value="handle On Back Pressed" />
       <item value="Preferences" />
       <item value="Preferences Methods Fragment" />
       <item value="scale Type" />
@@ -55,13 +56,12 @@
       <item value="region" />
       <item value="region Functions" />
       <item value="Get person from persistence and send it, synchronous" />
-      <item value="If a list is already being displayed, a diff will be computed on a background thread, which will dispatch Adapter.notifyItem events on the main thread." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="878" />
+        <entry key="ENGLISH" value="880" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="878" />
+        <entry key="RUSSIAN" value="880" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
