@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="761" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Add a new {@link OnBackPressedCallback}. Callbacks are invoked in the reverse order in which they are added, so this newly added {@link OnBackPressedCallback} will be the first callback to receive a callback if {@link onBackPressed()} is called. &lt;p&gt; This method is &lt;strong&gt;not&lt;strong&gt; {@link Lifecycle} aware - if you'd like to ensure that you only get callbacks when at least {@link Lifecycle.StateSTARTED started}, use {@link addCallback(LifecycleOwner, OnBackPressedCallback)}. It is expected that you call {@link OnBackPressedCallbackremove()} to manually remove your callback." />
       <item value="before" />
       <item value="Called getViewLifecycleOwner() but onCreateView() returned null" />
       <item value="handle On Back Pressed" />
@@ -55,13 +56,12 @@
       <item value="endregion" />
       <item value="By overriding invoke, we allow use cases to be called as &quot;invoking&quot;" />
       <item value="invoke" />
-      <item value="region" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="883" />
+        <entry key="ENGLISH" value="884" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="883" />
+        <entry key="RUSSIAN" value="884" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
