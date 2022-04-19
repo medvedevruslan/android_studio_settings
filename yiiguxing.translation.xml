@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="761" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="before" />
       <item value="Called getViewLifecycleOwner() but onCreateView() returned null" />
       <item value="handle On Back Pressed" />
       <item value="Create a OnBackPressedCallback. Params: enabled – The default enabled state for this callback. See Also: setEnabled(boolean)" />
@@ -55,13 +56,12 @@
       <item value="By overriding invoke, we allow use cases to be called as &quot;invoking&quot;" />
       <item value="invoke" />
       <item value="region" />
-      <item value="region Functions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="882" />
+        <entry key="ENGLISH" value="883" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="882" />
+        <entry key="RUSSIAN" value="883" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
