@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="761" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Checks that the specified object reference is not null and throws a customized NullPointerException if it is. This method is designed primarily for doing parameter validation in methods and constructors with multiple parameters, as demonstrated below" />
+      <item value="Determine whether you have been granted a particular permission. Params: permission – The name of the permission being checked." />
       <item value="Determine whether you have been granted a particular permission." />
       <item value="Returns an array containing the specified elements." />
       <item value="register For Activity Result" />
@@ -54,14 +56,12 @@
       <item value="Response Error" />
       <item value="handle Result" />
       <item value="Nothing has no instances. You can use Nothing to represent &quot;a value that never exists&quot;: for example, if a function has the return type of Nothing, it means that it never returns (always throws an exception)." />
-      <item value="Returns a string representation of the object." />
-      <item value="ndicates whether some other object is &quot;equal to&quot; this one. Implementations must fulfil the following requirements: Reflexive: for any non-null value x, x.equals(x) should return true. Symmetric: for any non-null values x and y, x.equals(y) should return true if and only if y.equals(x) returns true. Transitive: for any non-null values x, y, and z, if x.equals(y) returns true and y.equals(z) returns true, then x.equals(z) should return true. Consistent: for any non-null values x and y, multiple invocations of x.equals(y) consistently return true or consistently return false, provided no information used in equals comparisons on the objects is modified. Never equal to null: for any non-null value x, x.equals(null) should return fals" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="893" />
+        <entry key="ENGLISH" value="895" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="893" />
+        <entry key="RUSSIAN" value="895" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
