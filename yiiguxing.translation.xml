@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="761" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Find the first denied permission" />
+      <item value="denied Permission" />
       <item value="Returns a typed array containing all of the elements of this collection. Allocates an array of runtime type T having its size equal to the size of this collection and populates the array with the elements of this collection." />
       <item value="Should show an explanation" />
       <item value="Receive the permissions request result" />
@@ -54,14 +56,12 @@
       <item value="required" />
       <item value="Retrieve the {@link OnBackPressedDispatcher} that will be triggered when {@link onBackPressed()} is called. @return The {@link OnBackPressedDispatcher} associated with this ComponentActivity." />
       <item value="Retrieve the {@link OnBackPressedDispatcher} that will be triggered when {@link onBackPressed()} is called. @return The {@link OnBackPressedDispatcher} associated with this ComponentActivity" />
-      <item value="on Back Pressed Dispatcher" />
-      <item value="Laments" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="908" />
+        <entry key="ENGLISH" value="910" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="908" />
+        <entry key="RUSSIAN" value="910" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
