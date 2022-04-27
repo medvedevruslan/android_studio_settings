@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="761" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Requests permissions to be granted to this application. These permissions must be requested in your manifest, they should not be granted to your app, and they should have protection level dangerous, regardless whether they are declared by the platform or a third-party app." />
       <item value="Permissions Request Code" />
       <item value="Find the first denied permission" />
       <item value="shape complaints dialog" />
@@ -55,13 +56,12 @@
       <item value="hide" />
       <item value="enable debug mode, it's disabled by default" />
       <item value="it's 30s by default, making it 5s for testing --" />
-      <item value="never For Location" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="915" />
+        <entry key="ENGLISH" value="916" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="915" />
+        <entry key="RUSSIAN" value="916" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
