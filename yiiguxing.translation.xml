@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="761" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="@param requestCode Application specific request code to match with a result reported to {@link OnRequestPermissionsResultCallbackonRequestPermissionsResult(int, String[], int[])}. Should be &gt;= 0." />
       <item value="which" />
       <item value="Requests permissions to be granted to this application. These permissions must be requested in your manifest, they should not be granted to your app, and they should have protection level dangerous, regardless whether they are declared by the platform or a third-party app." />
       <item value="Permissions Request Code" />
@@ -55,13 +56,12 @@
       <item value="shared Pref User Storage" />
       <item value="current Toast" />
       <item value="hide" />
-      <item value="enable debug mode, it's disabled by default" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="917" />
+        <entry key="ENGLISH" value="918" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="917" />
+        <entry key="RUSSIAN" value="918" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
