@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="761" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Request Multiple Permissions" />
       <item value="which" />
       <item value="Requests permissions to be granted to this application. These permissions must be requested in your manifest, they should not be granted to your app, and they should have protection level dangerous, regardless whether they are declared by the platform or a third-party app" />
       <item value="item" />
@@ -55,13 +56,12 @@
       <item value="This is the class for text whose content and markup can both be changed." />
       <item value="Spannable String Builder" />
       <item value="A problem occurred configuring project ':domain'. &gt; 'kotlin-android' plugin requires one of the Android Gradle plugins. Please apply one of the following plugins to ':domain' project:" />
-      <item value="Add Context instance to Koin container Params: androidContext - Context" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="924" />
+        <entry key="ENGLISH" value="925" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="924" />
+        <entry key="RUSSIAN" value="925" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
