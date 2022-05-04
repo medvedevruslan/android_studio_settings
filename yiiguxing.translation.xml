@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="626" />
-    <option name="newTranslationDialogWidth" value="2023" />
+    <option name="newTranslationDialogWidth" value="2019" />
     <option name="newTranslationDialogX" value="599" />
     <option name="newTranslationDialogY" value="761" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Requests permissions to be granted to this application. These permissions must be requested in your manifest, they should not be granted to your app, and they should have protection level dangerous, regardless whether they are declared by the platform or a third-party app" />
+      <item value="item" />
       <item value="Alternate constructor that can be used to provide a default layout that will be inflated as part of super.onCreate(savedInstanceState). This should generally be called from your constructor that takes no parameters, as is required for API 27 and lower or when using the default android.app.AppComponentFactory. See Also: AppCompatActivity()" />
       <item value="Returns a MutableSet of all keyvalue pairs in this map." />
       <item value="Returns a typed array containing all of the elements of this collection. Allocates an array of runtime type T having its size equal to the size of this collection and populates the array with the elements of this collection" />
@@ -54,14 +56,12 @@
       <item value="Spannable String Builder" />
       <item value="A problem occurred configuring project ':domain'. &gt; 'kotlin-android' plugin requires one of the Android Gradle plugins. Please apply one of the following plugins to ':domain' project:" />
       <item value="Add Context instance to Koin container Params: androidContext - Context" />
-      <item value="Template Fragment" />
-      <item value="get Power Icon To Text" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="922" />
+        <entry key="ENGLISH" value="923" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="922" />
+        <entry key="RUSSIAN" value="924" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
