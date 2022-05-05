@@ -5,6 +5,18 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="R52R103ESVH" />
+          </Key>
+        </key>
+        <lastOnlineTime value="2022-05-05T11:01:55.107574Z" />
+        <name value="samsung SM-T975" />
+        <target value="Android 12.0" />
+        <api value="31" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="8FX6R19322000299" />
           </Key>
         </key>
@@ -20,7 +32,7 @@
             <value value="dd6a7f37" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-03-11T06:04:02.170933Z" />
+        <lastOnlineTime value="2022-05-05T11:11:55.186264Z" />
         <name value="OnePlus LE2121" />
         <target value="Android 12.0" />
         <api value="31" />
