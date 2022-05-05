@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="761" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="If set, this activity will become the start of a new task on this history stack. A task (from the activity that started it to the next task activity) defines an atomic group of activities that the user can move to. Tasks can be moved to the foreground and background; all of the activities inside of a particular task always remain in the same order. See Tasks and Back Stack for more information about tasks. This flag is generally used by activities that want to present a &quot;launcher&quot; style behavior: they give the user a list of separate things that can be done, which otherwise run completely independently of the activity launching them. When using this flag, if a task is already running for the activity you are now starting, then a new activity will not be started; instead, the current task will simply be brought to the front of the screen with the state it was last in. See FLAG_ACTIVITY_MULTIPLE_TASK for a flag to disable this behavior. This flag can not be used when the caller is requesting a result from the activity being launched." />
       <item value="Request Multiple Permissions" />
       <item value="which" />
       <item value="Requests permissions to be granted to this application. These permissions must be requested in your manifest, they should not be granted to your app, and they should have protection level dangerous, regardless whether they are declared by the platform or a third-party app" />
@@ -55,13 +56,12 @@
       <item value="Receive callbacks to a new OnBackPressedCallback when the given LifecycleOwner is at least started. This will automatically call addCallback(OnBackPressedCallback) and remove the callback as the lifecycle state changes. As a corollary, if your lifecycle is already at least started, calling this method will result in an immediate call to addCallback(OnBackPressedCallback). When the LifecycleOwner is destroyed, it will automatically be removed from the list of callbacks. The only time you would need to manually call OnBackPressedCallback.remove() is if you'd like to remove the callback prior to destruction of the associated lifecycle. If the Lifecycle is already destroyed when this method is called, the callback will not be added. Params: owner – The LifecycleOwner which controls when the callback should be invoked onBackPressedCallback – The callback to add See Also: onBackPressed()" />
       <item value="This is the class for text whose content and markup can both be changed." />
       <item value="Spannable String Builder" />
-      <item value="A problem occurred configuring project ':domain'. &gt; 'kotlin-android' plugin requires one of the Android Gradle plugins. Please apply one of the following plugins to ':domain' project:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="925" />
+        <entry key="ENGLISH" value="926" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="925" />
+        <entry key="RUSSIAN" value="926" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
