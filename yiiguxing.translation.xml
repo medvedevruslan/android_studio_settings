@@ -1,11 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="626" />
-    <option name="newTranslationDialogWidth" value="2015" />
+    <option name="newTranslationDialogWidth" value="2011" />
     <option name="newTranslationDialogX" value="375" />
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns an array containing the specified elements." />
       <item value="is attempting to registerForActivityResult after being created. Fragments must call registerForActivityResult() before they are created (i.e. initialization, onAttach(), or onCreate())." />
       <item value="Fragment PermissionTestFragment{33b99b5} (f587aa38-fe78-4c3f-b5e5-f66d6bc08850 id=0x7f08012f) is attempting to registerForActivityResult after being created. Fragments must call registerForActivityResult() before they are created (i.e. initialization, onAttach(), or onCreate())." />
       <item value="Executes an ActivityResultContract. This method throws android.content.ActivityNotFoundException if there was no Activity found to run the given Intent. Params: input – the input required to execute an ActivityResultContract. Throws: android.content.ActivityNotFoundException" />
@@ -40,7 +41,6 @@
       <item value="Checks that the specified object reference is not null and throws a customized NullPointerException if it is. This method is designed primarily for doing parameter validation in methods and constructors with multiple parameters, as demonstrated below" />
       <item value="Determine whether you have been granted a particular permission. Params: permission – The name of the permission being checked." />
       <item value="Determine whether you have been granted a particular permission." />
-      <item value="Returns an array containing the specified elements." />
       <item value="register For Activity Result" />
       <item value="on Bluetooth Dialog Button Click" />
       <item value="permissions Granted" />
@@ -61,7 +61,7 @@
       <map>
         <entry key="ENGLISH" value="929" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="929" />
+        <entry key="RUSSIAN" value="930" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
