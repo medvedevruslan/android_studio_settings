@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is attempting to registerForActivityResult after being created. Fragments must call registerForActivityResult() before they are created (i.e. initialization, onAttach(), or onCreate())." />
+      <item value="Fragment PermissionTestFragment{33b99b5} (f587aa38-fe78-4c3f-b5e5-f66d6bc08850 id=0x7f08012f) is attempting to registerForActivityResult after being created. Fragments must call registerForActivityResult() before they are created (i.e. initialization, onAttach(), or onCreate())." />
       <item value="Executes an ActivityResultContract. This method throws android.content.ActivityNotFoundException if there was no Activity found to run the given Intent. Params: input – the input required to execute an ActivityResultContract. Throws: android.content.ActivityNotFoundException" />
       <item value="If set, this activity will become the start of a new task on this history stack. A task (from the activity that started it to the next task activity) defines an atomic group of activities that the user can move to. Tasks can be moved to the foreground and background; all of the activities inside of a particular task always remain in the same order. See Tasks and Back Stack for more information about tasks. This flag is generally used by activities that want to present a &quot;launcher&quot; style behavior: they give the user a list of separate things that can be done, which otherwise run completely independently of the activity launching them. When using this flag, if a task is already running for the activity you are now starting, then a new activity will not be started; instead, the current task will simply be brought to the front of the screen with the state it was last in. See FLAG_ACTIVITY_MULTIPLE_TASK for a flag to disable this behavior." />
       <item value="If set, this activity will become the start of a new task on this history stack. A task (from the activity that started it to the next task activity) defines an atomic group of activities that the user can move to. Tasks can be moved to the foreground and background; all of the activities inside of a particular task always remain in the same order. See Tasks and Back Stack for more information about tasks. This flag is generally used by activities that want to present a &quot;launcher&quot; style behavior: they give the user a list of separate things that can be done, which otherwise run completely independently of the activity launching them. When using this flag, if a task is already running for the activity you are now starting, then a new activity will not be started; instead, the current task will simply be brought to the front of the screen with the state it was last in. See FLAG_ACTIVITY_MULTIPLE_TASK for a flag to disable this behavior. This flag can not be used when the caller is requesting a result from the activity being launched." />
@@ -54,14 +56,12 @@
       <item value="Caused by: java.lang.IllegalStateException: Can't access the Fragment View's LifecycleOwner when getView() is null i.e., before onCreateView() or after onDestroyView()" />
       <item value="ccess the Fragment View's LifecycleOwner when getView() is null i.e., before onCreateView() or after onDestroyView()" />
       <item value="is Valid" />
-      <item value="Receive callbacks to a new OnBackPressedCallback when the given LifecycleOwner is at least started. This will automatically call addCallback(OnBackPressedCallback) and remove the callback as the lifecycle state changes. As a corollary, if your lifecycle is already at least started, calling this method will result in an immediate call to addCallback(OnBackPressedCallback). When the LifecycleOwner is destroyed, it will automatically be removed from the list of callbacks. The only time you would need to manually call OnBackPressedCallback.remove() is if you'd like to remove the callback prior to destruction of the associated lifecycle. If the Lifecycle is already destroyed when this method is called, the callback will not be added. Params: owner – The LifecycleOwner which controls when the callback should be invoked onBackPressedCallback – The callback to add See Also: onBackPressed()" />
-      <item value="This is the class for text whose content and markup can both be changed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="927" />
+        <entry key="ENGLISH" value="929" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="928" />
+        <entry key="RUSSIAN" value="929" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
