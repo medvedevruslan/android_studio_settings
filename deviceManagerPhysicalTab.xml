@@ -8,7 +8,7 @@
             <value value="R52R103ESVH" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-05-06T08:22:13.859487Z" />
+        <lastOnlineTime value="2022-05-06T08:45:09.750936Z" />
         <name value="samsung SM-T975" />
         <target value="Android 12.0" />
         <api value="31" />
@@ -43,7 +43,6 @@
             <value value="52004f82b6aaa4fd" />
           </Key>
         </key>
-        <lastOnlineTime value="2022-05-06T08:29:50.143399Z" />
         <name value="samsung SM-T585" />
         <target value="Android 7.0" />
         <api value="24" />
