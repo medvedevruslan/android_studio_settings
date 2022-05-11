@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Alternate constructor that can be used to provide a default layout that will be inflated as part of super.onCreate(savedInstanceState). This should generally be called from your constructor that takes no parameters, as is required for API 27 and lower or when using the default android.app.AppComponentFactory. See Also: AppCompatActivity()" />
       <item value="is Granted" />
       <item value="is Should Show Request Permission Rationale" />
       <item value="Returns an array containing the specified elements." />
@@ -18,7 +19,6 @@
       <item value="which" />
       <item value="Requests permissions to be granted to this application. These permissions must be requested in your manifest, they should not be granted to your app, and they should have protection level dangerous, regardless whether they are declared by the platform or a third-party app" />
       <item value="item" />
-      <item value="Alternate constructor that can be used to provide a default layout that will be inflated as part of super.onCreate(savedInstanceState). This should generally be called from your constructor that takes no parameters, as is required for API 27 and lower or when using the default android.app.AppComponentFactory. See Also: AppCompatActivity()" />
       <item value="Returns a MutableSet of all keyvalue pairs in this map." />
       <item value="Returns a typed array containing all of the elements of this collection. Allocates an array of runtime type T having its size equal to the size of this collection and populates the array with the elements of this collection" />
       <item value="Attempts to pop the controller's back stack. Analogous to when the user presses the system Back button when the associated navigation host has focus. Returns: true if the stack was popped and the user has been navigated to another destination, false otherwise" />
@@ -59,9 +59,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="931" />
+        <entry key="ENGLISH" value="932" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="931" />
+        <entry key="RUSSIAN" value="932" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
