@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Template" />
+      <item value="Template Fragment" />
       <item value="Alternate constructor that can be used to provide a default layout that will be inflated as part of super.onCreate(savedInstanceState). This should generally be called from your constructor that takes no parameters, as is required for API 27 and lower or when using the default android.app.AppComponentFactory. See Also: AppCompatActivity()" />
       <item value="is Granted" />
       <item value="is Should Show Request Permission Rationale" />
@@ -54,14 +56,12 @@
       <item value="before" />
       <item value="Called getViewLifecycleOwner() but onCreateView() returned null" />
       <item value="handle On Back Pressed" />
-      <item value="Create a OnBackPressedCallback. Params: enabled – The default enabled state for this callback. See Also: setEnabled(boolean)" />
-      <item value="Caused by: java.lang.IllegalStateException: Can't access the Fragment View's LifecycleOwner when getView() is null i.e., before onCreateView() or after onDestroyView()" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="932" />
+        <entry key="ENGLISH" value="934" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="932" />
+        <entry key="RUSSIAN" value="934" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1651643940158" />
+    <option name="lastTrimTime" value="1652264423991" />
   </component>
 </application>
