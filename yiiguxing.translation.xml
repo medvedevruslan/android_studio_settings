@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The event used to trigger changes. This is used in BindingAdapters for the data binding system to set the event listener when two-way binding is used." />
+      <item value="The attribute that the value is to be retrieved for." />
+      <item value="Like BindingAdapters, InverseBindingAdapter methods may also take androidx.databinding.DataBindingComponent as the first parameter and may be an instance method with the instance retrieved from the DataBindingComponent." />
       <item value="unused" />
       <item value="update Tv And Dr Button" />
       <item value="service Result Observer" />
@@ -53,15 +56,12 @@
       <item value="register For Activity Result" />
       <item value="on Bluetooth Dialog Button Click" />
       <item value="permissions Granted" />
-      <item value="Check Permissions Fragment" />
-      <item value="Add Context instance to Koin container @param androidContext - Context" />
-      <item value="create Custom Back Pressed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="943" />
+        <entry key="ENGLISH" value="946" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="943" />
+        <entry key="RUSSIAN" value="946" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
