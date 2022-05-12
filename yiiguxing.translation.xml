@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Main Button Settings" />
+      <item value="Use this factory method to create a new instance of this fragment using the provided parameters." />
+      <item value="put" />
+      <item value="put String" />
       <item value="The event used to trigger changes. This is used in BindingAdapters for the data binding system to set the event listener when two-way binding is used." />
       <item value="The attribute that the value is to be retrieved for." />
       <item value="Like BindingAdapters, InverseBindingAdapter methods may also take androidx.databinding.DataBindingComponent as the first parameter and may be an instance method with the instance retrieved from the DataBindingComponent." />
@@ -52,16 +56,12 @@
       <item value="Gets whether you should show UI with rationale before requesting a permission. Params: activity – The target activity. permission – A permission your app wants to request. Returns: Whether you should show permission rationale UI." />
       <item value="Checks that the specified object reference is not null and throws a customized NullPointerException if it is. This method is designed primarily for doing parameter validation in methods and constructors with multiple parameters, as demonstrated below" />
       <item value="Determine whether you have been granted a particular permission. Params: permission – The name of the permission being checked." />
-      <item value="Determine whether you have been granted a particular permission." />
-      <item value="register For Activity Result" />
-      <item value="on Bluetooth Dialog Button Click" />
-      <item value="permissions Granted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="946" />
+        <entry key="ENGLISH" value="950" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="946" />
+        <entry key="RUSSIAN" value="950" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
