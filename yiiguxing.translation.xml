@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="An optional argument to supply a maximum width for this view. See {see android.widget.ImageViewsetMaxWidth} for details. --&gt;" />
       <item value="require Arguments" />
       <item value="Return the arguments supplied when the fragment was instantiated, if any." />
       <item value="Return the arguments supplied when the fragment was instantiated. Throws: IllegalStateException – if no arguments were supplied to the Fragment. See Also: getArguments()" />
@@ -55,13 +56,12 @@
       <item value="Register a request to start an activity for result, designated by the given contract. This creates a record in the registry associated wit this caller, managing request code, as well as conversions tofrom Intent under the hood. This must be called unconditionally, as part of initialization path, typically as a field initializer of an Activity or Fragment. If the host of this fragment is an ActivityResultRegistryOwner the ActivityResultRegistry of the host will be used. Otherwise, this will use the registry of the Fragment's Activity." />
       <item value="launch" />
       <item value="Not Paired" />
-      <item value="Attempts to navigate up in the navigation hierarchy. Suitable for when the user presses the &quot;Up&quot; button marked with a left (or start)-facing arrow in the upper left (or starting) corner of the app UI. The intended behavior of Up differs from Back when the user did not reach the current destination from the application's own task. e.g. if the user is viewing a document or link in the current app in an activity hosted on another app's task where the user clicked the link. In this case the current activity (determined by the context used to create this NavController) will be finished and the user will be taken to an appropriate destination in this app on its own task. Returns: true if navigation was successful, false otherwise" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="959" />
+        <entry key="ENGLISH" value="960" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="959" />
+        <entry key="RUSSIAN" value="960" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
