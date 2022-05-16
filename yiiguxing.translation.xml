@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Exposed Dropdown Menu" />
+      <item value="Dense" />
       <item value="value In Rubles" />
       <item value="Vector Drawable Compat" />
       <item value="viewport Height" />
@@ -54,14 +56,12 @@
       <item value="Request Multiple Permissions" />
       <item value="which" />
       <item value="Requests permissions to be granted to this application. These permissions must be requested in your manifest, they should not be granted to your app, and they should have protection level dangerous, regardless whether they are declared by the platform or a third-party app" />
-      <item value="item" />
-      <item value="Returns a MutableSet of all keyvalue pairs in this map." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="975" />
+        <entry key="ENGLISH" value="977" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="975" />
+        <entry key="RUSSIAN" value="977" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
