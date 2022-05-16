@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="shape complaints dialog" />
       <item value="bind Image Resource" />
       <item value="Returns the outermost View in the layout file associated with the Binding. If this binding is for a merge layout file, this will return the first root in the merge tag" />
       <item value="ac device" />
@@ -51,7 +52,6 @@
       <item value="Requests permissions to be granted to this application. These permissions must be requested in your manifest, they should not be granted to your app, and they should have protection level dangerous, regardless whether they are declared by the platform or a third-party app." />
       <item value="Permissions Request Code" />
       <item value="Find the first denied permission" />
-      <item value="shape complaints dialog" />
       <item value="An ActivityResultContract to request a permission" />
       <item value="denied Permission" />
       <item value="Returns a typed array containing all of the elements of this collection. Allocates an array of runtime type T having its size equal to the size of this collection and populates the array with the elements of this collection." />
@@ -59,9 +59,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="963" />
+        <entry key="ENGLISH" value="964" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="963" />
+        <entry key="RUSSIAN" value="964" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
