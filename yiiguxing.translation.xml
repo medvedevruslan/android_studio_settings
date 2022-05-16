@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="text Input Layout" />
       <item value="selector" />
       <item value="shape" />
       <item value="shape complaints dialog" />
@@ -55,13 +56,12 @@
       <item value="Permissions Request Code" />
       <item value="Find the first denied permission" />
       <item value="An ActivityResultContract to request a permission" />
-      <item value="denied Permission" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="967" />
+        <entry key="ENGLISH" value="968" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="967" />
+        <entry key="RUSSIAN" value="968" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
