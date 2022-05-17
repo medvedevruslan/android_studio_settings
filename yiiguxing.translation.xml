@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="description" />
       <item value="gone" />
       <item value="hide" />
       <item value="total Value In Rubles" />
@@ -55,13 +56,12 @@
       <item value="invoke" />
       <item value="Tries" />
       <item value="Template" />
-      <item value="Template Fragment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="990" />
+        <entry key="ENGLISH" value="991" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="990" />
+        <entry key="RUSSIAN" value="991" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
