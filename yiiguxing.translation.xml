@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="gone" />
+      <item value="hide" />
       <item value="total Value In Rubles" />
       <item value="set Visibility" />
       <item value="set Visability" />
@@ -54,14 +56,12 @@
       <item value="Tries" />
       <item value="Template" />
       <item value="Template Fragment" />
-      <item value="Alternate constructor that can be used to provide a default layout that will be inflated as part of super.onCreate(savedInstanceState). This should generally be called from your constructor that takes no parameters, as is required for API 27 and lower or when using the default android.app.AppComponentFactory. See Also: AppCompatActivity()" />
-      <item value="is Granted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="988" />
+        <entry key="ENGLISH" value="990" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="988" />
+        <entry key="RUSSIAN" value="990" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
