@@ -6,6 +6,12 @@
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Laments" />
+      <item value="Connect Error" />
+      <item value="Signal Lost" />
+      <item value="Not Paired" />
+      <item value="Sets whether this dialog is canceled when touched outside the window's bounds. If setting to true, the dialog is set to be cancelable if not already set. Params: cancel – Whether the dialog should be canceled when touched outside the window" />
+      <item value="Compaints" />
       <item value="margin" />
       <item value="Exposed Dropdown Menu" />
       <item value="Dense" />
@@ -50,18 +56,12 @@
       <item value="is Should Show Request Permission Rationale" />
       <item value="Returns an array containing the specified elements." />
       <item value="is attempting to registerForActivityResult after being created. Fragments must call registerForActivityResult() before they are created (i.e. initialization, onAttach(), or onCreate())." />
-      <item value="Fragment PermissionTestFragment{33b99b5} (f587aa38-fe78-4c3f-b5e5-f66d6bc08850 id=0x7f08012f) is attempting to registerForActivityResult after being created. Fragments must call registerForActivityResult() before they are created (i.e. initialization, onAttach(), or onCreate())." />
-      <item value="Executes an ActivityResultContract. This method throws android.content.ActivityNotFoundException if there was no Activity found to run the given Intent. Params: input – the input required to execute an ActivityResultContract. Throws: android.content.ActivityNotFoundException" />
-      <item value="If set, this activity will become the start of a new task on this history stack. A task (from the activity that started it to the next task activity) defines an atomic group of activities that the user can move to. Tasks can be moved to the foreground and background; all of the activities inside of a particular task always remain in the same order. See Tasks and Back Stack for more information about tasks. This flag is generally used by activities that want to present a &quot;launcher&quot; style behavior: they give the user a list of separate things that can be done, which otherwise run completely independently of the activity launching them. When using this flag, if a task is already running for the activity you are now starting, then a new activity will not be started; instead, the current task will simply be brought to the front of the screen with the state it was last in. See FLAG_ACTIVITY_MULTIPLE_TASK for a flag to disable this behavior." />
-      <item value="If set, this activity will become the start of a new task on this history stack. A task (from the activity that started it to the next task activity) defines an atomic group of activities that the user can move to. Tasks can be moved to the foreground and background; all of the activities inside of a particular task always remain in the same order. See Tasks and Back Stack for more information about tasks. This flag is generally used by activities that want to present a &quot;launcher&quot; style behavior: they give the user a list of separate things that can be done, which otherwise run completely independently of the activity launching them. When using this flag, if a task is already running for the activity you are now starting, then a new activity will not be started; instead, the current task will simply be brought to the front of the screen with the state it was last in. See FLAG_ACTIVITY_MULTIPLE_TASK for a flag to disable this behavior. This flag can not be used when the caller is requesting a result from the activity being launched." />
-      <item value="Request Multiple Permissions" />
-      <item value="which" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="979" />
+        <entry key="ENGLISH" value="985" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="979" />
+        <entry key="RUSSIAN" value="985" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
