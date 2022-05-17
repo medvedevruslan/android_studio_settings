@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Visibility" />
+      <item value="set Visability" />
       <item value="Laments" />
       <item value="Connect Error" />
       <item value="Signal Lost" />
@@ -54,14 +56,12 @@
       <item value="Alternate constructor that can be used to provide a default layout that will be inflated as part of super.onCreate(savedInstanceState). This should generally be called from your constructor that takes no parameters, as is required for API 27 and lower or when using the default android.app.AppComponentFactory. See Also: AppCompatActivity()" />
       <item value="is Granted" />
       <item value="is Should Show Request Permission Rationale" />
-      <item value="Returns an array containing the specified elements." />
-      <item value="is attempting to registerForActivityResult after being created. Fragments must call registerForActivityResult() before they are created (i.e. initialization, onAttach(), or onCreate())." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="985" />
+        <entry key="ENGLISH" value="987" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="985" />
+        <entry key="RUSSIAN" value="988" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
