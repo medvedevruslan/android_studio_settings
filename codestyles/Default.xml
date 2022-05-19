@@ -119,7 +119,6 @@
     <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="3" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="3" />
-    <option name="BLANK_LINES_AFTER_CLASS_HEADER" value="1" />
     <option name="VARIABLE_ANNOTATION_WRAP" value="2" />
     <option name="WRAP_ON_TYPING" value="0" />
   </codeStyleSettings>
