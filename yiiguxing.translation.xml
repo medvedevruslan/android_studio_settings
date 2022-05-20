@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ensure Fragment" />
+      <item value="The fragment if found or null otherwise." />
+      <item value="inds a fragment that was identified by the given tag either when inflated from XML or as supplied when added in a transaction. This first searches through fragments that are currently added to the manager's activity; if no such fragment is found, then all fragments currently on the back stack are searched. If provided a null tag, this method returns null. Params: tag – the tag used to search for the fragment Returns: The fragment if found or null otherwise." />
+      <item value="Marks the JVM method generated from the annotated function as synchronized, meaning that the method will be protected from concurrent execution by multiple threads by the monitor of the instance (or, for static methods, the class) on which the method is defined." />
       <item value="on Page Change Callback" />
       <item value="Return a private FragmentManager for placing and managing Fragments inside of this Fragment" />
       <item value="Dismiss this dialog, removing it from the screen. This method can be invoked safely from any thread. Note that you should not override this method to do cleanup when the dialog is dismissed, instead implement that in onStop." />
@@ -52,16 +56,12 @@
       <item value="set Main Button Settings" />
       <item value="Use this factory method to create a new instance of this fragment using the provided parameters." />
       <item value="put" />
-      <item value="put String" />
-      <item value="The event used to trigger changes. This is used in BindingAdapters for the data binding system to set the event listener when two-way binding is used." />
-      <item value="The attribute that the value is to be retrieved for." />
-      <item value="Like BindingAdapters, InverseBindingAdapter methods may also take androidx.databinding.DataBindingComponent as the first parameter and may be an instance method with the instance retrieved from the DataBindingComponent." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="995" />
+        <entry key="ENGLISH" value="999" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="995" />
+        <entry key="RUSSIAN" value="999" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
