@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="on Page Change Callback" />
       <item value="Return a private FragmentManager for placing and managing Fragments inside of this Fragment" />
       <item value="Dismiss this dialog, removing it from the screen. This method can be invoked safely from any thread. Note that you should not override this method to do cleanup when the dialog is dismissed, instead implement that in onStop." />
       <item value="java.lang.NullPointerException: null cannot be cast to non-null type com.example.twodialogfragments.MainDialogDto" />
@@ -55,11 +56,10 @@
       <item value="The event used to trigger changes. This is used in BindingAdapters for the data binding system to set the event listener when two-way binding is used." />
       <item value="The attribute that the value is to be retrieved for." />
       <item value="Like BindingAdapters, InverseBindingAdapter methods may also take androidx.databinding.DataBindingComponent as the first parameter and may be an instance method with the instance retrieved from the DataBindingComponent." />
-      <item value="unused" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="994" />
+        <entry key="ENGLISH" value="995" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="995" />
         <entry key="DUTCH" value="2" />
