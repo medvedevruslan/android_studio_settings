@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="slider Side" />
       <item value="ensure Fragment" />
       <item value="The fragment if found or null otherwise." />
       <item value="inds a fragment that was identified by the given tag either when inflated from XML or as supplied when added in a transaction. This first searches through fragments that are currently added to the manager's activity; if no such fragment is found, then all fragments currently on the back stack are searched. If provided a null tag, this method returns null. Params: tag – the tag used to search for the fragment Returns: The fragment if found or null otherwise." />
@@ -55,13 +56,13 @@
       <item value="destination" />
       <item value="set Main Button Settings" />
       <item value="Use this factory method to create a new instance of this fragment using the provided parameters." />
-      <item value="put" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="999" />
+        <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="999" />
+        <entry key="RUSSIAN" value="1000" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
