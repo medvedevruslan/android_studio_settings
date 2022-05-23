@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="build Binding" />
       <item value="Returns the parent Fragment containing this Fragment. If this Fragment is attached directly to an Activity, returns null." />
       <item value="Indicates that the ViewPager2 is in the process of settling to a final position." />
       <item value="Indicates that the ViewPager2 is currently being dragged by the user, or programmatically via fake drag functionality." />
@@ -55,14 +56,13 @@
       <item value="An optional argument to supply a maximum width for this view. See {see android.widget.ImageViewsetMaxWidth} for details. --&gt;" />
       <item value="require Arguments" />
       <item value="Return the arguments supplied when the fragment was instantiated, if any." />
-      <item value="Return the arguments supplied when the fragment was instantiated. Throws: IllegalStateException – if no arguments were supplied to the Fragment. See Also: getArguments()" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1005" />
+        <entry key="ENGLISH" value="1006" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1005" />
+        <entry key="RUSSIAN" value="1006" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
