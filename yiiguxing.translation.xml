@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="disable" />
+      <item value="disenable" />
+      <item value="disenabled" />
+      <item value="enabled" />
+      <item value="dissenabled" />
       <item value="that accepts parameter type 'android.widget.Button" />
       <item value="If a binding adapter provides the setter, check that the adapter is annotated correctly and that the parameter type matches." />
       <item value="Cannot find a setter for &lt;com.google.android.material.textfield.TextInputLayout app:configEdtTxtContainer&gt; that accepts parameter type 'android.widget.Button'" />
@@ -51,18 +56,13 @@
       <item value="text Input Layout" />
       <item value="selector" />
       <item value="shape" />
-      <item value="shape complaints dialog" />
-      <item value="bind Image Resource" />
-      <item value="Returns the outermost View in the layout file associated with the Binding. If this binding is for a merge layout file, this will return the first root in the merge tag" />
-      <item value="ac device" />
-      <item value="state container" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1009" />
+        <entry key="ENGLISH" value="1015" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1009" />
+        <entry key="RUSSIAN" value="1015" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />

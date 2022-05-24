@@ -6,8 +6,10 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="ContextHelp" />
-  <action id="EditorSelectWord">
+  <action id="ConvertToWindowsLineSeparators">
     <keyboard-shortcut first-keystroke="alt f" />
+  </action>
+  <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="GotoTest" />
@@ -16,6 +18,9 @@
   </action>
   <action id="ResourceExplorer.show" />
   <action id="ServiceView.ShowServices" />
+  <action id="SmartSelect">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
   <action id="ToggleSideMode">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
