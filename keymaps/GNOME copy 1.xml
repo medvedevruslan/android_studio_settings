@@ -5,8 +5,10 @@
   <action id="CloseEditor">
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="ContextHelp" />
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="alt f" />
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="GotoTest" />
   <action id="ReopenClosedTab">
