@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="hide" />
       <item value="Invocation failed Unexpected end of file from server" />
       <item value="Set custom binding" />
       <item value="disable" />
@@ -35,7 +36,6 @@
       <item value="Control whether the shown Dialog is cancelable. Use this instead of directly calling Dialog.setCancelable(boolean), because DialogFragment needs to change its behavior based on this" />
       <item value="description" />
       <item value="gone" />
-      <item value="hide" />
       <item value="total Value In Rubles" />
       <item value="set Visibility" />
       <item value="set Visability" />
@@ -59,10 +59,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1017" />
+        <entry key="ENGLISH" value="1018" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1017" />
+        <entry key="RUSSIAN" value="1018" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
