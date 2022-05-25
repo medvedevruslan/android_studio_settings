@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="onGetLayoutInflater() cannot be executed until the Fragment is attached to the FragmentManager." />
       <item value="TIME TO ALL MEASURE TIMER" />
       <item value="TIMER TIME TO ALL MEASURE" />
       <item value="millis Future" />
@@ -55,14 +56,13 @@
       <item value="margin" />
       <item value="Exposed Dropdown Menu" />
       <item value="Dense" />
-      <item value="value In Rubles" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1026" />
+        <entry key="ENGLISH" value="1027" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1026" />
+        <entry key="RUSSIAN" value="1027" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
