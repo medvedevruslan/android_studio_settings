@@ -59,10 +59,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1027" />
+        <entry key="ENGLISH" value="1029" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1027" />
+        <entry key="RUSSIAN" value="1029" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
