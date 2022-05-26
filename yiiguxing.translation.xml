@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns the cached LayoutInflater used to inflate Views of this Fragment. If onGetLayoutInflater(Bundle) has not been called onGetLayoutInflater(Bundle) will be called with a null argument and that value will be cached. The cached LayoutInflater will be replaced immediately prior to onCreateView(LayoutInflater, ViewGroup, Bundle) and cleared immediately after onDetach(). Returns: The LayoutInflater used to inflate Views of this Fragment." />
       <item value="onGetLayoutInflater() cannot be executed until the Fragment is attached to the FragmentManager." />
       <item value="Display the dialog, adding the fragment to the given FragmentManager. This is a convenience for explicitly creating a transaction, adding the fragment to it with the given tag, and committing it. This does not add the transaction to the fragment back stack. When the fragment is dismissed, a new transaction will be executed to remove it from the activity. Params: manager – The FragmentManager this fragment will be added to. tag – The tag for this fragment, as per FragmentTransaction.add." />
       <item value="TIME TO ALL MEASURE TIMER" />
@@ -55,14 +56,13 @@
       <item value="Compaints" />
       <item value="margin" />
       <item value="Exposed Dropdown Menu" />
-      <item value="Dense" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1032" />
+        <entry key="ENGLISH" value="1033" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1032" />
+        <entry key="RUSSIAN" value="1033" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
