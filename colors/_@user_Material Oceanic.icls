@@ -4,25 +4,25 @@
     <property name="created">2021-02-04T08:23:29</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">4.1.2.0</property>
-    <property name="modified">2022-05-18T15:43:47</property>
+    <property name="modified">2022-05-26T08:51:16</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
     <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
-    <option name="EDITOR_FONT_SIZE" value="25" />
+    <option name="EDITOR_FONT_SIZE" value="23" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="25" />
+    <option name="EDITOR_FONT_SIZE" value="23" />
   </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="DejaVu Sans Mono" />
-    <option name="EDITOR_FONT_SIZE" value="25" />
+    <option name="EDITOR_FONT_SIZE" value="23" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="25" />
+    <option name="EDITOR_FONT_SIZE" value="23" />
   </console-font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
@@ -399,6 +399,7 @@
       <value>
         <option name="FOREGROUND" value="f78c6c" />
         <option name="EFFECT_COLOR" value="f78c6c" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_KEYWORD1_ATTRIBUTES">
@@ -2958,7 +2959,6 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
-    <option name="PY.BUILTIN_NAME" baseAttributes="" />
     <option name="PY.DECORATOR">
       <value>
         <option name="FOREGROUND" value="82aaff" />
