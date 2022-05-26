@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Calls the specified function block with this value as its argument and returns this value. For detailed usage information see the documentation for scope functions ." />
+      <item value="declared" />
+      <item value="Ref" />
+      <item value="this Ref" />
       <item value="Base interface that can be used for implementing property delegates of read-write properties. This is provided only for convenience; you don't have to extend this interface as long as your property delegate has methods with the same signatures. Params: T - the type of object which owns the delegated property." />
       <item value="Read Write Property" />
       <item value="Get the root view for the fragment's layout (the one returned by onCreateView), if provided. Returns: The fragment's root view, or null if it has no layout." />
@@ -52,17 +56,13 @@
       <item value="total Value In Rubles" />
       <item value="set Visibility" />
       <item value="set Visability" />
-      <item value="Laments" />
-      <item value="Connect Error" />
-      <item value="Signal Lost" />
-      <item value="Not Paired" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1037" />
+        <entry key="ENGLISH" value="1040" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1037" />
+        <entry key="RUSSIAN" value="1040" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
