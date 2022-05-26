@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Get the root view for the fragment's layout (the one returned by onCreateView), if provided. Returns: The fragment's root view, or null if it has no layout." />
       <item value="java.lang.IllegalStateException: onGetLayoutInflater() cannot be executed until the Fragment is attached to the FragmentManager." />
       <item value="Returns the cached LayoutInflater used to inflate Views of this Fragment. If onGetLayoutInflater(Bundle) has not been called onGetLayoutInflater(Bundle) will be called with a null argument and that value will be cached. The cached LayoutInflater will be replaced immediately prior to onCreateView(LayoutInflater, ViewGroup, Bundle) and cleared immediately after onDetach(). Returns: The LayoutInflater used to inflate Views of this Fragment." />
       <item value="onGetLayoutInflater() cannot be executed until the Fragment is attached to the FragmentManager." />
@@ -55,14 +56,13 @@
       <item value="Not Paired" />
       <item value="Sets whether this dialog is canceled when touched outside the window's bounds. If setting to true, the dialog is set to be cancelable if not already set. Params: cancel – Whether the dialog should be canceled when touched outside the window" />
       <item value="Compaints" />
-      <item value="margin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1034" />
+        <entry key="ENGLISH" value="1035" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1034" />
+        <entry key="RUSSIAN" value="1035" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
