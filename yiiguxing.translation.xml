@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Only safe (?.) or non-null asserted (!!.) calls are allowed on a nullable receiver of type MainDialogDto?" />
       <item value="Get the root view for the fragment's layout (the one returned by onCreateView). Throws: IllegalStateException – if no view was returned by onCreateView. See Also: getView()" />
       <item value="Represents an array (specifically, a Java array when targeting the JVM platform). Array instances can be created using the arrayOf, arrayOfNulls and emptyArray standard library functions. See Kotlin language documentation for more information on arrays." />
       <item value="Calls the specified function block with this value as its argument and returns this value. For detailed usage information see the documentation for scope functions ." />
@@ -55,14 +56,13 @@
       <item value="Control whether the shown Dialog is cancelable. Use this instead of directly calling Dialog.setCancelable(boolean), because DialogFragment needs to change its behavior based on this" />
       <item value="description" />
       <item value="gone" />
-      <item value="total Value In Rubles" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1042" />
+        <entry key="ENGLISH" value="1043" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1042" />
+        <entry key="RUSSIAN" value="1043" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
