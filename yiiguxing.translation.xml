@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Supply the construction arguments for this fragment. The arguments supplied here will be retained across fragment destroy and creation. This method cannot be called if the fragment is added to a FragmentManager and if isStateSaved() would return true." />
       <item value="Base interface that can be used for implementing property delegates of read-write properties. This is provided only for convenience; you don't have to extend this interface as long as your property delegate has methods with the same signatures." />
       <item value="Base interface that can be used for implementing property delegates of read-write properties. This is provided only for convenience; you don't have to extend this interface as long as your property delegate has methods with the same signatures. @param T the type of object which owns the delegated property. @param V the type of the property value." />
       <item value="Base interface that can be used for implementing property delegates of read-only properties. This is provided only for convenience; you don't have to extend this interface as long as your property delegate has methods with the same signatures. Params: T - the type of object which owns the delegated property. V - the type of the property value." />
@@ -55,14 +56,13 @@
       <item value="Return a private FragmentManager for placing and managing Fragments inside of this Fragment" />
       <item value="Dismiss this dialog, removing it from the screen. This method can be invoked safely from any thread. Note that you should not override this method to do cleanup when the dialog is dismissed, instead implement that in onStop." />
       <item value="java.lang.NullPointerException: null cannot be cast to non-null type com.example.twodialogfragments.MainDialogDto" />
-      <item value="null cannot be cast to non-null type com.example.twodialogfragments.MainDialogDto" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1046" />
+        <entry key="ENGLISH" value="1047" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1046" />
+        <entry key="RUSSIAN" value="1047" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
