@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Base interface that can be used for implementing property delegates of read-write properties. This is provided only for convenience; you don't have to extend this interface as long as your property delegate has methods with the same signatures." />
+      <item value="Base interface that can be used for implementing property delegates of read-write properties. This is provided only for convenience; you don't have to extend this interface as long as your property delegate has methods with the same signatures. @param T the type of object which owns the delegated property. @param V the type of the property value." />
+      <item value="Base interface that can be used for implementing property delegates of read-only properties. This is provided only for convenience; you don't have to extend this interface as long as your property delegate has methods with the same signatures. Params: T - the type of object which owns the delegated property. V - the type of the property value." />
       <item value="Only safe (?.) or non-null asserted (!!.) calls are allowed on a nullable receiver of type MainDialogDto?" />
       <item value="Get the root view for the fragment's layout (the one returned by onCreateView). Throws: IllegalStateException – if no view was returned by onCreateView. See Also: getView()" />
       <item value="Represents an array (specifically, a Java array when targeting the JVM platform). Array instances can be created using the arrayOf, arrayOfNulls and emptyArray standard library functions. See Kotlin language documentation for more information on arrays." />
@@ -53,16 +56,13 @@
       <item value="Dismiss this dialog, removing it from the screen. This method can be invoked safely from any thread. Note that you should not override this method to do cleanup when the dialog is dismissed, instead implement that in onStop." />
       <item value="java.lang.NullPointerException: null cannot be cast to non-null type com.example.twodialogfragments.MainDialogDto" />
       <item value="null cannot be cast to non-null type com.example.twodialogfragments.MainDialogDto" />
-      <item value="Control whether the shown Dialog is cancelable. Use this instead of directly calling Dialog.setCancelable(boolean), because DialogFragment needs to change its behavior based on this" />
-      <item value="description" />
-      <item value="gone" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1043" />
+        <entry key="ENGLISH" value="1046" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1043" />
+        <entry key="RUSSIAN" value="1046" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
@@ -71,6 +71,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1653284130825" />
+    <option name="lastTrimTime" value="1653887742684" />
   </component>
 </application>
