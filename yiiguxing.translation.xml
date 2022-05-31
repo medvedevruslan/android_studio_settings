@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Compaints" />
+      <item value="hide" />
       <item value="has not been attached yet." />
       <item value="Get the root view for the fragment's layout (the one returned by onCreateView). Throws: IllegalStateException – if no view was returned by onCreateView. See Also: getView()" />
       <item value="Supply the construction arguments for this fragment. The arguments supplied here will be retained across fragment destroy and creation. This method cannot be called if the fragment is added to a FragmentManager and if isStateSaved() would return true." />
@@ -31,7 +33,6 @@
       <item value="apply" />
       <item value="Display the dialog, adding the fragment to the given FragmentManager. This is a convenience for explicitly creating a transaction, adding the fragment to it with the given tag, and committing it. This does not add the transaction to the fragment back stack. When the fragment is dismissed, a new transaction will be executed to remove it from the activity. Params: manager – The FragmentManager this fragment will be added to. tag – The tag for this fragment, as per" />
       <item value="Type mismatch: inferred type is Bundle? but Bundle was expected" />
-      <item value="hide" />
       <item value="Invocation failed Unexpected end of file from server" />
       <item value="Set custom binding" />
       <item value="disable" />
@@ -55,14 +56,13 @@
       <item value="Marks the JVM method generated from the annotated function as synchronized, meaning that the method will be protected from concurrent execution by multiple threads by the monitor of the instance (or, for static methods, the class) on which the method is defined." />
       <item value="on Page Change Callback" />
       <item value="Return a private FragmentManager for placing and managing Fragments inside of this Fragment" />
-      <item value="Dismiss this dialog, removing it from the screen. This method can be invoked safely from any thread. Note that you should not override this method to do cleanup when the dialog is dismissed, instead implement that in onStop." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1049" />
+        <entry key="ENGLISH" value="1052" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1049" />
+        <entry key="RUSSIAN" value="1052" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
