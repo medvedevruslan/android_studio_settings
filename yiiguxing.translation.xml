@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1110" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="launch Service" />
       <item value="Model State Ordinal" />
       <item value="Compaints" />
       <item value="hide" />
@@ -55,14 +56,13 @@
       <item value="The fragment if found or null otherwise." />
       <item value="inds a fragment that was identified by the given tag either when inflated from XML or as supplied when added in a transaction. This first searches through fragments that are currently added to the manager's activity; if no such fragment is found, then all fragments currently on the back stack are searched. If provided a null tag, this method returns null. Params: tag – the tag used to search for the fragment Returns: The fragment if found or null otherwise." />
       <item value="Marks the JVM method generated from the annotated function as synchronized, meaning that the method will be protected from concurrent execution by multiple threads by the monitor of the instance (or, for static methods, the class) on which the method is defined." />
-      <item value="on Page Change Callback" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1053" />
+        <entry key="ENGLISH" value="1054" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1053" />
+        <entry key="RUSSIAN" value="1054" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
