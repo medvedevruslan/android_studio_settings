@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1435" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="update Grid Visibility" />
       <item value="Sets the sound that should be played for notifications posted to this channel and its audio attributes. Notification channels with an importance of at least NotificationManager.IMPORTANCE_DEFAULT should have a sound. Only modifiable before the channel is submitted to NotificationManager.createNotificationChannel(NotificationChannel)." />
       <item value="Define" />
       <item value="Inherit" />
@@ -55,14 +56,13 @@
       <item value="disable" />
       <item value="disenable" />
       <item value="disenabled" />
-      <item value="enabled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1071" />
+        <entry key="ENGLISH" value="1072" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1071" />
+        <entry key="RUSSIAN" value="1072" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
