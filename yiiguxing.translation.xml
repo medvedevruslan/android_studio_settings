@@ -1,11 +1,16 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="626" />
-    <option name="newTranslationDialogWidth" value="2005" />
-    <option name="newTranslationDialogX" value="483" />
-    <option name="newTranslationDialogY" value="1435" />
+    <option name="newTranslationDialogWidth" value="2003" />
+    <option name="newTranslationDialogX" value="4625" />
+    <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns a new string obtained by replacing all occurrences of the oldValue substring in this string with the specified newValue string." />
+      <item value="Returns first element. Throws: NoSuchElementException - if the list is empty." />
+      <item value="randomize Songs" />
+      <item value="shuffle Songs" />
+      <item value="Displays a video file. The VideoView class can load images from various sources (such as resources or content providers), takes care of computing its measurement from the video so that it can be used in any layout manager, and provides various display options such as scaling and tinting. Note: VideoView does not retain its full state when going into the background. In particular, it does not restore the current play state, play position, selected tracks, or any subtitle tracks added via addSubtitleSource(). Applications should save and restore these on their own in" />
       <item value="shuffled" />
       <item value="Interface for receiving a callback when the process hosting an IBinder has gone away. See Also: linkToDeath" />
       <item value="Death Recipient" />
@@ -51,18 +56,13 @@
       <item value="Returns the cached LayoutInflater used to inflate Views of this Fragment. If onGetLayoutInflater(Bundle) has not been called onGetLayoutInflater(Bundle) will be called with a null argument and that value will be cached. The cached LayoutInflater will be replaced immediately prior to onCreateView(LayoutInflater, ViewGroup, Bundle) and cleared immediately after onDetach(). Returns: The LayoutInflater used to inflate Views of this Fragment." />
       <item value="onGetLayoutInflater() cannot be executed until the Fragment is attached to the FragmentManager." />
       <item value="Display the dialog, adding the fragment to the given FragmentManager. This is a convenience for explicitly creating a transaction, adding the fragment to it with the given tag, and committing it. This does not add the transaction to the fragment back stack. When the fragment is dismissed, a new transaction will be executed to remove it from the activity. Params: manager – The FragmentManager this fragment will be added to. tag – The tag for this fragment, as per FragmentTransaction.add." />
-      <item value="TIME TO ALL MEASURE TIMER" />
-      <item value="TIMER TIME TO ALL MEASURE" />
-      <item value="millis Future" />
-      <item value="apply" />
-      <item value="Display the dialog, adding the fragment to the given FragmentManager. This is a convenience for explicitly creating a transaction, adding the fragment to it with the given tag, and committing it. This does not add the transaction to the fragment back stack. When the fragment is dismissed, a new transaction will be executed to remove it from the activity. Params: manager – The FragmentManager this fragment will be added to. tag – The tag for this fragment, as per" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1078" />
+        <entry key="ENGLISH" value="1082" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1078" />
+        <entry key="RUSSIAN" value="1082" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
