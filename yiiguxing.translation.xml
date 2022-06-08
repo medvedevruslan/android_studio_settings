@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Switch" />
+      <item value="Releases resources associated with this MediaPlayer object. It is considered good practice to call this method when you're done using the MediaPlayer. In particular, whenever an Activity of an application is paused (its onPause() method is called), or stopped (its onStop() method is called), this method should be invoked to release the MediaPlayer object, unless the application has a special need to keep the object around. In addition to unnecessary resources (such as memory and instances of codecs) being held, failure to call this method immediately if a MediaPlayer object is no longer needed may also lead to continuous battery consumption for mobile devices, and playback failure for other applications if no multiple instances of the same codec are supported on a device. Even if multiple instances of the same codec are supported, some performance degradation may be expected when unnecessary multiple instances are used at the same time." />
+      <item value="Define" />
       <item value="Returns a new string obtained by replacing all occurrences of the oldValue substring in this string with the specified newValue string." />
       <item value="Returns first element. Throws: NoSuchElementException - if the list is empty." />
       <item value="randomize Songs" />
@@ -19,7 +22,6 @@
       <item value="elapsed Time" />
       <item value="update Grid Visibility" />
       <item value="Sets the sound that should be played for notifications posted to this channel and its audio attributes. Notification channels with an importance of at least NotificationManager.IMPORTANCE_DEFAULT should have a sound. Only modifiable before the channel is submitted to NotificationManager.createNotificationChannel(NotificationChannel)." />
-      <item value="Define" />
       <item value="Inherit" />
       <item value="exported" />
       <item value="receiver" />
@@ -54,15 +56,13 @@
       <item value="Get the root view for the fragment's layout (the one returned by onCreateView), if provided. Returns: The fragment's root view, or null if it has no layout." />
       <item value="java.lang.IllegalStateException: onGetLayoutInflater() cannot be executed until the Fragment is attached to the FragmentManager." />
       <item value="Returns the cached LayoutInflater used to inflate Views of this Fragment. If onGetLayoutInflater(Bundle) has not been called onGetLayoutInflater(Bundle) will be called with a null argument and that value will be cached. The cached LayoutInflater will be replaced immediately prior to onCreateView(LayoutInflater, ViewGroup, Bundle) and cleared immediately after onDetach(). Returns: The LayoutInflater used to inflate Views of this Fragment." />
-      <item value="onGetLayoutInflater() cannot be executed until the Fragment is attached to the FragmentManager." />
-      <item value="Display the dialog, adding the fragment to the given FragmentManager. This is a convenience for explicitly creating a transaction, adding the fragment to it with the given tag, and committing it. This does not add the transaction to the fragment back stack. When the fragment is dismissed, a new transaction will be executed to remove it from the activity. Params: manager – The FragmentManager this fragment will be added to. tag – The tag for this fragment, as per FragmentTransaction.add." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1082" />
+        <entry key="ENGLISH" value="1085" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1082" />
+        <entry key="RUSSIAN" value="1085" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
