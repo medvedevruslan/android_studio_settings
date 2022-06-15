@@ -6,6 +6,12 @@
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Low notification importance: Shows in the shade, and potentially in the status bar (see shouldHideSilentStatusBarIcons()), but is not audibly intrusive." />
+      <item value="Default notification importance: shows everywhere, makes noise, but does not visually intrude" />
+      <item value="Min notification importance: only shows in the shade, below the fold. This should not be used with Service.startForeground since a foreground service is supposed to be something the user cares about so it does not make semantic sense to mark its notification as minimum importance. If you do this as of Android version Build.VERSION_CODES.O, the system will show a higher-priority notification about your app running in the background." />
+      <item value="A notification with no importance: does not show in the shade." />
+      <item value="Default notification importance: shows everywhere, makes noise, but does not visually intrude." />
+      <item value="Sets the notification light color for notifications posted to this channel, if lights are enabled on this channel and the device supports that feature. Only modifiable before the channel is submitted to NotificationManager.createNotificationChannel(NotificationChannel)." />
       <item value="Flag indicating that the created PendingIntent should be immutable. This means that the additional intent argument passed to the send methods to fill in unpopulated properties of this intent will be ignored. FLAG_IMMUTABLE only limits the ability to alter the semantics of the intent that is sent by send by the invoker of send. The creator of the PendingIntent can always update the PendingIntent itself via FLAG_UPDATE_CURRENT." />
       <item value="init" />
       <item value="java.lang.IllegalArgumentException: com.example.twodialogfragments: Targeting S+ (version 31 and above) requires that one of FLAG_IMMUTABLE or FLAG_MUTABLE be specified when creating a PendingIntent." />
@@ -50,19 +56,13 @@
       <item value="Base interface that can be used for implementing property delegates of read-only properties. This is provided only for convenience; you don't have to extend this interface as long as your property delegate has methods with the same signatures. Params: T - the type of object which owns the delegated property. V - the type of the property value." />
       <item value="Only safe (?.) or non-null asserted (!!.) calls are allowed on a nullable receiver of type MainDialogDto?" />
       <item value="Represents an array (specifically, a Java array when targeting the JVM platform). Array instances can be created using the arrayOf, arrayOfNulls and emptyArray standard library functions. See Kotlin language documentation for more information on arrays." />
-      <item value="Calls the specified function block with this value as its argument and returns this value. For detailed usage information see the documentation for scope functions ." />
-      <item value="declared" />
-      <item value="Ref" />
-      <item value="this Ref" />
-      <item value="Base interface that can be used for implementing property delegates of read-write properties. This is provided only for convenience; you don't have to extend this interface as long as your property delegate has methods with the same signatures. Params: T - the type of object which owns the delegated property." />
-      <item value="Read Write Property" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1087" />
+        <entry key="ENGLISH" value="1096" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1087" />
+        <entry key="RUSSIAN" value="1096" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
