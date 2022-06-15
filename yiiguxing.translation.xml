@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Value signifying that the user has not expressed an importance. This value is for persisting preferences, and should never be associated with an actual notification" />
+      <item value="A notification with no importance: does not show in the shade." />
+      <item value="Min notification importance: only shows in the shade, below the fold. This should not be used with Service.startForeground since a foreground service is supposed to be something the user cares about so it does not make semantic sense to mark its notification as minimum importance. If you do this as of Android version Build.VERSION_CODES.O, the system will show a higher-priority notification about your app running in the background." />
       <item value="On older platforms, this value is still used, so it is still required for apps supporting those platforms." />
       <item value="above" />
       <item value="On platforms Build.VERSION_CODES.O and above this value is ignored in favor of the importance value set on the notification's channel. On older platforms, this value is still used, so it is still required for apps supporting those platforms." />
@@ -13,8 +16,6 @@
       <item value="Notification Compat" />
       <item value="Low notification importance: Shows in the shade, and potentially in the status bar (see shouldHideSilentStatusBarIcons()), but is not audibly intrusive." />
       <item value="Default notification importance: shows everywhere, makes noise, but does not visually intrude" />
-      <item value="Min notification importance: only shows in the shade, below the fold. This should not be used with Service.startForeground since a foreground service is supposed to be something the user cares about so it does not make semantic sense to mark its notification as minimum importance. If you do this as of Android version Build.VERSION_CODES.O, the system will show a higher-priority notification about your app running in the background." />
-      <item value="A notification with no importance: does not show in the shade." />
       <item value="Default notification importance: shows everywhere, makes noise, but does not visually intrude." />
       <item value="Sets the notification light color for notifications posted to this channel, if lights are enabled on this channel and the device supports that feature. Only modifiable before the channel is submitted to NotificationManager.createNotificationChannel(NotificationChannel)." />
       <item value="Flag indicating that the created PendingIntent should be immutable. This means that the additional intent argument passed to the send methods to fill in unpopulated properties of this intent will be ignored. FLAG_IMMUTABLE only limits the ability to alter the semantics of the intent that is sent by send by the invoker of send. The creator of the PendingIntent can always update the PendingIntent itself via FLAG_UPDATE_CURRENT." />
@@ -55,14 +56,13 @@
       <item value="hide" />
       <item value="has not been attached yet." />
       <item value="Get the root view for the fragment's layout (the one returned by onCreateView). Throws: IllegalStateException – if no view was returned by onCreateView. See Also: getView()" />
-      <item value="Supply the construction arguments for this fragment. The arguments supplied here will be retained across fragment destroy and creation. This method cannot be called if the fragment is added to a FragmentManager and if isStateSaved() would return true." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1101" />
+        <entry key="ENGLISH" value="1106" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1101" />
+        <entry key="RUSSIAN" value="1106" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
