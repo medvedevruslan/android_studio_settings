@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Notification Compat" />
       <item value="Low notification importance: Shows in the shade, and potentially in the status bar (see shouldHideSilentStatusBarIcons()), but is not audibly intrusive." />
       <item value="Default notification importance: shows everywhere, makes noise, but does not visually intrude" />
       <item value="Min notification importance: only shows in the shade, below the fold. This should not be used with Service.startForeground since a foreground service is supposed to be something the user cares about so it does not make semantic sense to mark its notification as minimum importance. If you do this as of Android version Build.VERSION_CODES.O, the system will show a higher-priority notification about your app running in the background." />
@@ -55,14 +56,13 @@
       <item value="Base interface that can be used for implementing property delegates of read-write properties. This is provided only for convenience; you don't have to extend this interface as long as your property delegate has methods with the same signatures. @param T the type of object which owns the delegated property. @param V the type of the property value." />
       <item value="Base interface that can be used for implementing property delegates of read-only properties. This is provided only for convenience; you don't have to extend this interface as long as your property delegate has methods with the same signatures. Params: T - the type of object which owns the delegated property. V - the type of the property value." />
       <item value="Only safe (?.) or non-null asserted (!!.) calls are allowed on a nullable receiver of type MainDialogDto?" />
-      <item value="Represents an array (specifically, a Java array when targeting the JVM platform). Array instances can be created using the arrayOf, arrayOfNulls and emptyArray standard library functions. See Kotlin language documentation for more information on arrays." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1096" />
+        <entry key="ENGLISH" value="1097" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1096" />
+        <entry key="RUSSIAN" value="1097" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
