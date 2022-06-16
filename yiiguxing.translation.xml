@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Valid" />
+      <item value="Companion" />
       <item value="Value signifying that the user has not expressed an importance. This value is for persisting preferences, and should never be associated with an actual notification" />
       <item value="A notification with no importance: does not show in the shade." />
       <item value="Min notification importance: only shows in the shade, below the fold. This should not be used with Service.startForeground since a foreground service is supposed to be something the user cares about so it does not make semantic sense to mark its notification as minimum importance. If you do this as of Android version Build.VERSION_CODES.O, the system will show a higher-priority notification about your app running in the background." />
@@ -54,15 +56,13 @@
       <item value="Model State Ordinal" />
       <item value="Compaints" />
       <item value="hide" />
-      <item value="has not been attached yet." />
-      <item value="Get the root view for the fragment's layout (the one returned by onCreateView). Throws: IllegalStateException – if no view was returned by onCreateView. See Also: getView()" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1106" />
+        <entry key="ENGLISH" value="1108" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1106" />
+        <entry key="RUSSIAN" value="1108" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
