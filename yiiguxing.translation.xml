@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Destination Info" />
+      <item value="route" />
+      <item value="wait Delay" />
       <item value="NAME INSECURE" />
       <item value="User Out Scenario" />
       <item value="reason" />
@@ -53,16 +56,13 @@
       <item value="Return true if Bluetooth LE(Always BLE On feature) is currently enabled and ready for use This returns true if current state is either STATE_ON or STATE_BLE_ON Returns: true if the local Bluetooth LE adapter is turned on" />
       <item value="Return true if Bluetooth is currently enabled and ready for use. Equivalent to: getBluetoothState() == STATE_ON Returns: true if the local adapter is turned on" />
       <item value="BIND AUTO CREATE" />
-      <item value="destination" />
-      <item value="Instantiatable" />
-      <item value="If set to true, this service with be automatically stopped when the user remove a task rooted in an activity owned by the application. The default is false." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1116" />
+        <entry key="ENGLISH" value="1119" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1116" />
+        <entry key="RUSSIAN" value="1119" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
