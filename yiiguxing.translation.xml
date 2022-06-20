@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="NAME INSECURE" />
       <item value="User Out Scenario" />
       <item value="reason" />
       <item value="Model State" />
@@ -55,14 +56,13 @@
       <item value="destination" />
       <item value="Instantiatable" />
       <item value="If set to true, this service with be automatically stopped when the user remove a task rooted in an activity owned by the application. The default is false." />
-      <item value="least Sig Bits" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1115" />
+        <entry key="ENGLISH" value="1116" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1115" />
+        <entry key="RUSSIAN" value="1116" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
