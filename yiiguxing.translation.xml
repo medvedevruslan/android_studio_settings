@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Post a notification to be shown in the status bar. If a notification with the same id has already been posted by your application and has not yet been canceled, it will be replaced by the updated information. Params: id – An identifier for this notification unique within your application. notification – A Notification object describing what to show the user. Must not be null." />
       <item value="Returns the runtime Java class of this object." />
       <item value="Returns a KClass instance corresponding to the given Java Class instance." />
       <item value="to avoid binary compatibility issues." />
@@ -55,14 +56,13 @@
       <item value="Death Recipient" />
       <item value="RECEIVE BOOT COMPLETED" />
       <item value="count elapsed time" />
-      <item value="elapsed Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1129" />
+        <entry key="ENGLISH" value="1130" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1129" />
+        <entry key="RUSSIAN" value="1130" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
