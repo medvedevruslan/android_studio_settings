@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns the runtime Java class of this object." />
+      <item value="Returns a KClass instance corresponding to the given Java Class instance." />
       <item value="to avoid binary compatibility issues." />
       <item value="issues" />
       <item value="avoid" />
@@ -54,15 +56,13 @@
       <item value="RECEIVE BOOT COMPLETED" />
       <item value="count elapsed time" />
       <item value="elapsed Time" />
-      <item value="update Grid Visibility" />
-      <item value="Sets the sound that should be played for notifications posted to this channel and its audio attributes. Notification channels with an importance of at least NotificationManager.IMPORTANCE_DEFAULT should have a sound. Only modifiable before the channel is submitted to NotificationManager.createNotificationChannel(NotificationChannel)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1127" />
+        <entry key="ENGLISH" value="1129" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1127" />
+        <entry key="RUSSIAN" value="1129" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
