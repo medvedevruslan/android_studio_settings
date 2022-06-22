@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="to avoid binary compatibility issues." />
+      <item value="issues" />
+      <item value="avoid" />
+      <item value="assigned" />
       <item value="Calls the specified function block with the given receiver as its receiver and returns its result. For detailed usage information see the documentation for scope functions ." />
       <item value="A class that has an Android lifecycle. These events can be used by custom components to handle lifecycle changes without implementing any code inside the Activity or the Fragment. See Also: Lifecycle, ViewTreeLifecycleOwner" />
       <item value="Destination Info" />
@@ -52,17 +56,13 @@
       <item value="elapsed Time" />
       <item value="update Grid Visibility" />
       <item value="Sets the sound that should be played for notifications posted to this channel and its audio attributes. Notification channels with an importance of at least NotificationManager.IMPORTANCE_DEFAULT should have a sound. Only modifiable before the channel is submitted to NotificationManager.createNotificationChannel(NotificationChannel)." />
-      <item value="Inherit" />
-      <item value="exported" />
-      <item value="receiver" />
-      <item value="Return true if Bluetooth LE(Always BLE On feature) is currently enabled and ready for use This returns true if current state is either STATE_ON or STATE_BLE_ON Returns: true if the local Bluetooth LE adapter is turned on" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1123" />
+        <entry key="ENGLISH" value="1127" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1123" />
+        <entry key="RUSSIAN" value="1127" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
