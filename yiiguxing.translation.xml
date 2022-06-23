@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="By overriding invoke, we allow use cases to be called as &quot;invoking&quot;" />
       <item value="Data" />
       <item value="reason" />
       <item value="Returns the value associated with the given key, or defaultValue if no mapping of the desired type exists for the given key. Params: key – a String defaultValue – Value to return if key does not exist Returns: a boolean value" />
@@ -55,14 +56,13 @@
       <item value="randomize Songs" />
       <item value="shuffle Songs" />
       <item value="Displays a video file. The VideoView class can load images from various sources (such as resources or content providers), takes care of computing its measurement from the video so that it can be used in any layout manager, and provides various display options such as scaling and tinting. Note: VideoView does not retain its full state when going into the background. In particular, it does not restore the current play state, play position, selected tracks, or any subtitle tracks added via addSubtitleSource(). Applications should save and restore these on their own in" />
-      <item value="shuffled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1136" />
+        <entry key="ENGLISH" value="1138" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1136" />
+        <entry key="RUSSIAN" value="1138" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
