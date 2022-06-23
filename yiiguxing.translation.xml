@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="reason" />
       <item value="Returns the value associated with the given key, or defaultValue if no mapping of the desired type exists for the given key. Params: key – a String defaultValue – Value to return if key does not exist Returns: a boolean value" />
       <item value="Batch" />
       <item value="on Batch Scan Results" />
@@ -23,7 +24,6 @@
       <item value="wait Delay" />
       <item value="NAME INSECURE" />
       <item value="User Out Scenario" />
-      <item value="reason" />
       <item value="Model State" />
       <item value="User Is Out" />
       <item value="describe Contents" />
@@ -59,10 +59,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1133" />
+        <entry key="ENGLISH" value="1135" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1133" />
+        <entry key="RUSSIAN" value="1135" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
