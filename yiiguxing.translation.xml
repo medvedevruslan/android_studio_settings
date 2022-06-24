@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="shipment Busy" />
       <item value="Return true if Bluetooth is currently enabled and ready for use. Equivalent to: getBluetoothState() == STATE_ON Returns: true if the local adapter is turned on" />
       <item value="handle" />
       <item value="resolve" />
@@ -55,14 +56,13 @@
       <item value="above" />
       <item value="On platforms Build.VERSION_CODES.O and above this value is ignored in favor of the importance value set on the notification's channel. On older platforms, this value is still used, so it is still required for apps supporting those platforms." />
       <item value="Set the relative priority for this notification. Priority is an indication of how much of the user's valuable attention should be consumed by this notification. Low-priority notifications may be hidden from the user in certain situations, while the user might be interrupted for a higher-priority notification. The system sets a notification's priority based on various factors including the setPriority value. The effect may differ slightly on different platforms. On platforms Build.VERSION_CODES.O and above this value is ignored in favor of the importance value set on the notification's channel. On older platforms, this value is still used, so it is still required for apps supporting those platforms. Params: pri – Relative priority for this notification. Must be one of the priority constants defined by NotificationCompat. Acceptable values range from PRIORITY_MIN (-2) to PRIORITY_MAX (2). See Also: NotificationChannelCompat.Builder.setImportance(int)" />
-      <item value="Notification Compat" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1157" />
+        <entry key="ENGLISH" value="1158" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1157" />
+        <entry key="RUSSIAN" value="1158" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
