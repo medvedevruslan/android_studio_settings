@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Simple Result" />
+      <item value="By overriding invoke, we allow use cases to be called as &quot;invoking&quot;" />
       <item value="Sends the specified element to this channel, suspending the caller while the buffer of this channel is full or if it does not exist, or throws an exception if the channel is closed for send (see close for details). Closing a channel after this function has suspended does not cause this suspended send invocation to abort, because closing a channel is conceptually like sending a special &quot;close token&quot; over this channel. All elements sent over the channel are delivered in first-in first-out order. The sent element will be delivered to receivers before the close token. This suspending function is cancellable. If the Job of the current coroutine is cancelled or completed while this function is suspended, this function immediately resumes with a CancellationException. There is a prompt cancellation guarantee. If the job was cancelled while this function was suspended, it will not resume successfully. The send call can send the element to the channel, but then throw CancellationException, thus an exception should not be treated as a failure to deliver the element. See &quot;Undelivered elements&quot; section in Channel documentation for details on handling undelivered elements. Note that this function does not check for cancellation when it is not suspended. Use yield or CoroutineScope.isActive to periodically check for cancellation in tight loops if needed. This function can be used in select invocations with the onSend clause. Use trySend to try sending to this channel without waiting." />
       <item value="Performs the given action for each received element and cancels the channel after the execution of the block. If you need to iterate over the channel without consuming it, a regular for loop should be used instead. The operation is terminal. This function consumes all elements of the original ReceiveChannel." />
       <item value="consume Each" />
@@ -18,7 +20,6 @@
       <item value="handle Result" />
       <item value="Failed" />
       <item value="Failure" />
-      <item value="By overriding invoke, we allow use cases to be called as &quot;invoking&quot;" />
       <item value="Data" />
       <item value="reason" />
       <item value="Returns the value associated with the given key, or defaultValue if no mapping of the desired type exists for the given key. Params: key – a String defaultValue – Value to return if key does not exist Returns: a boolean value" />
@@ -55,14 +56,13 @@
       <item value="Notification Compat" />
       <item value="Low notification importance: Shows in the shade, and potentially in the status bar (see shouldHideSilentStatusBarIcons()), but is not audibly intrusive." />
       <item value="Default notification importance: shows everywhere, makes noise, but does not visually intrude" />
-      <item value="Default notification importance: shows everywhere, makes noise, but does not visually intrude." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1152" />
+        <entry key="ENGLISH" value="1154" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1152" />
+        <entry key="RUSSIAN" value="1154" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
