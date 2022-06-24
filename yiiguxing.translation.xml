@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Performs the given action for each received element and cancels the channel after the execution of the block. If you need to iterate over the channel without consuming it, a regular for loop should be used instead. The operation is terminal. This function consumes all elements of the original ReceiveChannel." />
+      <item value="consume Each" />
+      <item value="process Stream" />
+      <item value="This method will be called when this ViewModel is no longer used and will be destroyed. It is useful when ViewModel observes some data and you need to clear this subscription to prevent a leak of this ViewModel." />
+      <item value="The context of this scope. Context is encapsulated by the scope and used for implementation of coroutine builders that are extensions on the scope. Accessing this property in general code is not recommended for any purposes except accessing the Job instance for advanced usages. By convention, should contain an instance of a job to enforce structured concurrency." />
       <item value="resolve" />
       <item value="handle State" />
       <item value="handle Success" />
@@ -51,18 +56,13 @@
       <item value="Default notification importance: shows everywhere, makes noise, but does not visually intrude" />
       <item value="Default notification importance: shows everywhere, makes noise, but does not visually intrude." />
       <item value="Sets the notification light color for notifications posted to this channel, if lights are enabled on this channel and the device supports that feature. Only modifiable before the channel is submitted to NotificationManager.createNotificationChannel(NotificationChannel)." />
-      <item value="Flag indicating that the created PendingIntent should be immutable. This means that the additional intent argument passed to the send methods to fill in unpopulated properties of this intent will be ignored. FLAG_IMMUTABLE only limits the ability to alter the semantics of the intent that is sent by send by the invoker of send. The creator of the PendingIntent can always update the PendingIntent itself via FLAG_UPDATE_CURRENT." />
-      <item value="init" />
-      <item value="java.lang.IllegalArgumentException: com.example.twodialogfragments: Targeting S+ (version 31 and above) requires that one of FLAG_IMMUTABLE or FLAG_MUTABLE be specified when creating a PendingIntent." />
-      <item value="Switch" />
-      <item value="Releases resources associated with this MediaPlayer object. It is considered good practice to call this method when you're done using the MediaPlayer. In particular, whenever an Activity of an application is paused (its onPause() method is called), or stopped (its onStop() method is called), this method should be invoked to release the MediaPlayer object, unless the application has a special need to keep the object around. In addition to unnecessary resources (such as memory and instances of codecs) being held, failure to call this method immediately if a MediaPlayer object is no longer needed may also lead to continuous battery consumption for mobile devices, and playback failure for other applications if no multiple instances of the same codec are supported on a device. Even if multiple instances of the same codec are supported, some performance degradation may be expected when unnecessary multiple instances are used at the same time." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1145" />
+        <entry key="ENGLISH" value="1150" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1145" />
+        <entry key="RUSSIAN" value="1150" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
