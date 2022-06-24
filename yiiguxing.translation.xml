@@ -6,6 +6,12 @@
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="resolve" />
+      <item value="handle State" />
+      <item value="handle Success" />
+      <item value="handle Result" />
+      <item value="Failed" />
+      <item value="Failure" />
       <item value="By overriding invoke, we allow use cases to be called as &quot;invoking&quot;" />
       <item value="Data" />
       <item value="reason" />
@@ -50,19 +56,13 @@
       <item value="java.lang.IllegalArgumentException: com.example.twodialogfragments: Targeting S+ (version 31 and above) requires that one of FLAG_IMMUTABLE or FLAG_MUTABLE be specified when creating a PendingIntent." />
       <item value="Switch" />
       <item value="Releases resources associated with this MediaPlayer object. It is considered good practice to call this method when you're done using the MediaPlayer. In particular, whenever an Activity of an application is paused (its onPause() method is called), or stopped (its onStop() method is called), this method should be invoked to release the MediaPlayer object, unless the application has a special need to keep the object around. In addition to unnecessary resources (such as memory and instances of codecs) being held, failure to call this method immediately if a MediaPlayer object is no longer needed may also lead to continuous battery consumption for mobile devices, and playback failure for other applications if no multiple instances of the same codec are supported on a device. Even if multiple instances of the same codec are supported, some performance degradation may be expected when unnecessary multiple instances are used at the same time." />
-      <item value="Define" />
-      <item value="Returns a new string obtained by replacing all occurrences of the oldValue substring in this string with the specified newValue string." />
-      <item value="Returns first element. Throws: NoSuchElementException - if the list is empty." />
-      <item value="randomize Songs" />
-      <item value="shuffle Songs" />
-      <item value="Displays a video file. The VideoView class can load images from various sources (such as resources or content providers), takes care of computing its measurement from the video so that it can be used in any layout manager, and provides various display options such as scaling and tinting. Note: VideoView does not retain its full state when going into the background. In particular, it does not restore the current play state, play position, selected tracks, or any subtitle tracks added via addSubtitleSource(). Applications should save and restore these on their own in" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1138" />
+        <entry key="ENGLISH" value="1145" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1138" />
+        <entry key="RUSSIAN" value="1145" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
