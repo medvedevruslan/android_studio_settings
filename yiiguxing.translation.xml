@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="route" />
+      <item value="wait Delay" />
       <item value="Similar to startService(Intent), but with an implicit promise that the Service will call startForeground(int, android.app.Notification) once it begins running. The service is given an amount of time comparable to the ANR interval to do this, otherwise the system will automatically crash the process, in which case an internal exception ForegroundServiceDidNotStartInTimeException is logged on logcat on devices running SDK Version Build.VERSION_CODES.S or later. On older Android versions, an internal exception RemoteServiceException is logged instead, with a corresponding message. Unlike the ordinary startService(Intent), this method can be used at any time, regardless of whether the app hosting the service is in a foreground state. Note: Beginning with SDK Version Build.VERSION_CODES.S, apps targeting SDK Version Build.VERSION_CODES.S or higher are not allowed to start foreground services from the background. See Behavior changes: Apps targeting Android 12 for more details. Params: service – Identifies the service to be started. The Intent must be fully explicit (supplying a component name). Additional values may be included in the Intent extras to supply arguments along with this specific start call. Returns: If the service is being started or is already running, the ComponentName of the actual service that was started is returned; else if the service does not exist null is returned. Throws: SecurityException – If the caller does not have permission to access the service or the service can not be found. android.app.ForegroundServiceStartNotAllowedException – If the caller app's targeting API is Build.VERSION_CODES.S or later, and the foreground service is restricted from start due to background restriction. See Also: stopService, android.app.Service.startForeground(int, android.app.Notification)" />
       <item value="Retrieve the current back stack. Returns: The current back stack." />
       <item value="Returns true if the receiver is currently processing an ordered broadcast." />
@@ -41,8 +43,6 @@
       <item value="Calls the specified function block with the given receiver as its receiver and returns its result. For detailed usage information see the documentation for scope functions ." />
       <item value="A class that has an Android lifecycle. These events can be used by custom components to handle lifecycle changes without implementing any code inside the Activity or the Fragment. See Also: Lifecycle, ViewTreeLifecycleOwner" />
       <item value="Destination Info" />
-      <item value="route" />
-      <item value="wait Delay" />
       <item value="NAME INSECURE" />
       <item value="User Out Scenario" />
       <item value="Model State" />
@@ -59,10 +59,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1162" />
+        <entry key="ENGLISH" value="1165" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1162" />
+        <entry key="RUSSIAN" value="1165" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
