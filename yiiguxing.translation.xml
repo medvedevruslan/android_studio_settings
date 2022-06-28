@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="resolve" />
       <item value="needed Device Found" />
       <item value="Data Received" />
       <item value="Set the time that the event occurred. Notifications in the panel are sorted by this time. For apps targeting Build.VERSION_CODES.N and above, this time is not shown anymore by default and must be opted into using setShowWhen(boolean)" />
@@ -20,7 +21,6 @@
       <item value="shipment Busy" />
       <item value="Return true if Bluetooth is currently enabled and ready for use. Equivalent to: getBluetoothState() == STATE_ON Returns: true if the local adapter is turned on" />
       <item value="handle" />
-      <item value="resolve" />
       <item value="Simple Result" />
       <item value="By overriding invoke, we allow use cases to be called as &quot;invoking&quot;" />
       <item value="Sends the specified element to this channel, suspending the caller while the buffer of this channel is full or if it does not exist, or throws an exception if the channel is closed for send (see close for details). Closing a channel after this function has suspended does not cause this suspended send invocation to abort, because closing a channel is conceptually like sending a special &quot;close token&quot; over this channel. All elements sent over the channel are delivered in first-in first-out order. The sent element will be delivered to receivers before the close token. This suspending function is cancellable. If the Job of the current coroutine is cancelled or completed while this function is suspended, this function immediately resumes with a CancellationException. There is a prompt cancellation guarantee. If the job was cancelled while this function was suspended, it will not resume successfully. The send call can send the element to the channel, but then throw CancellationException, thus an exception should not be treated as a failure to deliver the element. See &quot;Undelivered elements&quot; section in Channel documentation for details on handling undelivered elements. Note that this function does not check for cancellation when it is not suspended. Use yield or CoroutineScope.isActive to periodically check for cancellation in tight loops if needed. This function can be used in select invocations with the onSend clause. Use trySend to try sending to this channel without waiting." />
@@ -59,10 +59,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1175" />
+        <entry key="ENGLISH" value="1176" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1175" />
+        <entry key="RUSSIAN" value="1176" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
