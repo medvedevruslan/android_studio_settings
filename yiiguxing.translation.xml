@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Similar to startService(Intent), but with an implicit promise that the Service will call startForeground(int, android.app.Notification) once it begins running. The service is given an amount of time comparable to the ANR interval to do this, otherwise the system will automatically crash the process, in which case an internal exception ForegroundServiceDidNotStartInTimeException is logged on logcat on devices running SDK Version Build.VERSION_CODES.S or later. On older Android versions, an internal exception RemoteServiceException is logged instead, with a corresponding message. Unlike the ordinary startService(Intent), this method can be used at any time, regardless of whether the app hosting the service is in a foreground state. Note: Beginning with SDK Version Build.VERSION_CODES.S, apps targeting SDK Version Build.VERSION_CODES.S or higher are not allowed to start foreground services from the background. See Behavior changes: Apps targeting Android 12 for more details. Params: service – Identifies the service to be started. The Intent must be fully explicit (supplying a component name). Additional values may be included in the Intent extras to supply arguments along with this specific start call. Returns: If the service is being started or is already running, the ComponentName of the actual service that was started is returned; else if the service does not exist null is returned. Throws: SecurityException – If the caller does not have permission to access the service or the service can not be found. android.app.ForegroundServiceStartNotAllowedException – If the caller app's targeting API is Build.VERSION_CODES.S or later, and the foreground service is restricted from start due to background restriction. See Also: stopService, android.app.Service.startForeground(int, android.app.Notification)" />
       <item value="Retrieve the current back stack. Returns: The current back stack." />
       <item value="Returns true if the receiver is currently processing an ordered broadcast." />
       <item value="shipment Busy" />
@@ -55,14 +56,13 @@
       <item value="A notification with no importance: does not show in the shade." />
       <item value="Min notification importance: only shows in the shade, below the fold. This should not be used with Service.startForeground since a foreground service is supposed to be something the user cares about so it does not make semantic sense to mark its notification as minimum importance. If you do this as of Android version Build.VERSION_CODES.O, the system will show a higher-priority notification about your app running in the background." />
       <item value="On older platforms, this value is still used, so it is still required for apps supporting those platforms." />
-      <item value="above" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1160" />
+        <entry key="ENGLISH" value="1162" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1160" />
+        <entry key="RUSSIAN" value="1162" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
