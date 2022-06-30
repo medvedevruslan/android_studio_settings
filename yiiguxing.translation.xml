@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Create a listening, insecure RFCOMM Bluetooth socket with Service Record. The link key is not required to be authenticated, i.e the communication may be vulnerable to Person In the Middle attacks. For Bluetooth 2.1 devices, the link will be encrypted, as encryption is mandatory. For legacy devices (pre Bluetooth 2.1 devices) the link will not be encrypted. Use listenUsingRfcommWithServiceRecord, if an encrypted and authenticated communication channel is desired. Use BluetoothServerSocket.accept to retrieve incoming connections from a listening BluetoothServerSocket. The system will assign an unused RFCOMM channel to listen on. The system will also register a Service Discovery Protocol (SDP) record with the local SDP server containing the specified UUID, service name, and auto-assigned channel. Remote Bluetooth devices can use the same UUID to query our SDP server and discover which channel to connect to. This SDP record will be removed when this socket is closed, or if this application closes unexpectedly. Use BluetoothDevice.createRfcommSocketToServiceRecord to connect to this socket from another device using the same UUID. Params: name – service name for SDP record uuid – uuid for SDP record Returns: a listening RFCOMM BluetoothServerSocket Throws: IOException – on error, for example Bluetooth not available, or insufficient permissions, or channel in use." />
+      <item value="NAME INSECURE" />
       <item value="needed Device Found" />
       <item value="date And Time Assembly" />
       <item value="data Received" />
@@ -54,15 +56,13 @@
       <item value="reason" />
       <item value="Returns the value associated with the given key, or defaultValue if no mapping of the desired type exists for the given key. Params: key – a String defaultValue – Value to return if key does not exist Returns: a boolean value" />
       <item value="Batch" />
-      <item value="on Batch Scan Results" />
-      <item value="Post a notification to be shown in the status bar. If a notification with the same id has already been posted by your application and has not yet been canceled, it will be replaced by the updated information. Params: id – An identifier for this notification unique within your application. notification – A Notification object describing what to show the user. Must not be null." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1204" />
+        <entry key="ENGLISH" value="1206" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1204" />
+        <entry key="RUSSIAN" value="1206" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
