@@ -1,11 +1,14 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="626" />
-    <option name="newTranslationDialogWidth" value="2001" />
+    <option name="newTranslationDialogWidth" value="1999" />
     <option name="newTranslationDialogX" value="4625" />
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Create a new Editor for these preferences, through which you can make modifications to the data in the preferences and atomically commit those changes back to the SharedPreferences object. Note that you must call SharedPreferences.Editor.commit to have any changes you perform in the Editor actually show up in the SharedPreferences. Returns: Returns a new instance of the SharedPreferences.Editor interface, allowing you to modify the values in this SharedPreferences object." />
+      <item value="File creation mode: the default mode, where the created file can only be accessed by the calling application (or all applications sharing the same user ID)." />
+      <item value="Create a new Editor for these preferences, through which you can make modifications to the data in the preferences and atomically commit those changes back to the SharedPreferences object. Note that you must call SharedPreferences.Editor.commit to have any changes you perform in the Editor actually show up in the SharedPreferences." />
       <item value="Unexpected error while executing: am start -n &quot;com.example.clean_pre_trip_controlcom.example.clean_pre_trip_control.presentation.ui.MainActivity&quot; -a android.intent.action.MAIN -c android.intent.category.LAUNCHER Error while Launching activity Failed to launch an application on all devices" />
       <item value="The default CoroutineDispatcher that is used by all standard builders like launch, async, etc if no dispatcher nor any other ContinuationInterceptor is specified in their context. It is backed by a shared pool of threads on JVM. By default, the maximal level of parallelism used by this dispatcher is equal to the number of CPU cores, but is at least two. Level of parallelism X guarantees that no more than X tasks can be executed in this dispatcher in paralle" />
       <item value="A coroutine dispatcher that is confined to the Main thread operating with UI objects. This dispatcher can be used either directly or via MainScope factory. Usually such dispatcher is single-threaded. Access to this property may throw IllegalStateException if no main thread dispatchers are present in the classpath. Depending on platform and classpath it can be mapped to different dispatchers: On JS and Native it is equivalent of Default dispatcher. On JVM it is either Android main thread dispatcher, JavaFx or Swing EDT dispatcher. It is chosen by ServiceLoader. In order to work with Main dispatcher, the following artifacts should be added to project runtime dependencies: kotlinx-coroutines-android for Android Main thread dispatcher kotlinx-coroutines-javafx for JavaFx Application thread dispatcher kotlinx-coroutines-swing for Swing EDT dispatcher In order to set a custom Main dispatcher for testing purposes, add the kotlinx-coroutines-test artifact to project test dependencies. Implementation note: MainCoroutineDispatcher.immediate is not supported on Native and JS platfo" />
@@ -53,16 +56,13 @@
       <item value="wait Delay" />
       <item value="Retrieve the current back stack. Returns: The current back stack." />
       <item value="Returns true if the receiver is currently processing an ordered broadcast." />
-      <item value="shipment Busy" />
-      <item value="Return true if Bluetooth is currently enabled and ready for use. Equivalent to: getBluetoothState() == STATE_ON Returns: true if the local adapter is turned on" />
-      <item value="handle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1227" />
+        <entry key="ENGLISH" value="1228" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1227" />
+        <entry key="RUSSIAN" value="1229" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
