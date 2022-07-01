@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Scan using highest duty cycle. It's recommended to only use this mode when the application is running in the foreground." />
       <item value="Runs a new coroutine and blocks the current thread interruptibly until its completion. This function should not be used from a coroutine. It is designed to bridge regular blocking code to libraries that are written in suspending style, to be used in main functions and in tests. The default CoroutineDispatcher for this builder is an internal implementation of event loop that processes continuations in this blocked thread until the completion of this coroutine. See CoroutineDispatcher for the other implementations that are provided by kotlinx.coroutines. When CoroutineDispatcher is explicitly specified in the context, then the new coroutine runs in the context of the specified dispatcher while the current thread is blocked. If the specified dispatcher is an event loop of another runBlocking, then this invocation uses the outer event loop. If this blocked thread is interrupted (see Thread.interrupt), then the coroutine job is cancelled and this runBlocking invocation throws InterruptedException. See newCoroutineContext for a description of debugging facilities that are available for a newly created coroutine. Params: context - the context of the coroutine. The default value is an event loop on the current thread. block - the coroutine code." />
       <item value="try Connect Paired Device" />
       <item value="Stop the service, if it was previously started. This is the same as calling" />
@@ -55,14 +56,13 @@
       <item value="Simple Result" />
       <item value="By overriding invoke, we allow use cases to be called as &quot;invoking&quot;" />
       <item value="Sends the specified element to this channel, suspending the caller while the buffer of this channel is full or if it does not exist, or throws an exception if the channel is closed for send (see close for details). Closing a channel after this function has suspended does not cause this suspended send invocation to abort, because closing a channel is conceptually like sending a special &quot;close token&quot; over this channel. All elements sent over the channel are delivered in first-in first-out order. The sent element will be delivered to receivers before the close token. This suspending function is cancellable. If the Job of the current coroutine is cancelled or completed while this function is suspended, this function immediately resumes with a CancellationException. There is a prompt cancellation guarantee. If the job was cancelled while this function was suspended, it will not resume successfully. The send call can send the element to the channel, but then throw CancellationException, thus an exception should not be treated as a failure to deliver the element. See &quot;Undelivered elements&quot; section in Channel documentation for details on handling undelivered elements. Note that this function does not check for cancellation when it is not suspended. Use yield or CoroutineScope.isActive to periodically check for cancellation in tight loops if needed. This function can be used in select invocations with the onSend clause. Use trySend to try sending to this channel without waiting." />
-      <item value="Performs the given action for each received element and cancels the channel after the execution of the block. If you need to iterate over the channel without consuming it, a regular for loop should be used instead. The operation is terminal. This function consumes all elements of the original ReceiveChannel." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1222" />
+        <entry key="ENGLISH" value="1224" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1222" />
+        <entry key="RUSSIAN" value="1224" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
