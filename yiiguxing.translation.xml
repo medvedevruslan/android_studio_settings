@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="not attached to an activity." />
+      <item value="check First Try After Should Show" />
       <item value="request Permission" />
       <item value="first Check All Permissions" />
       <item value="if should Show true" />
@@ -54,15 +56,13 @@
       <item value="Check to see whether this activity is in the process of being destroyed in order to be recreated with a new configuration. This is often used in onStop to determine whether the state needs to be cleaned up or will be passed on to the next instance of the activity via onRetainNonConfigurationInstance(). Returns: If the activity is being torn down in order to be recreated with a new configuration, returns true; else returns false." />
       <item value="Flag for bindService: automatically create the service as long as the binding exists. Note that while this will create the service, its android.app.Service.onStartCommand method will still only be called due to an explicit call to startService. Even without that, though, this still provides you with access to the service object while the service is created. Note that prior to Build.VERSION_CODES.ICE_CREAM_SANDWICH, not supplying this flag would also impact how important the system consider's the target service's process to be. When set, the only way for it to be raised was by binding from a service in which case it will only be important when that activity is in the foreground. Now to achieve this behavior you must explicitly supply the new flag BIND_ADJUST_WITH_ACTIVITY. For compatibility, old applications that don't specify BIND_AUTO_CREATE will automatically have the flags BIND_WAIVE_PRIORITY and BIND_ADJUST_WITH_ACTIVITY set for them in order to achieve the same result." />
       <item value="launch Service" />
-      <item value="launche Service" />
-      <item value="launcher Service" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1238" />
+        <entry key="ENGLISH" value="1240" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1238" />
+        <entry key="RUSSIAN" value="1240" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
