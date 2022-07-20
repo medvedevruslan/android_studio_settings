@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="HANDOVER" />
+      <item value="ACCEPT HANDOVER" />
       <item value="Unable to resume activity {com.example.clean_pre_trip_controlcom.example.clean_pre_trip_control.presentation.MainActivity}: java.lang.IllegalArgumentException: Unknown permission: [android.permission.ACCESS_COARSE_LOCATION]" />
       <item value="not attached to a context." />
       <item value="not attached to an activity." />
@@ -54,15 +56,13 @@
       <item value="add Source" />
       <item value="Similar to startService(Intent), but with an implicit promise that the Service will call startForeground(int, android.app.Notification) once it begins running. The service is given an amount of time comparable to the ANR interval to do this, otherwise the system will automatically crash the process, in which case an internal exception ForegroundServiceDidNotStartInTimeException is logged on logcat on devices running SDK Version Build.VERSION_CODES.S or later. On older Android versions, an internal exception RemoteServiceException is logged instead, with a corresponding message. Unlike the ordinary startService(Intent), this method can be used at any time, regardless of whether the app hosting the service is in a foreground state. Note: Beginning with SDK Version Build.VERSION_CODES.S, apps targeting SDK Version Build.VERSION_CODES.S or higher are not allowed to start foreground services from the background. See Behavior changes: Apps targeting Android 12 for more details. Params: service – Identifies the service to be started. The Intent must be fully explicit (supplying a component name). Additional values may be included in the Intent extras to supply arguments along with this specific start call. Returns: If the service is being started or is already running, the ComponentName of the actual service that was started is returned; else if the service does not exist null is returned. Throws: SecurityException – If the caller does not have permission to access the service or the service can not be found. android.app.ForegroundServiceStartNotAllowedException – If the caller app's targeting API is Build.VERSION_CODES.S or later, and the foreground service is restricted from start due to background restriction. See Also: stopService, android.app.Service.startForeground(int, android.app.Notification)" />
       <item value="Attempt to invoke virtual method 'void androidx.lifecycle.MutableLiveData.setValue(java.lang.Object)' on a null object reference" />
-      <item value="java.lang.NullPointerException: Attempt to invoke virtual method 'void androidx.lifecycle.MutableLiveData.setValue(java.lang.Object)' on a null object reference" />
-      <item value="Check to see whether this activity is in the process of being destroyed in order to be recreated with a new configuration. This is often used in onStop to determine whether the state needs to be cleaned up or will be passed on to the next instance of the activity via onRetainNonConfigurationInstance(). Returns: If the activity is being torn down in order to be recreated with a new configuration, returns true; else returns false." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1242" />
+        <entry key="ENGLISH" value="1244" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1242" />
+        <entry key="RUSSIAN" value="1244" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
