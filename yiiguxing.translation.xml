@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="needed Device Found" />
       <item value="regular State" />
       <item value="register For Activity Result" />
       <item value="&lt;p&gt; If the host of this fragment is an {@link ActivityResultRegistryOwner} the {@link ActivityResultRegistry} of the host will be used. Otherwise, this will use the registry of the Fragment's Activity." />
@@ -51,7 +52,6 @@
       <item value="Called by the system when the service is first created. Do not call this method directly." />
       <item value="Create a listening, insecure RFCOMM Bluetooth socket with Service Record. The link key is not required to be authenticated, i.e the communication may be vulnerable to Person In the Middle attacks. For Bluetooth 2.1 devices, the link will be encrypted, as encryption is mandatory. For legacy devices (pre Bluetooth 2.1 devices) the link will not be encrypted. Use listenUsingRfcommWithServiceRecord, if an encrypted and authenticated communication channel is desired. Use BluetoothServerSocket.accept to retrieve incoming connections from a listening BluetoothServerSocket. The system will assign an unused RFCOMM channel to listen on. The system will also register a Service Discovery Protocol (SDP) record with the local SDP server containing the specified UUID, service name, and auto-assigned channel. Remote Bluetooth devices can use the same UUID to query our SDP server and discover which channel to connect to. This SDP record will be removed when this socket is closed, or if this application closes unexpectedly. Use BluetoothDevice.createRfcommSocketToServiceRecord to connect to this socket from another device using the same UUID. Params: name – service name for SDP record uuid – uuid for SDP record Returns: a listening RFCOMM BluetoothServerSocket Throws: IOException – on error, for example Bluetooth not available, or insufficient permissions, or channel in use." />
       <item value="NAME INSECURE" />
-      <item value="needed Device Found" />
       <item value="date And Time Assembly" />
       <item value="data Received" />
       <item value="Allocates a Date object and initializes it so that it represents the time at which it was allocated, measured to the nearest millisecond. See Also: System.currentTimeMillis()" />
@@ -59,10 +59,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1250" />
+        <entry key="ENGLISH" value="1251" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1250" />
+        <entry key="RUSSIAN" value="1251" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
