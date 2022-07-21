@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Denied Permission" />
       <item value="pressure Measurement Fragment" />
       <item value="entries" />
       <item value="HANDOVER" />
@@ -55,14 +56,13 @@
       <item value="final Permission" />
       <item value="Construct a PendingIntent to the deep link destination. This constructs the entire task stack needed. You must have set a NavGraph and set a destination before calling this method. Returns: a PendingIntent constructed with TaskStackBuilder.getPendingIntent to deep link to the given destination" />
       <item value="Starts to listen the given source LiveData, onChanged observer will be called when source value was changed. onChanged callback will be called only when this MediatorLiveData is active. If the given LiveData is already added as a source but with a different Observer, IllegalArgumentException will be thrown. Params: source – the LiveData to listen to onChanged – The observer that will receive the events Type parameters: &lt;S&gt; – The type of data hold by source LiveData" />
-      <item value="add Source" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1246" />
+        <entry key="ENGLISH" value="1247" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1246" />
+        <entry key="RUSSIAN" value="1247" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
