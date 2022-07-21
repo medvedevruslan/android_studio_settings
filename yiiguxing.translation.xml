@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Get a BluetoothDevice object for the given Bluetooth hardware address. Valid Bluetooth hardware addresses must be upper case, in a format such as &quot;00:11:22:33:AA:BB&quot;. The helper checkBluetoothAddress is available to validate a Bluetooth address. A BluetoothDevice will always be returned for a valid hardware address, even if this adapter has never seen that device. Params: address – valid Bluetooth MAC address Throws: IllegalArgumentException – if address is invalid" />
       <item value="Set the context for this BluetoothAdapter (only called from BluetoothManager)" />
       <item value="needed Device Found" />
       <item value="regular State" />
@@ -55,14 +56,13 @@
       <item value="NAME INSECURE" />
       <item value="date And Time Assembly" />
       <item value="data Received" />
-      <item value="Allocates a Date object and initializes it so that it represents the time at which it was allocated, measured to the nearest millisecond. See Also: System.currentTimeMillis()" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1252" />
+        <entry key="ENGLISH" value="1253" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1252" />
+        <entry key="RUSSIAN" value="1253" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
