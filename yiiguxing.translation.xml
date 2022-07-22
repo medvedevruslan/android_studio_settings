@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="connect Founded Device" />
+      <item value="SEND REQUEST" />
+      <item value="code Repeat Check" />
       <item value="Get a BluetoothDevice object for the given Bluetooth hardware address. Valid Bluetooth hardware addresses must be upper case, in a format such as &quot;00:11:22:33:AA:BB&quot;. The helper checkBluetoothAddress is available to validate a Bluetooth address. A BluetoothDevice will always be returned for a valid hardware address, even if this adapter has never seen that device. Params: address – valid Bluetooth MAC address Throws: IllegalArgumentException – if address is invalid" />
       <item value="Set the context for this BluetoothAdapter (only called from BluetoothManager)" />
       <item value="needed Device Found" />
@@ -53,16 +56,13 @@
       <item value="LiveData subclass which may observe other LiveData objects and react on OnChanged events from them. This class correctly propagates its activeinactive states down to source LiveData objects. Consider the following scenario: we have 2 instances of LiveData, let's name them liveData1 and liveData2, and we want to merge their emissions in one object: liveDataMerger. Then, liveData1 and liveData2 will become sources for the MediatorLiveData liveDataMerger and every time onChanged callback is called for either of them, we set a new value in liveDataMerger." />
       <item value="Called by the system when the service is first created. Do not call this method directly." />
       <item value="Create a listening, insecure RFCOMM Bluetooth socket with Service Record. The link key is not required to be authenticated, i.e the communication may be vulnerable to Person In the Middle attacks. For Bluetooth 2.1 devices, the link will be encrypted, as encryption is mandatory. For legacy devices (pre Bluetooth 2.1 devices) the link will not be encrypted. Use listenUsingRfcommWithServiceRecord, if an encrypted and authenticated communication channel is desired. Use BluetoothServerSocket.accept to retrieve incoming connections from a listening BluetoothServerSocket. The system will assign an unused RFCOMM channel to listen on. The system will also register a Service Discovery Protocol (SDP) record with the local SDP server containing the specified UUID, service name, and auto-assigned channel. Remote Bluetooth devices can use the same UUID to query our SDP server and discover which channel to connect to. This SDP record will be removed when this socket is closed, or if this application closes unexpectedly. Use BluetoothDevice.createRfcommSocketToServiceRecord to connect to this socket from another device using the same UUID. Params: name – service name for SDP record uuid – uuid for SDP record Returns: a listening RFCOMM BluetoothServerSocket Throws: IOException – on error, for example Bluetooth not available, or insufficient permissions, or channel in use." />
-      <item value="NAME INSECURE" />
-      <item value="date And Time Assembly" />
-      <item value="data Received" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1253" />
+        <entry key="ENGLISH" value="1255" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1253" />
+        <entry key="RUSSIAN" value="1255" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
