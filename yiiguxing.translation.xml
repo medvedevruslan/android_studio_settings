@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1337" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Thermometer Measure Data" />
+      <item value="hex String" />
       <item value="also" />
       <item value="is Success" />
       <item value="A GATT operation completed successfully" />
@@ -54,15 +56,13 @@
       <item value="work With Result Status" />
       <item value="worker With Result Status" />
       <item value="LiveData which publicly exposes setValue(T) and postValue(T) method. Type parameters: &lt;T&gt; – The type of data hold by this instance" />
-      <item value="Creates a MutableLiveData initialized with the given value. Params: value – initial value" />
-      <item value="state" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1257" />
+        <entry key="ENGLISH" value="1259" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1257" />
+        <entry key="RUSSIAN" value="1259" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
