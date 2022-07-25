@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Could not determine the dependencies of task ':start:compileDebugJavaWithJavac'. &gt; Cannot query the value of property 'bootClasspath' because it has no value available." />
       <item value="The context of this scope. Context is encapsulated by the scope and used for implementation of coroutine builders that are extensions on the scope. Accessing this property in general code is not recommended for any purposes except accessing the Job instance for advanced usages. By convention, should contain an instance of a job to enforce structured concurrency." />
       <item value="Return a new Message instance from the global pool. Allows us to avoid allocating new objects in many cases." />
       <item value="Thermometer Measure Data" />
@@ -55,14 +56,13 @@
       <item value="Failure Ble" />
       <item value="Failed" />
       <item value="Failed Ble" />
-      <item value="work With Result Status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1260" />
+        <entry key="ENGLISH" value="1261" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1260" />
+        <entry key="RUSSIAN" value="1261" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
@@ -73,6 +73,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658129670714" />
+    <option name="lastTrimTime" value="1658746132034" />
   </component>
 </application>
