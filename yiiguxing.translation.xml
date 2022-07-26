@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="finally" />
       <item value="Called immediately after the UI shows the snackbar." />
       <item value="cause the original cause of this exception" />
       <item value="cause" />
@@ -55,14 +56,13 @@
       <item value="By overriding invoke, we allow use cases to be called as &quot;invoking&quot;" />
       <item value="Worker" />
       <item value="daemon" />
-      <item value="if should Show Request Permission Rationale_" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1282" />
+        <entry key="ENGLISH" value="1283" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1282" />
+        <entry key="RUSSIAN" value="1283" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
