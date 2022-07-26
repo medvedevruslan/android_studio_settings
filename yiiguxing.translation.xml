@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="instant" />
+      <item value="instant Task Executor Rule" />
       <item value="Submits a Runnable task for execution and returns a Future representing that task. The Future's get method will return null upon successful completion." />
       <item value="Submits a Runnable task for execution and returns a Future representing that task. The Future's get method will return null upon successful completion. Params: task – the task to submit" />
       <item value="An executor service that can run [Runnable]s off the main thread." />
@@ -54,15 +56,13 @@
       <item value="The default CoroutineDispatcher that is used by all standard builders like launch, async, etc if no dispatcher nor any other ContinuationInterceptor is specified in their context. It is backed by a shared pool of threads on JVM. By default, the maximal level of parallelism used by this dispatcher is equal to the number of CPU cores, but is at least two. Level of parallelism X guarantees that no more than X tasks can be executed in this dispatcher in paralle" />
       <item value="A coroutine dispatcher that is confined to the Main thread operating with UI objects. This dispatcher can be used either directly or via MainScope factory. Usually such dispatcher is single-threaded. Access to this property may throw IllegalStateException if no main thread dispatchers are present in the classpath. Depending on platform and classpath it can be mapped to different dispatchers: On JS and Native it is equivalent of Default dispatcher. On JVM it is either Android main thread dispatcher, JavaFx or Swing EDT dispatcher. It is chosen by ServiceLoader. In order to work with Main dispatcher, the following artifacts should be added to project runtime dependencies: kotlinx-coroutines-android for Android Main thread dispatcher kotlinx-coroutines-javafx for JavaFx Application thread dispatcher kotlinx-coroutines-swing for Swing EDT dispatcher In order to set a custom Main dispatcher for testing purposes, add the kotlinx-coroutines-test artifact to project test dependencies. Implementation note: MainCoroutineDispatcher.immediate is not supported on Native and JS platfo" />
       <item value="Scan using highest duty cycle. It's recommended to only use this mode when the application is running in the foreground." />
-      <item value="Runs a new coroutine and blocks the current thread interruptibly until its completion. This function should not be used from a coroutine. It is designed to bridge regular blocking code to libraries that are written in suspending style, to be used in main functions and in tests. The default CoroutineDispatcher for this builder is an internal implementation of event loop that processes continuations in this blocked thread until the completion of this coroutine. See CoroutineDispatcher for the other implementations that are provided by kotlinx.coroutines. When CoroutineDispatcher is explicitly specified in the context, then the new coroutine runs in the context of the specified dispatcher while the current thread is blocked. If the specified dispatcher is an event loop of another runBlocking, then this invocation uses the outer event loop. If this blocked thread is interrupted (see Thread.interrupt), then the coroutine job is cancelled and this runBlocking invocation throws InterruptedException. See newCoroutineContext for a description of debugging facilities that are available for a newly created coroutine. Params: context - the context of the coroutine. The default value is an event loop on the current thread. block - the coroutine code." />
-      <item value="try Connect Paired Device" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1268" />
+        <entry key="ENGLISH" value="1271" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1268" />
+        <entry key="RUSSIAN" value="1271" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
