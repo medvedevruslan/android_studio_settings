@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="insert Title" />
+      <item value="Dao" />
       <item value="Unable to refresh title" />
       <item value="on" />
       <item value="on Completed" />
@@ -54,21 +56,20 @@
       <item value="not attached to a context." />
       <item value="not attached to an activity." />
       <item value="check First Try After Should Show" />
-      <item value="request Permission" />
-      <item value="first Check All Permissions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1288" />
+        <entry key="ENGLISH" value="1290" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1288" />
+        <entry key="RUSSIAN" value="1290" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="GREEK" value="2" />
+        <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
   </component>
