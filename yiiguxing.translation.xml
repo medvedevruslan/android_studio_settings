@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Submits a Runnable task for execution and returns a Future representing that task. The Future's get method will return null upon successful completion." />
+      <item value="Submits a Runnable task for execution and returns a Future representing that task. The Future's get method will return null upon successful completion. Params: task – the task to submit" />
+      <item value="An executor service that can run [Runnable]s off the main thread." />
       <item value="Creates a thread pool that reuses a fixed number of threads operating off a shared unbounded queue. At any point, at most nThreads threads will be active processing tasks. If additional tasks are submitted when all threads are active, they will wait in the queue until a thread is available. If any thread terminates due to a failure during execution prior to shutdown, a new one will take its place if needed to execute subsequent tasks. The threads in the pool will exist until it is explicitly shutdown. Params: nThreads – the number of threads in the pool Returns: the newly created thread pool Throws: IllegalArgumentException – if nThreads &lt;= 0" />
       <item value="Executors" />
       <item value="_spinner" />
@@ -53,16 +56,13 @@
       <item value="Scan using highest duty cycle. It's recommended to only use this mode when the application is running in the foreground." />
       <item value="Runs a new coroutine and blocks the current thread interruptibly until its completion. This function should not be used from a coroutine. It is designed to bridge regular blocking code to libraries that are written in suspending style, to be used in main functions and in tests. The default CoroutineDispatcher for this builder is an internal implementation of event loop that processes continuations in this blocked thread until the completion of this coroutine. See CoroutineDispatcher for the other implementations that are provided by kotlinx.coroutines. When CoroutineDispatcher is explicitly specified in the context, then the new coroutine runs in the context of the specified dispatcher while the current thread is blocked. If the specified dispatcher is an event loop of another runBlocking, then this invocation uses the outer event loop. If this blocked thread is interrupted (see Thread.interrupt), then the coroutine job is cancelled and this runBlocking invocation throws InterruptedException. See newCoroutineContext for a description of debugging facilities that are available for a newly created coroutine. Params: context - the context of the coroutine. The default value is an event loop on the current thread. block - the coroutine code." />
       <item value="try Connect Paired Device" />
-      <item value="Stop the service, if it was previously started. This is the same as calling" />
-      <item value="input Command" />
-      <item value="Failure" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1264" />
+        <entry key="ENGLISH" value="1268" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1264" />
+        <entry key="RUSSIAN" value="1268" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
