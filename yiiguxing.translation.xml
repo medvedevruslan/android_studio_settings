@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Refresh the title, showing a loading spinner while it refreshes and errors via snackbar." />
       <item value="completable.await()`" />
       <item value="insert Title" />
       <item value="Dao" />
@@ -55,14 +56,13 @@
       <item value="ACCEPT HANDOVER" />
       <item value="Unable to resume activity {com.example.clean_pre_trip_controlcom.example.clean_pre_trip_control.presentation.MainActivity}: java.lang.IllegalArgumentException: Unknown permission: [android.permission.ACCESS_COARSE_LOCATION]" />
       <item value="not attached to a context." />
-      <item value="not attached to an activity." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1291" />
+        <entry key="ENGLISH" value="1292" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1291" />
+        <entry key="RUSSIAN" value="1292" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
