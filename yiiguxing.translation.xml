@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="violate" />
+      <item value="Receiver's interface to Channel." />
       <item value="error: TitleDao_Impl is not abstract and does not override abstract method insertTitle(Title,Continuation&lt;? super Unit&gt;) in TitleDao public final class TitleDao_Impl implements TitleDao { ^" />
       <item value="Refresh the title, showing a loading spinner while it refreshes and errors via snackbar." />
       <item value="completable.await()`" />
@@ -54,15 +56,13 @@
       <item value="pressure Measurement Fragment" />
       <item value="entries" />
       <item value="HANDOVER" />
-      <item value="ACCEPT HANDOVER" />
-      <item value="Unable to resume activity {com.example.clean_pre_trip_controlcom.example.clean_pre_trip_control.presentation.MainActivity}: java.lang.IllegalArgumentException: Unknown permission: [android.permission.ACCESS_COARSE_LOCATION]" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1293" />
+        <entry key="ENGLISH" value="1295" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1293" />
+        <entry key="RUSSIAN" value="1295" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
