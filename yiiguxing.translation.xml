@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="This method will be called when this ViewModel is no longer used and will be destroyed. It is useful when ViewModel observes some data and you need to clear this subscription to prevent a leak of this ViewModel." />
       <item value="Returns a List containing all elements. The operation is terminal. This function consumes all elements of the original ReceiveChannel." />
       <item value="violate" />
       <item value="Receiver's interface to Channel." />
@@ -55,14 +56,13 @@
       <item value="&lt;p&gt; If the host of this fragment is an {@link ActivityResultRegistryOwner} the {@link ActivityResultRegistry} of the host will be used. Otherwise, this will use the registry of the Fragment's Activity." />
       <item value="get Denied Permission" />
       <item value="pressure Measurement Fragment" />
-      <item value="entries" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1296" />
+        <entry key="ENGLISH" value="1298" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1296" />
+        <entry key="RUSSIAN" value="1298" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
