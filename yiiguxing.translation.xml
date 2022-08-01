@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="region Members" />
       <item value="TODO(&quot;Not yet implemented&quot;)" />
       <item value="Creates a supervisor job object in an active state. Children of a supervisor job can fail independently of each other. A failure or cancellation of a child does not cause the supervisor job to fail and does not affect its other children, so a supervisor can implement a custom policy for handling failures of its children:" />
       <item value="This method will be called when this ViewModel is no longer used and will be destroyed. It is useful when ViewModel observes some data and you need to clear this subscription to prevent a leak of this ViewModel." />
@@ -55,14 +56,13 @@
       <item value="needed Device Found" />
       <item value="regular State" />
       <item value="register For Activity Result" />
-      <item value="&lt;p&gt; If the host of this fragment is an {@link ActivityResultRegistryOwner} the {@link ActivityResultRegistry} of the host will be used. Otherwise, this will use the registry of the Fragment's Activity." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1299" />
+        <entry key="ENGLISH" value="1300" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1299" />
+        <entry key="RUSSIAN" value="1300" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
