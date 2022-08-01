@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Cannot invoke setValue on a background thread" />
       <item value="Unable to instantiate fragment com.example.clean_pre_trip_control.presentation.ui.ble.view.TemperatureMeasurementFragment: could not find Fragment constructor" />
       <item value="Should be called when use-case owner is destroyed This will ensure coroutine is cancelled if it's still running some tasks" />
       <item value="request Items" />
@@ -55,14 +56,13 @@
       <item value="also" />
       <item value="is Success" />
       <item value="A GATT operation completed successfully" />
-      <item value="connect Founded Device" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1308" />
+        <entry key="ENGLISH" value="1309" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1308" />
+        <entry key="RUSSIAN" value="1309" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
