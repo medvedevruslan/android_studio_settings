@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="TODO(&quot;Not yet implemented&quot;)" />
       <item value="Creates a supervisor job object in an active state. Children of a supervisor job can fail independently of each other. A failure or cancellation of a child does not cause the supervisor job to fail and does not affect its other children, so a supervisor can implement a custom policy for handling failures of its children:" />
       <item value="This method will be called when this ViewModel is no longer used and will be destroyed. It is useful when ViewModel observes some data and you need to clear this subscription to prevent a leak of this ViewModel." />
       <item value="Returns a List containing all elements. The operation is terminal. This function consumes all elements of the original ReceiveChannel." />
@@ -55,7 +56,6 @@
       <item value="regular State" />
       <item value="register For Activity Result" />
       <item value="&lt;p&gt; If the host of this fragment is an {@link ActivityResultRegistryOwner} the {@link ActivityResultRegistry} of the host will be used. Otherwise, this will use the registry of the Fragment's Activity." />
-      <item value="get Denied Permission" />
     </histories>
     <option name="languageScores">
       <map>
@@ -74,6 +74,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1658746132034" />
+    <option name="lastTrimTime" value="1659331952533" />
   </component>
 </application>
