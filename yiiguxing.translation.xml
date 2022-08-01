@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="request Items" />
       <item value="Returns an empty read-only list. The returned list is serializable (JVM)." />
       <item value="Deferred value is a non-blocking cancellable future — it is a Job with a result." />
       <item value="The context of this scope. Context is encapsulated by the scope and used for implementation of coroutine builders that are extensions on the scope. Accessing this property in general code is not recommended for any purposes except accessing the [Job] instance for advanced usages. By convention, should contain an instance of a [job][Job] to enforce structured concurrency." />
@@ -55,14 +56,13 @@
       <item value="connect Founded Device" />
       <item value="SEND REQUEST" />
       <item value="code Repeat Check" />
-      <item value="Get a BluetoothDevice object for the given Bluetooth hardware address. Valid Bluetooth hardware addresses must be upper case, in a format such as &quot;00:11:22:33:AA:BB&quot;. The helper checkBluetoothAddress is available to validate a Bluetooth address. A BluetoothDevice will always be returned for a valid hardware address, even if this adapter has never seen that device. Params: address – valid Bluetooth MAC address Throws: IllegalArgumentException – if address is invalid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1305" />
+        <entry key="ENGLISH" value="1306" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1305" />
+        <entry key="RUSSIAN" value="1306" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
