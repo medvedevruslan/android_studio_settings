@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The context of this scope. Context is encapsulated by the scope and used for implementation of coroutine builders that are extensions on the scope. Accessing this property in general code is not recommended for any purposes except accessing the [Job] instance for advanced usages. By convention, should contain an instance of a [job][Job] to enforce structured concurrency." />
+      <item value="By overriding invoke, we allow use cases to be called as &quot;invoking&quot;" />
       <item value="region Members" />
       <item value="TODO(&quot;Not yet implemented&quot;)" />
       <item value="Creates a supervisor job object in an active state. Children of a supervisor job can fail independently of each other. A failure or cancellation of a child does not cause the supervisor job to fail and does not affect its other children, so a supervisor can implement a custom policy for handling failures of its children:" />
@@ -54,15 +56,13 @@
       <item value="Get a BluetoothDevice object for the given Bluetooth hardware address. Valid Bluetooth hardware addresses must be upper case, in a format such as &quot;00:11:22:33:AA:BB&quot;. The helper checkBluetoothAddress is available to validate a Bluetooth address. A BluetoothDevice will always be returned for a valid hardware address, even if this adapter has never seen that device. Params: address – valid Bluetooth MAC address Throws: IllegalArgumentException – if address is invalid" />
       <item value="Set the context for this BluetoothAdapter (only called from BluetoothManager)" />
       <item value="needed Device Found" />
-      <item value="regular State" />
-      <item value="register For Activity Result" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1300" />
+        <entry key="ENGLISH" value="1303" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1300" />
+        <entry key="RUSSIAN" value="1303" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
