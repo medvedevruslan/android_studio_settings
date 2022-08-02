@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Parcelable protocol requires a Parcelable.Creator object called CREATOR on class com.example.clean_pre_trip_control.presentation.ui.ble.view.TemperatureMeasurementFragmentactionWithBleGatt1 at android.os.Parcel.readParcelableCreator(Parcel.java:3431)" />
       <item value="Parcelable protocol requires a Parcelable.Creator object called CREATOR on class com.example.clean_pre_trip_control.presentation.ui.ble.view.TemperatureMeasurementFragmentactionWithBleGatt1" />
       <item value="Unhandled exception in callback" />
       <item value="Cannot invoke setValue on a background thread" />
@@ -55,14 +56,13 @@
       <item value="Return a new Message instance from the global pool. Allows us to avoid allocating new objects in many cases." />
       <item value="Thermometer Measure Data" />
       <item value="hex String" />
-      <item value="also" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1311" />
+        <entry key="ENGLISH" value="1312" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1311" />
+        <entry key="RUSSIAN" value="1312" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
