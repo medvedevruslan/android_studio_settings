@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Parcelable protocol requires a Parcelable.Creator object called CREATOR on class com.example.clean_pre_trip_control.presentation.ui.ble.view.TemperatureMeasurementFragmentactionWithBleGatt1" />
       <item value="Unhandled exception in callback" />
       <item value="Cannot invoke setValue on a background thread" />
       <item value="Unable to instantiate fragment com.example.clean_pre_trip_control.presentation.ui.ble.view.TemperatureMeasurementFragment: could not find Fragment constructor" />
@@ -55,14 +56,13 @@
       <item value="Thermometer Measure Data" />
       <item value="hex String" />
       <item value="also" />
-      <item value="is Success" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1310" />
+        <entry key="ENGLISH" value="1311" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1310" />
+        <entry key="RUSSIAN" value="1311" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
