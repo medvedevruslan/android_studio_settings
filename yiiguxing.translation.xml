@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Parcelable encountered IOException writing serializable object (name = com.example.clean_pre_trip_control.presentation.ui.ble.view.TemperatureMeasurementFragmentactionWithBleGatt2)" />
       <item value="cast" />
       <item value="cannot be cast" />
       <item value="Parcelable protocol requires a Parcelable.Creator object called CREATOR on class com.example.clean_pre_trip_control.presentation.ui.ble.view.TemperatureMeasurementFragmentactionWithBleGatt1 at android.os.Parcel.readParcelableCreator(Parcel.java:3431)" />
@@ -55,14 +56,13 @@
       <item value="_spinner" />
       <item value="Could not determine the dependencies of task ':start:compileDebugJavaWithJavac'. &gt; Cannot query the value of property 'bootClasspath' because it has no value available." />
       <item value="The context of this scope. Context is encapsulated by the scope and used for implementation of coroutine builders that are extensions on the scope. Accessing this property in general code is not recommended for any purposes except accessing the Job instance for advanced usages. By convention, should contain an instance of a job to enforce structured concurrency." />
-      <item value="Return a new Message instance from the global pool. Allows us to avoid allocating new objects in many cases." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1315" />
+        <entry key="ENGLISH" value="1318" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1315" />
+        <entry key="RUSSIAN" value="1318" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
