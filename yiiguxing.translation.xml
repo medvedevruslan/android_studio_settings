@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Parcelable encountered IOException writing serializable object" />
       <item value="Parcelable encountered IOException writing serializable object (name = com.example.clean_pre_trip_control.presentation.ui.ble.view.TemperatureMeasurementFragmentactionWithBleGatt2) at android.os.Parcel.writeSerializable(Parcel.java:2177)" />
       <item value="Parcelable encountered IOException writing serializable object (name = com.example.clean_pre_trip_control.presentation.ui.ble.view.TemperatureMeasurementFragmentactionWithBleGatt2)" />
       <item value="cast" />
@@ -55,14 +56,13 @@
       <item value="Creates a thread pool that reuses a fixed number of threads operating off a shared unbounded queue. At any point, at most nThreads threads will be active processing tasks. If additional tasks are submitted when all threads are active, they will wait in the queue until a thread is available. If any thread terminates due to a failure during execution prior to shutdown, a new one will take its place if needed to execute subsequent tasks. The threads in the pool will exist until it is explicitly shutdown. Params: nThreads – the number of threads in the pool Returns: the newly created thread pool Throws: IllegalArgumentException – if nThreads &lt;= 0" />
       <item value="Executors" />
       <item value="_spinner" />
-      <item value="Could not determine the dependencies of task ':start:compileDebugJavaWithJavac'. &gt; Cannot query the value of property 'bootClasspath' because it has no value available." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1320" />
+        <entry key="ENGLISH" value="1321" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1320" />
+        <entry key="RUSSIAN" value="1321" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
