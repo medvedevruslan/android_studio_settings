@@ -6,6 +6,12 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="append" />
+      <item value="SEND REQUEST" />
+      <item value="UPLOAD MEASURE DATA" />
+      <item value="DEVICE CODE THERMO APP REPLY" />
+      <item value="CMD REPLY RESULT SUCCESS" />
+      <item value="HEADER" />
       <item value="Creates an iterator over the elements of the array." />
       <item value="Returns the substring of this string starting at the startIndex and ending right before the endIndex." />
       <item value="Parcelable encountered IOException writing serializable object" />
@@ -50,19 +56,13 @@
       <item value="A JUnit Test Rule that swaps the background executor used by the Architecture Components with a different one which executes each task synchronously. You can use this rule for your host side tests that use Architecture Components." />
       <item value="Before" />
       <item value="subject" />
-      <item value="instant Task Executor Rule" />
-      <item value="instant" />
-      <item value="Submits a Runnable task for execution and returns a Future representing that task. The Future's get method will return null upon successful completion." />
-      <item value="Submits a Runnable task for execution and returns a Future representing that task. The Future's get method will return null upon successful completion. Params: task – the task to submit" />
-      <item value="An executor service that can run [Runnable]s off the main thread." />
-      <item value="Creates a thread pool that reuses a fixed number of threads operating off a shared unbounded queue. At any point, at most nThreads threads will be active processing tasks. If additional tasks are submitted when all threads are active, they will wait in the queue until a thread is available. If any thread terminates due to a failure during execution prior to shutdown, a new one will take its place if needed to execute subsequent tasks. The threads in the pool will exist until it is explicitly shutdown. Params: nThreads – the number of threads in the pool Returns: the newly created thread pool Throws: IllegalArgumentException – if nThreads &lt;= 0" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1322" />
+        <entry key="ENGLISH" value="1336" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1322" />
+        <entry key="RUSSIAN" value="1336" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
