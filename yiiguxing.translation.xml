@@ -6,18 +6,19 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="UPLOAD MEASURE DATA" />
+      <item value="reply Upload Measure Data" />
+      <item value="CMD REPLY RESULT SUCCESS" />
+      <item value="reply Mac Address Or Time" />
       <item value="Calculates the remainder of truncating division of this value by the other value. The result is either zero or has the same sign as the dividend and has the absolute value less than the absolute value of the divisor." />
       <item value="Returns the number of minutes past the hour represented by this date, as interpreted in the local time zone. The value returned is between 0 and 59. Deprecated As of JDK version 1.1, replaced by Calendar.get(Calendar.MINUTE). Returns: the number of minutes past the hour represented by this date. See Also: Calendar" />
       <item value="Gets a calendar using the default time zone and locale. The Calendar returned is based on the current time in the default time zone with the default FORMAT locale. Returns: a Calendar." />
       <item value="Returns the current time in milliseconds. Note that while the unit of time of the return value is a millisecond, the granularity of the value depends on the underlying operating system and may be larger. For example, many operating systems measure time in units of tens of milliseconds. See the description of the class Date for a discussion of slight discrepancies that may arise between &quot;computer time&quot; and coordinated universal time (UTC). Returns: the difference, measured in milliseconds, between the current time and midnight, January 1, 1970 UTC." />
-      <item value="reply Mac Address Or Time" />
       <item value="Returns a string obtained by concatenating this string with the string representation of the given other object" />
       <item value="Performs a bitwise AND operation between the two values." />
       <item value="SEND REQUEST" />
-      <item value="UPLOAD MEASURE DATA" />
       <item value="append" />
       <item value="DEVICE CODE THERMO APP REPLY" />
-      <item value="CMD REPLY RESULT SUCCESS" />
       <item value="HEADER" />
       <item value="Creates an iterator over the elements of the array." />
       <item value="Returns the substring of this string starting at the startIndex and ending right before the endIndex." />
@@ -55,14 +56,13 @@
       <item value="A Future represents the result of an asynchronous computation. Methods are provided to check if the computation is complete, to wait for its completion, and to retrieve the result of the computation. The result can only be retrieved using method get when the computation has completed, blocking if necessary until it is ready. Cancellation is performed by the cancel method. Additional methods are provided to determine if the task completed normally or was cancelled. Once a computation has completed, the computation cannot be cancelled. If you would like to use a Future for the sake of cancellability but not provide a usable result, you can declare types of the form Future&lt;?&gt; and return null as a result of the underlying task." />
       <item value="Submits a Runnable task for execution and returns a Future representing that task. The Future's get method will return null upon successful completion" />
       <item value="finally" />
-      <item value="Called immediately after the UI shows the snackbar." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1346" />
+        <entry key="ENGLISH" value="1351" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1346" />
+        <entry key="RUSSIAN" value="1351" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
