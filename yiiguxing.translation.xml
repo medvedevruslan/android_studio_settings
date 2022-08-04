@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ambient Temperature" />
       <item value="UPLOAD MEASURE DATA" />
       <item value="Returns a formatted string using the specified format string and arguments." />
       <item value="Uses the provided format as a format string and returns a string obtained by substituting the specified arguments, using the default locale." />
@@ -55,14 +56,13 @@
       <item value="Unable to refresh title" />
       <item value="on" />
       <item value="on Completed" />
-      <item value="A Future represents the result of an asynchronous computation. Methods are provided to check if the computation is complete, to wait for its completion, and to retrieve the result of the computation. The result can only be retrieved using method get when the computation has completed, blocking if necessary until it is ready. Cancellation is performed by the cancel method. Additional methods are provided to determine if the task completed normally or was cancelled. Once a computation has completed, the computation cannot be cancelled. If you would like to use a Future for the sake of cancellability but not provide a usable result, you can declare types of the form Future&lt;?&gt; and return null as a result of the underlying task." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1354" />
+        <entry key="ENGLISH" value="1355" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1354" />
+        <entry key="RUSSIAN" value="1355" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
