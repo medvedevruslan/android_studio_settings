@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Clears the content of this string builder making it empty and returns this instance." />
       <item value="reply Upload Measure Data" />
       <item value="ambient Temperature" />
       <item value="UPLOAD MEASURE DATA" />
@@ -55,14 +56,13 @@
       <item value="Dao" />
       <item value="Unable to refresh title" />
       <item value="on" />
-      <item value="on Completed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1356" />
+        <entry key="ENGLISH" value="1357" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1356" />
+        <entry key="RUSSIAN" value="1357" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
