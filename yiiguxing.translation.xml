@@ -6,11 +6,11 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="reply Upload Measure Data" />
       <item value="ambient Temperature" />
       <item value="UPLOAD MEASURE DATA" />
       <item value="Returns a formatted string using the specified format string and arguments." />
       <item value="Uses the provided format as a format string and returns a string obtained by substituting the specified arguments, using the default locale." />
-      <item value="reply Upload Measure Data" />
       <item value="CMD REPLY RESULT SUCCESS" />
       <item value="reply Mac Address Or Time" />
       <item value="Calculates the remainder of truncating division of this value by the other value. The result is either zero or has the same sign as the dividend and has the absolute value less than the absolute value of the divisor." />
@@ -59,10 +59,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1355" />
+        <entry key="ENGLISH" value="1356" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1355" />
+        <entry key="RUSSIAN" value="1356" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
