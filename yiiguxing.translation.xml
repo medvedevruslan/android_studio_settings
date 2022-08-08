@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="An object wrapper to make it observable." />
       <item value="The value to be wrapped as an observable." />
       <item value="Wraps the given object and creates an observable object" />
       <item value="instance" />
@@ -55,14 +56,13 @@
       <item value="Deferred value is a non-blocking cancellable future — it is a Job with a result." />
       <item value="The context of this scope. Context is encapsulated by the scope and used for implementation of coroutine builders that are extensions on the scope. Accessing this property in general code is not recommended for any purposes except accessing the [Job] instance for advanced usages. By convention, should contain an instance of a [job][Job] to enforce structured concurrency." />
       <item value="By overriding invoke, we allow use cases to be called as &quot;invoking&quot;" />
-      <item value="region Members" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1373" />
+        <entry key="ENGLISH" value="1374" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1373" />
+        <entry key="RUSSIAN" value="1374" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
