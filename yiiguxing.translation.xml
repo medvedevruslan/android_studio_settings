@@ -6,6 +6,12 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Regular" />
+      <item value="inject lazily given dependency for Android koincomponent" />
+      <item value="reified" />
+      <item value="inject" />
+      <item value="inject lazily given dependency for Android koincomponent @param qualifier - bean qualifier optional @param mode - LazyThreadSafetyMode @param parameters - injection" />
+      <item value="nject lazily given dependency for Android koincomponent @param qualifier - bean qualifier optional @param mode - LazyThreadSafetyMode @param parameters - injection parameters" />
       <item value="change First Try Measure Ble" />
       <item value="String index out of range: 4" />
       <item value="Clears the content of this string builder making it empty and returns this instance." />
@@ -50,19 +56,13 @@
       <item value="This method will be called when this ViewModel is no longer used and will be destroyed. It is useful when ViewModel observes some data and you need to clear this subscription to prevent a leak of this ViewModel." />
       <item value="Returns a List containing all elements. The operation is terminal. This function consumes all elements of the original ReceiveChannel." />
       <item value="violate" />
-      <item value="Receiver's interface to Channel." />
-      <item value="error: TitleDao_Impl is not abstract and does not override abstract method insertTitle(Title,Continuation&lt;? super Unit&gt;) in TitleDao public final class TitleDao_Impl implements TitleDao { ^" />
-      <item value="Refresh the title, showing a loading spinner while it refreshes and errors via snackbar." />
-      <item value="completable.await()`" />
-      <item value="insert Title" />
-      <item value="Dao" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1359" />
+        <entry key="ENGLISH" value="1368" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1359" />
+        <entry key="RUSSIAN" value="1368" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
@@ -74,6 +74,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1659331952533" />
+    <option name="lastTrimTime" value="1659943840931" />
   </component>
 </application>
