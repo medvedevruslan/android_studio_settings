@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="The value to be wrapped as an observable." />
+      <item value="Wraps the given object and creates an observable object" />
       <item value="instance" />
       <item value="Koin" />
       <item value="Get a Koin instance" />
@@ -54,15 +56,13 @@
       <item value="The context of this scope. Context is encapsulated by the scope and used for implementation of coroutine builders that are extensions on the scope. Accessing this property in general code is not recommended for any purposes except accessing the [Job] instance for advanced usages. By convention, should contain an instance of a [job][Job] to enforce structured concurrency." />
       <item value="By overriding invoke, we allow use cases to be called as &quot;invoking&quot;" />
       <item value="region Members" />
-      <item value="TODO(&quot;Not yet implemented&quot;)" />
-      <item value="Creates a supervisor job object in an active state. Children of a supervisor job can fail independently of each other. A failure or cancellation of a child does not cause the supervisor job to fail and does not affect its other children, so a supervisor can implement a custom policy for handling failures of its children:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1370" />
+        <entry key="ENGLISH" value="1373" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1370" />
+        <entry key="RUSSIAN" value="1373" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
