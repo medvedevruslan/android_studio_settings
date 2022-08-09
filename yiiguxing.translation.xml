@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="[FlowCollector] is used as an intermediate or a terminal collector of the flow and represents an entity that accepts values emitted by the [Flow]." />
       <item value="Checkup" />
       <item value="set Final Test To Checkup In Db Use Case" />
       <item value="replace with checking if the test result has been saved" />
@@ -55,14 +56,13 @@
       <item value="Parcelable encountered IOException writing serializable object (name = com.example.clean_pre_trip_control.presentation.ui.ble.view.TemperatureMeasurementFragmentactionWithBleGatt2)" />
       <item value="cast" />
       <item value="cannot be cast" />
-      <item value="Parcelable protocol requires a Parcelable.Creator object called CREATOR on class com.example.clean_pre_trip_control.presentation.ui.ble.view.TemperatureMeasurementFragmentactionWithBleGatt1 at android.os.Parcel.readParcelableCreator(Parcel.java:3431)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1386" />
+        <entry key="ENGLISH" value="1387" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1386" />
+        <entry key="RUSSIAN" value="1387" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
