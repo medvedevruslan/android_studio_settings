@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="switch Map" />
       <item value="Returns a LiveData mapped from this LiveData by applying transform to each value set on this LiveData." />
       <item value="Add the given LiveData as a source, similar to MediatorLiveData.addSource. Calling this method will remove any source that was yielded before via emitSource." />
       <item value="Starts to listen the given source LiveData, onChanged observer will be called when source value was changed. onChanged callback will be called only when this MediatorLiveData is active. If the given LiveData is already added as a source but with a different Observer, IllegalArgumentException will be thrown. Params: source – the LiveData to listen to onChanged – The observer that will receive the events Type parameters: &lt;S&gt; – The type of data hold by source LiveData" />
@@ -55,14 +56,13 @@
       <item value="Returns a string obtained by concatenating this string with the string representation of the given other object" />
       <item value="Performs a bitwise AND operation between the two values." />
       <item value="SEND REQUEST" />
-      <item value="append" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1400" />
+        <entry key="ENGLISH" value="1401" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1400" />
+        <entry key="RUSSIAN" value="1401" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
