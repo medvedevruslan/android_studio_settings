@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Cache the first non-error result from an async computation passed as [block]." />
       <item value="Returns a LiveData mapped from the input this LiveData by applying transform to each value set on this. Note that when the backing LiveData is switched, no further values from the older LiveData will be set to the output LiveData. In this way, the method is analogous to io.reactivex.Observable.switchMap. transform will be executed on the main thread." />
       <item value="get Plants With Grow Zone" />
       <item value="A list of plants that updates based on the current filter." />
@@ -55,14 +56,13 @@
       <item value="Creates an iterator over the elements of the array." />
       <item value="Returns the substring of this string starting at the startIndex and ending right before the endIndex." />
       <item value="Parcelable encountered IOException writing serializable object" />
-      <item value="Parcelable encountered IOException writing serializable object (name = com.example.clean_pre_trip_control.presentation.ui.ble.view.TemperatureMeasurementFragmentactionWithBleGatt2) at android.os.Parcel.writeSerializable(Parcel.java:2177)" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1390" />
+        <entry key="ENGLISH" value="1391" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1390" />
+        <entry key="RUSSIAN" value="1391" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
