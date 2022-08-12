@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Conflates flow emissions via conflated channel and runs collector in a separate coroutine. The effect of this is that emitter is never suspended due to a slow collector, but collector always gets the most recent value emitted." />
+      <item value="Changes the context where this flow is executed to the given context. This operator is composable and affects only preceding operators that do not have its own context. This operator is context preserving: context does not leak into the downstream flow." />
       <item value="Helper function to call a data load function with a loading spinner; errors will trigger a snackbar." />
       <item value="launch Data Load" />
       <item value="Creates a LiveData that has values collected from the origin" />
@@ -54,15 +56,13 @@
       <item value="CMD REPLY RESULT SUCCESS" />
       <item value="reply Mac Address Or Time" />
       <item value="Calculates the remainder of truncating division of this value by the other value. The result is either zero or has the same sign as the dividend and has the absolute value less than the absolute value of the divisor." />
-      <item value="Returns the number of minutes past the hour represented by this date, as interpreted in the local time zone. The value returned is between 0 and 59. Deprecated As of JDK version 1.1, replaced by Calendar.get(Calendar.MINUTE). Returns: the number of minutes past the hour represented by this date. See Also: Calendar" />
-      <item value="Gets a calendar using the default time zone and locale. The Calendar returned is based on the current time in the default time zone with the default FORMAT locale. Returns: a Calendar." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1405" />
+        <entry key="ENGLISH" value="1407" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1405" />
+        <entry key="RUSSIAN" value="1407" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
