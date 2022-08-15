@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Get a Koin instance Params: qualifier - scope - parameters -" />
       <item value="Returns a Flow whose values are generated with transform function by combining the most recently emitted values by each flow." />
       <item value="Conflates flow emissions via conflated channel and runs collector in a separate coroutine. The effect of this is that emitter is never suspended due to a slow collector, but collector always gets the most recent value emitted." />
       <item value="Changes the context where this flow is executed to the given context. This operator is composable and affects only preceding operators that do not have its own context. This operator is context preserving: context does not leak into the downstream flow." />
@@ -55,14 +56,13 @@
       <item value="Returns a formatted string using the specified format string and arguments." />
       <item value="Uses the provided format as a format string and returns a string obtained by substituting the specified arguments, using the default locale." />
       <item value="CMD REPLY RESULT SUCCESS" />
-      <item value="reply Mac Address Or Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1410" />
+        <entry key="ENGLISH" value="1411" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1410" />
+        <entry key="RUSSIAN" value="1411" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
