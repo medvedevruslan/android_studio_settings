@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Dependencies Versions" />
+      <item value="root Project.build Dir" />
+      <item value="dependency Notation" />
       <item value="Plugin [id: 'kotlin-adroid-extensions'] was not found in any of the following sources:" />
       <item value="Get a Koin instance Params: qualifier - scope - parameters -" />
       <item value="Returns a Flow whose values are generated with transform function by combining the most recently emitted values by each flow." />
@@ -53,20 +56,18 @@
       <item value="Clears the content of this string builder making it empty and returns this instance." />
       <item value="reply Upload Measure Data" />
       <item value="ambient Temperature" />
-      <item value="UPLOAD MEASURE DATA" />
-      <item value="Returns a formatted string using the specified format string and arguments." />
-      <item value="Uses the provided format as a format string and returns a string obtained by substituting the specified arguments, using the default locale." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1412" />
+        <entry key="ENGLISH" value="1414" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1412" />
+        <entry key="RUSSIAN" value="1414" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
         <entry key="GALICIAN" value="1" />
+        <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="GREEK" value="2" />
         <entry key="SUNDANESE" value="1" />
