@@ -6,8 +6,14 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="crossinline" />
+      <item value="emit" />
+      <item value="Collects the value emitted by the upstream. This method is not thread-safe and should not be invoked concurrently." />
+      <item value="Path" />
+      <item value="Named replacement in a URL path segment. Values are converted to strings using {@link" />
+      <item value="Named replacement in a URL path segment. Values are converted to strings using {@link RetrofitstringConverter(Type, Annotation[])} (or {@link ObjecttoString()}, if no matching string converter is installed) and then URL encoded." />
+      <item value="Returns a flow containing the results of applying the given [transform] function to each value of the original flow." />
       <item value="Returns a flow that invokes the given [action] before each value of the upstream flow is emitted downstream." />
+      <item value="crossinline" />
       <item value="invokes" />
       <item value="Load definitions from modules Params: modules -" />
       <item value="&gt; Task :prepareKotlinBuildScriptModel UP-TO-DATE" />
@@ -50,19 +56,13 @@
       <item value="A simple callback that can receive from {@link LiveData}." />
       <item value="Calls the specified function [block] with the given [receiver] as its receiver and returns its result." />
       <item value="An object wrapper to make it observable." />
-      <item value="The value to be wrapped as an observable." />
-      <item value="Wraps the given object and creates an observable object" />
-      <item value="instance" />
-      <item value="Koin" />
-      <item value="Get a Koin instance" />
-      <item value="inject" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1422" />
+        <entry key="ENGLISH" value="1430" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1422" />
+        <entry key="RUSSIAN" value="1430" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
