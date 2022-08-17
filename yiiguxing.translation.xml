@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="A widget that provides a user interface for the user to enter a search query and submit a request to a search provider. Shows a list of query suggestions or results, if available, and allows the user to pick a suggestion or result to launch into. Note: This class is included in the support library for compatibility with API level 7 and higher. If you're developing your app for API level 11 and higher only, you should instead use the framework android.widget.SearchView class. When the SearchView is used in an androidx.appcompat.app.ActionBar as an action view, it's collapsed by default, so you must provide an icon for the action. If you want the search field to always be visible, then call setIconifiedByDefault(false). Developer Guides" />
       <item value="A widget that provides a user interface for the user to enter a search query and submit a request to a search provider. Shows a list of query suggestions or results, if available, and allows the user to pick a suggestion or result to launch into. Note: This class is included in the support library for compatibility with API level 7 and higher. If you're developing your app for API level 11 and higher only, you should instead use the framework android.widget.SearchView class. When the SearchView is used in an androidx.appcompat.app.ActionBar as an action view, it's collapsed by default, so you must provide an icon for the action. If you want the search field to always be visible, then call" />
       <item value="CoroutineScope tied to this LifecycleOwner's Lifecycle. This scope will be cancelled when the Lifecycle is destroyed. This scope is bound to Dispatchers.Main.immediate." />
       <item value="Returns a flow containing the results of applying the given [transform] function to each value of the original flow." />
@@ -55,14 +56,13 @@
       <item value="get Plants With Grow Zone" />
       <item value="A list of plants that updates based on the current filter." />
       <item value="[FlowCollector] is used as an intermediate or a terminal collector of the flow and represents an entity that accepts values emitted by the [Flow]." />
-      <item value="Checkup" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1449" />
+        <entry key="ENGLISH" value="1450" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1449" />
+        <entry key="RUSSIAN" value="1450" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
