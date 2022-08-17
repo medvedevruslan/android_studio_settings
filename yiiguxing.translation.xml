@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns a flow containing the results of applying the given [transform] function to each value of the original flow." />
       <item value="Terminal flow operator that [launches][launch] the [collection][collect] of the given flow in the [scope]. It is a shorthand for `scope.launch { flow.collect() }`" />
       <item value="CoroutineScope tied to this LifecycleOwner's Lifecycle. This scope will be cancelled when the Lifecycle is destroyed. This scope is bound to Dispatchers.Main.immediate." />
       <item value="Terminal flow operator that [launches][launch] the [collection][collect] of the given flow in the [scope]. It is a shorthand for `scope.launch { flow.collect() }`." />
@@ -24,7 +25,6 @@
       <item value="Path" />
       <item value="Named replacement in a URL path segment. Values are converted to strings using {@link" />
       <item value="Named replacement in a URL path segment. Values are converted to strings using {@link RetrofitstringConverter(Type, Annotation[])} (or {@link ObjecttoString()}, if no matching string converter is installed) and then URL encoded." />
-      <item value="Returns a flow containing the results of applying the given [transform] function to each value of the original flow." />
       <item value="crossinline" />
       <item value="invokes" />
       <item value="Load definitions from modules Params: modules -" />
@@ -59,10 +59,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1445" />
+        <entry key="ENGLISH" value="1446" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1445" />
+        <entry key="RUSSIAN" value="1446" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
