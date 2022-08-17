@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Sets a query string in the text field and optionally submits the query as well. Params: query – the query string. This replaces any query text already present in the text field. submit – whether to submit the query right now or only update the contents of text field." />
+      <item value="set Query" />
+      <item value="current" />
+      <item value="Returns the query string currently in the text field. Returns: the query strin" />
       <item value="submit" />
       <item value="A widget that provides a user interface for the user to enter a search query and submit a request to a search provider. Shows a list of query suggestions or results, if available, and allows the user to pick a suggestion or result to launch into. Note: This class is included in the support library for compatibility with API level 7 and higher. If you're developing your app for API level 11 and higher only, you should instead use the framework android.widget.SearchView class. When the SearchView is used in an androidx.appcompat.app.ActionBar as an action view, it's collapsed by default, so you must provide an icon for the action. If you want the search field to always be visible, then call setIconifiedByDefault(false). Developer Guides" />
       <item value="A widget that provides a user interface for the user to enter a search query and submit a request to a search provider. Shows a list of query suggestions or results, if available, and allows the user to pick a suggestion or result to launch into. Note: This class is included in the support library for compatibility with API level 7 and higher. If you're developing your app for API level 11 and higher only, you should instead use the framework android.widget.SearchView class. When the SearchView is used in an androidx.appcompat.app.ActionBar as an action view, it's collapsed by default, so you must provide an icon for the action. If you want the search field to always be visible, then call" />
@@ -52,17 +56,13 @@
       <item value="Starts to listen the given source LiveData, onChanged observer will be called when source value was changed. onChanged callback will be called only when this MediatorLiveData is active. If the given LiveData is already added as a source but with a different Observer, IllegalArgumentException will be thrown. Params: source – the LiveData to listen to onChanged – The observer that will receive the events Type parameters: &lt;S&gt; – The type of data hold by source LiveData" />
       <item value="Returns the index of the first occurrence of the specified element in the list, or -1 if the specified element is not contained in the list." />
       <item value="custom Sort Order" />
-      <item value="Cache the first non-error result from an async computation passed as [block]." />
-      <item value="Returns a LiveData mapped from the input this LiveData by applying transform to each value set on this. Note that when the backing LiveData is switched, no further values from the older LiveData will be set to the output LiveData. In this way, the method is analogous to io.reactivex.Observable.switchMap. transform will be executed on the main thread." />
-      <item value="get Plants With Grow Zone" />
-      <item value="A list of plants that updates based on the current filter." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1451" />
+        <entry key="ENGLISH" value="1455" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1451" />
+        <entry key="RUSSIAN" value="1455" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
