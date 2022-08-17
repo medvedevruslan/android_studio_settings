@@ -6,9 +6,12 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Terminal flow operator that [launches][launch] the [collection][collect] of the given flow in the [scope]. It is a shorthand for `scope.launch { flow.collect() }`" />
+      <item value="CoroutineScope tied to this LifecycleOwner's Lifecycle. This scope will be cancelled when the Lifecycle is destroyed. This scope is bound to Dispatchers.Main.immediate." />
+      <item value="Terminal flow operator that [launches][launch] the [collection][collect] of the given flow in the [scope]. It is a shorthand for `scope.launch { flow.collect() }`." />
+      <item value="Returns a flow that invokes the given [action] before each value of the upstream flow is emitted downstream." />
       <item value="Collects the value emitted by the upstream. This method is not thread-safe and should not be invoked concurrently" />
       <item value="Accepts the given collector and emits values into it." />
-      <item value="Returns a flow that invokes the given [action] before each value of the upstream flow is emitted downstream." />
       <item value="bind" />
       <item value="Each JsonWriter may be used to write a single JSON stream. Instances of this class are not thread safe. Calls that would result in a malformed JSON string will fail with an IllegalStateException." />
       <item value="Each JsonWriter may be used to write a single JSON stream. Instances of this class are not thread safe. Calls that would result in a malformed JSON string will fail with an" />
@@ -53,16 +56,13 @@
       <item value="[FlowCollector] is used as an intermediate or a terminal collector of the flow and represents an entity that accepts values emitted by the [Flow]." />
       <item value="Checkup" />
       <item value="set Final Test To Checkup In Db Use Case" />
-      <item value="replace with checking if the test result has been saved" />
-      <item value="Regular" />
-      <item value="reified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1440" />
+        <entry key="ENGLISH" value="1445" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1440" />
+        <entry key="RUSSIAN" value="1445" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
