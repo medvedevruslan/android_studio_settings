@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns a flow that switches to a new flow produced by transform function every time the original flow emits a value. When the original flow emits a new value, the previous flow produced by transform block is cancelled. For example, the following flow: flow { emit(&quot;a&quot;) delay(100) emit(&quot;b&quot;) }.flatMapLatest { value -&gt; flow { emit(value) delay(200) emit(value + &quot;_last&quot;) } } produces a b b_last This operator is buffered by default and size of its output buffer can be changed by applying subsequent buffer operator." />
       <item value="Returns a flow that switches to a new flow produced by transform function every time the original flow emits a value. When the original flow emits a new value, the previous flow produced by transform block is cancelled." />
       <item value="This operator is buffered by default and size of its output buffer can be changed by applying subsequent buffer operator." />
       <item value="flat Map Latest" />
@@ -55,14 +56,13 @@
       <item value="Get a Koin instance Params: qualifier - scope - parameters -" />
       <item value="Returns a Flow whose values are generated with transform function by combining the most recently emitted values by each flow." />
       <item value="Conflates flow emissions via conflated channel and runs collector in a separate coroutine. The effect of this is that emitter is never suspended due to a slow collector, but collector always gets the most recent value emitted." />
-      <item value="Changes the context where this flow is executed to the given context. This operator is composable and affects only preceding operators that do not have its own context. This operator is context preserving: context does not leak into the downstream flow." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1466" />
+        <entry key="ENGLISH" value="1467" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1466" />
+        <entry key="RUSSIAN" value="1467" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
