@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="reified" />
       <item value="repeatable" />
       <item value="Data Base" />
       <item value="Data Source" />
@@ -55,14 +56,13 @@
       <item value="Creates a LiveData that has values collected from the origin" />
       <item value="Returns a flow that contains first count elements. When count elements are consumed, the original flow is cancelled. Throws IllegalArgumentException if count is not positive." />
       <item value="switch Map" />
-      <item value="Returns a LiveData mapped from this LiveData by applying transform to each value set on this LiveData." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1459" />
+        <entry key="ENGLISH" value="1460" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1459" />
+        <entry key="RUSSIAN" value="1460" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
