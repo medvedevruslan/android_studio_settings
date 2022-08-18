@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="flat Map Latest" />
+      <item value="Returns a flow that switches to a new flow produced by transform function every time the original flow emits a value. When the original flow emits a new value, the previous flow produced by transform block is cancelled." />
+      <item value="Build a DefinitionParameters" />
+      <item value="Build a DefinitionParameters See Also: parameters" />
       <item value="reified" />
       <item value="repeatable" />
       <item value="Data Base" />
@@ -52,17 +56,13 @@
       <item value="Conflates flow emissions via conflated channel and runs collector in a separate coroutine. The effect of this is that emitter is never suspended due to a slow collector, but collector always gets the most recent value emitted." />
       <item value="Changes the context where this flow is executed to the given context. This operator is composable and affects only preceding operators that do not have its own context. This operator is context preserving: context does not leak into the downstream flow." />
       <item value="Helper function to call a data load function with a loading spinner; errors will trigger a snackbar." />
-      <item value="launch Data Load" />
-      <item value="Creates a LiveData that has values collected from the origin" />
-      <item value="Returns a flow that contains first count elements. When count elements are consumed, the original flow is cancelled. Throws IllegalArgumentException if count is not positive." />
-      <item value="switch Map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1460" />
+        <entry key="ENGLISH" value="1464" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1460" />
+        <entry key="RUSSIAN" value="1464" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
