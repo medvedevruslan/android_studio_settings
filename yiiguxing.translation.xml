@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns a flow that wraps each element into [IndexedValue], containing value and its index (starting from zero)." />
+      <item value="Returns a flow containing the results of applying the given [transform] function to each value of the original flow." />
+      <item value="bind" />
       <item value="Immutable URI reference. A URI reference includes a URI and a fragment, the component of the URI following a ''. Builds and parses URI references which conform to RFC 2396 . In the interest of performance, this class performs little to no validation. Behavior is undefined for invalid input. This class is very forgiving--in the face of invalid input, it will return garbage rather than throw an exception unless otherwise specified." />
       <item value="include" />
       <item value="This can be useful for creating [Map] literals with less noise, for example:" />
@@ -34,7 +37,6 @@
       <item value="Data Base" />
       <item value="Data Source" />
       <item value="Sing" />
-      <item value="Returns a flow containing the results of applying the given [transform] function to each value of the original flow." />
       <item value="Sets a query string in the text field and optionally submits the query as well. Params: query – the query string. This replaces any query text already present in the text field. submit – whether to submit the query right now or only update the contents of text field." />
       <item value="set Query" />
       <item value="current" />
@@ -47,7 +49,6 @@
       <item value="Terminal flow operator that [launches][launch] the [collection][collect] of the given flow in the [scope]. It is a shorthand for `scope.launch { flow.collect() }`." />
       <item value="Collects the value emitted by the upstream. This method is not thread-safe and should not be invoked concurrently" />
       <item value="Accepts the given collector and emits values into it." />
-      <item value="bind" />
       <item value="Each JsonWriter may be used to write a single JSON stream. Instances of this class are not thread safe. Calls that would result in a malformed JSON string will fail with an IllegalStateException." />
       <item value="Each JsonWriter may be used to write a single JSON stream. Instances of this class are not thread safe. Calls that would result in a malformed JSON string will fail with an" />
       <item value="Parses text from the beginning of the given string to produce a date. The method may not use the entire text of the given string. See the parse(String, ParsePosition) method for more information on date parsing. Params: source – A String whose beginning should be parsed. Returns: A Date parsed from the string. Throws: ParseException – if the beginning of the specified string cannot be parsed." />
@@ -55,14 +56,13 @@
       <item value="Converts Java values to JSON, and JSON values to Java. JsonAdapter instances provided by Moshi are thread-safe, meaning multiple threads can safely use a single instance concurrently. Custom JsonAdapter implementations should be designed to be thread-safe." />
       <item value="Enable a crossfade animation with duration [CrossfadeDrawable.DEFAULT_DURATION] milliseconds when a request completes successfully. Default: false" />
       <item value="emit" />
-      <item value="Collects the value emitted by the upstream. This method is not thread-safe and should not be invoked concurrently." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1492" />
+        <entry key="ENGLISH" value="1497" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1492" />
+        <entry key="RUSSIAN" value="1497" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
