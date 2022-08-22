@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="This can be useful for creating [Map] literals with less noise, for example:" />
+      <item value="Creates a tuple of type [Pair] from this and [that]." />
+      <item value="tuple" />
+      <item value="Pair" />
+      <item value="Represents a generic pair of two values." />
       <item value="Modal bottom sheet. This is a version of DialogFragment that shows a bottom sheet using BottomSheetDialog instead of a floating dialog" />
       <item value="Bottom Sheet Dialog Fragment" />
       <item value="Path" />
@@ -51,18 +56,13 @@
       <item value="Collects the value emitted by the upstream. This method is not thread-safe and should not be invoked concurrently." />
       <item value="Named replacement in a URL path segment. Values are converted to strings using {@link" />
       <item value="Named replacement in a URL path segment. Values are converted to strings using {@link RetrofitstringConverter(Type, Annotation[])} (or {@link ObjecttoString()}, if no matching string converter is installed) and then URL encoded." />
-      <item value="crossinline" />
-      <item value="invokes" />
-      <item value="Load definitions from modules Params: modules -" />
-      <item value="&gt; Task :prepareKotlinBuildScriptModel UP-TO-DATE" />
-      <item value="insert" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1482" />
+        <entry key="ENGLISH" value="1489" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1482" />
+        <entry key="RUSSIAN" value="1489" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
