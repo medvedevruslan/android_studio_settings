@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="&gt; Failed to apply plugin 'com.android.internal.application'." />
+      <item value="A problem occurred evaluating project ':app'." />
       <item value="Definition Parameters" />
       <item value="Build a DefinitionParameters" />
       <item value="Sets a query string in the text field and optionally submits the query as well. Params: query – the query string. This replaces any query text already present in the text field. submit – whether to submit the query right now or only update the contents of text field." />
@@ -54,15 +56,13 @@
       <item value="flat Map Latest" />
       <item value="Build a DefinitionParameters See Also: parameters" />
       <item value="reified" />
-      <item value="repeatable" />
-      <item value="Data Base" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1523" />
+        <entry key="ENGLISH" value="1525" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1523" />
+        <entry key="RUSSIAN" value="1525" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
