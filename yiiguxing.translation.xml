@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Immutable URI reference. A URI reference includes a URI and a fragment, the component of the URI following a ''. Builds and parses URI references which conform to RFC 2396 . In the interest of performance, this class performs little to no validation. Behavior is undefined for invalid input. This class is very forgiving--in the face of invalid input, it will return garbage rather than throw an exception unless otherwise specified." />
       <item value="include" />
       <item value="This can be useful for creating [Map] literals with less noise, for example:" />
       <item value="Creates a tuple of type [Pair] from this and [that]." />
@@ -55,14 +56,13 @@
       <item value="Enable a crossfade animation with duration [CrossfadeDrawable.DEFAULT_DURATION] milliseconds when a request completes successfully. Default: false" />
       <item value="emit" />
       <item value="Collects the value emitted by the upstream. This method is not thread-safe and should not be invoked concurrently." />
-      <item value="Named replacement in a URL path segment. Values are converted to strings using {@link" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1490" />
+        <entry key="ENGLISH" value="1492" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1490" />
+        <entry key="RUSSIAN" value="1492" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
