@@ -6,6 +6,15 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Notify any registered observers that the data set has changed. There are two different classes of data change events, item changes and structural changes. Item changes are when a single item has its data updated but no positional changes have occurred. Structural changes are when items are inserted, removed or moved within the data set. This event does not specify what about the data set has changed, forcing any observers to assume that all existing items and structure may no longer be valid. LayoutManagers will be forced to fully rebind and relayout all visible views. RecyclerView will attempt to synthesize visible structural change events for adapters that report that they have stable IDs when this method is used. This can help for the purposes of animation and visual object persistence but individual item views will still need to be rebound and relaid out. If you are writing an adapter it will always be more efficient to use the more specific change events if you can. Rely on notifyDataSetChanged() as a last resort." />
+      <item value="Pending" />
+      <item value="execute Pending" />
+      <item value="execute Pending Bindings" />
+      <item value="Evaluates the pending bindings, updating any Views that have expressions bound to modified variables. This must be run on the UI thread." />
+      <item value="Returns an empty read-only list. The returned list is" />
+      <item value="on Bind View Holder" />
+      <item value="Is set when VH is bound from the adapter and cleaned right before it is sent to RecyclerView.RecycledViewPool." />
+      <item value="View Holder" />
       <item value="state In" />
       <item value="The starting of the sharing coroutine is controlled by the started parameter, as explained in the documentation for shareIn operator." />
       <item value="The stateIn operator is useful in situations when there is a cold flow that provides updates to the value of some state and is expensive to create andor to maintain, but there are multiple subscribers that need to collect the most recent state value. For example, consider a flow of state updates coming from a backend over the expensive network connection, taking a lot of time to establish. Conceptually it might be implemented like this:" />
@@ -47,22 +56,13 @@
       <item value="Sets a query string in the text field and optionally submits the query as well. Params: query – the query string. This replaces any query text already present in the text field. submit – whether to submit the query right now or only update the contents of text field." />
       <item value="set Query" />
       <item value="current" />
-      <item value="Returns the query string currently in the text field. Returns: the query strin" />
-      <item value="submit" />
-      <item value="A widget that provides a user interface for the user to enter a search query and submit a request to a search provider. Shows a list of query suggestions or results, if available, and allows the user to pick a suggestion or result to launch into. Note: This class is included in the support library for compatibility with API level 7 and higher. If you're developing your app for API level 11 and higher only, you should instead use the framework android.widget.SearchView class. When the SearchView is used in an androidx.appcompat.app.ActionBar as an action view, it's collapsed by default, so you must provide an icon for the action. If you want the search field to always be visible, then call setIconifiedByDefault(false). Developer Guides" />
-      <item value="A widget that provides a user interface for the user to enter a search query and submit a request to a search provider. Shows a list of query suggestions or results, if available, and allows the user to pick a suggestion or result to launch into. Note: This class is included in the support library for compatibility with API level 7 and higher. If you're developing your app for API level 11 and higher only, you should instead use the framework android.widget.SearchView class. When the SearchView is used in an androidx.appcompat.app.ActionBar as an action view, it's collapsed by default, so you must provide an icon for the action. If you want the search field to always be visible, then call" />
-      <item value="CoroutineScope tied to this LifecycleOwner's Lifecycle. This scope will be cancelled when the Lifecycle is destroyed. This scope is bound to Dispatchers.Main.immediate." />
-      <item value="Terminal flow operator that [launches][launch] the [collection][collect] of the given flow in the [scope]. It is a shorthand for `scope.launch { flow.collect() }`" />
-      <item value="Terminal flow operator that [launches][launch] the [collection][collect] of the given flow in the [scope]. It is a shorthand for `scope.launch { flow.collect() }`." />
-      <item value="Collects the value emitted by the upstream. This method is not thread-safe and should not be invoked concurrently" />
-      <item value="Accepts the given collector and emits values into it." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1506" />
+        <entry key="ENGLISH" value="1516" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1506" />
+        <entry key="RUSSIAN" value="1516" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
