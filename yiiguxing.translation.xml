@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Called when the user submits the query. This could be due to a key press on the keyboard or due to pressing a submit button. The listener can override the standard behavior by returning true to indicate that it has handled the submit request. Otherwise return false to let the SearchView handle the submission by launching any associated intent." />
+      <item value="on Query Text Change" />
       <item value="Returns a flow containing the results of applying the given [transform] function to each value of the original flow." />
       <item value="Sets a query string in the text field and optionally submits the query as well. Params: query – the query string. This replaces any query text already present in the text field. submit – whether to submit the query right now or only update the contents of text field." />
       <item value="Sets a query string in the text field and optionally submits the query as well." />
@@ -54,15 +56,13 @@
       <item value="Returns a flow that invokes the given [action] before each value of the upstream flow is emitted downstream." />
       <item value="Represents a 32-bit signed integer. On the JVM, non-nullable values of this type are represented as values of the primitive type int." />
       <item value="Returns the absolute value of the given value n. Special cases:" />
-      <item value="check If It Less Null" />
-      <item value="Returns a flow that switches to a new flow produced by transform function every time the original flow emits a value. When the original flow emits a new value, the previous flow produced by transform block is cancelled. For example, the following flow: flow { emit(&quot;a&quot;) delay(100) emit(&quot;b&quot;) }.flatMapLatest { value -&gt; flow { emit(value) delay(200) emit(value + &quot;_last&quot;) } } produces a b b_last This operator is buffered by default and size of its output buffer can be changed by applying subsequent buffer operator." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1532" />
+        <entry key="ENGLISH" value="1534" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1532" />
+        <entry key="RUSSIAN" value="1534" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
