@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Caused by: org.gradle.api.internal.artifacts.ivyservice.DefaultLenientConfigurationArtifactResolveException: Could not resolve all files for configuration ':app:debugCompileClasspath'." />
+      <item value="An exception occurred applying plugin request [id: 'com.android.application']" />
       <item value="&gt; Failed to apply plugin 'com.android.internal.application'." />
       <item value="A problem occurred evaluating project ':app'." />
       <item value="Definition Parameters" />
@@ -54,15 +56,13 @@
       <item value="Returns a flow that switches to a new flow produced by transform function every time the original flow emits a value. When the original flow emits a new value, the previous flow produced by transform block is cancelled. For example, the following flow: flow { emit(&quot;a&quot;) delay(100) emit(&quot;b&quot;) }.flatMapLatest { value -&gt; flow { emit(value) delay(200) emit(value + &quot;_last&quot;) } } produces a b b_last This operator is buffered by default and size of its output buffer can be changed by applying subsequent buffer operator." />
       <item value="This operator is buffered by default and size of its output buffer can be changed by applying subsequent buffer operator." />
       <item value="flat Map Latest" />
-      <item value="Build a DefinitionParameters See Also: parameters" />
-      <item value="reified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1525" />
+        <entry key="ENGLISH" value="1527" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1525" />
+        <entry key="RUSSIAN" value="1527" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
