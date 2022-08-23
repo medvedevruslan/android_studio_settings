@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="definition" />
       <item value="Qualifier Value" />
       <item value="Help qualify a component" />
       <item value="Give a String qualifier" />
@@ -55,14 +56,13 @@
       <item value="Bottom Sheet Dialog Fragment" />
       <item value="Path" />
       <item value="Returns a flow that switches to a new flow produced by transform function every time the original flow emits a value. When the original flow emits a new value, the previous flow produced by transform block is cancelled." />
-      <item value="Returns a flow that emits elements from the original flow transformed by transform function. When the original flow emits a new value, computation of the transform block for previous value is cancelled." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1541" />
+        <entry key="ENGLISH" value="1542" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1541" />
+        <entry key="RUSSIAN" value="1542" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
