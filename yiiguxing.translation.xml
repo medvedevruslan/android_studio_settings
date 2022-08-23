@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns a flow containing the results of applying the given [transform] function to each value of the original flow." />
       <item value="Sets a query string in the text field and optionally submits the query as well. Params: query – the query string. This replaces any query text already present in the text field. submit – whether to submit the query right now or only update the contents of text field." />
       <item value="Sets a query string in the text field and optionally submits the query as well." />
       <item value="Manifest merger failed : android:exported needs to be explicitly specified for element &lt;activitycom.example.flow_mvvm_sample.ui.top.TopActivity&gt;. Apps targeting Android 12 and higher are required to specify an explicit value for `android:exported` when the corresponding component has an intent filter defined." />
@@ -34,7 +35,6 @@
       <item value="sharing the most recently emitted value from a single running instance of the upstream flow with multiple downstream subscribers." />
       <item value="sharing the most recently" />
       <item value="Converts a cold Flow into a hot StateFlow that is started in the given coroutine scope, sharing the most recently emitted value from a single running instance of the upstream flow with multiple downstream subscribers. See the StateFlow documentation for the general concepts of state flows." />
-      <item value="Returns a flow containing the results of applying the given [transform] function to each value of the original flow." />
       <item value="Returns a flow that wraps each element into [IndexedValue], containing value and its index (starting from zero)." />
       <item value="bind" />
       <item value="Immutable URI reference. A URI reference includes a URI and a fragment, the component of the URI following a ''. Builds and parses URI references which conform to RFC 2396 . In the interest of performance, this class performs little to no validation. Behavior is undefined for invalid input. This class is very forgiving--in the face of invalid input, it will return garbage rather than throw an exception unless otherwise specified." />
@@ -59,10 +59,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1531" />
+        <entry key="ENGLISH" value="1532" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1531" />
+        <entry key="RUSSIAN" value="1532" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
