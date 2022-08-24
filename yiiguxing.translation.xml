@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="A list of plants that updates based on the current filter (flow version)" />
+      <item value="[FlowCollector] is used as an intermediate or a terminal collector of the flow and represents an entity that accepts values emitted by the [Flow]." />
+      <item value="set Test To Checkup In Db Use Case" />
       <item value="Check Test Final On Db Use Case" />
       <item value="inject lazily given dependency for Android koincomponent" />
       <item value="Set Final Test To Checkup In Db Use Case" />
@@ -53,16 +56,13 @@
       <item value="Immutable URI reference. A URI reference includes a URI and a fragment, the component of the URI following a ''. Builds and parses URI references which conform to RFC 2396 . In the interest of performance, this class performs little to no validation. Behavior is undefined for invalid input. This class is very forgiving--in the face of invalid input, it will return garbage rather than throw an exception unless otherwise specified." />
       <item value="include" />
       <item value="This can be useful for creating [Map] literals with less noise, for example:" />
-      <item value="Creates a tuple of type [Pair] from this and [that]." />
-      <item value="tuple" />
-      <item value="Pair" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1548" />
+        <entry key="ENGLISH" value="1551" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1548" />
+        <entry key="RUSSIAN" value="1551" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
