@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="resolve" />
       <item value="A list of plants that updates based on the current filter (flow version)" />
       <item value="[FlowCollector] is used as an intermediate or a terminal collector of the flow and represents an entity that accepts values emitted by the [Flow]." />
       <item value="set Test To Checkup In Db Use Case" />
@@ -13,7 +14,6 @@
       <item value="inject lazily given dependency for Android koincomponent" />
       <item value="Set Final Test To Checkup In Db Use Case" />
       <item value="setup View" />
-      <item value="resolve" />
       <item value="definition" />
       <item value="Qualifier Value" />
       <item value="Help qualify a component" />
@@ -59,10 +59,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1551" />
+        <entry key="ENGLISH" value="1552" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1551" />
+        <entry key="RUSSIAN" value="1552" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
