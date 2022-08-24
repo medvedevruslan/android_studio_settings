@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="inject lazily given dependency for Android koincomponent" />
       <item value="Set Final Test To Checkup In Db Use Case" />
       <item value="setup View" />
       <item value="resolve" />
@@ -55,14 +56,13 @@
       <item value="tuple" />
       <item value="Pair" />
       <item value="Represents a generic pair of two values." />
-      <item value="Modal bottom sheet. This is a version of DialogFragment that shows a bottom sheet using BottomSheetDialog instead of a floating dialog" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1545" />
+        <entry key="ENGLISH" value="1546" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1545" />
+        <entry key="RUSSIAN" value="1546" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
