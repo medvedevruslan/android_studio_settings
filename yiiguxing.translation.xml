@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="inject" />
       <item value="Instance creation error : could not create instance for [Factory:'com.example.clean_pre_trip_control.presentation.ui.ble.BleViewModel']: java.lang.NullPointerException: Attempt to invoke virtual method 'void androidx.lifecycle.MutableLiveData.setValue(java.lang.Object)' on a null object reference" />
       <item value="Posts a task to a main thread to set the given value. So if you have a following code executed in the main thread:" />
       <item value="Creates a MutableLiveData with no value assigned to it." />
@@ -55,14 +56,13 @@
       <item value="The stateIn operator is useful in situations when there is a cold flow that provides updates to the value of some state and is expensive to create andor to maintain, but there are multiple subscribers that need to collect the most recent state value. For example, consider a flow of state updates coming from a backend over the expensive network connection, taking a lot of time to establish. Conceptually it might be implemented like this:" />
       <item value="See the StateFlow documentation for the general concepts of state flows. The starting of the sharing coroutine is controlled by the started parameter, as explained in the documentation for shareIn operator." />
       <item value="sharing the most recently emitted value from a single running instance of the upstream flow with multiple downstream subscribers." />
-      <item value="sharing the most recently" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1560" />
+        <entry key="ENGLISH" value="1561" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1560" />
+        <entry key="RUSSIAN" value="1561" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
