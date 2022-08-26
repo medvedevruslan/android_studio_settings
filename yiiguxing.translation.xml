@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="SEND REQUEST" />
       <item value="ailure delivering result ResultInfo" />
       <item value="Attempt to invoke virtual method 'void androidx.lifecycle.MutableLiveData.setValue(java.lang.Object)' on a null object reference" />
       <item value="inject" />
@@ -55,14 +56,13 @@
       <item value="View Holder" />
       <item value="state In" />
       <item value="The starting of the sharing coroutine is controlled by the started parameter, as explained in the documentation for shareIn operator." />
-      <item value="The stateIn operator is useful in situations when there is a cold flow that provides updates to the value of some state and is expensive to create andor to maintain, but there are multiple subscribers that need to collect the most recent state value. For example, consider a flow of state updates coming from a backend over the expensive network connection, taking a lot of time to establish. Conceptually it might be implemented like this:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1563" />
+        <entry key="ENGLISH" value="1564" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1563" />
+        <entry key="RUSSIAN" value="1564" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
