@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="fetch Data" />
       <item value="Returns the index of the first occurrence of the specified element in the list, or -1 if the specified element is not contained in the list." />
       <item value="Returns a list of all elements sorted according to natural sort order of the value returned by specified selector function. The sort is stable. It means that equal elements preserve their order relative to each other after sorting. Samples: samples.collections.Collections.Sorting.sortedBy" />
       <item value="Compares this object with the specified object for order. Returns zero if this object is equal to the specified other object, a negative number if it's less than other, or a positive number if it's greater than other." />
@@ -55,14 +56,13 @@
       <item value="Definition Parameters" />
       <item value="Build a DefinitionParameters" />
       <item value="current" />
-      <item value="Returns the query string currently in the text field. Returns: the query string" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1580" />
+        <entry key="ENGLISH" value="1581" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1580" />
+        <entry key="RUSSIAN" value="1581" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
