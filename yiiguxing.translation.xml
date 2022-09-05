@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns first index of element, or -1 if the list does not contain element." />
+      <item value="position For Item" />
       <item value="fetch Data" />
       <item value="Returns the index of the first occurrence of the specified element in the list, or -1 if the specified element is not contained in the list." />
       <item value="Returns a list of all elements sorted according to natural sort order of the value returned by specified selector function. The sort is stable. It means that equal elements preserve their order relative to each other after sorting. Samples: samples.collections.Collections.Sorting.sortedBy" />
@@ -54,15 +56,13 @@
       <item value="&gt; Failed to apply plugin 'com.android.internal.application'." />
       <item value="A problem occurred evaluating project ':app'." />
       <item value="Definition Parameters" />
-      <item value="Build a DefinitionParameters" />
-      <item value="current" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1581" />
+        <entry key="ENGLISH" value="1583" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1581" />
+        <entry key="RUSSIAN" value="1583" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
