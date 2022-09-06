@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="according" />
+      <item value="Creates a Mutex instance. The mutex created is fair: lock is granted in first come, first served order. Params: locked - initial state of the mutex" />
+      <item value="fair" />
+      <item value="Creates a Mutex instance. The mutex created is fair: lock is granted in first come, first served order. Params: locked - initial state of the mutex." />
       <item value="Applies the given transform function to each element of the original collection and appends the results to the given destination." />
       <item value="Returns a list containing the results of applying the given transform function to each element in the original collection. Samples: samples.collections.Collections.Transformations.map Unresolved" />
       <item value="Get the current cached value, or await the completion of [block]." />
@@ -52,17 +56,13 @@
       <item value="Check Test Final On Db Use Case" />
       <item value="inject lazily given dependency for Android koincomponent" />
       <item value="Set Final Test To Checkup In Db Use Case" />
-      <item value="setup View" />
-      <item value="definition" />
-      <item value="Qualifier Value" />
-      <item value="Help qualify a component" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1603" />
+        <entry key="ENGLISH" value="1608" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1603" />
+        <entry key="RUSSIAN" value="1608" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
