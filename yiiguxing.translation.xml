@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Returns a flow that invokes the given action before this flow starts to be collected." />
       <item value="try Update Recent Plants Cache" />
       <item value="Helper function to call a data load function with a loading spinner; errors will trigger a snackbar." />
       <item value="Returns a [LiveData] mapped from `this` LiveData by applying [transform] to each value set on `this` LiveData." />
@@ -55,14 +56,13 @@
       <item value="Posts a task to a main thread to set the given value. So if you have a following code executed in the main thread:" />
       <item value="Creates a MutableLiveData with no value assigned to it." />
       <item value="Unchecked cast: Result.Success&lt;Any&gt; to Status = Result&lt;MeasureResult, FailureBle&gt;" />
-      <item value="@Synchronized annotation is not applicable to suspend functions and lambdas" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1621" />
+        <entry key="ENGLISH" value="1622" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1621" />
+        <entry key="RUSSIAN" value="1622" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
