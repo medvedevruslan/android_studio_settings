@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Changes the context where this flow is executed to the given context. This operator is composable and affects only preceding operators that do not have its own context. This operator is context preserving: context does not leak into the downstream flow." />
       <item value="Returns a flow that invokes the given action before this flow starts to be collected." />
       <item value="try Update Recent Plants Cache" />
       <item value="Helper function to call a data load function with a loading spinner; errors will trigger a snackbar." />
@@ -55,14 +56,13 @@
       <item value="Instance creation error : could not create instance for [Factory:'com.example.clean_pre_trip_control.presentation.ui.ble.BleViewModel']: java.lang.NullPointerException: Attempt to invoke virtual method 'void androidx.lifecycle.MutableLiveData.setValue(java.lang.Object)' on a null object reference" />
       <item value="Posts a task to a main thread to set the given value. So if you have a following code executed in the main thread:" />
       <item value="Creates a MutableLiveData with no value assigned to it." />
-      <item value="Unchecked cast: Result.Success&lt;Any&gt; to Status = Result&lt;MeasureResult, FailureBle&gt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1622" />
+        <entry key="ENGLISH" value="1623" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1622" />
+        <entry key="RUSSIAN" value="1623" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
