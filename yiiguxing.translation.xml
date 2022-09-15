@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Regular" />
       <item value="set Test To Checkup In Db Use Case" />
       <item value="set Final Test To Checkup In Db Use Case" />
       <item value="Network Bound Repository" />
@@ -55,14 +56,13 @@
       <item value="invoke" />
       <item value="reply Upload Measure Data" />
       <item value="SEND REQUEST" />
-      <item value="error: cannot inherit from final BleService public final class ThermometerService extends com.example.clean_pre_trip_control.presentation.ui.ble.BleService {" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1636" />
+        <entry key="ENGLISH" value="1638" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1636" />
+        <entry key="RUSSIAN" value="1638" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
