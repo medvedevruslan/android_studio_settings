@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="[FlowCollector] is used as an intermediate or a terminal collector of the flow and represents an entity that accepts values emitted by the [Flow]." />
       <item value="Returns a flow that switches to a new flow produced by transform function every time the original flow emits a value. When the original flow emits a new value, the previous flow produced by transform block is cancelled." />
       <item value="success Data" />
       <item value="Success" />
@@ -55,14 +56,13 @@
       <item value="Returns first index of element, or -1 if the list does not contain element." />
       <item value="fetch Data" />
       <item value="Returns a list of all elements sorted according to natural sort order of the value returned by specified selector function. The sort is stable. It means that equal elements preserve their order relative to each other after sorting. Samples: samples.collections.Collections.Sorting.sortedBy" />
-      <item value="Compares this object with the specified object for order. Returns zero if this object is equal to the specified other object, a negative number if it's less than other, or a positive number if it's greater than other." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1642" />
+        <entry key="ENGLISH" value="1644" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1642" />
+        <entry key="RUSSIAN" value="1644" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
