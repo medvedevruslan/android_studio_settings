@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="stop Scan Before Connect Device" />
       <item value="Creates a tuple of type [Pair] from this and [that]." />
       <item value="java.lang.NoSuchMethodError: No virtual method getStatusBle()LkotlinxcoroutinesflowStateFlow; in class Lcomexampleclean_pre_trip_controlpresentationuibleBleStatusOwner; or its super classes (declaration of 'com.example.clean_pre_trip_control.presentation.ui.ble.BleStatusOwner' appears in datadatacom.example.clean_pre_trip_controlcode_cache.overlaybase.apkclasses21.dex) at com.example.clean_pre_trip_control.presentation.ui.ble.BleServicescanCallback1onScanResult1.invokeSuspend(BleService.kt:165)" />
       <item value="[FlowCollector] is used as an intermediate or a terminal collector of the flow and represents an entity that accepts values emitted by the [Flow]." />
@@ -55,14 +56,13 @@
       <item value="Returns the index of the first occurrence of the specified element in the list, or -1 if the specified element is not contained in the list." />
       <item value="Returns the index of the last occurrence of the specified element in the list, or -1 if the specified element is not contained in the list." />
       <item value="occurrence" />
-      <item value="Returns first index of element, or -1 if the list does not contain element." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1646" />
+        <entry key="ENGLISH" value="1647" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1646" />
+        <entry key="RUSSIAN" value="1647" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
