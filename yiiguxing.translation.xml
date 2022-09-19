@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="top Level" />
+      <item value="top Level Shared Preferences File" />
+      <item value="edit" />
+      <item value="signed In User Id" />
       <item value="Data Received" />
       <item value="Set Test To Checkup In Db" />
       <item value="Set Test To Checkup In Db Use Case" />
@@ -52,17 +56,13 @@
       <item value="Returns a Flow whose values are generated with transform function by combining the most recently emitted values by each flow. It can be demonstrated with the following example: val flow = flowOf(1, 2).onEach { delay(10) } val flow2 = flowOf(&quot;a&quot;, &quot;b&quot;, &quot;c&quot;).onEach { delay(15) } flow.combine(flow2) { i, s -&gt; i.toString() + s }.collect { println(it) Will print &quot;1a 2a 2b 2c&quot; } This function is a shorthand for flow.combineTransform(flow2) { a, b -&gt; emit(transform(a, b)) }" />
       <item value="combine" />
       <item value="Create a flow that calls a single function" />
-      <item value="sort Order" />
-      <item value="Classes which inherit from this interface have a defined total ordering between their instances." />
-      <item value="apply Sort" />
-      <item value="Comparable Pair" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1652" />
+        <entry key="ENGLISH" value="1660" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1652" />
+        <entry key="RUSSIAN" value="1660" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
@@ -77,6 +77,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663065062176" />
+    <option name="lastTrimTime" value="1663570122468" />
   </component>
 </application>
