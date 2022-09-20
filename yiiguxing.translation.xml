@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Views Models" />
       <item value="invoke" />
       <item value="measurement" />
       <item value="measure" />
@@ -55,14 +56,13 @@
       <item value="Returns a list containing the results of applying the given transform function to each element in the original collection. Samples: samples.collections.Collections.Transformations.map Unresolved" />
       <item value="Get the current cached value, or await the completion of [block]." />
       <item value="Cache the first non-error result from an async computation passed as [block]. Usage: ``` val cachedSuccess: CacheOnSuccess&lt;Int&gt; = CacheOnSuccess(onErrorFallback = { 3 }) { delay(1_000) compute value using coroutines 5 } cachedSuccess.getOrAwait() get the result from the cache, calling [block], or fallback on exception ``` @param onErrorFallback: Invoke this if [block] throws exception other than cancellation, the result of this lambda will be returned for this call to [getOrAwait] but will not be cached for future calls to [getOrAwait] @param block Suspending lambda that produces the cached value. The first non-exceptional value returned by [block] will be cached, and future calls to [getOrAwait] will return the cached value or throw a [CancellationException]." />
-      <item value="plants List Sort Order Cache" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1663" />
+        <entry key="ENGLISH" value="1664" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1663" />
+        <entry key="RUSSIAN" value="1664" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
