@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="@param value The value to be wrapped as an observable." />
+      <item value="The value to be wrapped as an observable." />
       <item value="Instruction Model" />
       <item value="invoke" />
       <item value="java.lang.NoSuchMethodError: No direct method &lt;init&gt;(LjavalangObject;)V in class Lcomexampleclean_pre_trip_controlpresentationuiblemodelResultSuccess; or its super classes (declaration of 'com.example.clean_pre_trip_control.presentation.ui.ble.model.ResultSuccess' appears in dataapp~~SCDAIxn0L6FE3GKL1R3ECQ==com.example.clean_pre_trip_control-J-uNLQePsmHYW0-SwSJv9g==base.apk!classes16.dex)" />
@@ -54,15 +56,13 @@
       <item value="Fetch" />
       <item value="position For Item" />
       <item value="mapped" />
-      <item value="according" />
-      <item value="Creates a Mutex instance. The mutex created is fair: lock is granted in first come, first served order. Params: locked - initial state of the mutex" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1672" />
+        <entry key="ENGLISH" value="1674" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1672" />
+        <entry key="RUSSIAN" value="1674" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
