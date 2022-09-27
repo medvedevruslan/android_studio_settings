@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="data" />
+      <item value="date" />
       <item value="@param value The value to be wrapped as an observable." />
       <item value="The value to be wrapped as an observable." />
       <item value="Instruction Model" />
@@ -54,15 +56,13 @@
       <item value="Add the given LiveData as a source, similar to MediatorLiveData.addSource. Calling this method will remove any source that was yielded before via emitSource" />
       <item value="custom Sort Order" />
       <item value="Fetch" />
-      <item value="position For Item" />
-      <item value="mapped" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1674" />
+        <entry key="ENGLISH" value="1677" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1674" />
+        <entry key="RUSSIAN" value="1677" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
