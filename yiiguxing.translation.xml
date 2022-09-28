@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="5005" />
     <option name="newTranslationDialogY" value="1307" />
     <histories>
+      <item value="Measure" />
+      <item value="Measurement" />
       <item value="condition Color Value On Display" />
       <item value="reply Upload Measure Data" />
       <item value="Inflater" />
@@ -53,15 +55,13 @@
       <item value="try Update Recent Plants Cache" />
       <item value="Helper function to call a data load function with a loading spinner; errors will trigger a snackbar." />
       <item value="Returns a [LiveData] mapped from `this` LiveData by applying [transform] to each value set on `this` LiveData." />
-      <item value="Returns a LiveData mapped from the input this LiveData by applying transform to each value set on this." />
-      <item value="switch Map" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1680" />
+        <entry key="ENGLISH" value="1682" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1680" />
+        <entry key="RUSSIAN" value="1682" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
