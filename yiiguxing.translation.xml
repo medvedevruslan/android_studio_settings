@@ -4,11 +4,14 @@
     <option name="newTranslationDialogWidth" value="1995" />
     <option name="newTranslationDialogX" value="5005" />
     <option name="newTranslationDialogY" value="1307" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="condition" />
+      <item value="clause" />
+      <item value="condition Color Value On Display" />
       <item value="Launch Type" />
       <item value="Measure" />
       <item value="Measurement" />
-      <item value="condition Color Value On Display" />
       <item value="reply Upload Measure Data" />
       <item value="Inflater" />
       <item value="data" />
@@ -53,15 +56,13 @@
       <item value="Converts a cold Flow into a hot StateFlow that is started in the given coroutine scope, sharing the most recently emitted value from a single running instance of the upstream flow with multiple downstream subscribers. See the StateFlow documentation for the general concepts of state flows." />
       <item value="Changes the context where this flow is executed to the given context. This operator is composable and affects only preceding operators that do not have its own context. This operator is context preserving: context does not leak into the downstream flow." />
       <item value="Returns a flow that invokes the given action before this flow starts to be collected." />
-      <item value="try Update Recent Plants Cache" />
-      <item value="Helper function to call a data load function with a loading spinner; errors will trigger a snackbar." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1683" />
+        <entry key="ENGLISH" value="1687" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1683" />
+        <entry key="RUSSIAN" value="1687" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
