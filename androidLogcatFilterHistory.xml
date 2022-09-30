@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="develop" />
+    <option name="mostRecentlyUsed" value="package: com.example.clean_pre_trip_control tag:developer" />
     <option name="nonFavorites">
       <list>
+        <option value="package: com.example.clean_pre_trip_control tag:developer" />
+        <option value="develo" />
         <option value="develop" />
         <option value="devel" />
       </list>
