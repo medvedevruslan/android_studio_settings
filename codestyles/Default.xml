@@ -119,7 +119,6 @@
   <codeStyleSettings language="kotlin">
     <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
     <option name="KEEP_LINE_BREAKS" value="false" />
-    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_BLANK_LINES_IN_CODE" value="3" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="3" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
