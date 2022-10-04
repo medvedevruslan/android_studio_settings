@@ -6,6 +6,11 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="require Value" />
+      <item value="The base class for all errors and exceptions. Only instances of this class can be thrown or caught." />
+      <item value="Throwable" />
+      <item value="cause" />
+      <item value="A collection that holds pairs of objects (keys and values) and supports efficiently retrieving the value corresponding to each key. Map keys are unique; the map holds only one value for each key. Methods in this interface support only read-only access to the map; read-write access is supported through the MutableMap interface." />
       <item value="hide Up Button" />
       <item value="Retrieve a reference to this activity's ActionBar." />
       <item value="whether" />
@@ -51,18 +56,13 @@
       <item value="Data Received" />
       <item value="Set Test To Checkup In Db" />
       <item value="Set Test To Checkup In Db Use Case" />
-      <item value="stop Scan Before Connect Device" />
-      <item value="Creates a tuple of type [Pair] from this and [that]." />
-      <item value="java.lang.NoSuchMethodError: No virtual method getStatusBle()LkotlinxcoroutinesflowStateFlow; in class Lcomexampleclean_pre_trip_controlpresentationuibleBleStatusOwner; or its super classes (declaration of 'com.example.clean_pre_trip_control.presentation.ui.ble.BleStatusOwner' appears in datadatacom.example.clean_pre_trip_controlcode_cache.overlaybase.apkclasses21.dex) at com.example.clean_pre_trip_control.presentation.ui.ble.BleServicescanCallback1onScanResult1.invokeSuspend(BleService.kt:165)" />
-      <item value="[FlowCollector] is used as an intermediate or a terminal collector of the flow and represents an entity that accepts values emitted by the [Flow]." />
-      <item value="Returns a flow that switches to a new flow produced by transform function every time the original flow emits a value. When the original flow emits a new value, the previous flow produced by transform block is cancelled." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1704" />
+        <entry key="ENGLISH" value="1710" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1704" />
+        <entry key="RUSSIAN" value="1710" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
