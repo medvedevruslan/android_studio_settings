@@ -123,7 +123,7 @@
     <option name="KEEP_BLANK_LINES_IN_CODE" value="3" />
     <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="3" />
     <option name="CALL_PARAMETERS_WRAP" value="1" />
-    <option name="METHOD_PARAMETERS_WRAP" value="1" />
+    <option name="METHOD_PARAMETERS_WRAP" value="2" />
     <option name="PARAMETER_ANNOTATION_WRAP" value="2" />
     <option name="VARIABLE_ANNOTATION_WRAP" value="2" />
     <option name="ENUM_CONSTANTS_WRAP" value="1" />
