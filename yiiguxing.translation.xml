@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Is set when VH is bound from the adapter and cleaned right before it is sent to RecyclerView.RecycledViewPool." />
+      <item value="on Create View Holder" />
       <item value="require Value" />
       <item value="The base class for all errors and exceptions. Only instances of this class can be thrown or caught." />
       <item value="Throwable" />
@@ -54,15 +56,13 @@
       <item value="edit" />
       <item value="signed In User Id" />
       <item value="Data Received" />
-      <item value="Set Test To Checkup In Db" />
-      <item value="Set Test To Checkup In Db Use Case" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1710" />
+        <entry key="ENGLISH" value="1712" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1710" />
+        <entry key="RUSSIAN" value="1712" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
