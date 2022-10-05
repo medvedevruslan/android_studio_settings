@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.raywenderlich.android.cryptostonksfivethousand habr" />
+    <option name="mostRecentlyUsed" value="package:com.example.clean_pre_trip_control " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.example.clean_pre_trip_control " />
+        <option value="package:mine" />
         <option value="package:com.raywenderlich.android.cryptostonksfivethousand habr" />
         <option value="package:com.raywenderlich.android.cryptostonksfivethousand " />
         <option value="package: com.example.clean_pre_trip_control tag:developer" />
