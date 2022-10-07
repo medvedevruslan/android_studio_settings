@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="@param replay the number of values replayed to new subscribers (cannot be negative, defaults to zero)." />
       <item value="Returns a flow that switches to a new flow produced by transform function every time the original flow emits a value. When the original flow emits a new value, the previous flow produced by transform block is cancelled." />
       <item value="A coroutine dispatcher that is not confined to any specific thread. It executes initial continuation of the coroutine in the current call-frame and lets the coroutine resume in whatever thread that is used by the corresponding suspending function, without mandating any specific threading policy. Nested coroutines launched in this dispatcher form an event-loop to avoid stack overflows." />
       <item value="The default [CoroutineDispatcher] that is used by all standard builders like [launch][CoroutineScope.launch], [async][CoroutineScope.async], etc. if no dispatcher nor any other [ContinuationInterceptor] is specified in their context." />
@@ -28,7 +29,6 @@
       <item value="Suspend on buffer overflow." />
       <item value="configures an [emit][MutableSharedFlow.emit] action on buffer overflow. Optional, defaults to [suspending][BufferOverflow.SUSPEND] attempts to emit a value. Values other than [BufferOverflow.SUSPEND] are supported only when `replay &gt; 0` or `extraBufferCapacity &gt; 0`. Buffer overflow can happen only when there is at least one subscriber that is not ready to accept the new value. In the absence of subscribers only the most recent [replay] values are stored and the buffer overflow behavior is never triggered and has no effect." />
       <item value="the number of values buffered in addition to `replay`. [emit][MutableSharedFlow.emit] does not suspend while there is a buffer space remaining (optional, cannot be negative, defaults to zero)." />
-      <item value="@param replay the number of values replayed to new subscribers (cannot be negative, defaults to zero)." />
       <item value="The property annotated with [IgnoredOnParcel] will not be stored into parcel." />
       <item value="unregister" />
       <item value="name – The name of the extra data, with package prefix. value – The Parcelable data value" />
@@ -59,10 +59,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1717" />
+        <entry key="ENGLISH" value="1718" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1717" />
+        <entry key="RUSSIAN" value="1718" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
