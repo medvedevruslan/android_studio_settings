@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Returns a flow that switches to a new flow produced by transform function every time the original flow emits a value. When the original flow emits a new value, the previous flow produced by transform block is cancelled." />
       <item value="A coroutine dispatcher that is not confined to any specific thread. It executes initial continuation of the coroutine in the current call-frame and lets the coroutine resume in whatever thread that is used by the corresponding suspending function, without mandating any specific threading policy. Nested coroutines launched in this dispatcher form an event-loop to avoid stack overflows." />
       <item value="The default [CoroutineDispatcher] that is used by all standard builders like [launch][CoroutineScope.launch], [async][CoroutineScope.async], etc. if no dispatcher nor any other [ContinuationInterceptor] is specified in their context." />
       <item value="A coroutine dispatcher that is confined to the Main thread operating with UI objects. This dispatcher can be used either directly or via [MainScope] factory. Usually such dispatcher is single-threaded." />
@@ -55,14 +56,13 @@
       <item value="handle Result" />
       <item value="measurement" />
       <item value="measure" />
-      <item value="top Level" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1716" />
+        <entry key="ENGLISH" value="1717" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1716" />
+        <entry key="RUSSIAN" value="1717" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
