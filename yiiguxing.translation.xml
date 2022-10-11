@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="626" />
-    <option name="newTranslationDialogWidth" value="1993" />
+    <option name="newTranslationDialogWidth" value="1991" />
     <option name="newTranslationDialogX" value="5005" />
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="inflater" />
+      <item value="Inflater" />
       <item value="@param replay the number of values replayed to new subscribers (cannot be negative, defaults to zero)." />
       <item value="Returns a flow that switches to a new flow produced by transform function every time the original flow emits a value. When the original flow emits a new value, the previous flow produced by transform block is cancelled." />
       <item value="A coroutine dispatcher that is not confined to any specific thread. It executes initial continuation of the coroutine in the current call-frame and lets the coroutine resume in whatever thread that is used by the corresponding suspending function, without mandating any specific threading policy. Nested coroutines launched in this dispatcher form an event-loop to avoid stack overflows." />
@@ -41,7 +43,6 @@
       <item value="Measure" />
       <item value="Measurement" />
       <item value="reply Upload Measure Data" />
-      <item value="Inflater" />
       <item value="data" />
       <item value="date" />
       <item value="@param value The value to be wrapped as an observable." />
@@ -55,14 +56,13 @@
       <item value="2022-09-21 15:21:53.111 4245-4245com.example.twodialogfragments EAndroidRuntime: Caused by: java.lang.ClassCastException: kotlinx.coroutines.flow.FlowKt__ErrorsKtcatchinlinedunsafeFlow1 cannot be cast to kotlinx.coroutines.flow.MutableStateFlow" />
       <item value="handle Result" />
       <item value="measurement" />
-      <item value="measure" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1718" />
+        <entry key="ENGLISH" value="1720" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1718" />
+        <entry key="RUSSIAN" value="1720" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
@@ -77,6 +77,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1664772063859" />
+    <option name="lastTrimTime" value="1665476807823" />
   </component>
 </application>
