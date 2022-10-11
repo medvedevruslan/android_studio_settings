@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Returns this value." />
       <item value="Parcel" />
       <item value="The property annotated with [IgnoredOnParcel] will not be stored into parcel." />
       <item value="Returns the substring of this string starting at the [startIndex] and ending right before the [endIndex]." />
@@ -55,14 +56,13 @@
       <item value="NoSuchMethodError: No direct method" />
       <item value="value" />
       <item value="Views Models" />
-      <item value="2022-09-21 15:21:53.111 4245-4245com.example.twodialogfragments EAndroidRuntime: Caused by: java.lang.ClassCastException: kotlinx.coroutines.flow.FlowKt__ErrorsKtcatchinlinedunsafeFlow1 cannot be cast to kotlinx.coroutines.flow.MutableStateFlow" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1723" />
+        <entry key="ENGLISH" value="1724" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1723" />
+        <entry key="RUSSIAN" value="1724" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
