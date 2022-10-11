@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Returns the substring of this string starting at the [startIndex] and ending right before the [endIndex]." />
       <item value="inflater" />
       <item value="Inflater" />
       <item value="@param replay the number of values replayed to new subscribers (cannot be negative, defaults to zero)." />
@@ -55,14 +56,13 @@
       <item value="Views Models" />
       <item value="2022-09-21 15:21:53.111 4245-4245com.example.twodialogfragments EAndroidRuntime: Caused by: java.lang.ClassCastException: kotlinx.coroutines.flow.FlowKt__ErrorsKtcatchinlinedunsafeFlow1 cannot be cast to kotlinx.coroutines.flow.MutableStateFlow" />
       <item value="handle Result" />
-      <item value="measurement" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1720" />
+        <entry key="ENGLISH" value="1721" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1720" />
+        <entry key="RUSSIAN" value="1721" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
