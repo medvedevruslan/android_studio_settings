@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Bounds" />
+      <item value="get Color Depending Of Value And Bounds" />
+      <item value="get Color Depending Of Values" />
+      <item value="get Color Dependence Of Value" />
       <item value="Template Fragment" />
       <item value="range" />
       <item value="Ambit" />
@@ -52,17 +56,13 @@
       <item value="Launch Type" />
       <item value="Measure" />
       <item value="Measurement" />
-      <item value="reply Upload Measure Data" />
-      <item value="data" />
-      <item value="date" />
-      <item value="@param value The value to be wrapped as an observable." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1732" />
+        <entry key="ENGLISH" value="1736" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1732" />
+        <entry key="RUSSIAN" value="1736" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
