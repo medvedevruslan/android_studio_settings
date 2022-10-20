@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="range" />
+      <item value="Ambit" />
       <item value="condition Color Value On Display" />
       <item value="Clears the content of this string builder making it empty and returns this instance." />
       <item value="for Do Not Work With Writed Characteristic" />
@@ -54,15 +56,13 @@
       <item value="date" />
       <item value="@param value The value to be wrapped as an observable." />
       <item value="The value to be wrapped as an observable." />
-      <item value="Instruction Model" />
-      <item value="invoke" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1729" />
+        <entry key="ENGLISH" value="1731" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1729" />
+        <entry key="RUSSIAN" value="1731" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
@@ -77,6 +77,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1665476807823" />
+    <option name="lastTrimTime" value="1666250131752" />
   </component>
 </application>
