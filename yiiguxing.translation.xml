@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Template Fragment" />
       <item value="range" />
       <item value="Ambit" />
       <item value="condition Color Value On Display" />
@@ -55,14 +56,13 @@
       <item value="data" />
       <item value="date" />
       <item value="@param value The value to be wrapped as an observable." />
-      <item value="The value to be wrapped as an observable." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1731" />
+        <entry key="ENGLISH" value="1732" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1731" />
+        <entry key="RUSSIAN" value="1732" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
