@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="combine Measurement To Text" />
+      <item value="combine Measure To Text" />
+      <item value="condition Color Value On Display" />
       <item value="Bounds" />
       <item value="get Color Depending Of Value And Bounds" />
       <item value="get Color Depending Of Values" />
@@ -13,7 +16,6 @@
       <item value="Template Fragment" />
       <item value="range" />
       <item value="Ambit" />
-      <item value="condition Color Value On Display" />
       <item value="Clears the content of this string builder making it empty and returns this instance." />
       <item value="for Do Not Work With Writed Characteristic" />
       <item value="for Do Not Work With Write Characteristic" />
@@ -54,15 +56,13 @@
       <item value="condition" />
       <item value="clause" />
       <item value="Launch Type" />
-      <item value="Measure" />
-      <item value="Measurement" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1736" />
+        <entry key="ENGLISH" value="1739" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1736" />
+        <entry key="RUSSIAN" value="1739" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
