@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="stop Scan Before Connect Device" />
+      <item value="Cancels this scope, including its job and all its children with an optional cancellation [cause]. A cause can be used to specify an error message or to provide other details on a cancellation reason for debugging purposes. Throws [IllegalStateException] if the scope does not have a job in it." />
       <item value="Old version of {@link stopSelfResult} that doesn't return a result." />
       <item value="Stop the service, if it was previously started. This is the same as calling {@link android.content.ContextstopService} for this particular service." />
       <item value="Returns an array of type UByteArray, which is a copy of this array where each element is an unsigned reinterpretation of the corresponding element of this array." />
@@ -54,15 +56,13 @@
       <item value="configures an [emit][MutableSharedFlow.emit] action on buffer overflow. Optional, defaults to [suspending][BufferOverflow.SUSPEND] attempts to emit a value. Values other than [BufferOverflow.SUSPEND] are supported only when `replay &gt; 0` or `extraBufferCapacity &gt; 0`. Buffer overflow can happen only when there is at least one subscriber that is not ready to accept the new value. In the absence of subscribers only the most recent [replay] values are stored and the buffer overflow behavior is never triggered and has no effect." />
       <item value="the number of values buffered in addition to `replay`. [emit][MutableSharedFlow.emit] does not suspend while there is a buffer space remaining (optional, cannot be negative, defaults to zero)." />
       <item value="unregister" />
-      <item value="name – The name of the extra data, with package prefix. value – The Parcelable data value" />
-      <item value="if Broadcast Registered" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1743" />
+        <entry key="ENGLISH" value="1745" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1743" />
+        <entry key="RUSSIAN" value="1745" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
