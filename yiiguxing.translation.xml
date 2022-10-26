@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="condition Color Value On Display" />
       <item value="get Color Depending Of Value And Bounds" />
       <item value="Cancels [Job] of this context with an optional cancellation cause. See [Job.cancel] for details." />
       <item value="stop Scan Before Connect Device" />
@@ -16,7 +17,6 @@
       <item value="as" />
       <item value="combine Measurement To Text" />
       <item value="combine Measure To Text" />
-      <item value="condition Color Value On Display" />
       <item value="Bounds" />
       <item value="get Color Depending Of Values" />
       <item value="get Color Dependence Of Value" />
@@ -59,10 +59,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1747" />
+        <entry key="ENGLISH" value="1748" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1747" />
+        <entry key="RUSSIAN" value="1748" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
