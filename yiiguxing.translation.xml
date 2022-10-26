@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Timer To Work With Ble Device" />
+      <item value="job Timer To Work With Ble Device" />
       <item value="measure Value" />
       <item value="convert Measurement Text To Display" />
       <item value="convert Measurement To Text Display" />
@@ -54,15 +56,13 @@
       <item value="whether" />
       <item value="Set whether home should be displayed as an &quot;up&quot; affordance. Set this to true if selecting &quot;home&quot; returns up by a single level in your UI rather than back to the top level or front page." />
       <item value="Implement price variation system" />
-      <item value="Drop the latest value that is being added to the buffer right now on buffer overflow (so that buffer contents stay the same), do not suspend." />
-      <item value="Drop the oldest value in the buffer on overflow, add the new value to the buffer, do not suspend." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1752" />
+        <entry key="ENGLISH" value="1754" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1752" />
+        <entry key="RUSSIAN" value="1754" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
