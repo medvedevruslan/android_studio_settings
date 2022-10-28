@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value=": Task failed with an exception." />
       <item value="currently" />
       <item value="change Service Alive Check" />
       <item value="service Life" />
@@ -55,14 +56,13 @@
       <item value="The base class for all errors and exceptions. Only instances of this class can be thrown or caught." />
       <item value="Throwable" />
       <item value="cause" />
-      <item value="A collection that holds pairs of objects (keys and values) and supports efficiently retrieving the value corresponding to each key. Map keys are unique; the map holds only one value for each key. Methods in this interface support only read-only access to the map; read-write access is supported through the MutableMap interface." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1763" />
+        <entry key="ENGLISH" value="1764" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1763" />
+        <entry key="RUSSIAN" value="1764" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
