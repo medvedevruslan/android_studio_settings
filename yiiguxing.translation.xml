@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="shreyaspatil" />
       <item value=": Task failed with an exception." />
       <item value="currently" />
       <item value="change Service Alive Check" />
@@ -55,14 +56,13 @@
       <item value="require Value" />
       <item value="The base class for all errors and exceptions. Only instances of this class can be thrown or caught." />
       <item value="Throwable" />
-      <item value="cause" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="1764" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1764" />
+        <entry key="RUSSIAN" value="1765" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
@@ -70,6 +70,7 @@
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="NORWEGIAN" value="2" />
         <entry key="GREEK" value="2" />
+        <entry key="HINDI" value="1" />
         <entry key="SUNDANESE" value="1" />
         <entry key="JAVANESE" value="1" />
         <entry key="VIETNAMESE" value="2" />
