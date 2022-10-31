@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Base class for a database migration. Each migration can move between 2 versions that are defined by startVersion and endVersion. A migration can handle more than 1 version (e.g. if you have a faster path to choose when going version 3 to 5 without going to version 4). If Room opens a database at version 3 and latest version is &gt;= 5, Room will use the migration object that can migrate from 3 to 5 instead of 3 to 4 and 4 to 5. If there are not enough migrations provided to move from the current version to the latest version, Room will clear the database and recreate so even if you have no changes between 2 versions, you should still provide a Migration object to the builder." />
       <item value="shreyaspatil" />
       <item value=": Task failed with an exception." />
       <item value="currently" />
@@ -55,11 +56,10 @@
       <item value="on Create View Holder" />
       <item value="require Value" />
       <item value="The base class for all errors and exceptions. Only instances of this class can be thrown or caught." />
-      <item value="Throwable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1764" />
+        <entry key="ENGLISH" value="1765" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
         <entry key="RUSSIAN" value="1765" />
@@ -78,6 +78,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1666779792762" />
+    <option name="lastTrimTime" value="1667222091400" />
   </component>
 </application>
