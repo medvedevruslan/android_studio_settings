@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Fetches" />
       <item value="insert Posts" />
       <item value="get Instance" />
       <item value="temp Instance" />
@@ -55,14 +56,13 @@
       <item value="Inflater" />
       <item value="@param replay the number of values replayed to new subscribers (cannot be negative, defaults to zero)." />
       <item value="Returns a flow that switches to a new flow produced by transform function every time the original flow emits a value. When the original flow emits a new value, the previous flow produced by transform block is cancelled." />
-      <item value="A coroutine dispatcher that is not confined to any specific thread. It executes initial continuation of the coroutine in the current call-frame and lets the coroutine resume in whatever thread that is used by the corresponding suspending function, without mandating any specific threading policy. Nested coroutines launched in this dispatcher form an event-loop to avoid stack overflows." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1775" />
+        <entry key="ENGLISH" value="1776" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1775" />
+        <entry key="RUSSIAN" value="1776" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
