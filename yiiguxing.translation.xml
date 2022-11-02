@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Service to fetch Foodium posts using dummy end point [FOODIUM_API_URL]." />
       <item value="Force the lock object into a local and use that local for monitor enterexit. This ensures that the JVM can prove that locking is balanced which is a prerequisite for using fast locking implementations. See KT-48367 for details." />
       <item value="Executes the given function block while holding the monitor of the given object lock." />
       <item value="Marks the JVM backing field of the annotated property as volatile, meaning that writes to this field are immediately made visible to other threads." />
@@ -55,14 +56,13 @@
       <item value="for Do Not Work With Write Characteristic" />
       <item value="for Do Not Work With Same Characteristic" />
       <item value="Returns this value." />
-      <item value="Parcel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1784" />
+        <entry key="ENGLISH" value="1786" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1784" />
+        <entry key="RUSSIAN" value="1786" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
