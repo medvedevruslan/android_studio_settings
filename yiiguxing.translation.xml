@@ -6,10 +6,20 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="represents" />
-      <item value="fetch From Local" />
+      <item value="represents the type for database." />
+      <item value="Trace" />
+      <item value="Stack" />
+      <item value="print Stack Trace" />
+      <item value="Network error! Can`t get latest posts" />
+      <item value="posts" />
+      <item value="Bound" />
+      <item value="Network Bound" />
+      <item value="Network Bound Repository" />
       <item value="fetch latest posts from remote" />
       <item value="The terminal operator that returns the first element emitted by the flow and then cancels flow's collection. Throws NoSuchElementException if the flow was empty." />
+      <item value="Internal building block for non-tailcalling flow-truncating operators" />
+      <item value="represents" />
+      <item value="fetch From Local" />
       <item value="Retrieves all data from persistence storage." />
       <item value="persistence" />
       <item value="persistence storage." />
@@ -46,23 +56,13 @@
       <item value="Timer To Work With Ble Device" />
       <item value="job Timer To Work With Ble Device" />
       <item value="measure Value" />
-      <item value="convert Measurement Text To Display" />
-      <item value="convert Measurement To Text Display" />
-      <item value="condition Color Value On Display" />
-      <item value="get Color Depending Of Value And Bounds" />
-      <item value="Cancels [Job] of this context with an optional cancellation cause. See [Job.cancel] for details." />
-      <item value="stop Scan Before Connect Device" />
-      <item value="Cancels this scope, including its job and all its children with an optional cancellation [cause]. A cause can be used to specify an error message or to provide other details on a cancellation reason for debugging purposes. Throws [IllegalStateException] if the scope does not have a job in it." />
-      <item value="Old version of {@link stopSelfResult} that doesn't return a result." />
-      <item value="Stop the service, if it was previously started. This is the same as calling {@link android.content.ContextstopService} for this particular service." />
-      <item value="Returns an array of type UByteArray, which is a copy of this array where each element is an unsigned reinterpretation of the corresponding element of this array." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1809" />
+        <entry key="ENGLISH" value="1825" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1809" />
+        <entry key="RUSSIAN" value="1825" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
