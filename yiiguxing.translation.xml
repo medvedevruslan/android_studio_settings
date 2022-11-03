@@ -6,6 +6,13 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="fetch From Local" />
+      <item value="fetch latest posts from remote" />
+      <item value="The terminal operator that returns the first element emitted by the flow and then cancels flow's collection. Throws NoSuchElementException if the flow was empty." />
+      <item value="Retrieves all data from persistence storage." />
+      <item value="persistence" />
+      <item value="persistence storage." />
+      <item value="Saves retrieved from remote into the persistence storage." />
       <item value="Denotes that the annotated method should only be called on a worker thread. If the annotated element is a class, then all methods in the class should be called on a worker thread. Example: @WorkerThread protected abstract FilterResults performFiltering(CharSequence constraint)" />
       <item value="[REQUEST] represents the type for network." />
       <item value="[RESULT] represents the type for database." />
@@ -49,20 +56,13 @@
       <item value="Stop the service, if it was previously started. This is the same as calling {@link android.content.ContextstopService} for this particular service." />
       <item value="Returns an array of type UByteArray, which is a copy of this array where each element is an unsigned reinterpretation of the corresponding element of this array." />
       <item value="as" />
-      <item value="combine Measurement To Text" />
-      <item value="combine Measure To Text" />
-      <item value="Bounds" />
-      <item value="get Color Depending Of Values" />
-      <item value="get Color Dependence Of Value" />
-      <item value="Template Fragment" />
-      <item value="range" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1798" />
+        <entry key="ENGLISH" value="1808" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1798" />
+        <entry key="RUSSIAN" value="1808" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
