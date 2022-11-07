@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The terminal operator that returns the first element emitted by the flow and then cancels flow's collection. Throws NoSuchElementException if the flow was empty." />
       <item value="Fetches [Response] from the remote end point." />
       <item value="represents the type for database." />
       <item value="Trace" />
@@ -17,7 +18,6 @@
       <item value="Network Bound" />
       <item value="Network Bound Repository" />
       <item value="fetch latest posts from remote" />
-      <item value="The terminal operator that returns the first element emitted by the flow and then cancels flow's collection. Throws NoSuchElementException if the flow was empty." />
       <item value="Internal building block for non-tailcalling flow-truncating operators" />
       <item value="represents" />
       <item value="fetch From Local" />
@@ -59,10 +59,10 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1826" />
+        <entry key="ENGLISH" value="1827" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1826" />
+        <entry key="RUSSIAN" value="1827" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
