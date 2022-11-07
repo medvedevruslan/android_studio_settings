@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="This is Single source of data." />
+      <item value="capability" />
+      <item value="storing" />
+      <item value="Singleton repository for fetching data from remote and storing it in database for offline capability. This is single source of data." />
       <item value="Abstract Activity which binds [ViewModel] [VM] and [ViewBinding] [VB]" />
       <item value="It returns [VB] which is assigned o [mViewBinding] and used in [onCreate]." />
       <item value="Network utility to detect availability or unavailability of Internet connection" />
@@ -52,17 +56,13 @@
       <item value="Query" />
       <item value="Fetches" />
       <item value="insert Posts" />
-      <item value="get Instance" />
-      <item value="temp Instance" />
-      <item value="Entity" />
-      <item value="Post" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1839" />
+        <entry key="ENGLISH" value="1844" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1839" />
+        <entry key="RUSSIAN" value="1844" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
