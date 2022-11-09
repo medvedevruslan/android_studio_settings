@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Create an ActivityOptions to transition between Activities using cross-Activity scene animations. This method carries the position of one shared element to the started Activity. The position of sharedElement will be used as the epicenter for the exit Transition. The position of the shared element in the launched Activity will be the epicenter of its entering Transition." />
       <item value="Observe network changes i.e. Internet Connectivity" />
       <item value="Notify the widget that refresh state has changed. Do not call this when refresh is triggered by a swipe gesture. @param refreshing Whether or not the view should show refresh progress." />
       <item value="bind" />
@@ -55,15 +56,14 @@
       <item value="Network Bound" />
       <item value="Network Bound Repository" />
       <item value="fetch latest posts from remote" />
-      <item value="Internal building block for non-tailcalling flow-truncating operators" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1864" />
+        <entry key="ENGLISH" value="1865" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1864" />
+        <entry key="RUSSIAN" value="1865" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
