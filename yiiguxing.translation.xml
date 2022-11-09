@@ -6,6 +6,10 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Horizontal bias" />
+      <item value="constraint" />
+      <item value="layout" />
+      <item value="layout constraint Horizontal bias" />
       <item value="&lt;!-- Push title to the top of its container, not changing its size. --&gt;" />
       <item value="Boolean internal attribute to adjust view layout based on system windows such as the status bar. If true, adjusts the padding of this view to leave space for the system windows. Will only take effect if this view is in a non-embedded activity." />
       <item value="Version 28 (intended for Android Pie and below) is the last version of the legacy support library, so we recommend that you migrate to AndroidX libraries when using Android Q and moving forward. The IDE can help with this: Refactor &gt; Migrate to AndroidX..." />
@@ -52,18 +56,14 @@
       <item value="[REQUEST] represents the type for network." />
       <item value="[RESULT] represents the type for database." />
       <item value="Service to fetch Foodium posts using dummy end point [FOODIUM_API_URL]. @constructor Create empty Foodium service interface FoodiumService { @GET(&quot;DummyFoodiumApiapiposts&quot;) suspend fun getPosts(): Response&lt;List&lt;Post&gt;&gt; companion object { const val FOODIUM_API_URL = &quot;https:patilshreyas.github.io&quot; } }" />
-      <item value="dummy" />
-      <item value="Service to fetch Foodium posts using dummy end point [FOODIUM_API_URL]." />
-      <item value="Foodium" />
-      <item value="Force the lock object into a local and use that local for monitor enterexit. This ensures that the JVM can prove that locking is balanced which is a prerequisite for using fast locking implementations. See KT-48367 for details." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1849" />
+        <entry key="ENGLISH" value="1854" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1849" />
+        <entry key="RUSSIAN" value="1854" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
