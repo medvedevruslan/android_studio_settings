@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="along" />
       <item value="Reverses the Activity Scene entry Transition and triggers the calling Activity to reverse its exit Transition. When the exit Transition completes, finish() is called. If no entry Transition was used, finish() is called immediately and the Activity exit Transition is run. On Android 4.4 or lower, this method only finishes the Activity with no special exit transition." />
       <item value="Set whether home should be displayed as an &quot;up&quot; affordance. Set this to true if selecting &quot;home&quot; returns up by a single level in your UI rather than back to the top level or front page. To set several display options at once, see the setDisplayOptions methods. Params: showHomeAsUp – true to show the user that selecting home will return one level up rather than to the top level of the app. See Also: setDisplayOptions(int), setDisplayOptions(int, int)" />
       <item value="error: There is a problem with the query: [SQLITE_ERROR] SQL error or missing database (no such table: foodium_posts) public abstract void deleteAllPosts();" />
@@ -55,15 +56,14 @@
       <item value="represents" />
       <item value="fetch From Local" />
       <item value="Retrieves all data from persistence storage." />
-      <item value="persistence" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1859" />
+        <entry key="ENGLISH" value="1860" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1859" />
+        <entry key="RUSSIAN" value="1860" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
