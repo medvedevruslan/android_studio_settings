@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The surrounding layout (@layoutactivity_post_details) did not actually include this layout. Remove tools:showIn=... from the root tag. Tip: Try to refresh the layout." />
       <item value="Horizontal bias" />
       <item value="constraint" />
       <item value="layout" />
@@ -55,7 +56,6 @@
       <item value="Denotes that the annotated method should only be called on a worker thread. If the annotated element is a class, then all methods in the class should be called on a worker thread. Example: @WorkerThread protected abstract FilterResults performFiltering(CharSequence constraint)" />
       <item value="[REQUEST] represents the type for network." />
       <item value="[RESULT] represents the type for database." />
-      <item value="Service to fetch Foodium posts using dummy end point [FOODIUM_API_URL]. @constructor Create empty Foodium service interface FoodiumService { @GET(&quot;DummyFoodiumApiapiposts&quot;) suspend fun getPosts(): Response&lt;List&lt;Post&gt;&gt; companion object { const val FOODIUM_API_URL = &quot;https:patilshreyas.github.io&quot; } }" />
     </histories>
     <option name="languageScores">
       <map>
@@ -63,7 +63,7 @@
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1854" />
+        <entry key="RUSSIAN" value="1855" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
