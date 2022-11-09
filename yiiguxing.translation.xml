@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1307" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Observe network changes i.e. Internet Connectivity" />
+      <item value="Notify the widget that refresh state has changed. Do not call this when refresh is triggered by a swipe gesture. @param refreshing Whether or not the view should show refresh progress." />
       <item value="bind" />
       <item value="along" />
       <item value="Reverses the Activity Scene entry Transition and triggers the calling Activity to reverse its exit Transition. When the exit Transition completes, finish() is called. If no entry Transition was used, finish() is called immediately and the Activity exit Transition is run. On Android 4.4 or lower, this method only finishes the Activity with no special exit transition." />
@@ -54,16 +56,14 @@
       <item value="Network Bound Repository" />
       <item value="fetch latest posts from remote" />
       <item value="Internal building block for non-tailcalling flow-truncating operators" />
-      <item value="represents" />
-      <item value="fetch From Local" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1861" />
+        <entry key="ENGLISH" value="1864" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1861" />
+        <entry key="RUSSIAN" value="1864" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
