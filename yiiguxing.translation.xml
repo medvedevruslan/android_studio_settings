@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="1243" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The terminal operator that returns the first element emitted by the flow and then cancels flow's collection. Throws NoSuchElementException if the flow was empty." />
+      <item value="Emit Database content first" />
+      <item value="save Remote Data" />
       <item value="@MainThread public void onBackPressed() Trigger a call to the currently added callbacks in reverse order in which they were added. Only if the most recently added callback is not enabled will any previously added callback be called. If hasEnabledCallbacks() is false when this method is called, the fallback Runnable set by the constructor will be triggered. androidx.activity.OnBackPressedDispatcher Gradle: androidx.activity:activity:1.5.1@aar (classes.jar)" />
       <item value="Create an ActivityOptions to transition between Activities using cross-Activity scene animations. This method carries the position of one shared element to the started Activity. The position of sharedElement will be used as the epicenter for the exit Transition. The position of the shared element in the launched Activity will be the epicenter of its entering Transition." />
       <item value="Observe network changes i.e. Internet Connectivity" />
@@ -45,7 +48,6 @@
       <item value="Can show [Toast] from every [Activity]." />
       <item value="every" />
       <item value="Inserts [posts] into the [Post.TABLE_NAME] table. Duplicate values are replaced in the table. @param posts Posts" />
-      <item value="The terminal operator that returns the first element emitted by the flow and then cancels flow's collection. Throws NoSuchElementException if the flow was empty." />
       <item value="Fetches [Response] from the remote end point." />
       <item value="represents the type for database." />
       <item value="Trace" />
@@ -54,16 +56,14 @@
       <item value="Network error! Can`t get latest posts" />
       <item value="posts" />
       <item value="Bound" />
-      <item value="Network Bound" />
-      <item value="Network Bound Repository" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1866" />
+        <entry key="ENGLISH" value="1869" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1867" />
+        <entry key="RUSSIAN" value="1869" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
