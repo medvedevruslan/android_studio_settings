@@ -6,6 +6,9 @@
     <option name="newTranslationDialogY" value="1243" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The terminal operator that returns the first element emitted by the flow and then cancels flow's collection. Throws NoSuchElementException if the flow was empty" />
+      <item value="fold" />
+      <item value="predicate" />
       <item value="The terminal operator that returns the first element emitted by the flow and then cancels flow's collection. Throws NoSuchElementException if the flow was empty." />
       <item value="Emit Database content first" />
       <item value="save Remote Data" />
@@ -53,17 +56,14 @@
       <item value="Trace" />
       <item value="Stack" />
       <item value="print Stack Trace" />
-      <item value="Network error! Can`t get latest posts" />
-      <item value="posts" />
-      <item value="Bound" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1869" />
+        <entry key="ENGLISH" value="1873" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1869" />
+        <entry key="RUSSIAN" value="1873" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
