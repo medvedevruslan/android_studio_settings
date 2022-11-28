@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1243" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="the number of values buffered in addition to replay." />
       <item value="Drop the oldest value in the buffer on overflow, add the new value to the buffer, do not suspend." />
       <item value="Suspend on buffer overflow." />
       <item value="Creates a flow that produces values from the specified vararg-arguments." />
@@ -55,15 +56,14 @@
       <item value="Network utility to detect availability or unavailability of Internet connection" />
       <item value="on Lost" />
       <item value="on Available" />
-      <item value="Network Callback" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1883" />
+        <entry key="ENGLISH" value="1884" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1883" />
+        <entry key="RUSSIAN" value="1884" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
