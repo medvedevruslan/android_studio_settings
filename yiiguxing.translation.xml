@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1243" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Implementation note: this is just an &quot;optimized&quot; overload of flowOf(vararg) which significantly reduces the footprint of widespread single-value flows." />
+      <item value="Creates a flow that produces the given value." />
       <item value="allocated" />
       <item value="private val dataBase: DataBase = DataBase, private val refreshIntervalMs: Long = 1000" />
       <item value="source" />
@@ -54,16 +56,14 @@
       <item value="Connectivity Manager" />
       <item value="Provides [ViewModel] of type [VM] from [factory]." />
       <item value="Can show [Toast] from every [Activity]." />
-      <item value="every" />
-      <item value="Inserts [posts] into the [Post.TABLE_NAME] table. Duplicate values are replaced in the table. @param posts Posts" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1878" />
+        <entry key="ENGLISH" value="1880" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1878" />
+        <entry key="RUSSIAN" value="1880" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
