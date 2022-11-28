@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1243" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Drop the oldest value in the buffer on overflow, add the new value to the buffer, do not suspend." />
+      <item value="Suspend on buffer overflow." />
       <item value="Creates a flow that produces values from the specified vararg-arguments." />
       <item value="Implementation note: this is just an &quot;optimized&quot; overload of flowOf(vararg) which significantly reduces the footprint of widespread single-value flows." />
       <item value="Creates a flow that produces the given value." />
@@ -54,16 +56,14 @@
       <item value="on Lost" />
       <item value="on Available" />
       <item value="Network Callback" />
-      <item value="Connectivity Manager" />
-      <item value="Provides [ViewModel] of type [VM] from [factory]." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1881" />
+        <entry key="ENGLISH" value="1883" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1881" />
+        <entry key="RUSSIAN" value="1883" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
