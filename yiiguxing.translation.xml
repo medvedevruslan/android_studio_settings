@@ -6,6 +6,8 @@
     <option name="newTranslationDialogY" value="1243" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="UPLOAD MEASURE DATA" />
+      <item value="SEND REQUEST" />
       <item value="ambient Temperature" />
       <item value="the number of values buffered in addition to replay." />
       <item value="Drop the oldest value in the buffer on overflow, add the new value to the buffer, do not suspend." />
@@ -54,16 +56,14 @@
       <item value="Singleton repository for fetching data from remote and storing it in database for offline capability. This is single source of data." />
       <item value="Abstract Activity which binds [ViewModel] [VM] and [ViewBinding] [VB]" />
       <item value="It returns [VB] which is assigned o [mViewBinding] and used in [onCreate]." />
-      <item value="Network utility to detect availability or unavailability of Internet connection" />
-      <item value="on Lost" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1885" />
+        <entry key="ENGLISH" value="1887" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1885" />
+        <entry key="RUSSIAN" value="1887" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
