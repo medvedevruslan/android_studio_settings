@@ -6,6 +6,12 @@
     <option name="newTranslationDialogY" value="1243" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="on Response Upload Measure Data" />
+      <item value="on Response Device Info" />
+      <item value="old Com" />
+      <item value="all Received Command" />
+      <item value="User-defined message code so that the recipient can identify what this message is about. Each Handler has its own name-space for message codes, so you do not need to worry about yours conflicting with other handlers." />
+      <item value="reply Mac Address Or Time" />
       <item value="receive Error" />
       <item value="substring" />
       <item value="Returns the element at the specified position in this list. Params: index – index of the element to return Returns: the element at the specified position in this list Throws: IndexOutOfBoundsException – if the index is out of range (index &lt; 0 || index &gt;= size())" />
@@ -50,21 +56,15 @@
       <item value="instantiated:" />
       <item value="The surrounding layout (@layoutactivity_post_details) did not actually include this layout. Remove tools:showIn=... from the root tag. Tip: Try to refresh the layout." />
       <item value="Horizontal bias" />
-      <item value="constraint" />
-      <item value="layout" />
-      <item value="layout constraint Horizontal bias" />
-      <item value="&lt;!-- Push title to the top of its container, not changing its size. --&gt;" />
-      <item value="Boolean internal attribute to adjust view layout based on system windows such as the status bar. If true, adjusts the padding of this view to leave space for the system windows. Will only take effect if this view is in a non-embedded activity." />
-      <item value="Version 28 (intended for Android Pie and below) is the last version of the legacy support library, so we recommend that you migrate to AndroidX libraries when using Android Q and moving forward. The IDE can help with this: Refactor &gt; Migrate to AndroidX..." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1898" />
+        <entry key="ENGLISH" value="1905" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1898" />
+        <entry key="RUSSIAN" value="1905" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
