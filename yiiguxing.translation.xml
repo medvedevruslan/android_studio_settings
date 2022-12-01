@@ -6,8 +6,8 @@
     <option name="newTranslationDialogY" value="1243" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="substring" />
       <item value="receive Error" />
+      <item value="substring" />
       <item value="Returns the element at the specified position in this list. Params: index – index of the element to return Returns: the element at the specified position in this list Throws: IndexOutOfBoundsException – if the index is out of range (index &lt; 0 || index &gt;= size())" />
       <item value="成功寫出" />
       <item value="Write characteristic without requiring a response by the remote device" />
@@ -60,11 +60,11 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1897" />
+        <entry key="ENGLISH" value="1898" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1897" />
+        <entry key="RUSSIAN" value="1898" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
