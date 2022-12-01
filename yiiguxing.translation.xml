@@ -6,6 +6,7 @@
     <option name="newTranslationDialogY" value="1243" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="access modifiers changed from: protected" />
       <item value="split Task" />
       <item value="parse Task Between Measure And Send Request" />
       <item value="parse Task Beyond Measure And Send Request" />
@@ -55,15 +56,14 @@
       <item value="Retrieves a post with specified [postId]." />
       <item value="This is Single source of data." />
       <item value="capability" />
-      <item value="storing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1890" />
+        <entry key="ENGLISH" value="1891" />
         <entry key="ESTONIAN" value="1" />
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="2" />
-        <entry key="RUSSIAN" value="1890" />
+        <entry key="RUSSIAN" value="1891" />
         <entry key="FILIPINO" value="1" />
         <entry key="FINNISH" value="1" />
         <entry key="DUTCH" value="2" />
