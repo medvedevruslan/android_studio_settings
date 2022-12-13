@@ -1,11 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:" />
+    <option name="mostRecentlyUsed" value="package:com.example.clean_pre_trip_control tag:developerTemp " />
     <option name="nonFavorites">
       <list>
-        <option value="package:" />
         <option value="package:com.example.clean_pre_trip_control level:error " />
         <option value="package:com.example.clean_pre_trip_control tag:developerTemp " />
+        <option value="package:" />
         <option value="package:com.example.clean_pre_trip_control tag:developer" />
         <option value="package:com.example.twodialogfragments tag:developer_async" />
         <option value="package:com.example.clean_pre_trip_control " />
