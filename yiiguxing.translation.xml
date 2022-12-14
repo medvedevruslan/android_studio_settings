@@ -87,6 +87,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="java.lang.IllegalStateException: Fragment TemperatureMeasurementFragment{c370869} (417bbaf8-155e-47f3-9d1a-e3cf97147d16 id=0x7f08018a) is attempting to registerForActivityResult after being created. Fragments must call registerForActivityResult() before they are created (i.e. initialization, onAttach(), or onCreate())." />
+      <item value="java.lang.IllegalStateException: Fragment TemperatureMeasurementFragment{2186cd7} (df17a376-7a92-4016-baeb-8b0ecfee42f8 id=0x7f08018a) is attempting to registerForActivityResult after being created. Fragments must call registerForActivityResult() before they are created (i.e. initialization, onAttach(), or onCreate())." />
+      <item value="java.lang.RuntimeException: Unable to start activity ComponentInfo{com.example.clean_pre_trip_controlcom.example.clean_pre_trip_control.presentation.ui.MainActivity}: java.lang.IllegalStateException: Can't access the Fragment View's LifecycleOwner when getView() is null i.e., before onCreateView() or after onDestroyView()" />
       <item value="java.lang.IllegalStateException: Fragment TemperatureMeasurementFragment{e2e1ffa} (79c8db7e-4e1b-43d6-8134-5c2ee3ac9b75 id=0x7f08018a) is attempting to registerForActivityResult after being created. Fragments must call registerForActivityResult() before they are created (i.e. initialization, onAttach(), or onCreate())." />
       <item value="view Model" />
       <item value="Fragment TemperatureMeasurementFragment{e2e1ffa} (79c8db7e-4e1b-43d6-8134-5c2ee3ac9b75 id=0x7f08018a) is attempting to registerForActivityResult after being created. Fragments must call registerForActivityResult() before they are created (i.e. initialization, onAttach(), or onCreate())." />
@@ -96,8 +99,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="9" />
-        <entry key="RUSSIAN" value="9" />
+        <entry key="ENGLISH" value="12" />
+        <entry key="RUSSIAN" value="12" />
       </map>
     </option>
   </component>
