@@ -87,6 +87,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="java.lang.IllegalStateException: Fragment TemperatureMeasurementFragment{e2e1ffa} (79c8db7e-4e1b-43d6-8134-5c2ee3ac9b75 id=0x7f08018a) is attempting to registerForActivityResult after being created. Fragments must call registerForActivityResult() before they are created (i.e. initialization, onAttach(), or onCreate())." />
+      <item value="view Model" />
       <item value="Fragment TemperatureMeasurementFragment{e2e1ffa} (79c8db7e-4e1b-43d6-8134-5c2ee3ac9b75 id=0x7f08018a) is attempting to registerForActivityResult after being created. Fragments must call registerForActivityResult() before they are created (i.e. initialization, onAttach(), or onCreate())." />
       <item value="reply Upload Measure Data" />
       <item value="CMD REPLY RESULT SUCCESS" />
@@ -94,8 +96,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="6" />
-        <entry key="RUSSIAN" value="6" />
+        <entry key="ENGLISH" value="9" />
+        <entry key="RUSSIAN" value="9" />
       </map>
     </option>
   </component>
