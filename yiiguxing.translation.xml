@@ -87,6 +87,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="this Ref" />
       <item value="internal" />
       <item value="Some permissions are required to do the task" />
       <item value="java.lang.IllegalStateException: Fragment TemperatureMeasurementFragment{c370869} (417bbaf8-155e-47f3-9d1a-e3cf97147d16 id=0x7f08018a) is attempting to registerForActivityResult after being created. Fragments must call registerForActivityResult() before they are created (i.e. initialization, onAttach(), or onCreate())." />
@@ -101,8 +102,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="14" />
-        <entry key="RUSSIAN" value="14" />
+        <entry key="ENGLISH" value="15" />
+        <entry key="RUSSIAN" value="15" />
       </map>
     </option>
   </component>
