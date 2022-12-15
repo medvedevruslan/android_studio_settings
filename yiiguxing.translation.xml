@@ -87,6 +87,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Failure Ble" />
+      <item value="new Instance" />
       <item value="this Ref" />
       <item value="internal" />
       <item value="Some permissions are required to do the task" />
@@ -102,8 +104,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="15" />
-        <entry key="RUSSIAN" value="15" />
+        <entry key="ENGLISH" value="17" />
+        <entry key="RUSSIAN" value="17" />
       </map>
     </option>
   </component>
