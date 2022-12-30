@@ -87,6 +87,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Returns the number of elements in the array." />
       <item value="split Task" />
       <item value="could not find callback wrapper" />
       <item value="java.lang.ClassCastException: com.example.clean_pre_trip_control.domain.models.MeasurementValueTemperatureMeasurementValue cannot be cast to com.example.clean_pre_trip_control.domain.models.MeasurementValuePressureMeasurementValue" />
@@ -114,8 +115,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="27" />
-        <entry key="RUSSIAN" value="27" />
+        <entry key="ENGLISH" value="28" />
+        <entry key="RUSSIAN" value="28" />
       </map>
     </option>
   </component>
