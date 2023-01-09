@@ -83,10 +83,11 @@
     <option name="lastTrimTime" value="1669623435467" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1672396125044" />
+    <option name="lastTrimTime" value="1673252329596" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="wrong" />
       <item value="Returns the number of elements in the array." />
       <item value="split Task" />
       <item value="could not find callback wrapper" />
@@ -115,8 +116,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="28" />
-        <entry key="RUSSIAN" value="28" />
+        <entry key="ENGLISH" value="30" />
+        <entry key="RUSSIAN" value="30" />
       </map>
     </option>
   </component>
