@@ -1,8 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:com.example.twodialogfragments " />
+    <option name="mostRecentlyUsed" value="package:ru.kamaz.linear_pre_trip_control " />
     <option name="nonFavorites">
       <list>
+        <option value="package:ru.kamaz.linear_pre_trip_control " />
+        <option value="package:дш" />
         <option value="package:mine" />
         <option value="package:com.example.twodialogfragments " />
         <option value="package:com.example.clean_pre_trip_control " />
@@ -21,8 +23,6 @@
         <option value="package:com.raywenderlich.android.cryptostonksfivethousand habr" />
         <option value="package:com.raywenderlich.android.cryptostonksfivethousand " />
         <option value="package: com.example.clean_pre_trip_control tag:developer" />
-        <option value="package: com.example.clean_pre_trip_control " />
-        <option value="develo" />
       </list>
     </option>
   </component>
