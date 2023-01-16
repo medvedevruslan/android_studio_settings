@@ -83,10 +83,12 @@
     <option name="lastTrimTime" value="1669623435467" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1673252329596" />
+    <option name="lastTrimTime" value="1673857552628" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="COMPLAINT" />
+      <item value="assembly List" />
       <item value=".FragmentInstantiationException: Unable to instantiate fragment com.example.cupcake.Sta rtFragment: make sure class name exists" />
       <item value="desired" />
       <item value="wrong" />
@@ -118,8 +120,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="32" />
-        <entry key="RUSSIAN" value="32" />
+        <entry key="ENGLISH" value="34" />
+        <entry key="RUSSIAN" value="34" />
       </map>
     </option>
   </component>
