@@ -87,6 +87,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="This property can be accessed only after this Fragment is attached i.e., after Fragment.onAttach(), and access prior to that will result in IllegalArgumentException." />
       <item value="on Response" />
       <item value="Chain validation failed" />
       <item value="Service ru.kamaz.linear_pre_trip_control.template.bluetooth_le.BluetoothLEService has leaked IntentReceiver ru.kamaz.linear_pre_trip_control.template.bluetooth_le.BluetoothLEServicebroadcastReceiver1@5c5c9d2 that was originally registered here. Are you missing a call to unregisterReceiver()? android.app.IntentReceiverLeaked: Service ru.kamaz.linear_pre_trip_control.template.bluetooth_le.BluetoothLEService has leaked IntentReceiver ru.kamaz.linear_pre_trip_control.template.bluetooth_le.BluetoothLEServicebroadcastReceiver1@5c5c9d2 that was originally registered here. Are you missing a call to unregisterReceiver()?" />
@@ -125,8 +126,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="40" />
-        <entry key="RUSSIAN" value="40" />
+        <entry key="ENGLISH" value="41" />
+        <entry key="RUSSIAN" value="41" />
       </map>
     </option>
   </component>
