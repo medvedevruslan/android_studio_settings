@@ -87,6 +87,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Caused by: org.koin.core.error.NoBeanDefFoundException: |- No definition found for class:'com.example.clean_pre_trip_control.domain.usecases.results.SendAllTestResultsToServerUseCase'. Check your definitions!" />
       <item value="p_control.presentation.ui.ble.pressure.PressureService has leaked IntentReceiver com.example.clean_pre_trip_control.presentation.ui.ble.BleServicebluetoothEnableListener1@63fb866 that was originally registered here. Are you missing a call to unregisterReceiver()? android.app.IntentReceiverLeaked: Service com.example.clean_pre_trip_control.presentation.ui.ble.pressure.PressureService has leaked IntentReceiver com.example.clean_pre_trip_control.presentation.ui.ble.BleServicebluetoothEnableListener1@63fb866 that was originally registered here. Are you missing a call to unregisterReceiver()?" />
       <item value="ThermometerService has leaked IntentReceiver com.example.clean_pre_trip_control.presentation.ui.ble.BleServicebluetoothEnableListener1@b901c9e that was originally registered here. Are you missing a call to unregisterReceiver()? android.app.IntentReceiverLeaked: Service com.example.clean_pre_trip_control.presentation.ui.ble.thermometer.ThermometerService has leaked IntentReceiver com.example.clean_pre_trip_control.presentation.ui.ble.BleServicebluetoothEnableListener1@b901c9e that was originally registered here. Are you missing a call to unregisterReceiver()?" />
       <item value="qualifier" />
@@ -135,8 +136,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="51" />
-        <entry key="RUSSIAN" value="51" />
+        <entry key="ENGLISH" value="52" />
+        <entry key="RUSSIAN" value="52" />
       </map>
     </option>
   </component>
