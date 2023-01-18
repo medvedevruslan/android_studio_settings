@@ -87,6 +87,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="or later" />
       <item value="- Queue for values in BleCharacteristicInteractor.kt Handler replaced with Job;" />
       <item value="&quot;bluetoothGatt is already null" />
       <item value="This property can be accessed only after this Fragment is attached i.e., after Fragment.onAttach(), and access prior to that will result in IllegalArgumentException." />
@@ -128,8 +129,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="44" />
-        <entry key="RUSSIAN" value="44" />
+        <entry key="ENGLISH" value="45" />
+        <entry key="RUSSIAN" value="45" />
       </map>
     </option>
   </component>
