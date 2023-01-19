@@ -87,6 +87,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Launches and runs the given block when the [Lifecycle] controlling this [LifecycleCoroutineScope] is at least in [Lifecycle.State.STARTED] state. The returned [Job] will be cancelled when the [Lifecycle] is destroyed. Caution: This API is not recommended to use as it can lead to wasted resources in some cases. Please, use the [Lifecycle.repeatOnLifecycle] API instead. This API will be removed in a future release." />
       <item value="current Checkup Dao" />
       <item value="Caused by: org.koin.core.error.NoBeanDefFoundException: |- No definition found for class:'com.example.clean_pre_trip_control.domain.usecases.results.SendAllTestResultsToServerUseCase'. Check your definitions!" />
       <item value="p_control.presentation.ui.ble.pressure.PressureService has leaked IntentReceiver com.example.clean_pre_trip_control.presentation.ui.ble.BleServicebluetoothEnableListener1@63fb866 that was originally registered here. Are you missing a call to unregisterReceiver()? android.app.IntentReceiverLeaked: Service com.example.clean_pre_trip_control.presentation.ui.ble.pressure.PressureService has leaked IntentReceiver com.example.clean_pre_trip_control.presentation.ui.ble.BleServicebluetoothEnableListener1@63fb866 that was originally registered here. Are you missing a call to unregisterReceiver()?" />
@@ -137,8 +138,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="53" />
-        <entry key="RUSSIAN" value="53" />
+        <entry key="ENGLISH" value="54" />
+        <entry key="RUSSIAN" value="54" />
       </map>
     </option>
   </component>
