@@ -87,6 +87,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Selector for {@link stopForeground(int)}: if set, the notification previously supplied to {@link startForeground} will be detached from the service's lifecycle. The notification will remain shown even after the service is stopped and destroyed." />
       <item value="regular State" />
       <item value="Sets the callback that will be called if a key is dispatched to the dialog." />
       <item value="Key code constant: Back key." />
@@ -136,12 +137,11 @@
       <item value="new Instance" />
       <item value="this Ref" />
       <item value="internal" />
-      <item value="Some permissions are required to do the task" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="70" />
-        <entry key="RUSSIAN" value="70" />
+        <entry key="ENGLISH" value="71" />
+        <entry key="RUSSIAN" value="71" />
       </map>
     </option>
   </component>
