@@ -87,6 +87,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="regular State" />
       <item value="Sets the callback that will be called if a key is dispatched to the dialog." />
       <item value="Key code constant: Back key." />
       <item value="{@link getAction} value: the key has been pressed down." />
@@ -136,12 +137,11 @@
       <item value="this Ref" />
       <item value="internal" />
       <item value="Some permissions are required to do the task" />
-      <item value="java.lang.IllegalStateException: Fragment TemperatureMeasurementFragment{c370869} (417bbaf8-155e-47f3-9d1a-e3cf97147d16 id=0x7f08018a) is attempting to registerForActivityResult after being created. Fragments must call registerForActivityResult() before they are created (i.e. initialization, onAttach(), or onCreate())." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="69" />
-        <entry key="RUSSIAN" value="69" />
+        <entry key="ENGLISH" value="70" />
+        <entry key="RUSSIAN" value="70" />
       </map>
     </option>
   </component>
