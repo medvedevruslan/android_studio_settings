@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:developer_life" />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.example.clean_pre_trip_control tag:developer" />
         <option value="package:mine tag:developer_life" />
         <option value="package:mine tag:developer" />
         <option value="package:com.example.clean_pre_trip_control " />
@@ -10,7 +11,6 @@
         <option value="package:дш" />
         <option value="package:mine" />
         <option value="package:com.example.twodialogfragments " />
-        <option value="package:com.example.clean_pre_trip_control tag:developer" />
         <option value="package:com.example.clean_pre_trip_control level:error " />
         <option value="package:com.example.clean_pre_trip_control tag:developerTemp " />
         <option value="package:" />
