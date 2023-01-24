@@ -87,6 +87,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="@param qualifier - bean canonicalName optional" />
+      <item value="@param clazz - dependency class" />
+      <item value="importance" />
       <item value="invoke" />
       <item value="uuid Insecure" />
       <item value="Selector for {@link stopForeground(int)}: if set, the notification previously supplied to {@link startForeground} will be detached from the service's lifecycle. The notification will remain shown even after the service is stopped and destroyed." />
@@ -134,14 +137,11 @@
       <item value="Flag indicating that the created PendingIntent should be immutable. This means that the additional intent argument passed to the send methods to fill in unpopulated properties of this intent will be ignored. FLAG_IMMUTABLE only limits the ability to alter the semantics of the intent that is sent by send by the invoker of send. The creator of the PendingIntent can always update the PendingIntent itself via FLAG_UPDATE_CURRENT." />
       <item value="Supply a {@link PendingIntent} to send when the notification is clicked. If you do not supply an intent, you can now add PendingIntents to individual views to be launched when clicked by calling {@link RemoteViewssetOnClickPendingIntent RemoteViews.setOnClickPendingIntent(int,PendingIntent)}. Be sure to read {@link NotificationcontentIntent Notification.contentIntent} for how to correctly use this." />
       <item value="Unknown Failure" />
-      <item value="Display the dialog, adding the fragment to the given FragmentManager. This is a convenience for explicitly creating a transaction, adding the fragment to it with the given tag, and committing it. This does not add the transaction to the fragment back stack. When the fragment is dismissed, a new transaction will be executed to remove it from the activity. Params: manager – The FragmentManager this fragment will be added to. tag – The tag for this fragment, as per FragmentTransaction.add." />
-      <item value="Failure Ble" />
-      <item value="new Instance" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="73" />
-        <entry key="RUSSIAN" value="73" />
+        <entry key="ENGLISH" value="77" />
+        <entry key="RUSSIAN" value="77" />
       </map>
     </option>
   </component>
