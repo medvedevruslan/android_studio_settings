@@ -87,6 +87,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Name shadowed: status" />
       <item value="@param qualifier - bean canonicalName optional" />
       <item value="@param clazz - dependency class" />
       <item value="importance" />
@@ -136,12 +137,11 @@
       <item value="pop Up To Inclusive" />
       <item value="Flag indicating that the created PendingIntent should be immutable. This means that the additional intent argument passed to the send methods to fill in unpopulated properties of this intent will be ignored. FLAG_IMMUTABLE only limits the ability to alter the semantics of the intent that is sent by send by the invoker of send. The creator of the PendingIntent can always update the PendingIntent itself via FLAG_UPDATE_CURRENT." />
       <item value="Supply a {@link PendingIntent} to send when the notification is clicked. If you do not supply an intent, you can now add PendingIntents to individual views to be launched when clicked by calling {@link RemoteViewssetOnClickPendingIntent RemoteViews.setOnClickPendingIntent(int,PendingIntent)}. Be sure to read {@link NotificationcontentIntent Notification.contentIntent} for how to correctly use this." />
-      <item value="Unknown Failure" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="ENGLISH" value="77" />
-        <entry key="RUSSIAN" value="77" />
+        <entry key="RUSSIAN" value="78" />
       </map>
     </option>
   </component>
