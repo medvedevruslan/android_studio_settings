@@ -137,6 +137,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="dev.polek.adbwifi">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="idea.plugin.protoeditor">
           <value>
             <PluginData />
