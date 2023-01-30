@@ -83,14 +83,18 @@
     <option name="lastTrimTime" value="1669623435467" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1674549427372" />
+    <option name="lastTrimTime" value="1675056542635" />
   </component>
   <component name="Translation.Settings">
-    <option name="primaryLanguage" value="ENGLISH" />
+    <option name="primaryLanguage" value="RUSSIAN" />
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Call this when your activity is done and should be closed. The ActivityResult is propagated back to whoever launched you via onActivityResult()." />
+      <item value="propagated back" />
+      <item value="propagated" />
+      <item value="Call this when your activity is done and should be closed. The ActivityResult is propagated back to whoever launched you via onActivityResult" />
       <item value="The following untracked working tree files would be overwritten by merge:" />
       <item value="Please move or remove them before you merge." />
       <item value="Interactor" />
@@ -137,15 +141,11 @@
       <item value="assembly List" />
       <item value=".FragmentInstantiationException: Unable to instantiate fragment com.example.cupcake.Sta rtFragment: make sure class name exists" />
       <item value="desired" />
-      <item value="wrong" />
-      <item value="Returns the number of elements in the array." />
-      <item value="split Task" />
-      <item value="could not find callback wrapper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="85" />
-        <entry key="RUSSIAN" value="84" />
+        <entry key="ENGLISH" value="90" />
+        <entry key="RUSSIAN" value="89" />
       </map>
     </option>
   </component>
