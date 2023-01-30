@@ -91,6 +91,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="get Bluetooth State Flow Getter Use Case" />
       <item value="The LifecycleOwner which controls when the callback should be invoked" />
       <item value="Retrieve the {@link OnBackPressedDispatcher} that will be triggered when {@link onBackPressed()} is called. @return The {@link OnBackPressedDispatcher} associated with this ComponentActivity." />
       <item value="custom Behavior On Back Pressed Callback" />
@@ -140,12 +141,11 @@
       <item value="Service ru.kamaz.linear_pre_trip_control.template.bluetooth_le.BluetoothLEService has leaked IntentReceiver ru.kamaz.linear_pre_trip_control.template.bluetooth_le.BluetoothLEServicebroadcastReceiver1@5c5c9d2 that was originally registered here. Are you missing a call to unregisterReceiver()? android.app.IntentReceiverLeaked: Service ru.kamaz.linear_pre_trip_control.template.bluetooth_le.BluetoothLEService has leaked IntentReceiver ru.kamaz.linear_pre_trip_control.template.bluetooth_le.BluetoothLEServicebroadcastReceiver1@5c5c9d2 that was originally registered here. Are you missing a call to unregisterReceiver()?" />
       <item value="noinspection ExpiredTargetSdkVersion" />
       <item value="Laments" />
-      <item value="COMPLAINT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="95" />
-        <entry key="RUSSIAN" value="94" />
+        <entry key="ENGLISH" value="96" />
+        <entry key="RUSSIAN" value="95" />
       </map>
     </option>
   </component>
