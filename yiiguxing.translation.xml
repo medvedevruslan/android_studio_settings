@@ -91,6 +91,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Unable to instantiate fragment com.example.clean_pre_trip_control.presentation.ui.main.view.MainFragment: calling Fragment constructor caused an exception" />
+      <item value="calling Fragment constructor caused an exception" />
+      <item value="not attached to a context." />
       <item value="get Bluetooth State Flow Getter Use Case" />
       <item value="The LifecycleOwner which controls when the callback should be invoked" />
       <item value="Retrieve the {@link OnBackPressedDispatcher} that will be triggered when {@link onBackPressed()} is called. @return The {@link OnBackPressedDispatcher} associated with this ComponentActivity." />
@@ -138,14 +141,11 @@
       <item value="This property can be accessed only after this Fragment is attached i.e., after Fragment.onAttach(), and access prior to that will result in IllegalArgumentException." />
       <item value="on Response" />
       <item value="Chain validation failed" />
-      <item value="Service ru.kamaz.linear_pre_trip_control.template.bluetooth_le.BluetoothLEService has leaked IntentReceiver ru.kamaz.linear_pre_trip_control.template.bluetooth_le.BluetoothLEServicebroadcastReceiver1@5c5c9d2 that was originally registered here. Are you missing a call to unregisterReceiver()? android.app.IntentReceiverLeaked: Service ru.kamaz.linear_pre_trip_control.template.bluetooth_le.BluetoothLEService has leaked IntentReceiver ru.kamaz.linear_pre_trip_control.template.bluetooth_le.BluetoothLEServicebroadcastReceiver1@5c5c9d2 that was originally registered here. Are you missing a call to unregisterReceiver()?" />
-      <item value="noinspection ExpiredTargetSdkVersion" />
-      <item value="Laments" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="96" />
-        <entry key="RUSSIAN" value="95" />
+        <entry key="ENGLISH" value="99" />
+        <entry key="RUSSIAN" value="98" />
       </map>
     </option>
   </component>
