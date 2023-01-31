@@ -91,6 +91,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Fragment MainFragment{b8f122d} (b1e7a1df-26a9-44f7-a954-57fb3178d829) has not been attached yet." />
       <item value="not attached to a context." />
       <item value="FragmentInstantiationException: Unable to instantiate fragment com.example.clean_pre_trip_control.presentation.ui.main.view.MainFragment: calling Fragment constructor caused an exception" />
       <item value="Unable to instantiate fragment com.example.clean_pre_trip_control.presentation.ui.main.view.MainFragment: calling Fragment constructor caused an exception" />
@@ -140,12 +141,11 @@
       <item value="- Queue for values in BleCharacteristicInteractor.kt Handler replaced with Job;" />
       <item value="&quot;bluetoothGatt is already null" />
       <item value="This property can be accessed only after this Fragment is attached i.e., after Fragment.onAttach(), and access prior to that will result in IllegalArgumentException." />
-      <item value="on Response" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="101" />
-        <entry key="RUSSIAN" value="100" />
+        <entry key="ENGLISH" value="102" />
+        <entry key="RUSSIAN" value="101" />
       </map>
     </option>
   </component>
