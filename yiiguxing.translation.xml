@@ -91,6 +91,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ambient Temperature" />
       <item value="Batch" />
       <item value="on Batch Scan Results" />
       <item value="custom Dialog For Behavior On Back Pressed Callback" />
@@ -140,12 +141,11 @@
       <item value="qualifier" />
       <item value="definition" />
       <item value="org.koin.core.error.NoBeanDefFoundException: |- No definition found for class:'com.example.clean_pre_trip_control.domain.usecases.measurement.CheckTestFinalOnDbUseCaseImpl'. Check your definitions!" />
-      <item value="No definition found for class:'com.example.clean_pre_trip_control.domain.usecases.measurement.CheckTestFinalOnDbUseCaseImpl'. Check your definitions!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="106" />
-        <entry key="RUSSIAN" value="105" />
+        <entry key="ENGLISH" value="107" />
+        <entry key="RUSSIAN" value="106" />
       </map>
     </option>
   </component>
