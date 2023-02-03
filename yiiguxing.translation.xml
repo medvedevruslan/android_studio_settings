@@ -91,6 +91,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="BluetoothLeService Attempting to start service discovery" />
       <item value="post On Main Thread" />
       <item value="Execution Listener" />
       <item value="Asset Pack Extraction Service" />
@@ -140,12 +141,11 @@
       <item value="{@link getAction} value: the key has been pressed down." />
       <item value="dispatched" />
       <item value="response" />
-      <item value="Wrapper" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="120" />
-        <entry key="RUSSIAN" value="119" />
+        <entry key="ENGLISH" value="121" />
+        <entry key="RUSSIAN" value="120" />
       </map>
     </option>
   </component>
