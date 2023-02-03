@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine tag:developerTemp " />
+    <option name="mostRecentlyUsed" value="package:mine tag:developer" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:developer" />
         <option value="package:mine tag:developerTemp " />
         <option value="package:com.example.clean_pre_trip_control tag:developer" />
         <option value="package:mine tag:developer_life" />
-        <option value="package:mine tag:developer" />
         <option value="package:com.example.clean_pre_trip_control " />
         <option value="package:ru.kamaz.linear_pre_trip_control " />
         <option value="package:дш" />
