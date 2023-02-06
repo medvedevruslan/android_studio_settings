@@ -91,11 +91,11 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="manufacturer Specific Data" />
       <item value="register" />
       <item value="register Broadcast" />
       <item value="UNDEFINED VALUE STRING" />
       <item value="Device Control Callback" />
-      <item value="manufacturer Specific Data" />
       <item value="on Batch Scan Results" />
       <item value="refresh All About Work With Device" />
       <item value="BluetoothLeService Attempting to start service discovery" />
@@ -144,8 +144,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="129" />
-        <entry key="RUSSIAN" value="128" />
+        <entry key="ENGLISH" value="130" />
+        <entry key="RUSSIAN" value="129" />
       </map>
     </option>
   </component>
