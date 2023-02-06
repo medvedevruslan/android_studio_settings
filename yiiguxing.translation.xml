@@ -91,6 +91,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="An iterator over a collection or another entity that can be represented as a sequence of elements. Allows to sequentially access the elements." />
+      <item value="iterator" />
       <item value="manufacturer Specific Data" />
       <item value="register" />
       <item value="register Broadcast" />
@@ -139,13 +141,11 @@
       <item value="@param clazz - dependency class" />
       <item value="importance" />
       <item value="invoke" />
-      <item value="uuid Insecure" />
-      <item value="Selector for {@link stopForeground(int)}: if set, the notification previously supplied to {@link startForeground} will be detached from the service's lifecycle. The notification will remain shown even after the service is stopped and destroyed." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="130" />
-        <entry key="RUSSIAN" value="129" />
+        <entry key="ENGLISH" value="132" />
+        <entry key="RUSSIAN" value="131" />
       </map>
     </option>
   </component>
