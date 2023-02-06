@@ -91,6 +91,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="NIBP METRO" />
+      <item value="ALCO CONCENTRATION CALIBRATION" />
       <item value="Device found, use them" />
       <item value="get Serial Number From Integer Parts" />
       <item value="low Part" />
@@ -139,13 +141,11 @@
       <item value="Interactor" />
       <item value="The property annotated with IgnoredOnParcel will not be stored into parcel." />
       <item value="Unable to instantiate fragment com.example.clean_pre_trip_control.presentation.ui.ble.thermometer.TemperatureMeasurementFragment: calling Fragment constructor caused an exception" />
-      <item value=".TemperatureMeasurementFragment: calling Fragment constructor caused an exception" />
-      <item value="Name shadowed: status" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="136" />
-        <entry key="RUSSIAN" value="135" />
+        <entry key="ENGLISH" value="137" />
+        <entry key="RUSSIAN" value="137" />
       </map>
     </option>
   </component>
