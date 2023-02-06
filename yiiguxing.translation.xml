@@ -91,6 +91,16 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="handle On Smart Temperature Check Box Click" />
+      <item value="get Data Addon Folder" />
+      <item value="addon" />
+      <item value="Ignore save user settings to empty addon" />
+      <item value="is Firmware Use Part Control Table Calibration Format" />
+      <item value="is Firmware Support Ping Mode" />
+      <item value="is Firmware Support Encryption" />
+      <item value="is Temperature Under Zero Measurement Device" />
+      <item value="firm" />
+      <item value="UNDEFINED VALUE STRING" />
       <item value="NIBP METRO" />
       <item value="ALCO CONCENTRATION CALIBRATION" />
       <item value="Device found, use them" />
@@ -102,7 +112,6 @@
       <item value="manufacturer Specific Data" />
       <item value="register" />
       <item value="register Broadcast" />
-      <item value="UNDEFINED VALUE STRING" />
       <item value="Device Control Callback" />
       <item value="on Batch Scan Results" />
       <item value="refresh All About Work With Device" />
@@ -132,20 +141,11 @@
       <item value="The LifecycleOwner which controls when the callback should be invoked" />
       <item value="Retrieve the {@link OnBackPressedDispatcher} that will be triggered when {@link onBackPressed()} is called. @return The {@link OnBackPressedDispatcher} associated with this ComponentActivity." />
       <item value="custom Behavior On Back Pressed Callback" />
-      <item value="Call this when your activity is done and should be closed. The ActivityResult is propagated back to whoever launched you via onActivityResult()." />
-      <item value="propagated back" />
-      <item value="propagated" />
-      <item value="Call this when your activity is done and should be closed. The ActivityResult is propagated back to whoever launched you via onActivityResult" />
-      <item value="The following untracked working tree files would be overwritten by merge:" />
-      <item value="Please move or remove them before you merge." />
-      <item value="Interactor" />
-      <item value="The property annotated with IgnoredOnParcel will not be stored into parcel." />
-      <item value="Unable to instantiate fragment com.example.clean_pre_trip_control.presentation.ui.ble.thermometer.TemperatureMeasurementFragment: calling Fragment constructor caused an exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="137" />
-        <entry key="RUSSIAN" value="137" />
+        <entry key="ENGLISH" value="147" />
+        <entry key="RUSSIAN" value="147" />
       </map>
     </option>
   </component>
