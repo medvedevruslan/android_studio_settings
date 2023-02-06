@@ -91,6 +91,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Device Control Callback" />
+      <item value="manufacturer Specific Data" />
       <item value="on Batch Scan Results" />
       <item value="refresh All About Work With Device" />
       <item value="BluetoothLeService Attempting to start service discovery" />
@@ -139,13 +141,11 @@
       <item value="regular State" />
       <item value="Sets the callback that will be called if a key is dispatched to the dialog." />
       <item value="Key code constant: Back key." />
-      <item value="{@link getAction} value: the key has been pressed down." />
-      <item value="dispatched" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="123" />
-        <entry key="RUSSIAN" value="122" />
+        <entry key="ENGLISH" value="125" />
+        <entry key="RUSSIAN" value="124" />
       </map>
     </option>
   </component>
