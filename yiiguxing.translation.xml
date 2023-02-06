@@ -83,7 +83,7 @@
     <option name="lastTrimTime" value="1669623435467" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1675056542635" />
+    <option name="lastTrimTime" value="1675658991517" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="RUSSIAN" />
@@ -91,6 +91,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="on Batch Scan Results" />
       <item value="refresh All About Work With Device" />
       <item value="BluetoothLeService Attempting to start service discovery" />
       <item value="post On Main Thread" />
@@ -107,7 +108,6 @@
       <item value="user Id" />
       <item value="ambient Temperature" />
       <item value="Batch" />
-      <item value="on Batch Scan Results" />
       <item value="custom Dialog For Behavior On Back Pressed Callback" />
       <item value="custom Dialog Behavior On Back Pressed Callback" />
       <item value="Fragment MainFragment{b8f122d} (b1e7a1df-26a9-44f7-a954-57fb3178d829) has not been attached yet." />
@@ -144,8 +144,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="122" />
-        <entry key="RUSSIAN" value="121" />
+        <entry key="ENGLISH" value="123" />
+        <entry key="RUSSIAN" value="122" />
       </map>
     </option>
   </component>
