@@ -91,6 +91,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="get Serial Number From Integer Parts" />
+      <item value="low Part" />
+      <item value="C aushort Crc 16 Table" />
       <item value="An iterator over a collection or another entity that can be represented as a sequence of elements. Allows to sequentially access the elements." />
       <item value="iterator" />
       <item value="manufacturer Specific Data" />
@@ -138,14 +141,11 @@
       <item value=".TemperatureMeasurementFragment: calling Fragment constructor caused an exception" />
       <item value="Name shadowed: status" />
       <item value="@param qualifier - bean canonicalName optional" />
-      <item value="@param clazz - dependency class" />
-      <item value="importance" />
-      <item value="invoke" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="132" />
-        <entry key="RUSSIAN" value="131" />
+        <entry key="ENGLISH" value="135" />
+        <entry key="RUSSIAN" value="134" />
       </map>
     </option>
   </component>
