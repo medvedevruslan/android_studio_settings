@@ -91,6 +91,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="found device" />
       <item value="pop Up To Inclusive" />
       <item value="get Serial Number From Integer Parts" />
       <item value="sparse Bytes" />
@@ -140,12 +141,11 @@
       <item value="check Bluetooth Is Enabled" />
       <item value="previous Id" />
       <item value="Set Test To Checkup In Db Use Case" />
-      <item value="user Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="163" />
-        <entry key="RUSSIAN" value="163" />
+        <entry key="ENGLISH" value="164" />
+        <entry key="RUSSIAN" value="164" />
       </map>
     </option>
   </component>
