@@ -91,6 +91,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="UNDEFINED VALUE STRING" />
+      <item value="Device Item" />
       <item value="Can't wrap trycatch for region:" />
       <item value="Readerthread" />
       <item value="DEVICE WORK DELAY" />
@@ -109,7 +111,6 @@
       <item value="is Firmware Support Encryption" />
       <item value="is Temperature Under Zero Measurement Device" />
       <item value="firm" />
-      <item value="UNDEFINED VALUE STRING" />
       <item value="NIBP METRO" />
       <item value="ALCO CONCENTRATION CALIBRATION" />
       <item value="Device found, use them" />
@@ -140,12 +141,11 @@
       <item value="ambient Temperature" />
       <item value="Batch" />
       <item value="custom Dialog For Behavior On Back Pressed Callback" />
-      <item value="custom Dialog Behavior On Back Pressed Callback" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="157" />
-        <entry key="RUSSIAN" value="157" />
+        <entry key="ENGLISH" value="159" />
+        <entry key="RUSSIAN" value="159" />
       </map>
     </option>
   </component>
