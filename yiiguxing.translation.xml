@@ -91,6 +91,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ACTION BLUETOOTH UNAVAILABLE" />
+      <item value="Unable to initialize BluetoothManager" />
       <item value="update Last Data Received Time" />
       <item value="DEVICE WORK DELAY" />
       <item value="found device" />
@@ -139,13 +141,11 @@
       <item value="BADGE COUNT READ" />
       <item value="WAKE LOCK" />
       <item value="check Bluetooth Is Enable" />
-      <item value="check Bluetooth Is Enabled" />
-      <item value="previous Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="166" />
-        <entry key="RUSSIAN" value="166" />
+        <entry key="ENGLISH" value="168" />
+        <entry key="RUSSIAN" value="168" />
       </map>
     </option>
   </component>
