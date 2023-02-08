@@ -91,6 +91,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="update Last Data Received Time" />
+      <item value="DEVICE WORK DELAY" />
       <item value="found device" />
       <item value="pop Up To Inclusive" />
       <item value="get Serial Number From Integer Parts" />
@@ -100,7 +102,6 @@
       <item value="Device Item" />
       <item value="Can't wrap trycatch for region:" />
       <item value="Readerthread" />
-      <item value="DEVICE WORK DELAY" />
       <item value="Returns the scan record, which is a combination of advertisement and scan response." />
       <item value="add Demo Le Devices" />
       <item value="m Device Item Selected" />
@@ -140,12 +141,11 @@
       <item value="check Bluetooth Is Enable" />
       <item value="check Bluetooth Is Enabled" />
       <item value="previous Id" />
-      <item value="Set Test To Checkup In Db Use Case" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="164" />
-        <entry key="RUSSIAN" value="164" />
+        <entry key="ENGLISH" value="166" />
+        <entry key="RUSSIAN" value="166" />
       </map>
     </option>
   </component>
