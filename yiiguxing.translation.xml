@@ -91,6 +91,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="to Display Formatted String" />
+      <item value="Failed Of Success Data" />
+      <item value="set Test To Checkup In Db Use Case" />
       <item value="UNDEFINED VALUE STRING" />
       <item value="ALCOHOLE SCALE" />
       <item value="ACTION BLUETOOTH UNAVAILABLE" />
@@ -138,14 +141,11 @@
       <item value="Execution Listener" />
       <item value="Asset Pack Extraction Service" />
       <item value="Message Digest" />
-      <item value="provider" />
-      <item value="BADGE COUNT READ" />
-      <item value="WAKE LOCK" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="170" />
-        <entry key="RUSSIAN" value="170" />
+        <entry key="ENGLISH" value="173" />
+        <entry key="RUSSIAN" value="173" />
       </map>
     </option>
   </component>
