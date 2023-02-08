@@ -91,6 +91,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="UNDEFINED VALUE STRING" />
+      <item value="ALCOHOLE SCALE" />
       <item value="ACTION BLUETOOTH UNAVAILABLE" />
       <item value="Unable to initialize BluetoothManager" />
       <item value="update Last Data Received Time" />
@@ -100,7 +102,6 @@
       <item value="get Serial Number From Integer Parts" />
       <item value="sparse Bytes" />
       <item value="break" />
-      <item value="UNDEFINED VALUE STRING" />
       <item value="Device Item" />
       <item value="Can't wrap trycatch for region:" />
       <item value="Readerthread" />
@@ -140,12 +141,11 @@
       <item value="provider" />
       <item value="BADGE COUNT READ" />
       <item value="WAKE LOCK" />
-      <item value="check Bluetooth Is Enable" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="168" />
-        <entry key="RUSSIAN" value="168" />
+        <entry key="ENGLISH" value="170" />
+        <entry key="RUSSIAN" value="170" />
       </map>
     </option>
   </component>
