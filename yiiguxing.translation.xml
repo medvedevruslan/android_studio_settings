@@ -91,6 +91,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Fails to start scan as app cannot be registered." />
       <item value="The maximum value in the range (inclusive)." />
       <item value="r: illegal start of expression" />
       <item value="error: illegal start of expression private static final androidx.annotation.FloatRange ALLOW_RANGE_OF_ALCOHOL_VALUES = @androidx.annotation.FloatRange(from = 0.0, to = 0.16);" />
@@ -140,12 +141,11 @@
       <item value="An iterator over a collection or another entity that can be represented as a sequence of elements. Allows to sequentially access the elements." />
       <item value="iterator" />
       <item value="manufacturer Specific Data" />
-      <item value="register" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="182" />
-        <entry key="RUSSIAN" value="182" />
+        <entry key="ENGLISH" value="183" />
+        <entry key="RUSSIAN" value="183" />
       </map>
     </option>
   </component>
