@@ -91,6 +91,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Encapsulates all build type configurations for this project. For more information about the properties you can configure in this block, see BuildType" />
       <item value="Unstable Api Usage" />
       <item value="signing Configs" />
       <item value="as a SigningConfig with that name already exists" />
@@ -140,12 +141,11 @@
       <item value="NIBP METRO" />
       <item value="ALCO CONCENTRATION CALIBRATION" />
       <item value="Device found, use them" />
-      <item value="low Part" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="187" />
-        <entry key="RUSSIAN" value="187" />
+        <entry key="ENGLISH" value="188" />
+        <entry key="RUSSIAN" value="188" />
       </map>
     </option>
   </component>
