@@ -91,6 +91,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Removed bad not sended command" />
+      <item value="repeat Counter" />
+      <item value="check Start Time In Future And Timeout Elapsed" />
+      <item value="command Send Start" />
       <item value="peek First" />
       <item value="send Ping By Timeout" />
       <item value="handle Last Command Send Ok" />
@@ -137,15 +141,11 @@
       <item value="break" />
       <item value="Device Item" />
       <item value="Can't wrap trycatch for region:" />
-      <item value="Readerthread" />
-      <item value="Returns the scan record, which is a combination of advertisement and scan response." />
-      <item value="add Demo Le Devices" />
-      <item value="m Device Item Selected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="207" />
-        <entry key="RUSSIAN" value="207" />
+        <entry key="ENGLISH" value="214" />
+        <entry key="RUSSIAN" value="214" />
       </map>
     </option>
   </component>
