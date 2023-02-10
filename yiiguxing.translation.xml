@@ -91,6 +91,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="handle Last Command Send Ok" />
       <item value="set Command Wrote" />
       <item value="is Command Queue Empty" />
       <item value="delay After Command Send" />
@@ -101,7 +102,6 @@
       <item value="command Send Start" />
       <item value="peek First" />
       <item value="send Ping By Timeout" />
-      <item value="handle Last Command Send Ok" />
       <item value="undiscovered" />
       <item value="Command Queue Item" />
       <item value="send First Command To Device Or Remove" />
@@ -144,8 +144,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="222" />
-        <entry key="RUSSIAN" value="222" />
+        <entry key="ENGLISH" value="223" />
+        <entry key="RUSSIAN" value="223" />
       </map>
     </option>
   </component>
