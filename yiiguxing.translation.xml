@@ -91,6 +91,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="set Command Wrote" />
+      <item value="is Command Queue Empty" />
       <item value="delay After Command Send" />
       <item value="update Send Time With Delay" />
       <item value="Removed bad not sended command" />
@@ -139,13 +141,11 @@
       <item value="pop Up To Inclusive" />
       <item value="get Serial Number From Integer Parts" />
       <item value="sparse Bytes" />
-      <item value="break" />
-      <item value="Device Item" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="216" />
-        <entry key="RUSSIAN" value="216" />
+        <entry key="ENGLISH" value="222" />
+        <entry key="RUSSIAN" value="222" />
       </map>
     </option>
   </component>
