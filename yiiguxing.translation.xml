@@ -91,6 +91,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="delay After Command Send" />
+      <item value="update Send Time With Delay" />
       <item value="Removed bad not sended command" />
       <item value="repeat Counter" />
       <item value="check Start Time In Future And Timeout Elapsed" />
@@ -102,7 +104,6 @@
       <item value="Command Queue Item" />
       <item value="send First Command To Device Or Remove" />
       <item value="m Last Data Received Time" />
-      <item value="update Send Time With Delay" />
       <item value="check And Set Bootloader Mode" />
       <item value="check Alco Device State And Repeat Command" />
       <item value="update Send Command Time" />
@@ -140,12 +141,11 @@
       <item value="sparse Bytes" />
       <item value="break" />
       <item value="Device Item" />
-      <item value="Can't wrap trycatch for region:" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="214" />
-        <entry key="RUSSIAN" value="214" />
+        <entry key="ENGLISH" value="216" />
+        <entry key="RUSSIAN" value="216" />
       </map>
     </option>
   </component>
