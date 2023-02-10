@@ -91,6 +91,12 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="peek First" />
+      <item value="send Ping By Timeout" />
+      <item value="handle Last Command Send Ok" />
+      <item value="undiscovered" />
+      <item value="Command Queue Item" />
+      <item value="send First Command To Device Or Remove" />
       <item value="m Last Data Received Time" />
       <item value="update Send Time With Delay" />
       <item value="check And Set Bootloader Mode" />
@@ -135,17 +141,11 @@
       <item value="Returns the scan record, which is a combination of advertisement and scan response." />
       <item value="add Demo Le Devices" />
       <item value="m Device Item Selected" />
-      <item value="handle Device Found" />
-      <item value="Measuring Data" />
-      <item value="start Login By User Name And Password" />
-      <item value="handle On Smart Temperature Check Box Click" />
-      <item value="get Data Addon Folder" />
-      <item value="addon" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="200" />
-        <entry key="RUSSIAN" value="200" />
+        <entry key="ENGLISH" value="207" />
+        <entry key="RUSSIAN" value="207" />
       </map>
     </option>
   </component>
