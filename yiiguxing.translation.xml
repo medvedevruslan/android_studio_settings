@@ -83,7 +83,7 @@
     <option name="lastTrimTime" value="1669623435467" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1675658991517" />
+    <option name="lastTrimTime" value="1676265731697" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="RUSSIAN" />
@@ -91,8 +91,18 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="handle Last Command Send Ok" />
+      <item value="MEASURING TYPE" />
+      <item value="TRIP SHEETS" />
+      <item value="View Type" />
+      <item value="m Checkup View Type" />
+      <item value="handle Data Received" />
+      <item value="Data Received" />
+      <item value="handle" />
+      <item value="FIRMWARE" />
+      <item value="Checkup View Type" />
+      <item value="checkup View Type" />
       <item value="set Command Wrote" />
+      <item value="handle Last Command Send Ok" />
       <item value="is Command Queue Empty" />
       <item value="delay After Command Send" />
       <item value="update Send Time With Delay" />
@@ -131,21 +141,11 @@
       <item value="to Display Formatted String" />
       <item value="Failed Of Success Data" />
       <item value="set Test To Checkup In Db Use Case" />
-      <item value="UNDEFINED VALUE STRING" />
-      <item value="ALCOHOLE SCALE" />
-      <item value="ACTION BLUETOOTH UNAVAILABLE" />
-      <item value="Unable to initialize BluetoothManager" />
-      <item value="update Last Data Received Time" />
-      <item value="DEVICE WORK DELAY" />
-      <item value="found device" />
-      <item value="pop Up To Inclusive" />
-      <item value="get Serial Number From Integer Parts" />
-      <item value="sparse Bytes" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="223" />
-        <entry key="RUSSIAN" value="223" />
+        <entry key="ENGLISH" value="237" />
+        <entry key="RUSSIAN" value="237" />
       </map>
     </option>
   </component>
