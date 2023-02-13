@@ -91,6 +91,11 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="is Crc 16 Corrected For Packet" />
+      <item value="parse Useful Data" />
+      <item value="parse Bootloader Ping Data" />
+      <item value="parse Packet" />
+      <item value="is Firmware Support Encryption" />
       <item value="Decrypt Buffer" />
       <item value="Bootloader Data" />
       <item value="NIBP" />
@@ -136,16 +141,11 @@
       <item value="Unstable Api Usage" />
       <item value="as a SigningConfig with that name already exists" />
       <item value="Android resource linking failed homemedvedevДокументыAndroidStudioProjects2023.02clean_pre_trip_controlappbuildintermediatespackaged_manifestsdebugAndroidManifest.xml:2: error: attribute android:sharedUserMaxSdkVersion not found. error: failed processing manifest." />
-      <item value="Fails to start scan as app cannot be registered." />
-      <item value="The maximum value in the range (inclusive)." />
-      <item value="r: illegal start of expression" />
-      <item value="error: illegal start of expression private static final androidx.annotation.FloatRange ALLOW_RANGE_OF_ALCOHOL_VALUES = @androidx.annotation.FloatRange(from = 0.0, to = 0.16);" />
-      <item value="todo: integrate into logic!" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="245" />
-        <entry key="RUSSIAN" value="245" />
+        <entry key="ENGLISH" value="251" />
+        <entry key="RUSSIAN" value="251" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
