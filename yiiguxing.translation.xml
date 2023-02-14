@@ -91,6 +91,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="checkup View Type" />
       <item value="is Crc 16 Corrected For Packet" />
       <item value="parse Useful Data" />
       <item value="parse Bootloader Ping Data" />
@@ -113,7 +114,6 @@
       <item value="Data Received" />
       <item value="handle" />
       <item value="Checkup View Type" />
-      <item value="checkup View Type" />
       <item value="set Command Wrote" />
       <item value="handle Last Command Send Ok" />
       <item value="is Command Queue Empty" />
@@ -144,8 +144,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="251" />
-        <entry key="RUSSIAN" value="251" />
+        <entry key="ENGLISH" value="252" />
+        <entry key="RUSSIAN" value="252" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
