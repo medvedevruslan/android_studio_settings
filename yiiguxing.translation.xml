@@ -91,13 +91,16 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="ENCRYPTION" />
+      <item value="MIN FIRMWARE ENCRYPTION" />
+      <item value="is Firmware Support Encryption" />
+      <item value="m Changes Reverse" />
       <item value="Decrypt Buffer" />
       <item value="checkup View Type" />
       <item value="is Crc 16 Corrected For Packet" />
       <item value="parse Useful Data" />
       <item value="parse Bootloader Ping Data" />
       <item value="parse Packet" />
-      <item value="is Firmware Support Encryption" />
       <item value="Bootloader Data" />
       <item value="NIBP" />
       <item value="SERVICE" />
@@ -138,14 +141,11 @@
       <item value="signing Configs" />
       <item value="build Types" />
       <item value="Encapsulates all build type configurations for this project. For more information about the properties you can configure in this block, see BuildType" />
-      <item value="Unstable Api Usage" />
-      <item value="as a SigningConfig with that name already exists" />
-      <item value="Android resource linking failed homemedvedevДокументыAndroidStudioProjects2023.02clean_pre_trip_controlappbuildintermediatespackaged_manifestsdebugAndroidManifest.xml:2: error: attribute android:sharedUserMaxSdkVersion not found. error: failed processing manifest." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="254" />
-        <entry key="RUSSIAN" value="254" />
+        <entry key="ENGLISH" value="258" />
+        <entry key="RUSSIAN" value="258" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
