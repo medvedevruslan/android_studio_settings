@@ -91,6 +91,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Common Packet" />
+      <item value="handle Temperature Any Data Received" />
+      <item value="C aushort Crc 16 Table" />
       <item value="send Nibp Measuring On Measuring End" />
       <item value="add Nibp Packet Value For Send" />
       <item value="update On Nibp Mode Changed In Service Mode" />
@@ -98,7 +101,6 @@
       <item value="convert To Scaled Temperature In Hundredth Celsius" />
       <item value="REPEAT COMMAND COUNTER DEFAULT" />
       <item value="Admission" />
-      <item value="handle Temperature Any Data Received" />
       <item value="ENCRYPTION" />
       <item value="MIN FIRMWARE ENCRYPTION" />
       <item value="is Firmware Support Encryption" />
@@ -139,13 +141,11 @@
       <item value="Command Queue Item" />
       <item value="send First Command To Device Or Remove" />
       <item value="m Last Data Received Time" />
-      <item value="check And Set Bootloader Mode" />
-      <item value="check Alco Device State And Repeat Command" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="264" />
-        <entry key="RUSSIAN" value="264" />
+        <entry key="ENGLISH" value="267" />
+        <entry key="RUSSIAN" value="267" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
