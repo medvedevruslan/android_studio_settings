@@ -91,13 +91,13 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Decrypt Buffer" />
       <item value="checkup View Type" />
       <item value="is Crc 16 Corrected For Packet" />
       <item value="parse Useful Data" />
       <item value="parse Bootloader Ping Data" />
       <item value="parse Packet" />
       <item value="is Firmware Support Encryption" />
-      <item value="Decrypt Buffer" />
       <item value="Bootloader Data" />
       <item value="NIBP" />
       <item value="SERVICE" />
@@ -144,8 +144,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="252" />
-        <entry key="RUSSIAN" value="252" />
+        <entry key="ENGLISH" value="254" />
+        <entry key="RUSSIAN" value="254" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
