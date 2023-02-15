@@ -91,6 +91,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="handle Temperature Data Received" />
       <item value="convert To Scaled Temperature In Hundredth Celsius" />
       <item value="REPEAT COMMAND COUNTER DEFAULT" />
       <item value="Admission" />
@@ -140,7 +141,6 @@
       <item value="update Send Command Time" />
       <item value="Returns the properties of this characteristic. The properties contain a bit mask of property flags indicating the features of this characteristic. Returns: Properties of this characteristic" />
       <item value="get Supported Gatt Services" />
-      <item value="Interruption" />
     </histories>
     <option name="languageScores">
       <map>
