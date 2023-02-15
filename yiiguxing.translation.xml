@@ -91,6 +91,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="REPEAT COMMAND COUNTER DEFAULT" />
+      <item value="Admission" />
+      <item value="handle Temperature Any Data Received" />
       <item value="ENCRYPTION" />
       <item value="MIN FIRMWARE ENCRYPTION" />
       <item value="is Firmware Support Encryption" />
@@ -107,7 +110,6 @@
       <item value="NIBP METRO" />
       <item value="TEMPER METRO" />
       <item value="FIRMWARE" />
-      <item value="Admission" />
       <item value="parse Admission" />
       <item value="MEASURING TYPE" />
       <item value="TRIP SHEETS" />
@@ -139,13 +141,11 @@
       <item value="get Supported Gatt Services" />
       <item value="Interruption" />
       <item value="signing Configs" />
-      <item value="build Types" />
-      <item value="Encapsulates all build type configurations for this project. For more information about the properties you can configure in this block, see BuildType" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="258" />
-        <entry key="RUSSIAN" value="258" />
+        <entry key="ENGLISH" value="261" />
+        <entry key="RUSSIAN" value="261" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
