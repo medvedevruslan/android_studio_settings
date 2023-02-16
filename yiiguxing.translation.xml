@@ -91,6 +91,12 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="COMMAND DISABLE NIBP" />
+      <item value="COMMAND ENABLE TEMPER" />
+      <item value="Method Alco Data" />
+      <item value="Admission" />
+      <item value="Unknown" />
+      <item value="Useful Data" />
       <item value="parse Useful Data" />
       <item value="set Admission Command" />
       <item value="Packet number for lost" />
@@ -106,7 +112,6 @@
       <item value="handle Temperature Data Received" />
       <item value="convert To Scaled Temperature In Hundredth Celsius" />
       <item value="REPEAT COMMAND COUNTER DEFAULT" />
-      <item value="Admission" />
       <item value="ENCRYPTION" />
       <item value="MIN FIRMWARE ENCRYPTION" />
       <item value="is Firmware Support Encryption" />
@@ -136,16 +141,11 @@
       <item value="update Send Time With Delay" />
       <item value="Removed bad not sended command" />
       <item value="repeat Counter" />
-      <item value="check Start Time In Future And Timeout Elapsed" />
-      <item value="command Send Start" />
-      <item value="peek First" />
-      <item value="send Ping By Timeout" />
-      <item value="undiscovered" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="272" />
-        <entry key="RUSSIAN" value="272" />
+        <entry key="ENGLISH" value="277" />
+        <entry key="RUSSIAN" value="277" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
