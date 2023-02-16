@@ -91,6 +91,12 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="parse Useful Data" />
+      <item value="set Admission Command" />
+      <item value="Packet number for lost" />
+      <item value="set Admission Type" />
+      <item value="parse Admission" />
+      <item value="handle Last Command Send Ok" />
       <item value="Common Packet" />
       <item value="handle Temperature Any Data Received" />
       <item value="C aushort Crc 16 Table" />
@@ -108,7 +114,6 @@
       <item value="Decrypt Buffer" />
       <item value="checkup View Type" />
       <item value="is Crc 16 Corrected For Packet" />
-      <item value="parse Useful Data" />
       <item value="parse Bootloader Ping Data" />
       <item value="parse Packet" />
       <item value="Bootloader Data" />
@@ -117,7 +122,6 @@
       <item value="NIBP METRO" />
       <item value="TEMPER METRO" />
       <item value="FIRMWARE" />
-      <item value="parse Admission" />
       <item value="MEASURING TYPE" />
       <item value="TRIP SHEETS" />
       <item value="View Type" />
@@ -127,7 +131,6 @@
       <item value="handle" />
       <item value="Checkup View Type" />
       <item value="set Command Wrote" />
-      <item value="handle Last Command Send Ok" />
       <item value="is Command Queue Empty" />
       <item value="delay After Command Send" />
       <item value="update Send Time With Delay" />
@@ -138,14 +141,11 @@
       <item value="peek First" />
       <item value="send Ping By Timeout" />
       <item value="undiscovered" />
-      <item value="Command Queue Item" />
-      <item value="send First Command To Device Or Remove" />
-      <item value="m Last Data Received Time" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="267" />
-        <entry key="RUSSIAN" value="267" />
+        <entry key="ENGLISH" value="272" />
+        <entry key="RUSSIAN" value="272" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
