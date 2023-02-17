@@ -91,6 +91,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="update On Nibp Activity" />
       <item value="update On Nibp Mode Changed In Service Mode" />
       <item value="start Or Continue Nibp Measuring" />
       <item value="set Current Pressure In Cuff" />
@@ -140,12 +141,11 @@
       <item value="parse Bootloader Ping Data" />
       <item value="parse Packet" />
       <item value="Bootloader Data" />
-      <item value="NIBP" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="299" />
-        <entry key="RUSSIAN" value="299" />
+        <entry key="ENGLISH" value="300" />
+        <entry key="RUSSIAN" value="300" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
