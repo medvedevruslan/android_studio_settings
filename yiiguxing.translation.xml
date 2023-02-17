@@ -91,6 +91,13 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="update Nibp Measuring Button For Currents State" />
+      <item value="handle On Set Nibp Pump Power Click" />
+      <item value="send Write Nibp Pump Power Settings Command" />
+      <item value="handle On Start Nibp Measuring Click" />
+      <item value="get Nibp Mode Value" />
+      <item value="MEASURING" />
+      <item value="PREPARING" />
       <item value="COMMAND DISABLE NIBP" />
       <item value="COMMAND ENABLE TEMPER" />
       <item value="Method Alco Data" />
@@ -134,18 +141,11 @@
       <item value="handle Data Received" />
       <item value="Data Received" />
       <item value="handle" />
-      <item value="Checkup View Type" />
-      <item value="set Command Wrote" />
-      <item value="is Command Queue Empty" />
-      <item value="delay After Command Send" />
-      <item value="update Send Time With Delay" />
-      <item value="Removed bad not sended command" />
-      <item value="repeat Counter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="277" />
-        <entry key="RUSSIAN" value="277" />
+        <entry key="ENGLISH" value="284" />
+        <entry key="RUSSIAN" value="284" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
