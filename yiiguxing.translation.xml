@@ -91,6 +91,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="start Or Continue Nibp Measuring" />
+      <item value="set Current Pressure In Cuff" />
       <item value="TEMPERATURE UNAVAILABLE" />
       <item value="OXI UNAVAILABLE" />
       <item value="NIBP UNAVAILABLE" />
@@ -139,13 +141,11 @@
       <item value="parse Packet" />
       <item value="Bootloader Data" />
       <item value="NIBP" />
-      <item value="SERVICE" />
-      <item value="NIBP METRO" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="296" />
-        <entry key="RUSSIAN" value="296" />
+        <entry key="ENGLISH" value="298" />
+        <entry key="RUSSIAN" value="298" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
