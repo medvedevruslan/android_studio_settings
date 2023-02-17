@@ -91,6 +91,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="m Command Packet Number" />
+      <item value="Encrypt Buffer" />
+      <item value="offer Last" />
       <item value="update On Nibp Activity" />
       <item value="update On Nibp Mode Changed In Service Mode" />
       <item value="start Or Continue Nibp Measuring" />
@@ -138,14 +141,11 @@
       <item value="Decrypt Buffer" />
       <item value="checkup View Type" />
       <item value="is Crc 16 Corrected For Packet" />
-      <item value="parse Bootloader Ping Data" />
-      <item value="parse Packet" />
-      <item value="Bootloader Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="300" />
-        <entry key="RUSSIAN" value="300" />
+        <entry key="ENGLISH" value="303" />
+        <entry key="RUSSIAN" value="303" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
