@@ -91,6 +91,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="update On Nibp Mode Changed In Service Mode" />
       <item value="start Or Continue Nibp Measuring" />
       <item value="set Current Pressure In Cuff" />
       <item value="TEMPERATURE UNAVAILABLE" />
@@ -126,7 +127,6 @@
       <item value="C aushort Crc 16 Table" />
       <item value="send Nibp Measuring On Measuring End" />
       <item value="add Nibp Packet Value For Send" />
-      <item value="update On Nibp Mode Changed In Service Mode" />
       <item value="handle Temperature Data Received" />
       <item value="convert To Scaled Temperature In Hundredth Celsius" />
       <item value="REPEAT COMMAND COUNTER DEFAULT" />
@@ -144,8 +144,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="298" />
-        <entry key="RUSSIAN" value="298" />
+        <entry key="ENGLISH" value="299" />
+        <entry key="RUSSIAN" value="299" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
