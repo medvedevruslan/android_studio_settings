@@ -91,6 +91,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="start Or Continue Nibp Measuring" />
       <item value="send Simple Command With Delay" />
       <item value="DEVICE WORK DELAY" />
       <item value="m Command Packet Number" />
@@ -98,7 +99,6 @@
       <item value="offer Last" />
       <item value="update On Nibp Activity" />
       <item value="update On Nibp Mode Changed In Service Mode" />
-      <item value="start Or Continue Nibp Measuring" />
       <item value="set Current Pressure In Cuff" />
       <item value="TEMPERATURE UNAVAILABLE" />
       <item value="OXI UNAVAILABLE" />
@@ -144,8 +144,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="306" />
-        <entry key="RUSSIAN" value="306" />
+        <entry key="ENGLISH" value="307" />
+        <entry key="RUSSIAN" value="307" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
