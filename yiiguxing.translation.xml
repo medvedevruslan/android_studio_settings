@@ -83,7 +83,7 @@
     <option name="lastTrimTime" value="1669623435467" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1676265731697" />
+    <option name="lastTrimTime" value="1676700753707" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="RUSSIAN" />
@@ -91,6 +91,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="send Simple Command With Delay" />
+      <item value="DEVICE WORK DELAY" />
       <item value="m Command Packet Number" />
       <item value="Encrypt Buffer" />
       <item value="offer Last" />
@@ -139,13 +141,11 @@
       <item value="is Firmware Support Encryption" />
       <item value="m Changes Reverse" />
       <item value="Decrypt Buffer" />
-      <item value="checkup View Type" />
-      <item value="is Crc 16 Corrected For Packet" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="304" />
-        <entry key="RUSSIAN" value="304" />
+        <entry key="ENGLISH" value="306" />
+        <entry key="RUSSIAN" value="306" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
