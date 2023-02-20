@@ -91,6 +91,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Shifts this value left by the bitCount number of bits. Note that only the five lowest-order bits of the bitCount are used as the shift distance. The shift distance actually used is therefore always in the range 0..3" />
+      <item value="Default Dispatcher-worker-5" />
       <item value="Scheduler" />
       <item value="Removed bad not sended command" />
       <item value="check Start Time In Future And Timeout Elapsed" />
@@ -139,13 +141,11 @@
       <item value="Method Alco Data" />
       <item value="Admission" />
       <item value="Unknown" />
-      <item value="Useful Data" />
-      <item value="parse Useful Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="327" />
-        <entry key="RUSSIAN" value="327" />
+        <entry key="ENGLISH" value="329" />
+        <entry key="RUSSIAN" value="329" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
