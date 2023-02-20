@@ -91,8 +91,8 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="handle Last Command Send Ok" />
       <item value="check Start Time In Future And Timeout Elapsed" />
+      <item value="handle Last Command Send Ok" />
       <item value="delay After Command Send" />
       <item value="Inserts the specified element at the end of this deque. Params: e – the element to add Returns: true (as specified by Deque.offerLast) Throws: NullPointerException – if the specified element is null" />
       <item value="command Add Time" />
@@ -144,8 +144,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="324" />
-        <entry key="RUSSIAN" value="324" />
+        <entry key="ENGLISH" value="325" />
+        <entry key="RUSSIAN" value="325" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
