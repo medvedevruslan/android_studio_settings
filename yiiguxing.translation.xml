@@ -91,6 +91,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="decrypt Buffer" />
       <item value="is Firmware Support Encryption" />
       <item value="set Nibp Abort Button Pressed" />
       <item value="update Nibp Measuring Button For Currents State" />
@@ -140,12 +141,11 @@
       <item value="handle Temperature Data Received" />
       <item value="convert To Scaled Temperature In Hundredth Celsius" />
       <item value="REPEAT COMMAND COUNTER DEFAULT" />
-      <item value="ENCRYPTION" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="312" />
-        <entry key="RUSSIAN" value="312" />
+        <entry key="ENGLISH" value="313" />
+        <entry key="RUSSIAN" value="313" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
