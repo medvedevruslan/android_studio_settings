@@ -91,6 +91,11 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="length=256; index=-1" />
+      <item value="Shifts this value left by the bitCount number of bits" />
+      <item value="Shift" />
+      <item value="Shifts" />
+      <item value="Shifts this value left by the bitCount number of bits. Note that only the five lowest-order bits of the bitCount are used as the shift distance. The shift distance actually used is therefore always in the range 0..31." />
       <item value="Array Index Out Of Bounds Exception" />
       <item value="Shifts this value left by the bitCount number of bits. Note that only the five lowest-order bits of the bitCount are used as the shift distance. The shift distance actually used is therefore always in the range 0..3" />
       <item value="Default Dispatcher-worker-5" />
@@ -136,16 +141,11 @@
       <item value="send Write Nibp Pump Power Settings Command" />
       <item value="handle On Start Nibp Measuring Click" />
       <item value="get Nibp Mode Value" />
-      <item value="PREPARING" />
-      <item value="COMMAND DISABLE NIBP" />
-      <item value="COMMAND ENABLE TEMPER" />
-      <item value="Method Alco Data" />
-      <item value="Admission" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="329" />
-        <entry key="RUSSIAN" value="329" />
+        <entry key="ENGLISH" value="333" />
+        <entry key="RUSSIAN" value="333" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
