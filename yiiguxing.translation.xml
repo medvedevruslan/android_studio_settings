@@ -91,6 +91,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Scheduler" />
       <item value="Removed bad not sended command" />
       <item value="check Start Time In Future And Timeout Elapsed" />
       <item value="handle Last Command Send Ok" />
@@ -140,12 +141,11 @@
       <item value="Unknown" />
       <item value="Useful Data" />
       <item value="parse Useful Data" />
-      <item value="set Admission Command" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="326" />
-        <entry key="RUSSIAN" value="326" />
+        <entry key="ENGLISH" value="327" />
+        <entry key="RUSSIAN" value="327" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
