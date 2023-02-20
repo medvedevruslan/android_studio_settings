@@ -91,6 +91,15 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Inserts the specified element at the end of this deque. Params: e – the element to add Returns: true (as specified by Deque.offerLast) Throws: NullPointerException – if the specified element is null" />
+      <item value="command Add Time" />
+      <item value="check Start Time Since Epoh And Timeout Elapsed" />
+      <item value="get Available External Or Internal Memory Size In Mb" />
+      <item value="get Free Memory If Folder" />
+      <item value="Common Logic" />
+      <item value="offer Last" />
+      <item value="m Command Queue" />
+      <item value="change Status In Owner" />
       <item value="decrypt Buffer" />
       <item value="is Firmware Support Encryption" />
       <item value="set Nibp Abort Button Pressed" />
@@ -102,7 +111,6 @@
       <item value="DEVICE WORK DELAY" />
       <item value="m Command Packet Number" />
       <item value="Encrypt Buffer" />
-      <item value="offer Last" />
       <item value="update On Nibp Activity" />
       <item value="update On Nibp Mode Changed In Service Mode" />
       <item value="set Current Pressure In Cuff" />
@@ -133,19 +141,11 @@
       <item value="set Admission Type" />
       <item value="parse Admission" />
       <item value="handle Last Command Send Ok" />
-      <item value="Common Packet" />
-      <item value="handle Temperature Any Data Received" />
-      <item value="C aushort Crc 16 Table" />
-      <item value="send Nibp Measuring On Measuring End" />
-      <item value="add Nibp Packet Value For Send" />
-      <item value="handle Temperature Data Received" />
-      <item value="convert To Scaled Temperature In Hundredth Celsius" />
-      <item value="REPEAT COMMAND COUNTER DEFAULT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="313" />
-        <entry key="RUSSIAN" value="313" />
+        <entry key="ENGLISH" value="321" />
+        <entry key="RUSSIAN" value="321" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
