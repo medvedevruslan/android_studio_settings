@@ -91,6 +91,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Interruption" />
       <item value="wait Delay" />
       <item value="encrypt Buffer" />
       <item value="Shifts this value right by the bitCount number of bits, filling the leftmost bits with copies of the sign bit. Note that only the five lowest-order bits of the bitCount are used as the shift distance. The shift distance actually used is therefore always in the range 0..31" />
@@ -140,12 +141,11 @@
       <item value="average Value Range" />
       <item value="MEASURING" />
       <item value="Start Nibp Measuring Click" />
-      <item value="handle On Set Nibp Pump Power Click" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="336" />
-        <entry key="RUSSIAN" value="336" />
+        <entry key="ENGLISH" value="338" />
+        <entry key="RUSSIAN" value="338" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
