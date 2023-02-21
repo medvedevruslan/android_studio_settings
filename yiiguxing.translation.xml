@@ -91,6 +91,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Regular" />
       <item value="update Notify" />
       <item value="Interruption" />
       <item value="wait Delay" />
@@ -140,12 +141,11 @@
       <item value="UNDEFINED VALUE STRING" />
       <item value="prepare To Nibp Measuring" />
       <item value="average Value Range" />
-      <item value="MEASURING" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="339" />
-        <entry key="RUSSIAN" value="339" />
+        <entry key="ENGLISH" value="340" />
+        <entry key="RUSSIAN" value="340" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
