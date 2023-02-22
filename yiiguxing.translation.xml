@@ -91,6 +91,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="not Success Result" />
       <item value="Interruption" />
       <item value="Average Measurement Value Range" />
       <item value="ALLOW RANGE OF ALCOHOL VALUES" />
@@ -140,12 +141,11 @@
       <item value="TEMPERATURE UNAVAILABLE" />
       <item value="OXI UNAVAILABLE" />
       <item value="NIBP UNAVAILABLE" />
-      <item value="BOARD UNAVAILABLE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="345" />
-        <entry key="RUSSIAN" value="345" />
+        <entry key="ENGLISH" value="346" />
+        <entry key="RUSSIAN" value="346" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
