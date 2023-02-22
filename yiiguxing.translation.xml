@@ -91,6 +91,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Searching" />
       <item value="name" />
       <item value="Interruption" />
       <item value="Regular" />
@@ -140,7 +141,6 @@
       <item value="BOARD UNAVAILABLE" />
       <item value="Measuring Interrupt Type" />
       <item value="UNDEFINED VALUE STRING" />
-      <item value="prepare To Nibp Measuring" />
     </histories>
     <option name="languageScores">
       <map>
