@@ -91,9 +91,11 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Interruption" />
+      <item value="Average Measurement Value Range" />
+      <item value="ALLOW RANGE OF ALCOHOL VALUES" />
       <item value="Searching" />
       <item value="name" />
-      <item value="Interruption" />
       <item value="Regular" />
       <item value="update Notify" />
       <item value="wait Delay" />
@@ -139,13 +141,11 @@
       <item value="OXI UNAVAILABLE" />
       <item value="NIBP UNAVAILABLE" />
       <item value="BOARD UNAVAILABLE" />
-      <item value="Measuring Interrupt Type" />
-      <item value="UNDEFINED VALUE STRING" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="342" />
-        <entry key="RUSSIAN" value="342" />
+        <entry key="ENGLISH" value="345" />
+        <entry key="RUSSIAN" value="345" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
