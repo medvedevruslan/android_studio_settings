@@ -91,6 +91,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="m Command Packet Number" />
       <item value="Ble Status Owner.change Status(App Error.No Permissions" />
       <item value="fill parent" />
       <item value="handle On Start Nibp Service Measuring Click" />
@@ -138,14 +139,13 @@
       <item value="set Nibp Abort Button Pressed" />
       <item value="send Simple Command With Delay" />
       <item value="DEVICE WORK DELAY" />
-      <item value="m Command Packet Number" />
       <item value="Encrypt Buffer" />
       <item value="update On Nibp Activity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="354" />
-        <entry key="RUSSIAN" value="354" />
+        <entry key="ENGLISH" value="355" />
+        <entry key="RUSSIAN" value="355" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
