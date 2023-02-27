@@ -91,6 +91,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="m Heart Rate" />
+      <item value="m Current Pressure In Hundredth" />
+      <item value="NIBP UNDEFINED VALUE" />
       <item value="CRC 16_INIT VALUE" />
       <item value="m Command Packet Number" />
       <item value="Ble Status Owner.change Status(App Error.No Permissions" />
@@ -138,14 +141,11 @@
       <item value="decrypt Buffer" />
       <item value="is Firmware Support Encryption" />
       <item value="set Nibp Abort Button Pressed" />
-      <item value="send Simple Command With Delay" />
-      <item value="DEVICE WORK DELAY" />
-      <item value="Encrypt Buffer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="356" />
-        <entry key="RUSSIAN" value="356" />
+        <entry key="ENGLISH" value="360" />
+        <entry key="RUSSIAN" value="360" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
