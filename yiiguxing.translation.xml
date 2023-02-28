@@ -91,8 +91,8 @@
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="cond_1" />
       <item value="C aushort Crc 16 Table" />
+      <item value="cond_1" />
       <item value="length" />
       <item value="offset" />
       <item value="encrypt Buffer" />
@@ -144,8 +144,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="366" />
-        <entry key="RUSSIAN" value="366" />
+        <entry key="ENGLISH" value="367" />
+        <entry key="RUSSIAN" value="367" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
