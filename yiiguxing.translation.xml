@@ -94,6 +94,7 @@
     <option name="newTranslationDialogX" value="5531" />
     <option name="newTranslationDialogY" value="1025" />
     <histories>
+      <item value="C aushort" />
       <item value="update On Nibp Activity" />
       <item value="exhibition" />
       <item value="Closed Floating Point Range" />
@@ -143,12 +144,11 @@
       <item value="Scheduler" />
       <item value="Removed bad not sended command" />
       <item value="check Start Time In Future And Timeout Elapsed" />
-      <item value="handle Last Command Send Ok" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="377" />
-        <entry key="RUSSIAN" value="377" />
+        <entry key="ENGLISH" value="378" />
+        <entry key="RUSSIAN" value="378" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
