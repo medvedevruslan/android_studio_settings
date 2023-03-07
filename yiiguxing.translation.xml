@@ -83,7 +83,7 @@
     <option name="lastTrimTime" value="1669623435467" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1677484758108" />
+    <option name="lastTrimTime" value="1678178548981" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="RUSSIAN" />
@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="No tests found for given includes: [com.example.clean_pre_trip_control.presentation.ui.strazh_parser.parserTest.checkBinary](--tests filter)" />
       <item value="R.color.blue" />
       <item value="average Value Range Int" />
       <item value="The value 'value shl 8' assigned to 'var value: Int defined in com.example.clean_pre_trip_control.presentation.ui.ble.strazh.PacketParser.Companion.checkShl' is never used" />
@@ -145,11 +146,10 @@
       <item value="Shifts this value left by the bitCount number of bits. Note that only the five lowest-order bits of the bitCount are used as the shift distance. The shift distance actually used is therefore always in the range 0..31." />
       <item value="Array Index Out Of Bounds Exception" />
       <item value="Shifts this value left by the bitCount number of bits. Note that only the five lowest-order bits of the bitCount are used as the shift distance. The shift distance actually used is therefore always in the range 0..3" />
-      <item value="Default Dispatcher-worker-5" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="380" />
+        <entry key="ENGLISH" value="381" />
         <entry key="RUSSIAN" value="382" />
         <entry key="YORUBA" value="1" />
       </map>
