@@ -66,6 +66,11 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.intellij.grazie.pro">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
         <entry key="com.intellij.marketplace">
           <value>
             <PluginData>
@@ -109,6 +114,17 @@
                 <set>
                   <option value="com.intellij.modules.platform" />
                   <option value="org.jetbrains.android" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="com.nasller.CodeGlancePro">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
                 </set>
               </option>
             </PluginData>
@@ -162,6 +178,34 @@
                 </set>
               </option>
             </PluginData>
+          </value>
+        </entry>
+        <entry key="manjaro.mpb">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="mobi.hsz.idea.gitignore">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                  <option value="com.intellij.modules.vcs" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
+        <entry key="tanvd.grazi">
+          <value>
+            <PluginData />
           </value>
         </entry>
       </map>
