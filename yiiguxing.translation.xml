@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Views Models" />
       <item value="association of work statuses to BluetoothState.kt;" />
       <item value="association" />
       <item value="Cannot resolve type 'dataBindingAdapter'" />
@@ -145,12 +146,11 @@
       <item value="update Notify" />
       <item value="wait Delay" />
       <item value="Shifts this value right by the bitCount number of bits, filling the leftmost bits with copies of the sign bit. Note that only the five lowest-order bits of the bitCount are used as the shift distance. The shift distance actually used is therefore always in the range 0..31" />
-      <item value="length=256; index=-1" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="387" />
-        <entry key="RUSSIAN" value="387" />
+        <entry key="ENGLISH" value="388" />
+        <entry key="RUSSIAN" value="388" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
