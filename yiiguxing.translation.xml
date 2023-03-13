@@ -83,7 +83,7 @@
     <option name="lastTrimTime" value="1669623435467" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1678178548981" />
+    <option name="lastTrimTime" value="1678689687198" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="RUSSIAN" />
@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="illegal start of expression" />
       <item value="Views Models" />
       <item value="association of work statuses to BluetoothState.kt;" />
       <item value="association" />
@@ -145,12 +146,11 @@
       <item value="Regular" />
       <item value="update Notify" />
       <item value="wait Delay" />
-      <item value="Shifts this value right by the bitCount number of bits, filling the leftmost bits with copies of the sign bit. Note that only the five lowest-order bits of the bitCount are used as the shift distance. The shift distance actually used is therefore always in the range 0..31" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="388" />
-        <entry key="RUSSIAN" value="388" />
+        <entry key="ENGLISH" value="389" />
+        <entry key="RUSSIAN" value="389" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
