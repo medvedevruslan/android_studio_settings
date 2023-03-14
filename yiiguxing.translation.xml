@@ -96,6 +96,16 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Converts this UShort value to Byte. If this value is less than or equals to Byte.MAX_VALUE, the resulting Byte value represents the same numerical value as this UShort. The resulting Byte value is represented by the least significant 8 bits of this UShort value. Note that the resulting Byte value may be negative." />
+      <item value="Inverts the bits in this value." />
+      <item value="Creates a range from this value to the specified other value." />
+      <item value="range To" />
+      <item value="Divides this value by the other value, flooring the result to an integer that is closer to negative infinity. For unsigned types, the results of flooring division and truncating division are the same." />
+      <item value="Calculates the remainder of truncating division of this value by the other value. The result is always less than the divisor." />
+      <item value="Divides" />
+      <item value="Multiplies this value by the other value." />
+      <item value="Compares this value with the specified value for order. Returns zero if this value is equal to the specified other value, a negative number if it's less than other, or a positive number if it's greater than other." />
+      <item value="compare To" />
       <item value="expected" />
       <item value="expected: kotlin.UShort@4b79ac84&lt;10673&gt; but was: kotlin.UInt@53941c2f&lt;10673&gt;" />
       <item value="expected: kotlin.UShort@6b88ca8c&lt;10673&gt; but was: java.lang.Integer@336f1079&lt;10673&gt;" />
@@ -136,21 +146,11 @@
       <item value="m Command Packet Number" />
       <item value="Ble Status Owner.change Status(App Error.No Permissions" />
       <item value="fill parent" />
-      <item value="handle On Start Nibp Service Measuring Click" />
-      <item value="update Nibp Measuring Button For Currents State" />
-      <item value="NIBP METRO" />
-      <item value="handle Nibp Data Received" />
-      <item value="fill Systole Diastole Heart Rate On Ui" />
-      <item value="hide Error Message" />
-      <item value="start Or Continue Nibp Measuring" />
-      <item value="not Success Result" />
-      <item value="Interruption" />
-      <item value="ALLOW RANGE OF ALCOHOL VALUES" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="395" />
-        <entry key="RUSSIAN" value="395" />
+        <entry key="ENGLISH" value="407" />
+        <entry key="RUSSIAN" value="407" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
