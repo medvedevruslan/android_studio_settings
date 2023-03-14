@@ -96,6 +96,9 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Shifts this value left by the bitCount number of bits. Note that only the five lowest-order bits of the bitCount are used as the shift distance. The shift distance actually used is therefore always in the range 0..31." />
+      <item value="Shifts this value right by the bitCount number of bits, filling the leftmost bits with copies of the sign bit. Note that only the five lowest-order bits of the bitCount are used as the shift distance. The shift distance actually used is therefore always in the range 0..31." />
+      <item value="Shifts this value right by the bitCount number of bits, filling the leftmost bits with zeros. Note that only the five lowest-order bits of the bitCount are used as the shift distance. The shift distance actually used is therefore always in the range 0..31" />
       <item value="illegal start of expression" />
       <item value="Views Models" />
       <item value="association of work statuses to BluetoothState.kt;" />
@@ -103,7 +106,6 @@
       <item value="Cannot resolve type 'dataBindingAdapter'" />
       <item value="Measurement Cancelled" />
       <item value="Shifts this value right by the bitCount number of bits, filling the leftmost bits with zeros. Note that only the five lowest-order bits of the bitCount are used as the shift distance. The shift distance actually used is therefore always in the range 0..31." />
-      <item value="Shifts this value right by the bitCount number of bits, filling the leftmost bits with copies of the sign bit. Note that only the five lowest-order bits of the bitCount are used as the shift distance. The shift distance actually used is therefore always in the range 0..31." />
       <item value="No tests found for given includes: [com.example.clean_pre_trip_control.presentation.ui.strazh_parser.parserTest.checkBinary](--tests filter)" />
       <item value="R.color.blue" />
       <item value="average Value Range Int" />
@@ -144,13 +146,11 @@
       <item value="Searching" />
       <item value="name" />
       <item value="Regular" />
-      <item value="update Notify" />
-      <item value="wait Delay" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="389" />
-        <entry key="RUSSIAN" value="389" />
+        <entry key="ENGLISH" value="392" />
+        <entry key="RUSSIAN" value="392" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
