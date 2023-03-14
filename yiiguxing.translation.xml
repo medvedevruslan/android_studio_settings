@@ -96,6 +96,10 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Expected" />
+      <item value="Actual" />
+      <item value="10673" />
+      <item value="start Value" />
       <item value="Returns the code of this Char. Code of a Char is the value it was constructed with, and the UTF-16 code unit corresponding to this Char. Samples: samples.text.Chars.code Unresolved" />
       <item value="Converts this UShort value to Byte. If this value is less than or equals to Byte.MAX_VALUE, the resulting Byte value represents the same numerical value as this UShort. The resulting Byte value is represented by the least significant 8 bits of this UShort value. Note that the resulting Byte value may be negative." />
       <item value="Inverts the bits in this value." />
@@ -142,15 +146,11 @@
       <item value="param Array Ofbyte" />
       <item value="m Heart Rate" />
       <item value="m Current Pressure In Hundredth" />
-      <item value="NIBP UNDEFINED VALUE" />
-      <item value="CRC 16_INIT VALUE" />
-      <item value="m Command Packet Number" />
-      <item value="Ble Status Owner.change Status(App Error.No Permissions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="408" />
-        <entry key="RUSSIAN" value="408" />
+        <entry key="ENGLISH" value="411" />
+        <entry key="RUSSIAN" value="411" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
