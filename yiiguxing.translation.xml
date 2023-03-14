@@ -96,6 +96,9 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="expected" />
+      <item value="expected: kotlin.UShort@4b79ac84&lt;10673&gt; but was: kotlin.UInt@53941c2f&lt;10673&gt;" />
+      <item value="expected: kotlin.UShort@6b88ca8c&lt;10673&gt; but was: java.lang.Integer@336f1079&lt;10673&gt;" />
       <item value="Shifts this value left by the bitCount number of bits. Note that only the five lowest-order bits of the bitCount are used as the shift distance. The shift distance actually used is therefore always in the range 0..31." />
       <item value="Shifts this value right by the bitCount number of bits, filling the leftmost bits with copies of the sign bit. Note that only the five lowest-order bits of the bitCount are used as the shift distance. The shift distance actually used is therefore always in the range 0..31." />
       <item value="Shifts this value right by the bitCount number of bits, filling the leftmost bits with zeros. Note that only the five lowest-order bits of the bitCount are used as the shift distance. The shift distance actually used is therefore always in the range 0..31" />
@@ -143,14 +146,11 @@
       <item value="not Success Result" />
       <item value="Interruption" />
       <item value="ALLOW RANGE OF ALCOHOL VALUES" />
-      <item value="Searching" />
-      <item value="name" />
-      <item value="Regular" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="392" />
-        <entry key="RUSSIAN" value="392" />
+        <entry key="ENGLISH" value="395" />
+        <entry key="RUSSIAN" value="395" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
