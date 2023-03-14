@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Int defined in kotlin" />
       <item value="Expected" />
       <item value="Actual" />
       <item value="10673" />
@@ -145,12 +146,11 @@
       <item value="encrypt Buffer" />
       <item value="param Array Ofbyte" />
       <item value="m Heart Rate" />
-      <item value="m Current Pressure In Hundredth" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="411" />
-        <entry key="RUSSIAN" value="411" />
+        <entry key="ENGLISH" value="412" />
+        <entry key="RUSSIAN" value="412" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
