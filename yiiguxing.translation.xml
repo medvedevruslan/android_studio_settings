@@ -83,7 +83,7 @@
     <option name="lastTrimTime" value="1669623435467" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1678689687198" />
+    <option name="lastTrimTime" value="1679298496946" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="RUSSIAN" />
@@ -96,6 +96,9 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="E Module Status Nibp Started" />
+      <item value="Admission" />
+      <item value="Useful Data" />
       <item value="Int defined in kotlin" />
       <item value="Expected" />
       <item value="Actual" />
@@ -143,14 +146,11 @@
       <item value="cond_1" />
       <item value="length" />
       <item value="offset" />
-      <item value="encrypt Buffer" />
-      <item value="param Array Ofbyte" />
-      <item value="m Heart Rate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="412" />
-        <entry key="RUSSIAN" value="412" />
+        <entry key="ENGLISH" value="415" />
+        <entry key="RUSSIAN" value="415" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
