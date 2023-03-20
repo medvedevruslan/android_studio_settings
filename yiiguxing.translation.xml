@@ -96,6 +96,9 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="PING REPEAT TIMEOUT PING MODE" />
+      <item value="BAD ANSWER COMMAND REPEAT TIMEOUT" />
+      <item value="REPEAT COMMAND COUNTER DEFAULT" />
       <item value="revision" />
       <item value="Useful Data" />
       <item value="E Module Status Nibp Started" />
@@ -143,14 +146,11 @@
       <item value="deleted" />
       <item value="parent" />
       <item value="C aushort Crc 16 Table" />
-      <item value="Default Dispatcher-worker-2" />
-      <item value="cond_1" />
-      <item value="length" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="417" />
-        <entry key="RUSSIAN" value="417" />
+        <entry key="ENGLISH" value="421" />
+        <entry key="RUSSIAN" value="421" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
