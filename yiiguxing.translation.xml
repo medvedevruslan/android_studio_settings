@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="revision" />
       <item value="Useful Data" />
       <item value="E Module Status Nibp Started" />
       <item value="Admission" />
@@ -145,12 +146,11 @@
       <item value="Default Dispatcher-worker-2" />
       <item value="cond_1" />
       <item value="length" />
-      <item value="offset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="416" />
-        <entry key="RUSSIAN" value="416" />
+        <entry key="ENGLISH" value="417" />
+        <entry key="RUSSIAN" value="417" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
