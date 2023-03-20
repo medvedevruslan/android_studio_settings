@@ -4,10 +4,11 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag:developer_strazh" />
-        <option value="package:mine tag: developer_strazh" />
         <option value="package:mine tag:developer" />
-        <option value="package:mine tag:developer_strazh " />
+        <option value="package:mine tag:" />
         <option value="package:mine " />
+        <option value="package:mine tag: developer_strazh" />
+        <option value="package:mine tag:developer_strazh " />
         <option value="package:mine tag:developer " />
         <option value="package:mine tag:developer_pressure " />
         <option value="package:mine tag:developerTemp " />
@@ -22,7 +23,6 @@
         <option value="package:com.example.clean_pre_trip_control tag:developerTemp " />
         <option value="package:" />
         <option value="package:com.example.twodialogfragments tag:developer_async" />
-        <option value="package:com.example.twodialogfragments tag:developer_flow" />
       </list>
     </option>
   </component>
