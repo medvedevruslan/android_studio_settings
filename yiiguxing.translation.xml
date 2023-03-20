@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Returns the permissions for this characteristic. Returns: Permissions of this characteristic" />
       <item value="PING REPEAT TIMEOUT PING MODE" />
       <item value="BAD ANSWER COMMAND REPEAT TIMEOUT" />
       <item value="REPEAT COMMAND COUNTER DEFAULT" />
@@ -145,12 +146,11 @@
       <item value="will delete after merge" />
       <item value="deleted" />
       <item value="parent" />
-      <item value="C aushort Crc 16 Table" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="421" />
-        <entry key="RUSSIAN" value="421" />
+        <entry key="ENGLISH" value="422" />
+        <entry key="RUSSIAN" value="422" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
