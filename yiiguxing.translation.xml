@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="No tests found for given includes" />
       <item value="Interruption" />
       <item value="Conflation Usage of this function with capacity of Channel.CONFLATED is a shortcut to buffer(onBufferOverflow = BufferOverflow.DROP_OLDEST), and is available via a separate conflate operator. See its documentation for details. Params: capacity - typecapacity of the buffer between coroutines. Allowed values are the same as in Channel(...) factory function: BUFFERED (by default), CONFLATED, RENDEZVOUS, UNLIMITED or a non-negative value indicating an explicitly requested size. onBufferOverflow - configures an action on buffer overflow (optional, defaults to SUSPEND, supported only when capacity &gt;= 0 or capacity == Channel.BUFFERED, implicitly creates a channel with at least one buffered element)." />
       <item value="BUFFERED" />
@@ -145,12 +146,11 @@
       <item value="exhibition" />
       <item value="Closed Floating Point Range" />
       <item value="Average Measurement Value Range" />
-      <item value="will deleted after merge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="426" />
-        <entry key="RUSSIAN" value="426" />
+        <entry key="ENGLISH" value="427" />
+        <entry key="RUSSIAN" value="427" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
