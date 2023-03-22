@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="is Firmware Support Encryption" />
       <item value="encrypt Buffer" />
       <item value="No tests found for given includes" />
       <item value="Interruption" />
@@ -145,12 +146,11 @@
       <item value="C aushort" />
       <item value="update On Nibp Activity" />
       <item value="exhibition" />
-      <item value="Closed Floating Point Range" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="428" />
-        <entry key="RUSSIAN" value="428" />
+        <entry key="ENGLISH" value="429" />
+        <entry key="RUSSIAN" value="429" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
