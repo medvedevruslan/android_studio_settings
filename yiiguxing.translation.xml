@@ -96,6 +96,8 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Admission Command" />
+      <item value="send Simple Command Without Time Update" />
       <item value="is Firmware Support Encryption" />
       <item value="encrypt Buffer" />
       <item value="No tests found for given includes" />
@@ -144,13 +146,11 @@
       <item value="average Value Range Int" />
       <item value="The value 'value shl 8' assigned to 'var value: Int defined in com.example.clean_pre_trip_control.presentation.ui.ble.strazh.PacketParser.Companion.checkShl' is never used" />
       <item value="C aushort" />
-      <item value="update On Nibp Activity" />
-      <item value="exhibition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="429" />
-        <entry key="RUSSIAN" value="429" />
+        <entry key="ENGLISH" value="431" />
+        <entry key="RUSSIAN" value="431" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
