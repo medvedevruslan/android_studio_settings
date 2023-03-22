@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Requests a buffered channel with the default buffer capacity in the Channel(...) factory function. The default capacity for a channel that suspends on overflow is 64 and can be overridden by setting DEFAULT_BUFFER_PROPERTY_NAME on JVM. For non-suspending channels, a buffer of capacity 1 is used." />
       <item value="Executes the given function action specified number of times. A zero-based index of current iteration is passed as a parameter to action. Samples: samples.misc.ControlFlow.repeat Unresolved" />
       <item value="set Admission Command" />
       <item value="send Simple Command Without Time Update" />
@@ -145,12 +146,11 @@
       <item value="No tests found for given includes: [com.example.clean_pre_trip_control.presentation.ui.strazh_parser.parserTest.checkBinary](--tests filter)" />
       <item value="R.color.blue" />
       <item value="average Value Range Int" />
-      <item value="The value 'value shl 8' assigned to 'var value: Int defined in com.example.clean_pre_trip_control.presentation.ui.ble.strazh.PacketParser.Companion.checkShl' is never used" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="432" />
-        <entry key="RUSSIAN" value="432" />
+        <entry key="ENGLISH" value="433" />
+        <entry key="RUSSIAN" value="433" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
