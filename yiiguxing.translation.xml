@@ -96,6 +96,8 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The image's contrast ratio is 2.02. This ratio is based on an estimated foreground color of 184072 and an estimated background color of 000000. Consider increasing this ratio to 3.00 or greater." />
+      <item value="fill Viewport" />
       <item value="Starts coroutine related to this job (if any) if it was not started yet. The result is true if this invocation actually started coroutine or false if it was already started or completed." />
       <item value="Requests a buffered channel with the default buffer capacity in the Channel(...) factory function. The default capacity for a channel that suspends on overflow is 64 and can be overridden by setting DEFAULT_BUFFER_PROPERTY_NAME on JVM. For non-suspending channels, a buffer of capacity 1 is used." />
       <item value="Executes the given function action specified number of times. A zero-based index of current iteration is passed as a parameter to action. Samples: samples.misc.ControlFlow.repeat Unresolved" />
@@ -144,13 +146,11 @@
       <item value="Cannot resolve type 'dataBindingAdapter'" />
       <item value="Measurement Cancelled" />
       <item value="Shifts this value right by the bitCount number of bits, filling the leftmost bits with zeros. Note that only the five lowest-order bits of the bitCount are used as the shift distance. The shift distance actually used is therefore always in the range 0..31." />
-      <item value="No tests found for given includes: [com.example.clean_pre_trip_control.presentation.ui.strazh_parser.parserTest.checkBinary](--tests filter)" />
-      <item value="R.color.blue" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="434" />
-        <entry key="RUSSIAN" value="434" />
+        <entry key="ENGLISH" value="435" />
+        <entry key="RUSSIAN" value="435" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
