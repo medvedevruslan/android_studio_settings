@@ -96,6 +96,8 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Unsupported App Usage" />
+      <item value="Back-reference to the service this characteristic belongs to." />
       <item value="content Description" />
       <item value="The image's contrast ratio is 2.02. This ratio is based on an estimated foreground color of 184072 and an estimated background color of 000000. Consider increasing this ratio to 3.00 or greater." />
       <item value="fill Viewport" />
@@ -144,13 +146,11 @@
       <item value="Views Models" />
       <item value="association of work statuses to BluetoothState.kt;" />
       <item value="association" />
-      <item value="Cannot resolve type 'dataBindingAdapter'" />
-      <item value="Measurement Cancelled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="436" />
-        <entry key="RUSSIAN" value="436" />
+        <entry key="ENGLISH" value="438" />
+        <entry key="RUSSIAN" value="438" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
