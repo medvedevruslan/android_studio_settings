@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Returns true when this job is active -- it was already started and has not completed nor was cancelled yet. The job that is waiting for its children to complete is still considered to be active if it was not cancelled nor failed. See Job documentation for more details on job states." />
       <item value="Unsupported App Usage" />
       <item value="Back-reference to the service this characteristic belongs to." />
       <item value="content Description" />
@@ -145,12 +146,11 @@
       <item value="illegal start of expression" />
       <item value="Views Models" />
       <item value="association of work statuses to BluetoothState.kt;" />
-      <item value="association" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="438" />
-        <entry key="RUSSIAN" value="438" />
+        <entry key="ENGLISH" value="439" />
+        <entry key="RUSSIAN" value="439" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
