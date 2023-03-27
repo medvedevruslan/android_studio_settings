@@ -83,7 +83,7 @@
     <option name="lastTrimTime" value="1669623435467" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1679298496946" />
+    <option name="lastTrimTime" value="1679903941715" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="RUSSIAN" />
@@ -96,6 +96,11 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="current Pressure" />
+      <item value="set Current Pressure In Hundredth" />
+      <item value="m Heart Rate" />
+      <item value="handle Nibp Data Received" />
+      <item value="handle Nibp Any Data Received" />
       <item value="Returns true when this job is active -- it was already started and has not completed nor was cancelled yet. The job that is waiting for its children to complete is still considered to be active if it was not cancelled nor failed. See Job documentation for more details on job states." />
       <item value="Unsupported App Usage" />
       <item value="Back-reference to the service this characteristic belongs to." />
@@ -141,16 +146,11 @@
       <item value="expected: kotlin.UShort@4b79ac84&lt;10673&gt; but was: kotlin.UInt@53941c2f&lt;10673&gt;" />
       <item value="expected: kotlin.UShort@6b88ca8c&lt;10673&gt; but was: java.lang.Integer@336f1079&lt;10673&gt;" />
       <item value="Shifts this value left by the bitCount number of bits. Note that only the five lowest-order bits of the bitCount are used as the shift distance. The shift distance actually used is therefore always in the range 0..31." />
-      <item value="Shifts this value right by the bitCount number of bits, filling the leftmost bits with copies of the sign bit. Note that only the five lowest-order bits of the bitCount are used as the shift distance. The shift distance actually used is therefore always in the range 0..31." />
-      <item value="Shifts this value right by the bitCount number of bits, filling the leftmost bits with zeros. Note that only the five lowest-order bits of the bitCount are used as the shift distance. The shift distance actually used is therefore always in the range 0..31" />
-      <item value="illegal start of expression" />
-      <item value="Views Models" />
-      <item value="association of work statuses to BluetoothState.kt;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="439" />
-        <entry key="RUSSIAN" value="439" />
+        <entry key="ENGLISH" value="444" />
+        <entry key="RUSSIAN" value="444" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
