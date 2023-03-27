@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="is Crc 16 Corrected For Packet" />
       <item value="current Pressure" />
       <item value="set Current Pressure In Hundredth" />
       <item value="m Heart Rate" />
@@ -145,12 +146,11 @@
       <item value="expected" />
       <item value="expected: kotlin.UShort@4b79ac84&lt;10673&gt; but was: kotlin.UInt@53941c2f&lt;10673&gt;" />
       <item value="expected: kotlin.UShort@6b88ca8c&lt;10673&gt; but was: java.lang.Integer@336f1079&lt;10673&gt;" />
-      <item value="Shifts this value left by the bitCount number of bits. Note that only the five lowest-order bits of the bitCount are used as the shift distance. The shift distance actually used is therefore always in the range 0..31." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="444" />
-        <entry key="RUSSIAN" value="444" />
+        <entry key="ENGLISH" value="445" />
+        <entry key="RUSSIAN" value="445" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
