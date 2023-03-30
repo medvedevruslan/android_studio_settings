@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Temporary" />
       <item value="selection Last Measurement Before Send To DB" />
       <item value="Returns an array containing the constants of this enum type, in the order they're declared. This method may be used to iterate over the constants" />
       <item value="Admission" />
@@ -145,12 +146,11 @@
       <item value="revision" />
       <item value="E Module Status Nibp Started" />
       <item value="Int defined in kotlin" />
-      <item value="Expected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="470" />
-        <entry key="RUSSIAN" value="470" />
+        <entry key="ENGLISH" value="471" />
+        <entry key="RUSSIAN" value="471" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
