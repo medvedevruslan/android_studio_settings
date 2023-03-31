@@ -96,6 +96,8 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Data Receiver" />
+      <item value="pressure Measurement Value" />
       <item value="Danil Singly Linked List" />
       <item value="STOP FOREGROUND DETACH" />
       <item value="STOP FOREGROUND REMOVE" />
@@ -144,13 +146,11 @@
       <item value="send Simple Command Without Time Update" />
       <item value="is Firmware Support Encryption" />
       <item value="encrypt Buffer" />
-      <item value="No tests found for given includes" />
-      <item value="Interruption" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="478" />
-        <entry key="RUSSIAN" value="478" />
+        <entry key="ENGLISH" value="481" />
+        <entry key="RUSSIAN" value="481" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
