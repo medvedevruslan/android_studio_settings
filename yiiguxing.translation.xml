@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="preliminary Data" />
       <item value="repeat Button Visibility" />
       <item value="pressure In Blood Pressure Cuff" />
       <item value="blood Pressure Cuff" />
@@ -145,12 +146,11 @@
       <item value="Conflation Usage of this function with capacity of Channel.CONFLATED is a shortcut to buffer(onBufferOverflow = BufferOverflow.DROP_OLDEST), and is available via a separate conflate operator. See its documentation for details. Params: capacity - typecapacity of the buffer between coroutines. Allowed values are the same as in Channel(...) factory function: BUFFERED (by default), CONFLATED, RENDEZVOUS, UNLIMITED or a non-negative value indicating an explicitly requested size. onBufferOverflow - configures an action on buffer overflow (optional, defaults to SUSPEND, supported only when capacity &gt;= 0 or capacity == Channel.BUFFERED, implicitly creates a channel with at least one buffered element)." />
       <item value="BUFFERED" />
       <item value="PING REPEAT TIMEOUT PING MODE" />
-      <item value="Returns the permissions for this characteristic. Returns: Permissions of this characteristic" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="474" />
-        <entry key="RUSSIAN" value="474" />
+        <entry key="ENGLISH" value="475" />
+        <entry key="RUSSIAN" value="475" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
