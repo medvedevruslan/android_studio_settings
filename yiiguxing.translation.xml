@@ -96,6 +96,8 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Flag for stopForeground(int): if set, the notification previously provided to startForeground will be detached from the service. Only makes sense when STOP_FOREGROUND_REMOVE is not set -- in this case, the notification will remain shown, but be completely detached from the service and so no longer changed except through direct calls to the notification manager." />
+      <item value="Flag for stopForeground(int): if set, the notification previously provided to startForeground will be removed. Otherwise it will remain until a later call (to startForeground(int, Notification) or stopForeground(int) removes it, or the service is destroyed." />
       <item value="mark Result Is Done" />
       <item value="value View" />
       <item value="mark Result Image" />
@@ -144,13 +146,11 @@
       <item value="fill Viewport" />
       <item value="Starts coroutine related to this job (if any) if it was not started yet. The result is true if this invocation actually started coroutine or false if it was already started or completed." />
       <item value="Requests a buffered channel with the default buffer capacity in the Channel(...) factory function. The default capacity for a channel that suspends on overflow is 64 and can be overridden by setting DEFAULT_BUFFER_PROPERTY_NAME on JVM. For non-suspending channels, a buffer of capacity 1 is used." />
-      <item value="Executes the given function action specified number of times. A zero-based index of current iteration is passed as a parameter to action. Samples: samples.misc.ControlFlow.repeat Unresolved" />
-      <item value="set Admission Command" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="484" />
-        <entry key="RUSSIAN" value="484" />
+        <entry key="ENGLISH" value="486" />
+        <entry key="RUSSIAN" value="486" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
