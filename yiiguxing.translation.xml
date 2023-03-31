@@ -96,6 +96,9 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Danil Singly Linked List" />
+      <item value="STOP FOREGROUND DETACH" />
+      <item value="STOP FOREGROUND REMOVE" />
       <item value="preliminary Data" />
       <item value="repeat Button Visibility" />
       <item value="pressure In Blood Pressure Cuff" />
@@ -143,14 +146,11 @@
       <item value="encrypt Buffer" />
       <item value="No tests found for given includes" />
       <item value="Interruption" />
-      <item value="Conflation Usage of this function with capacity of Channel.CONFLATED is a shortcut to buffer(onBufferOverflow = BufferOverflow.DROP_OLDEST), and is available via a separate conflate operator. See its documentation for details. Params: capacity - typecapacity of the buffer between coroutines. Allowed values are the same as in Channel(...) factory function: BUFFERED (by default), CONFLATED, RENDEZVOUS, UNLIMITED or a non-negative value indicating an explicitly requested size. onBufferOverflow - configures an action on buffer overflow (optional, defaults to SUSPEND, supported only when capacity &gt;= 0 or capacity == Channel.BUFFERED, implicitly creates a channel with at least one buffered element)." />
-      <item value="BUFFERED" />
-      <item value="PING REPEAT TIMEOUT PING MODE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="475" />
-        <entry key="RUSSIAN" value="475" />
+        <entry key="ENGLISH" value="478" />
+        <entry key="RUSSIAN" value="478" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
