@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Danil Singly Linked List" />
       <item value="description" />
       <item value="Flag for stopForeground(int): if set, the notification previously provided to startForeground will be detached from the service. Only makes sense when STOP_FOREGROUND_REMOVE is not set -- in this case, the notification will remain shown, but be completely detached from the service and so no longer changed except through direct calls to the notification manager." />
       <item value="Flag for stopForeground(int): if set, the notification previously provided to startForeground will be removed. Otherwise it will remain until a later call (to startForeground(int, Notification) or stopForeground(int) removes it, or the service is destroyed." />
@@ -104,7 +105,6 @@
       <item value="mark Result Image" />
       <item value="Data Receiver" />
       <item value="pressure Measurement Value" />
-      <item value="Danil Singly Linked List" />
       <item value="STOP FOREGROUND DETACH" />
       <item value="STOP FOREGROUND REMOVE" />
       <item value="preliminary Data" />
@@ -149,8 +149,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="487" />
-        <entry key="RUSSIAN" value="487" />
+        <entry key="ENGLISH" value="488" />
+        <entry key="RUSSIAN" value="488" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
