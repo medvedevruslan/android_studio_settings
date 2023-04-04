@@ -1,10 +1,11 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine  tag:bledevicemanager " />
+    <option name="mostRecentlyUsed" value="package:mine tag:developer_strazh" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine  tag:bledevicemanager " />
         <option value="package:mine tag:developer_strazh" />
+        <option value="package:mine tag:developer_straz" />
+        <option value="package:mine  tag:bledevicemanager " />
         <option value="package:mine level:error " />
         <option value="package:mine  tag:developer" />
         <option value="package:mine tag:developer" />
@@ -22,7 +23,6 @@
         <option value="package:mine tag:developer_life" />
         <option value="package:com.example.clean_pre_trip_control " />
         <option value="package:ru.kamaz.linear_pre_trip_control " />
-        <option value="package:дш" />
       </list>
     </option>
   </component>
