@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="on Confirm" />
       <item value="Devices Fragment" />
       <item value="_nested Fragment" />
       <item value="nested Fragment" />
@@ -145,12 +146,11 @@
       <item value="E Module Status" />
       <item value="set Current Pressure In Hundredth" />
       <item value="current Pressure" />
-      <item value="m Heart Rate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="500" />
-        <entry key="RUSSIAN" value="500" />
+        <entry key="ENGLISH" value="501" />
+        <entry key="RUSSIAN" value="501" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
