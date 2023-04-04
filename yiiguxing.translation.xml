@@ -96,9 +96,9 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="_nested Fragment" />
       <item value="on Confirm" />
       <item value="Devices Fragment" />
-      <item value="_nested Fragment" />
       <item value="nested Fragment" />
       <item value="fragment Linked List" />
       <item value="Check for instance is always 'true'" />
@@ -149,8 +149,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="501" />
-        <entry key="RUSSIAN" value="501" />
+        <entry key="ENGLISH" value="502" />
+        <entry key="RUSSIAN" value="502" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
