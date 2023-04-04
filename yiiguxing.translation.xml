@@ -96,11 +96,11 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="fragment Linked List" />
       <item value="Check for instance is always 'true'" />
       <item value="while" />
       <item value="regular State" />
       <item value="could not find callback wrapper" />
-      <item value="fragment Linked List" />
       <item value="Calls the specified function block with this value as its argument and returns its result. For detailed usage information see the documentation for scope functions ." />
       <item value="_nested Fragment" />
       <item value="Danil Singly Linked List" />
@@ -149,8 +149,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="496" />
-        <entry key="RUSSIAN" value="496" />
+        <entry key="ENGLISH" value="497" />
+        <entry key="RUSSIAN" value="497" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
