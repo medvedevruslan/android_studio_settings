@@ -3,6 +3,7 @@
     <option name="mostRecentlyUsed" value="package:mine tag:developer_strazh" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine " />
         <option value="package:mine level:error " />
         <option value="package:mine tag:developer_strazh" />
         <option value="package:mine tag:developer_straz" />
@@ -14,7 +15,6 @@
         <option value="package:mine  tag:developer_strazh " />
         <option value="package:mine tag:developer_strazh " />
         <option value="package:mine tag:" />
-        <option value="package:mine " />
         <option value="package:mine tag: developer_strazh" />
         <option value="package:mine tag:developer " />
         <option value="package:mine tag:developer_pressure " />
