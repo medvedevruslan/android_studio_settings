@@ -96,6 +96,8 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Constant corresponding to connectedDevice in the android.R.attr.foregroundServiceType attribute. Auto, bluetooth, TV or other devices connection, monitoring and interaction." />
+      <item value="FOREGROUND SERVICE TYPE CONNECTED DEVICE" />
       <item value="Perform Bluetooth LE scan in low power mode. This is the default scan mode as it consumes the least power. This mode is enforced if the scanning application is not in foreground." />
       <item value="Scan using highest duty cycle. It's recommended to only use this mode when the application is running in the foreground." />
       <item value="Shutting down VM" />
@@ -144,13 +146,11 @@
       <item value="parse Admission" />
       <item value="This declaration needs opt-in. Its usage should be marked with '@kotlin.ExperimentalUnsignedTypes' or '@OptIn(kotlin.ExperimentalUnsignedTypes::class)'" />
       <item value="Conflicting declarations: private final var jobSendCommandToDevice: Job, private final var jobSendCommandToDevice: Job?" />
-      <item value="BAD ANSWER COMMAND REPEAT TIMEOUT" />
-      <item value="REPEAT COMMAND COUNTER DEFAULT" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="505" />
-        <entry key="RUSSIAN" value="505" />
+        <entry key="ENGLISH" value="507" />
+        <entry key="RUSSIAN" value="507" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
