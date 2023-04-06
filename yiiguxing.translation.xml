@@ -96,6 +96,9 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Ensures that current scope is active. If the job is no longer active, throws CancellationException. If the job was cancelled, thrown exception contains the original cancellation cause. This function does not do anything if there is no Job in the scope's coroutineContext. This method is a drop-in replacement for the following code, but with more precise exception: if (!isActive) { throw CancellationException() }" />
+      <item value="This property is a shortcut for coroutineContext.isActive in the scope when CoroutineScope is available. See coroutineContext, isActive and Job.isActive." />
+      <item value="Returns true when the current Job is still active (has not completed and was not cancelled yet). Check this property in long-running computation loops to support cancellation:" />
       <item value="ACCESS FINE LOCATION" />
       <item value="ACCESS COARSE LOCATION" />
       <item value="Constant corresponding to connectedDevice in the android.R.attr.foregroundServiceType attribute. Auto, bluetooth, TV or other devices connection, monitoring and interaction." />
@@ -143,14 +146,11 @@
       <item value="check Scan Result To Find Device" />
       <item value="confirmation Flag Check" />
       <item value="All Disabled" />
-      <item value="is Crc 16 Corrected For Packet" />
-      <item value="count" />
-      <item value="parse Admission" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="509" />
-        <entry key="RUSSIAN" value="509" />
+        <entry key="ENGLISH" value="512" />
+        <entry key="RUSSIAN" value="512" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
