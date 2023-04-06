@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Installation failed due to: 'Failed to commit install session 162736407 with command package install-commit 162736407. Error: -116: Instant app package must be signed with the BW limit signatures'" />
       <item value="Instant app package must be signed with the BW limit signatures" />
       <item value="Installation did not succeed." />
       <item value="Instant app package must be signed with the BW limit signatures'" />
@@ -145,12 +146,11 @@
       <item value="Temper" />
       <item value="Method Temper Data" />
       <item value="Method Alco Data" />
-      <item value="Returns the ordinal of this enumeration constant (its position in its enum declaration, where the initial constant is assigned an ordinal of zero)." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="519" />
-        <entry key="RUSSIAN" value="519" />
+        <entry key="ENGLISH" value="521" />
+        <entry key="RUSSIAN" value="521" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
