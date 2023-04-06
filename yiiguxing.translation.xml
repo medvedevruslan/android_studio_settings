@@ -96,6 +96,10 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Failed to launch an application on all devices" />
+      <item value="st of apks: [0] 'homemedvedevДокументыAndroidStudioProjects2023.02clean_pre_trip_controlappbuildintermediatesapkdebugapp-debug.ap" />
+      <item value="List of apks: [0] 'homemedvedevДокументыAndroidStudioProjects2023.02clean_pre_trip_controlappbuildintermediatesapkdebugapp-debug.apk' Installation failed due to: 'Failed to commit install session 570093928 with command package install-commit 570093928. Error: -116: Instant app package must be signed with the BW limit signatures' Retry Failed to launch an application on all devices" />
+      <item value="The application could not be installed: INSTALL_FAILED_INSTANT_APP_INVALID" />
       <item value="Ensures that current scope is active. If the job is no longer active, throws CancellationException. If the job was cancelled, thrown exception contains the original cancellation cause. This function does not do anything if there is no Job in the scope's coroutineContext. This method is a drop-in replacement for the following code, but with more precise exception: if (!isActive) { throw CancellationException() }" />
       <item value="This property is a shortcut for coroutineContext.isActive in the scope when CoroutineScope is available. See coroutineContext, isActive and Job.isActive." />
       <item value="Returns true when the current Job is still active (has not completed and was not cancelled yet). Check this property in long-running computation loops to support cancellation:" />
@@ -142,15 +146,11 @@
       <item value="Useful Data" />
       <item value="A migration from 3 to 1 was required but not found" />
       <item value="java.lang.IllegalStateException: Room cannot verify the data integrity. Looks like you've changed schema but forgot to update the version number. You can simply fix this by increasing the version number." />
-      <item value="Looks like you've changed schema but forgot to update the version number" />
-      <item value="check Scan Result To Find Device" />
-      <item value="confirmation Flag Check" />
-      <item value="All Disabled" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="512" />
-        <entry key="RUSSIAN" value="512" />
+        <entry key="ENGLISH" value="516" />
+        <entry key="RUSSIAN" value="516" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
