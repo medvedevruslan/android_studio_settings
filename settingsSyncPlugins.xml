@@ -130,6 +130,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.shuzijun.markdown-editor">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.lang" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.vecheslav.darculaDarkerTheme">
           <value>
             <PluginData>
