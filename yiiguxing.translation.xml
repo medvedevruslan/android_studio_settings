@@ -96,6 +96,8 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="!-- Service used to scan in background to emulate scanning with PendingIntent on Android 4.3 - 7.x. Service will scan in background with given settings and filters. --&gt;" />
+      <item value="Location permission has been removed from here, as it may not be required for Android 12 onwards. It is required on Android 6-11 when scanning for Bluetooth LE devices." />
       <item value="canner already started with given callback" />
       <item value="scanner already started with given callback" />
       <item value="BT Adapter is not turned ON" />
@@ -144,13 +146,11 @@
       <item value="preliminary Data" />
       <item value="repeat Button Visibility" />
       <item value="pressure In Blood Pressure Cuff" />
-      <item value="blood Pressure Cuff" />
-      <item value="Temporary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="528" />
-        <entry key="RUSSIAN" value="528" />
+        <entry key="ENGLISH" value="530" />
+        <entry key="RUSSIAN" value="530" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
