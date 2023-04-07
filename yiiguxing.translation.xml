@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="canner already started with given callback" />
       <item value="scanner already started with given callback" />
       <item value="BT Adapter is not turned ON" />
       <item value="homemedvedev.gradlecachestransforms-38 eab 023 e 91162199 b 3 b 120243 a 98 eadctransformedandroidx.databinding.library.base Adapters-r.txt" />
@@ -145,12 +146,11 @@
       <item value="pressure In Blood Pressure Cuff" />
       <item value="blood Pressure Cuff" />
       <item value="Temporary" />
-      <item value="selection Last Measurement Before Send To DB" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="527" />
-        <entry key="RUSSIAN" value="527" />
+        <entry key="ENGLISH" value="528" />
+        <entry key="RUSSIAN" value="528" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
