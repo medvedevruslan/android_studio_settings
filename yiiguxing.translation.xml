@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="input Stream" />
       <item value="有kotlin的项目还需要在project的build.gradle里添加" />
       <item value="A problem occurred evaluating project ':app'. &gt; No signature of method: build_axyhntzlil9sd6g92iu4btff6.android() is applicable for argument types: (build_axyhntzlil9sd6g92iu4btff6_run_closure1) values: [build_axyhntzlil9sd6g92iu4btff6_run_closure1@bcd2417]" />
       <item value="Caused" />
@@ -145,12 +146,11 @@
       <item value="value View" />
       <item value="mark Result Image" />
       <item value="Data Receiver" />
-      <item value="pressure Measurement Value" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="534" />
+        <entry key="ENGLISH" value="535" />
         <entry key="RUSSIAN" value="535" />
         <entry key="YORUBA" value="1" />
       </map>
