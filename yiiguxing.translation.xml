@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="device Attribute" />
       <item value="UUID INSECURE" />
       <item value="COMMAND DISABLE TEMPER" />
       <item value="Note: Recompile with -Xlint:deprecation for details." />
@@ -145,7 +146,6 @@
       <item value="Perform Bluetooth LE scan in low power mode. This is the default scan mode as it consumes the least power. This mode is enforced if the scanning application is not in foreground." />
       <item value="Scan using highest duty cycle. It's recommended to only use this mode when the application is running in the foreground." />
       <item value="Shutting down VM" />
-      <item value="_nested Fragment" />
     </histories>
     <option name="languageScores">
       <map>
