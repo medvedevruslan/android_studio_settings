@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="UUID INSECURE" />
       <item value="COMMAND DISABLE TEMPER" />
       <item value="Note: Recompile with -Xlint:deprecation for details." />
       <item value="Note: Some input files use or override a deprecated API." />
@@ -145,13 +146,12 @@
       <item value="Scan using highest duty cycle. It's recommended to only use this mode when the application is running in the foreground." />
       <item value="Shutting down VM" />
       <item value="_nested Fragment" />
-      <item value="on Confirm" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="550" />
-        <entry key="RUSSIAN" value="550" />
+        <entry key="ENGLISH" value="551" />
+        <entry key="RUSSIAN" value="551" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
