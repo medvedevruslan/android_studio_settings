@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="CoroutineScope tied to this LifecycleOwner's Lifecycle. This scope will be cancelled when the Lifecycle is destroyed. This scope is bound to Dispatchers.Main.immediate." />
       <item value="Groups various implementations of CoroutineDispatcher." />
       <item value="com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhServiceonStartCommand12 cannot be cast to com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhDeviceManager" />
       <item value="Unable to start service" />
@@ -145,13 +146,12 @@
       <item value="Instant app package must be signed with the BW limit signatures'" />
       <item value="Failed to launch an application on all devices" />
       <item value="st of apks: [0] 'homemedvedevДокументыAndroidStudioProjects2023.02clean_pre_trip_controlappbuildintermediatesapkdebugapp-debug.ap" />
-      <item value="List of apks: [0] 'homemedvedevДокументыAndroidStudioProjects2023.02clean_pre_trip_controlappbuildintermediatesapkdebugapp-debug.apk' Installation failed due to: 'Failed to commit install session 570093928 with command package install-commit 570093928. Error: -116: Instant app package must be signed with the BW limit signatures' Retry Failed to launch an application on all devices" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="560" />
-        <entry key="RUSSIAN" value="560" />
+        <entry key="ENGLISH" value="562" />
+        <entry key="RUSSIAN" value="562" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
