@@ -96,6 +96,10 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Groups various implementations of CoroutineDispatcher." />
+      <item value="com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhServiceonStartCommand12 cannot be cast to com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhDeviceManager" />
+      <item value="Unable to start service" />
+      <item value="p_control.presentation.ui.ble.strazh.StrazhServiceonStartCommand12 cannot be cast to com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhDeviceManager" />
       <item value="Nothing has no instances. You can use Nothing to represent &quot;a value that never exists&quot;: for example, if a function has the return type of Nothing, it means that it never returns (always throws an exception" />
       <item value="equals" />
       <item value="Do not place Android context classes in static fields (static reference to StrazhDeviceManager which has field context pointing to Context); this is a memory leak" />
@@ -142,16 +146,12 @@
       <item value="Failed to launch an application on all devices" />
       <item value="st of apks: [0] 'homemedvedevДокументыAndroidStudioProjects2023.02clean_pre_trip_controlappbuildintermediatesapkdebugapp-debug.ap" />
       <item value="List of apks: [0] 'homemedvedevДокументыAndroidStudioProjects2023.02clean_pre_trip_controlappbuildintermediatesapkdebugapp-debug.apk' Installation failed due to: 'Failed to commit install session 570093928 with command package install-commit 570093928. Error: -116: Instant app package must be signed with the BW limit signatures' Retry Failed to launch an application on all devices" />
-      <item value="The application could not be installed: INSTALL_FAILED_INSTANT_APP_INVALID" />
-      <item value="Ensures that current scope is active. If the job is no longer active, throws CancellationException. If the job was cancelled, thrown exception contains the original cancellation cause. This function does not do anything if there is no Job in the scope's coroutineContext. This method is a drop-in replacement for the following code, but with more precise exception: if (!isActive) { throw CancellationException() }" />
-      <item value="This property is a shortcut for coroutineContext.isActive in the scope when CoroutineScope is available. See coroutineContext, isActive and Job.isActive." />
-      <item value="Returns true when the current Job is still active (has not completed and was not cancelled yet). Check this property in long-running computation loops to support cancellation:" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="556" />
-        <entry key="RUSSIAN" value="556" />
+        <entry key="ENGLISH" value="560" />
+        <entry key="RUSSIAN" value="560" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
