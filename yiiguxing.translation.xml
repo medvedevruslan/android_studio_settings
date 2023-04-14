@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="clazz - dependency class" />
       <item value="Expecting a when-condition" />
       <item value="set Test" />
       <item value="CoroutineScope tied to this LifecycleOwner's Lifecycle. This scope will be cancelled when the Lifecycle is destroyed. This scope is bound to Dispatchers.Main.immediate." />
@@ -145,13 +146,12 @@
       <item value="Installation failed due to: 'Failed to commit install session 162736407 with command package install-commit 162736407. Error: -116: Instant app package must be signed with the BW limit signatures'" />
       <item value="Instant app package must be signed with the BW limit signatures" />
       <item value="Installation did not succeed." />
-      <item value="Instant app package must be signed with the BW limit signatures'" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="564" />
-        <entry key="RUSSIAN" value="564" />
+        <entry key="ENGLISH" value="565" />
+        <entry key="RUSSIAN" value="565" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
