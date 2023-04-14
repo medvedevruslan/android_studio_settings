@@ -96,6 +96,8 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="android.app.RemoteServiceException: Context.startForegroundService() did not then call Service.startForeground(): ServiceRecord{1a6ba83 u0 com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhService}" />
+      <item value="android.app.RemoteServiceException: Context.startForegroundService() did not then call Service.startForeground(): ServiceRecord{6953fbd u0 com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhService}" />
       <item value="android.app.RemoteServiceException: Context.startForegroundService() did not then call Service.startForeground(): ServiceRecord{bea0b5f u0 com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhService}" />
       <item value=") did not then call Service.startForeground()" />
       <item value="on Confirm" />
@@ -144,14 +146,12 @@
       <item value="Library projects cannot set applicationId. applicationId is set to 'com.kamaz.library' in default config." />
       <item value="input Stream" />
       <item value="有kotlin的项目还需要在project的build.gradle里添加" />
-      <item value="A problem occurred evaluating project ':app'. &gt; No signature of method: build_axyhntzlil9sd6g92iu4btff6.android() is applicable for argument types: (build_axyhntzlil9sd6g92iu4btff6_run_closure1) values: [build_axyhntzlil9sd6g92iu4btff6_run_closure1@bcd2417]" />
-      <item value="Caused" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="582" />
-        <entry key="RUSSIAN" value="582" />
+        <entry key="ENGLISH" value="584" />
+        <entry key="RUSSIAN" value="584" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
