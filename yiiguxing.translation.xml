@@ -96,10 +96,10 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="set Final Checkup" />
       <item value="on Confirm" />
-      <item value="nested Fragment" />
       <item value="Solved" />
+      <item value="set Final Checkup" />
+      <item value="nested Fragment" />
       <item value="register Dialog Result Listener" />
       <item value="Base Confirmation Dialog Fragment" />
       <item value="input Command" />
@@ -150,8 +150,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="577" />
-        <entry key="RUSSIAN" value="577" />
+        <entry key="ENGLISH" value="580" />
+        <entry key="RUSSIAN" value="580" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
