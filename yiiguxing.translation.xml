@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="None of the following functions can be called with the arguments supplied." />
       <item value="Useful Data" />
       <item value="AllDisabled, NibpEnabled, NibpStarted, TemperEnabled, TemperStarted, AlcoEnabled, AlcoStarted" />
       <item value="android.app.RemoteServiceException: Context.startForegroundService() did not then call Service.startForeground(): ServiceRecord{1a6ba83 u0 com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhService}" />
@@ -145,7 +146,6 @@
       <item value="AILURE: Build completed with 8 failures." />
       <item value="消息发布者、被观察者 date: 201983 13:14 author: zengfansheng" />
       <item value="是否开启观察（接收通知） date: 201989 12:46 author: zengfansheng" />
-      <item value="Library projects cannot set applicationId. applicationId is set to 'com.kamaz.library' in default config." />
     </histories>
     <option name="languageScores">
       <map>
