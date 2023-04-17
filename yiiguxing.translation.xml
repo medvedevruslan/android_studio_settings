@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="on Confirm" />
       <item value="None of the following functions can be called with the arguments supplied." />
       <item value="Useful Data" />
       <item value="AllDisabled, NibpEnabled, NibpStarted, TemperEnabled, TemperStarted, AlcoEnabled, AlcoStarted" />
@@ -103,7 +104,6 @@
       <item value="android.app.RemoteServiceException: Context.startForegroundService() did not then call Service.startForeground(): ServiceRecord{6953fbd u0 com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhService}" />
       <item value="android.app.RemoteServiceException: Context.startForegroundService() did not then call Service.startForeground(): ServiceRecord{bea0b5f u0 com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhService}" />
       <item value=") did not then call Service.startForeground()" />
-      <item value="on Confirm" />
       <item value="Solved" />
       <item value="set Final Checkup" />
       <item value="nested Fragment" />
@@ -150,8 +150,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="586" />
-        <entry key="RUSSIAN" value="586" />
+        <entry key="ENGLISH" value="588" />
+        <entry key="RUSSIAN" value="588" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
