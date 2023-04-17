@@ -96,6 +96,9 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="liminary" />
+      <item value="preliminary Data" />
+      <item value="default Text String Res" />
       <item value="send Command To Device To Get Data" />
       <item value="on Confirm" />
       <item value="None of the following functions can be called with the arguments supplied." />
@@ -143,15 +146,12 @@
       <item value="Dependency 'androidx.appcompat:appcompat:1.5.0' requires libraries and applications that depend on it to compile against version 32 or later of the Android APIs." />
       <item value="Recommended action: Update this project to use a newer compileSdkVersion of at least 33, for example 33." />
       <item value=":app is currently compiled against android-31." />
-      <item value="1. Dependency 'androidx.appcompat:appcompat-resources:1.6.1' requires libraries and applications that depend on it to compile against version 33 or later of the Android APIs." />
-      <item value="AILURE: Build completed with 8 failures." />
-      <item value="消息发布者、被观察者 date: 201983 13:14 author: zengfansheng" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="589" />
-        <entry key="RUSSIAN" value="589" />
+        <entry key="ENGLISH" value="591" />
+        <entry key="RUSSIAN" value="591" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
