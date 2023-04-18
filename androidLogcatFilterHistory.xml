@@ -1,7 +1,10 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine tag:developer_ble" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine tag:developer_ble" />
+        <option value="package:mine tag:developer_strazh " />
         <option value="package:mine " />
         <option value="package:mine tag:BleDeviceManager" />
         <option value="package:mine tag:BleD" />
@@ -9,7 +12,6 @@
         <option value="package:mine tag:developer_strazh_common" />
         <option value="package:mine tag:developer_strazh_value" />
         <option value="package:mine tag:developer" />
-        <option value="package:mine tag:developer_strazh " />
         <option value="package:mine" />
         <option value="package:mine tag:developerTemp " />
         <option value="package:mine  tag:bledevicemanager " />
@@ -21,7 +23,6 @@
         <option value="package:mine tag:developer_straz" />
         <option value="package:mine  tag:developer" />
         <option value="tag:developer_strazh " />
-        <option value="tag:developer_strazh" />
       </list>
     </option>
   </component>
