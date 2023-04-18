@@ -4,8 +4,8 @@
     <option name="nonFavorites">
       <list>
         <option value="package:mine tag:developer_ble" />
-        <option value="package:mine tag:developer_strazh " />
         <option value="package:mine " />
+        <option value="package:mine tag:developer_strazh " />
         <option value="package:mine tag:BleDeviceManager" />
         <option value="package:mine tag:BleD" />
         <option value="package:mine tag:" />
