@@ -96,12 +96,12 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="fragment Types Collection" />
       <item value="cancel Handler Messages" />
       <item value="refresh All About Work With Device" />
       <item value="description Of Error" />
       <item value="description Error" />
       <item value="on Confirmation Dialog Dismiss" />
-      <item value="fragment Types Collection" />
       <item value="SYSTOLIC VALUE BYTE NUMB" />
       <item value="not Success Result" />
       <item value="display Formatted String" />
@@ -150,8 +150,8 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="613" />
-        <entry key="RUSSIAN" value="613" />
+        <entry key="ENGLISH" value="614" />
+        <entry key="RUSSIAN" value="614" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
