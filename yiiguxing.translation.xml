@@ -96,6 +96,8 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="refresh All About Work With Device" />
+      <item value="cancel Handler Messages" />
       <item value="description Of Error" />
       <item value="description Error" />
       <item value="on Confirmation Dialog Dismiss" />
@@ -144,14 +146,12 @@
       <item value="Unable to start service" />
       <item value="p_control.presentation.ui.ble.strazh.StrazhServiceonStartCommand12 cannot be cast to com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhDeviceManager" />
       <item value="Nothing has no instances. You can use Nothing to represent &quot;a value that never exists&quot;: for example, if a function has the return type of Nothing, it means that it never returns (always throws an exception" />
-      <item value="equals" />
-      <item value="Do not place Android context classes in static fields (static reference to StrazhDeviceManager which has field context pointing to Context); this is a memory leak" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="609" />
-        <entry key="RUSSIAN" value="609" />
+        <entry key="ENGLISH" value="612" />
+        <entry key="RUSSIAN" value="612" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
