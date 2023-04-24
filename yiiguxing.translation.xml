@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="825" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="on Confirmation Dialog Dismiss" />
       <item value="fragment Types Collection" />
       <item value="SYSTOLIC VALUE BYTE NUMB" />
       <item value="not Success Result" />
@@ -145,13 +146,12 @@
       <item value="Do not place Android context classes in static fields (static reference to StrazhDeviceManager which has field context pointing to Context); this is a memory leak" />
       <item value="jank_removeInvalidNode all the node in jank list is out of time" />
       <item value="cancel Handler Messages" />
-      <item value="stop Scan Before Connect Device" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="606" />
-        <entry key="RUSSIAN" value="606" />
+        <entry key="ENGLISH" value="607" />
+        <entry key="RUSSIAN" value="607" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
