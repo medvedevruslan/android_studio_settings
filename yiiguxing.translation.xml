@@ -91,9 +91,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="381" />
-    <option name="newTranslationDialogWidth" value="782" />
+    <option name="newTranslationDialogWidth" value="780" />
+    <option name="newTranslationDialogX" value="1780" />
+    <option name="newTranslationDialogY" value="976" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Returns the value associated with the given key, or null if no mapping of the desired type exists for the given key or a null value is explicitly associated with the key." />
       <item value="blank" />
       <item value="Error dialog fragment that should show. Leave blank if not needed" />
       <item value="flag When Fragment Destroyed Without Callback Set" />
@@ -143,7 +146,6 @@
       <item value="liminary" />
       <item value="preliminary Data" />
       <item value="default Text String Res" />
-      <item value="send Command To Device To Get Data" />
     </histories>
     <option name="languageScores">
       <map>
