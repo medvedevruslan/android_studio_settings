@@ -94,17 +94,17 @@
     <option name="newTranslationDialogWidth" value="782" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="regular State" />
+      <item value="Sets the callback that will be called if a key is dispatched to the dialog." />
       <item value="cancel Measure Watch Job" />
       <item value="register Dialog Result Listener" />
       <item value="set Fragment Result Listener" />
       <item value="dismiss" />
-      <item value="regular State" />
       <item value="nibp error cuff contour compression detected" />
       <item value="Supply the construction arguments for this fragment. The arguments supplied here will be retained across fragment destroy and creation. This method cannot be called if the fragment is added to a FragmentManager and if isStateSaved() would return true." />
       <item value="Enum class cannot inherit from classes This type is final, so it cannot be inherited from" />
       <item value="getAction value: the key has been released." />
       <item value="Key code constant: Back key." />
-      <item value="Sets the callback that will be called if a key is dispatched to the dialog." />
       <item value="New Instance Fun" />
       <item value="on Confirmation Dialog Dismiss" />
       <item value="on App Error Handle" />
@@ -149,8 +149,8 @@
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="639" />
-        <entry key="RUSSIAN" value="639" />
+        <entry key="ENGLISH" value="642" />
+        <entry key="RUSSIAN" value="642" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
