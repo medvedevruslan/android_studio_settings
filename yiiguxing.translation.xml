@@ -96,6 +96,8 @@
     <option name="newTranslationDialogY" value="976" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="on App Error Handle" />
+      <item value="confirmation Ui Is Displayed" />
       <item value="Returns the value associated with the given key, or null if no mapping of the desired type exists for the given key or a null value is explicitly associated with the key." />
       <item value="blank" />
       <item value="Error dialog fragment that should show. Leave blank if not needed" />
@@ -113,7 +115,6 @@
       <item value="Key code constant: Back key." />
       <item value="New Instance Fun" />
       <item value="on Confirmation Dialog Dismiss" />
-      <item value="on App Error Handle" />
       <item value="nothing to reset" />
       <item value="round Off" />
       <item value="cancel Handler Messages" />
@@ -145,14 +146,13 @@
       <item value="Returns true when this job is active -- it was already started and has not completed nor was cancelled yet. The job that is waiting for its children to complete is still considered to be active if it was not cancelled nor failed. See Job documentation for more details on job states." />
       <item value="liminary" />
       <item value="preliminary Data" />
-      <item value="default Text String Res" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="646" />
-        <entry key="RUSSIAN" value="646" />
+        <entry key="ENGLISH" value="649" />
+        <entry key="RUSSIAN" value="649" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
