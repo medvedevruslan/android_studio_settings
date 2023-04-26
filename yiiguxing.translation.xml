@@ -94,6 +94,10 @@
     <option name="newTranslationDialogWidth" value="782" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="register Dialog Result Listener" />
+      <item value="set Fragment Result Listener" />
+      <item value="dismiss" />
+      <item value="regular State" />
       <item value="nibp error cuff contour compression detected" />
       <item value="Supply the construction arguments for this fragment. The arguments supplied here will be retained across fragment destroy and creation. This method cannot be called if the fragment is added to a FragmentManager and if isStateSaved() would return true." />
       <item value="Enum class cannot inherit from classes This type is final, so it cannot be inherited from" />
@@ -140,17 +144,13 @@
       <item value="None of the following functions can be called with the arguments supplied." />
       <item value="AllDisabled, NibpEnabled, NibpStarted, TemperEnabled, TemperStarted, AlcoEnabled, AlcoStarted" />
       <item value="android.app.RemoteServiceException: Context.startForegroundService() did not then call Service.startForeground(): ServiceRecord{1a6ba83 u0 com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhService}" />
-      <item value="android.app.RemoteServiceException: Context.startForegroundService() did not then call Service.startForeground(): ServiceRecord{6953fbd u0 com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhService}" />
-      <item value="android.app.RemoteServiceException: Context.startForegroundService() did not then call Service.startForeground(): ServiceRecord{bea0b5f u0 com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhService}" />
-      <item value=") did not then call Service.startForeground()" />
-      <item value="Solved" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="633" />
-        <entry key="RUSSIAN" value="633" />
+        <entry key="ENGLISH" value="637" />
+        <entry key="RUSSIAN" value="637" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
