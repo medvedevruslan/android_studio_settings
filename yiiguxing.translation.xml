@@ -83,7 +83,7 @@
     <option name="lastTrimTime" value="1669623435467" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681707418099" />
+    <option name="lastTrimTime" value="1682312971562" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="RUSSIAN" />
@@ -91,11 +91,49 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="381" />
-    <option name="newTranslationDialogWidth" value="786" />
-    <option name="newTranslationDialogX" value="5354" />
-    <option name="newTranslationDialogY" value="825" />
+    <option name="newTranslationDialogWidth" value="780" />
+    <option name="newTranslationDialogX" value="1780" />
+    <option name="newTranslationDialogY" value="976" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="if App Error Handler" />
+      <item value="on App Error Handle" />
+      <item value="confirmation Ui Is Displayed" />
+      <item value="Returns the value associated with the given key, or null if no mapping of the desired type exists for the given key or a null value is explicitly associated with the key." />
+      <item value="blank" />
+      <item value="Error dialog fragment that should show. Leave blank if not needed" />
+      <item value="flag When Fragment Destroyed Without Callback Set" />
+      <item value="regular State" />
+      <item value="Sets the callback that will be called if a key is dispatched to the dialog." />
+      <item value="cancel Measure Watch Job" />
+      <item value="register Dialog Result Listener" />
+      <item value="set Fragment Result Listener" />
+      <item value="dismiss" />
+      <item value="nibp error cuff contour compression detected" />
+      <item value="Supply the construction arguments for this fragment. The arguments supplied here will be retained across fragment destroy and creation. This method cannot be called if the fragment is added to a FragmentManager and if isStateSaved() would return true." />
+      <item value="Enum class cannot inherit from classes This type is final, so it cannot be inherited from" />
+      <item value="getAction value: the key has been released." />
+      <item value="Key code constant: Back key." />
+      <item value="New Instance Fun" />
+      <item value="on Confirmation Dialog Dismiss" />
+      <item value="nothing to reset" />
+      <item value="round Off" />
+      <item value="cancel Handler Messages" />
+      <item value="Constant to return from onStartCommand: if this service's process is killed while it is started (after returning from onStartCommand), then leave it in the started state but don't retain this delivered intent. Later the system will try to re-create the service. Because it is in the started state, it will guarantee to call onStartCommand after creating the new service instance; if there are not any pending start commands to be delivered to the service, it will be called with a null intent object, so you must take care to check for this. This mode makes sense for things that will be explicitly started and stopped to run for arbitrary periods of time, such as a service performing background music playback. Since Android version Build.VERSION_CODES.S, apps targeting Build.VERSION_CODES.S or above are disallowed to start a foreground service from the background, but the restriction doesn't impact restarts of a sticky foreground service. However, when apps start a sticky foreground service from the background, the same restriction still applies." />
+      <item value="Constant to return from onStartCommand: if this service's process is killed while it is started (after returning from onStartCommand), then it will be scheduled for a restart and the last delivered Intent re-delivered to it again via onStartCommand. This Intent will remain scheduled for redelivery until the service calls stopSelf(int) with the start ID provided to onStartCommand. The service will not receive a onStartCommand(Intent, int, int) call with a null Intent because it will only be restarted if it is not finished processing all Intents sent to it (and any such pending events will be delivered at the point of restart)." />
+      <item value="Constant to return from onStartCommand: if this service's process is killed while it is started (after returning from onStartCommand), and there are no new start intents to deliver to it, then take the service out of the started state and don't recreate until a future explicit call to Context.startService(Intent). The service will not receive a onStartCommand(Intent, int, int) call with a null Intent because it will not be restarted if there are no pending Intents to deliver. This mode makes sense for things that want to do some work as a result of being started, but can be stopped when under memory pressure and will explicit start themselves again later to do more work. An example of such a service would be one that polls for data from a server: it could schedule an alarm to poll every N minutes by having the alarm start its service. When its onStartCommand is called from the alarm, it schedules a new alarm for N minutes later, and spawns a thread to do its networking. If its process is killed while doing that check, the service will not be restarted until the alarm goes off." />
+      <item value="closing" />
+      <item value="START NOT STICKY" />
+      <item value="START REDELIVER INTENT" />
+      <item value="set Notification On Service" />
+      <item value="Property type is MeasurementType.PrimitiveMeasurementType?, which is not a subtype type of overridden public abstract val measurementType: MeasurementType.PrimitiveMeasurementType defined in com.example.clean_pre_trip_control.presentation.ui.measurement.model.MeasurementType.CompositeMeasurementType" />
+      <item value="fragment Types Collection" />
+      <item value="refresh All About Work With Device" />
+      <item value="description Of Error" />
+      <item value="description Error" />
+      <item value="SYSTOLIC VALUE BYTE NUMB" />
+      <item value="not Success Result" />
+      <item value="display Formatted String" />
       <item value="No value passed for parameter 'actionOnStart'" />
       <item value="Method Alco Data" />
       <item value="Admission" />
@@ -108,50 +146,13 @@
       <item value="For input string" />
       <item value="Returns true when this job is active -- it was already started and has not completed nor was cancelled yet. The job that is waiting for its children to complete is still considered to be active if it was not cancelled nor failed. See Job documentation for more details on job states." />
       <item value="liminary" />
-      <item value="preliminary Data" />
-      <item value="default Text String Res" />
-      <item value="send Command To Device To Get Data" />
-      <item value="on Confirm" />
-      <item value="None of the following functions can be called with the arguments supplied." />
-      <item value="AllDisabled, NibpEnabled, NibpStarted, TemperEnabled, TemperStarted, AlcoEnabled, AlcoStarted" />
-      <item value="android.app.RemoteServiceException: Context.startForegroundService() did not then call Service.startForeground(): ServiceRecord{1a6ba83 u0 com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhService}" />
-      <item value="android.app.RemoteServiceException: Context.startForegroundService() did not then call Service.startForeground(): ServiceRecord{6953fbd u0 com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhService}" />
-      <item value="android.app.RemoteServiceException: Context.startForegroundService() did not then call Service.startForeground(): ServiceRecord{bea0b5f u0 com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhService}" />
-      <item value=") did not then call Service.startForeground()" />
-      <item value="Solved" />
-      <item value="set Final Checkup" />
-      <item value="nested Fragment" />
-      <item value="register Dialog Result Listener" />
-      <item value="Base Confirmation Dialog Fragment" />
-      <item value="input Command" />
-      <item value="Constant to return from onStartCommand: if this service's process is killed while it is started (after returning from onStartCommand), then leave it in the started state but don't retain this delivered intent. Later the system will try to re-create the service. Because it is in the started state, it will guarantee to call onStartCommand after creating the new service instance; if there are not any pending start commands to be delivered to the service, it will be called with a null intent object, so you must take care to check for this. This mode makes sense for things that will be explicitly started and stopped to run for arbitrary periods of time, such as a service performing background music playback. Since Android version Build.VERSION_CODES.S, apps targeting Build.VERSION_CODES.S or above are disallowed to start a foreground service from the background, but the restriction doesn't impact restarts of a sticky foreground service. However, when apps start a sticky foreground service from the background, the same restriction still applies." />
-      <item value="Constant to return from onStartCommand: compatibility version of START_STICKY that does not guarantee that onStartCommand will be called again after being killed." />
-      <item value="Conditional branch result of type List&lt;Short&gt; is implicitly cast to Any" />
-      <item value="signed In User Id" />
-      <item value="clazz - dependency class" />
-      <item value="Expecting a when-condition" />
-      <item value="set Test" />
-      <item value="CoroutineScope tied to this LifecycleOwner's Lifecycle. This scope will be cancelled when the Lifecycle is destroyed. This scope is bound to Dispatchers.Main.immediate." />
-      <item value="Groups various implementations of CoroutineDispatcher." />
-      <item value="com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhServiceonStartCommand12 cannot be cast to com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhDeviceManager" />
-      <item value="Unable to start service" />
-      <item value="p_control.presentation.ui.ble.strazh.StrazhServiceonStartCommand12 cannot be cast to com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhDeviceManager" />
-      <item value="Nothing has no instances. You can use Nothing to represent &quot;a value that never exists&quot;: for example, if a function has the return type of Nothing, it means that it never returns (always throws an exception" />
-      <item value="equals" />
-      <item value="Do not place Android context classes in static fields (static reference to StrazhDeviceManager which has field context pointing to Context); this is a memory leak" />
-      <item value="jank_removeInvalidNode all the node in jank list is out of time" />
-      <item value="cancel Handler Messages" />
-      <item value="stop Scan Before Connect Device" />
-      <item value="common" />
-      <item value="device Attribute" />
-      <item value="UUID INSECURE" />
-      <item value="COMMAND DISABLE TEMPER" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="602" />
-        <entry key="RUSSIAN" value="602" />
+        <entry key="DUTCH" value="1" />
+        <entry key="ENGLISH" value="650" />
+        <entry key="RUSSIAN" value="650" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
