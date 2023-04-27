@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="976" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="mutable Size" />
       <item value="if App Error Handler" />
       <item value="on App Error Handle" />
       <item value="confirmation Ui Is Displayed" />
@@ -145,14 +146,13 @@
       <item value="Uses this string as a format string and returns a string obtained by substituting the specified arguments, using the specified locale." />
       <item value="For input string" />
       <item value="Returns true when this job is active -- it was already started and has not completed nor was cancelled yet. The job that is waiting for its children to complete is still considered to be active if it was not cancelled nor failed. See Job documentation for more details on job states." />
-      <item value="liminary" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="650" />
-        <entry key="RUSSIAN" value="650" />
+        <entry key="ENGLISH" value="651" />
+        <entry key="RUSSIAN" value="651" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
