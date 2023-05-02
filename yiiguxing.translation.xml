@@ -96,6 +96,9 @@
     <option name="newTranslationDialogY" value="976" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="flag When Fragment Destroyed Without Callback Set" />
+      <item value="Returns the first element matching the given predicate. Throws: NoSuchElementException - if no such element is found." />
+      <item value="nested Fragment" />
       <item value="Returns a list containing the results of applying the given transform function to each element in the original collection. Samples: samples.collections.Collections.Transformations.map Unresolved" />
       <item value="fragment Types Collection" />
       <item value="flag Is Registered Broadcast" />
@@ -109,7 +112,6 @@
       <item value="Returns the value associated with the given key, or null if no mapping of the desired type exists for the given key or a null value is explicitly associated with the key." />
       <item value="blank" />
       <item value="Error dialog fragment that should show. Leave blank if not needed" />
-      <item value="flag When Fragment Destroyed Without Callback Set" />
       <item value="regular State" />
       <item value="Sets the callback that will be called if a key is dispatched to the dialog." />
       <item value="cancel Measure Watch Job" />
@@ -144,15 +146,13 @@
       <item value="Method Alco Data" />
       <item value="Admission" />
       <item value="Useful Data" />
-      <item value="Flag for stopForeground(int): if set, the notification previously provided to startForeground will be detached from the service. Only makes sense when STOP_FOREGROUND_REMOVE is not set -- in this case, the notification will remain shown, but be completely detached from the service and so no longer changed except through direct calls to the notification manager." />
-      <item value="STOP FOREGROUND DETACH" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="657" />
-        <entry key="RUSSIAN" value="657" />
+        <entry key="ENGLISH" value="661" />
+        <entry key="RUSSIAN" value="661" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
