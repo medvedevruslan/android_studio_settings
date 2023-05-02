@@ -83,7 +83,7 @@
     <option name="lastTrimTime" value="1669623435467" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1682312971562" />
+    <option name="lastTrimTime" value="1683017275530" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="RUSSIAN" />
@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="976" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Returns a list containing the results of applying the given transform function to each element in the original collection. Samples: samples.collections.Collections.Transformations.map Unresolved" />
       <item value="fragment Types Collection" />
       <item value="flag Is Registered Broadcast" />
       <item value="Interruption" />
@@ -145,14 +146,13 @@
       <item value="Useful Data" />
       <item value="Flag for stopForeground(int): if set, the notification previously provided to startForeground will be detached from the service. Only makes sense when STOP_FOREGROUND_REMOVE is not set -- in this case, the notification will remain shown, but be completely detached from the service and so no longer changed except through direct calls to the notification manager." />
       <item value="STOP FOREGROUND DETACH" />
-      <item value="STOP FOREGROUND REMOVE" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="656" />
-        <entry key="RUSSIAN" value="656" />
+        <entry key="ENGLISH" value="657" />
+        <entry key="RUSSIAN" value="657" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
