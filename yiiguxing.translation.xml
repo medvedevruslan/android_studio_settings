@@ -83,7 +83,7 @@
     <option name="lastTrimTime" value="1669623435467" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1683017275530" />
+    <option name="lastTrimTime" value="1683695267689" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="RUSSIAN" />
@@ -96,6 +96,10 @@
     <option name="newTranslationDialogY" value="1014" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="to old ns" />
+      <item value="NOTE: Do not place your application dependencies here; they belong in the individual module build.gradle files" />
+      <item value="app: 'annotationProcessor' dependencies won't be recognized as kapt annotation processors. Please change the configuration name to 'kapt' for these artifacts: 'com.github.bumptech.glide:compiler:4.9.0'." />
+      <item value="It will be removed at the end of 2019." />
       <item value="Instructs the Kotlin compiler to generate overloads for this function that substitute default parameter values. If a method has N parameters and M of which have default values, M overloads are generated: the first one takes N-1 parameters (all but the last one that takes a default value), the second takes N-2 parameters, and so on." />
       <item value="scan Is Started" />
       <item value="timer Is Started" />
@@ -142,17 +146,13 @@
       <item value="Constant to return from onStartCommand: if this service's process is killed while it is started (after returning from onStartCommand), and there are no new start intents to deliver to it, then take the service out of the started state and don't recreate until a future explicit call to Context.startService(Intent). The service will not receive a onStartCommand(Intent, int, int) call with a null Intent because it will not be restarted if there are no pending Intents to deliver. This mode makes sense for things that want to do some work as a result of being started, but can be stopped when under memory pressure and will explicit start themselves again later to do more work. An example of such a service would be one that polls for data from a server: it could schedule an alarm to poll every N minutes by having the alarm start its service. When its onStartCommand is called from the alarm, it schedules a new alarm for N minutes later, and spawns a thread to do its networking. If its process is killed while doing that check, the service will not be restarted until the alarm goes off." />
       <item value="closing" />
       <item value="START NOT STICKY" />
-      <item value="START REDELIVER INTENT" />
-      <item value="set Notification On Service" />
-      <item value="Property type is MeasurementType.PrimitiveMeasurementType?, which is not a subtype type of overridden public abstract val measurementType: MeasurementType.PrimitiveMeasurementType defined in com.example.clean_pre_trip_control.presentation.ui.measurement.model.MeasurementType.CompositeMeasurementType" />
-      <item value="refresh All About Work With Device" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="670" />
-        <entry key="RUSSIAN" value="670" />
+        <entry key="ENGLISH" value="674" />
+        <entry key="RUSSIAN" value="674" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
