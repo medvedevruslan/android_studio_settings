@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="1014" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="android:content Description=&quot;@stringend tests&quot;" />
       <item value="This item may not have a label readable by screen readers." />
       <item value="content Description" />
       <item value="Get Float Test Result From Checkup In Db Use Case" />
@@ -145,14 +146,13 @@
       <item value="New Instance Fun" />
       <item value="on Confirmation Dialog Dismiss" />
       <item value="nothing to reset" />
-      <item value="cancel Handler Messages" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="680" />
-        <entry key="RUSSIAN" value="680" />
+        <entry key="ENGLISH" value="681" />
+        <entry key="RUSSIAN" value="681" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
