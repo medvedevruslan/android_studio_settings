@@ -96,6 +96,8 @@
     <option name="newTranslationDialogY" value="1014" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Added a class that contains all the visibility flags for each MeasurementFragment layout widget" />
+      <item value="Добавлен класс, в котором содержатся все флаги видимости для каждого виджета макетов MeasurementFragment" />
       <item value="preliminary Data" />
       <item value="android:content Description=&quot;@stringend tests&quot;" />
       <item value="This item may not have a label readable by screen readers." />
@@ -144,15 +146,13 @@
       <item value="Enum class cannot inherit from classes This type is final, so it cannot be inherited from" />
       <item value="getAction value: the key has been released." />
       <item value="Key code constant: Back key." />
-      <item value="New Instance Fun" />
-      <item value="on Confirmation Dialog Dismiss" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="682" />
-        <entry key="RUSSIAN" value="682" />
+        <entry key="ENGLISH" value="685" />
+        <entry key="RUSSIAN" value="685" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
