@@ -91,11 +91,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="381" />
-    <option name="newTranslationDialogWidth" value="778" />
-    <option name="newTranslationDialogX" value="570" />
-    <option name="newTranslationDialogY" value="1014" />
+    <option name="newTranslationDialogWidth" value="776" />
+    <option name="newTranslationDialogX" value="513" />
+    <option name="newTranslationDialogY" value="1149" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Specify the orientation an activity should be run in. If not specified, it will run in the current preferred orientation of the screen" />
       <item value="invalid grant" />
       <item value="response" />
       <item value="Constant to return from onStartCommand: if this service's process is killed while it is started (after returning from onStartCommand), then it will be scheduled for a restart and the last delivered Intent re-delivered to it again via onStartCommand. This Intent will remain scheduled for redelivery until the service calls stopSelf(int) with the start ID provided to onStartCommand. The service will not receive a onStartCommand(Intent, int, int) call with a null Intent because it will only be restarted if it is not finished processing all Intents sent to it (and any such pending events will be delivered at the point of restart)." />
@@ -145,7 +146,6 @@
       <item value="register Dialog Result Listener" />
       <item value="set Fragment Result Listener" />
       <item value="dismiss" />
-      <item value="nibp error cuff contour compression detected" />
     </histories>
     <option name="languageScores">
       <map>
