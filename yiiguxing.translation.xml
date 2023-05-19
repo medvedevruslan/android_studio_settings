@@ -96,6 +96,8 @@
     <option name="newTranslationDialogY" value="1288" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="time For Timer" />
+      <item value="time To Timer()" />
       <item value="This inspection is not compatible with languages that require third-party formatters for code formatting, for example, Go or C with CLangFormat enabled." />
       <item value="Reports formatting issues that appear if your code doesn't follow your project's code style settings." />
       <item value="To get local formatting use getDateInstance(), getDateTimeInstance(), or getTimeInstance(), or use new SimpleDateFormat(String template, Locale locale) with for example Locale.US for ASCII dates. To get local formatting use getDateInstance(), getDateTimeInstance(), or getTimeInstance(), or use new SimpleDateFormat(String template, Locale locale) with for example Locale.US for ASCII dates." />
@@ -144,15 +146,13 @@
       <item value="Returns the value associated with the given key, or null if no mapping of the desired type exists for the given key or a null value is explicitly associated with the key." />
       <item value="blank" />
       <item value="Error dialog fragment that should show. Leave blank if not needed" />
-      <item value="regular State" />
-      <item value="Sets the callback that will be called if a key is dispatched to the dialog." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="689" />
-        <entry key="RUSSIAN" value="689" />
+        <entry key="ENGLISH" value="691" />
+        <entry key="RUSSIAN" value="691" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
