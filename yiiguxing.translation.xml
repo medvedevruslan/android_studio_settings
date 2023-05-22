@@ -91,11 +91,13 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="381" />
-    <option name="newTranslationDialogWidth" value="770" />
-    <option name="newTranslationDialogX" value="574" />
-    <option name="newTranslationDialogY" value="1288" />
+    <option name="newTranslationDialogWidth" value="768" />
+    <option name="newTranslationDialogX" value="1746" />
+    <option name="newTranslationDialogY" value="998" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="return the handle to a system-level service by class. Currently available classes are" />
+      <item value="eturn the handle to a system-level service by class. Currently available classes are" />
       <item value="is Setted Characteristic Notification" />
       <item value="is Set Characteristic Notification" />
       <item value="A GATT operation completed successfully" />
@@ -144,8 +146,6 @@
       <item value="to Start Timer" />
       <item value="set Both Command" />
       <item value="start Measurement" />
-      <item value="action On Command From Intent" />
-      <item value="action On Command" />
     </histories>
     <option name="languageScores">
       <map>
