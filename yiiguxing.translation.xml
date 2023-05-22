@@ -96,6 +96,8 @@
     <option name="newTranslationDialogY" value="1288" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="is Setted Characteristic Notification" />
+      <item value="is Set Characteristic Notification" />
       <item value="A GATT operation completed successfully" />
       <item value="Open a GATT Server The callback is used to deliver results to Caller, such as connection status as well as the results of any other GATT server operations. The method returns a BluetoothGattServer instance. You can use BluetoothGattServer to conduct GATT server operations. Params: context – App context callback – GATT server callback handler that will receive asynchronous callbacks. Returns: BluetoothGattServer instance" />
       <item value="Get a list of devices that match any of the given connection states. If none of the devices match any of the given states, an empty list will be returned. This is not specific to any application configuration but represents the connection state of the local Bluetooth adapter for this profile. This can be used by applications like status bar which would just like to know the state of the local adapter" />
@@ -144,15 +146,13 @@
       <item value="start Measurement" />
       <item value="action On Command From Intent" />
       <item value="action On Command" />
-      <item value="flag When Fragment Destroyed Without Callback Set" />
-      <item value="Returns the first element matching the given predicate. Throws: NoSuchElementException - if no such element is found." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="709" />
-        <entry key="RUSSIAN" value="709" />
+        <entry key="ENGLISH" value="711" />
+        <entry key="RUSSIAN" value="711" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
