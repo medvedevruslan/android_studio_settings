@@ -83,7 +83,7 @@
     <option name="lastTrimTime" value="1669623435467" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1684129445028" />
+    <option name="lastTrimTime" value="1684731850996" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="RUSSIAN" />
@@ -97,6 +97,7 @@
     <option name="pinTranslationDialog" value="true" />
     <histories>
       <item value="Get connected devices for the specified profile. Return the set of devices which are in state BluetoothProfile.STATE_CONNECTED This is not specific to any application configuration but represents the connection state of Bluetooth for this profile. This can be used by applications like status bar which would just like to know the state of Bluetooth. Params: profile – GATT or GATT_SERVER Returns: List of devices. The list will be empty on error." />
+      <item value="java.lang.RuntimeException: Unable to start service com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhService@e3b4f19 with Intent { cmp=com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhService (has extras) }: java.lang.IllegalArgumentException: Profile not supported: 2" />
       <item value="get Devices Matching Connection States" />
       <item value="Not supported - please use BluetoothManager.getConnectedDevices(int) with BluetoothProfile.GATT as argument Throws: UnsupportedOperationException" />
       <item value="time For Timer" />
@@ -145,14 +146,13 @@
       <item value="mutable Size" />
       <item value="if App Error Handler" />
       <item value="on App Error Handle" />
-      <item value="confirmation Ui Is Displayed" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="696" />
-        <entry key="RUSSIAN" value="696" />
+        <entry key="ENGLISH" value="698" />
+        <entry key="RUSSIAN" value="698" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
