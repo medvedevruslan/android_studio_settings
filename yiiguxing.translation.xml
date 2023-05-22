@@ -91,11 +91,16 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="381" />
-    <option name="newTranslationDialogWidth" value="772" />
+    <option name="newTranslationDialogWidth" value="770" />
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="1288" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="job Send Command" />
+      <item value="time For Strazh Timer" />
+      <item value="Performs the given action on each element." />
+      <item value="Performs the given action on each element and returns the collection itself afterwards" />
+      <item value="This can be used by applications like status bar which would just like to know the state of Bluetooth. Params: profile – GATT or GATT_SERVER Returns: List of devices. The list will be empty on error" />
       <item value="Get connected devices for the specified profile. Return the set of devices which are in state BluetoothProfile.STATE_CONNECTED This is not specific to any application configuration but represents the connection state of Bluetooth for this profile. This can be used by applications like status bar which would just like to know the state of Bluetooth. Params: profile – GATT or GATT_SERVER Returns: List of devices. The list will be empty on error." />
       <item value="java.lang.RuntimeException: Unable to start service com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhService@e3b4f19 with Intent { cmp=com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhService (has extras) }: java.lang.IllegalArgumentException: Profile not supported: 2" />
       <item value="get Devices Matching Connection States" />
@@ -141,18 +146,13 @@
       <item value="fragment Types Collection" />
       <item value="flag Is Registered Broadcast" />
       <item value="Interruption" />
-      <item value="state After Timer Expire" />
-      <item value="set State After Timer Expire" />
-      <item value="mutable Size" />
-      <item value="if App Error Handler" />
-      <item value="on App Error Handle" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="698" />
-        <entry key="RUSSIAN" value="698" />
+        <entry key="ENGLISH" value="702" />
+        <entry key="RUSSIAN" value="702" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
