@@ -96,6 +96,9 @@
     <option name="newTranslationDialogY" value="1288" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Open a GATT Server The callback is used to deliver results to Caller, such as connection status as well as the results of any other GATT server operations. The method returns a BluetoothGattServer instance. You can use BluetoothGattServer to conduct GATT server operations. Params: context – App context callback – GATT server callback handler that will receive asynchronous callbacks. Returns: BluetoothGattServer instance" />
+      <item value="Get a list of devices that match any of the given connection states. If none of the devices match any of the given states, an empty list will be returned. This is not specific to any application configuration but represents the connection state of the local Bluetooth adapter for this profile. This can be used by applications like status bar which would just like to know the state of the local adapter" />
+      <item value="get Devices Matching Connection States" />
       <item value="get Connection State" />
       <item value="resolve Attribution Source" />
       <item value="job Send Command" />
@@ -105,7 +108,6 @@
       <item value="This can be used by applications like status bar which would just like to know the state of Bluetooth. Params: profile – GATT or GATT_SERVER Returns: List of devices. The list will be empty on error" />
       <item value="Get connected devices for the specified profile. Return the set of devices which are in state BluetoothProfile.STATE_CONNECTED This is not specific to any application configuration but represents the connection state of Bluetooth for this profile. This can be used by applications like status bar which would just like to know the state of Bluetooth. Params: profile – GATT or GATT_SERVER Returns: List of devices. The list will be empty on error." />
       <item value="java.lang.RuntimeException: Unable to start service com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhService@e3b4f19 with Intent { cmp=com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhService (has extras) }: java.lang.IllegalArgumentException: Profile not supported: 2" />
-      <item value="get Devices Matching Connection States" />
       <item value="Not supported - please use BluetoothManager.getConnectedDevices(int) with BluetoothProfile.GATT as argument Throws: UnsupportedOperationException" />
       <item value="time For Timer" />
       <item value="time To Timer()" />
@@ -144,15 +146,13 @@
       <item value="flag When Fragment Destroyed Without Callback Set" />
       <item value="Returns the first element matching the given predicate. Throws: NoSuchElementException - if no such element is found." />
       <item value="nested Fragment" />
-      <item value="Returns a list containing the results of applying the given transform function to each element in the original collection. Samples: samples.collections.Collections.Transformations.map Unresolved" />
-      <item value="fragment Types Collection" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="704" />
-        <entry key="RUSSIAN" value="704" />
+        <entry key="ENGLISH" value="708" />
+        <entry key="RUSSIAN" value="708" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
