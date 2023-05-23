@@ -91,11 +91,12 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="381" />
-    <option name="newTranslationDialogWidth" value="762" />
+    <option name="newTranslationDialogWidth" value="760" />
     <option name="newTranslationDialogX" value="1746" />
     <option name="newTranslationDialogY" value="998" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Consider using apply() instead; commit writes its data to persistent storage immediately, whereas apply will handle it in the background" />
       <item value="what should I do with result inside?" />
       <item value="Confirmation Dialog Fragment" />
       <item value="On Confirmation Dialog Result Handler" />
@@ -145,7 +146,6 @@
       <item value="Returns the day of the month represented by this Date object. The value returned is between 1 and 31 representing the day of the month that contains or begins with the instant in time represented by this Date object, as interpreted in the local time zone." />
       <item value="Specify the orientation an activity should be run in. If not specified, it will run in the current preferred orientation of the screen" />
       <item value="invalid grant" />
-      <item value="response" />
     </histories>
     <option name="languageScores">
       <map>
