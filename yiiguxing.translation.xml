@@ -96,6 +96,10 @@
     <option name="newTranslationDialogY" value="998" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Last Firmware Answer Send Time" />
+      <item value="handle Firmware Data Received" />
+      <item value="send Prepare Page Firmware" />
+      <item value="send Write Config Firmware" />
       <item value="handle Firmware Connection State Changed" />
       <item value="m Last Ping Command Send" />
       <item value="update Send Time With Delay" />
@@ -142,17 +146,13 @@
       <item value="NOTE: Do not place your application dependencies here; they belong in the individual module build.gradle files" />
       <item value="timer Measurement" />
       <item value="timer Measurement Handler" />
-      <item value="round Off" />
-      <item value="to old ns" />
-      <item value="app: 'annotationProcessor' dependencies won't be recognized as kapt annotation processors. Please change the configuration name to 'kapt' for these artifacts: 'com.github.bumptech.glide:compiler:4.9.0'." />
-      <item value="It will be removed at the end of 2019." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="723" />
-        <entry key="RUSSIAN" value="723" />
+        <entry key="ENGLISH" value="728" />
+        <entry key="RUSSIAN" value="728" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
