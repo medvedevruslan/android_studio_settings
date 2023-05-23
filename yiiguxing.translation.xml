@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="998" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="On Confirmation Dialog Result Handler" />
       <item value="confirmation Dialog Fragment" />
       <item value="Sets the given result for the requestKey. This result will be delivered to a FragmentResultListener that is called given to setFragmentResultListener(String, LifecycleOwner, FragmentResultListener) with the same requestKey." />
       <item value="cancel State Handled" />
@@ -145,14 +146,13 @@
       <item value="response" />
       <item value="Constant to return from onStartCommand: if this service's process is killed while it is started (after returning from onStartCommand), then it will be scheduled for a restart and the last delivered Intent re-delivered to it again via onStartCommand. This Intent will remain scheduled for redelivery until the service calls stopSelf(int) with the start ID provided to onStartCommand. The service will not receive a onStartCommand(Intent, int, int) call with a null Intent because it will only be restarted if it is not finished processing all Intents sent to it (and any such pending events will be delivered at the point of restart)." />
       <item value="caption result" />
-      <item value="Added a class that contains all the visibility flags for each MeasurementFragment layout widget" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="734" />
-        <entry key="RUSSIAN" value="734" />
+        <entry key="ENGLISH" value="735" />
+        <entry key="RUSSIAN" value="735" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
