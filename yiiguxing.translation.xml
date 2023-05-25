@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="998" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Get a key for a String preference. You should not have multiple keys with the same name (for use with the same Preferences). Using overlapping keys with different types can result in ClassCastException. Params: name - the name of the preference Returns: the Preferences.Key for name" />
       <item value="corruptionHandler - The corruptionHandler is invoked if DataStore encounters a androidx" />
       <item value="Params: name - The name of the preferences. The preferences will be stored in a file in the &quot;datastore&quot; subdirectory in the application context's files directory and is generated using preferencesDataStoreFile. corruptionHandler - The corruptionHandler is invoked if DataStore encounters a androidx.datastore.core.CorruptionException when attempting to read data. CorruptionExceptions are thrown by serializers when data can not be de-serialized. produceMigrations - produce the migrations. The ApplicationContext is passed in to these callbacks as a parameter. DataMigrations are run before any access to data can occur. Each producer and migration may be run more than once whether or not it already succeeded (potentially because another migration failed or a write to disk failed.) scope - The scope in which IO operations and transform functions will execute. Returns: a property delegate that manages a datastore as a singleton." />
       <item value="User Storage" />
@@ -145,14 +146,13 @@
       <item value="Not supported - please use BluetoothManager.getConnectedDevices(int) with BluetoothProfile.GATT as argument Throws: UnsupportedOperationException" />
       <item value="time For Timer" />
       <item value="time To Timer()" />
-      <item value="This inspection is not compatible with languages that require third-party formatters for code formatting, for example, Go or C with CLangFormat enabled." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="742" />
-        <entry key="RUSSIAN" value="742" />
+        <entry key="ENGLISH" value="743" />
+        <entry key="RUSSIAN" value="743" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
