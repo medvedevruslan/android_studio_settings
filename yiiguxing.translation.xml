@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="998" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="setSpan (0 ... 17) ends beyond length 11" />
       <item value="Returns a flow containing the results of applying the given transform function to each value of the original flow." />
       <item value="Returns a flow containing the results of applying the given transform function to each value of the original flow" />
       <item value="Returns: the Preferences.Key&lt;Set&gt; for name" />
@@ -145,14 +146,13 @@
       <item value="time For Strazh Timer" />
       <item value="Performs the given action on each element." />
       <item value="Performs the given action on each element and returns the collection itself afterwards" />
-      <item value="This can be used by applications like status bar which would just like to know the state of Bluetooth. Params: profile – GATT or GATT_SERVER Returns: List of devices. The list will be empty on error" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="747" />
-        <entry key="RUSSIAN" value="747" />
+        <entry key="ENGLISH" value="748" />
+        <entry key="RUSSIAN" value="748" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
