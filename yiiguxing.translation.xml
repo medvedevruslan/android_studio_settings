@@ -96,6 +96,8 @@
     <option name="newTranslationDialogY" value="998" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Returns a flow containing the results of applying the given transform function to each value of the original flow." />
+      <item value="Returns a flow containing the results of applying the given transform function to each value of the original flow" />
       <item value="Returns: the Preferences.Key&lt;Set&gt; for name" />
       <item value="Note: sets returned by DataStore are unmodifiable and will throw exceptions if mutated." />
       <item value="Get a key for a String Set preference. You should not have multiple keys with the same name (for use with the same Preferences). Using overlapping keys with different types can result in ClassCastException. Note: sets returned by DataStore are unmodifiable and will throw exceptions if mutated. Params: name - the name of the preference Returns: the Preferences.Key&lt;Set&gt; for name" />
@@ -144,15 +146,13 @@
       <item value="Performs the given action on each element." />
       <item value="Performs the given action on each element and returns the collection itself afterwards" />
       <item value="This can be used by applications like status bar which would just like to know the state of Bluetooth. Params: profile – GATT or GATT_SERVER Returns: List of devices. The list will be empty on error" />
-      <item value="Get connected devices for the specified profile. Return the set of devices which are in state BluetoothProfile.STATE_CONNECTED This is not specific to any application configuration but represents the connection state of Bluetooth for this profile. This can be used by applications like status bar which would just like to know the state of Bluetooth. Params: profile – GATT or GATT_SERVER Returns: List of devices. The list will be empty on error." />
-      <item value="java.lang.RuntimeException: Unable to start service com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhService@e3b4f19 with Intent { cmp=com.example.clean_pre_trip_control.presentation.ui.ble.strazh.StrazhService (has extras) }: java.lang.IllegalArgumentException: Profile not supported: 2" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="746" />
-        <entry key="RUSSIAN" value="746" />
+        <entry key="ENGLISH" value="747" />
+        <entry key="RUSSIAN" value="747" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
