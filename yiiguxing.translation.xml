@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="998" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Duplicate class android.support.v4.app.INotificationSideChannel found in modules core-1.8.0-runtime (androidx.core:core:1.8.0) and support-compat-26.1.0-runtime (com.android.support:support-compat:26.1.0)" />
       <item value="Duplicate class android.support.v4.app.INotificationSideChannel found in modules core-1.10.1-runtime (androidx.core:core:1.10.1) and support-compat-26.1.0-runtime (com.android.support:support-compat:26.1.0)" />
       <item value="Creates a {@link ViewModelProvider}, which retains ViewModels while a scope of given Activity is alive. More detailed explanation is in {@link ViewModel}. &lt;p&gt; It uses {@link ViewModelProvider.AndroidViewModelFactory} to instantiate new ViewModels. @param activity an activity, in whose scope ViewModels should be retained @return a ViewModelProvider instance" />
       <item value="divider" />
@@ -145,14 +146,13 @@
       <item value="update Send Time With Delay" />
       <item value="unused 2" />
       <item value="check Device State And Repeat Command" />
-      <item value="DEVICE WORK DELAY" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="764" />
-        <entry key="RUSSIAN" value="764" />
+        <entry key="ENGLISH" value="765" />
+        <entry key="RUSSIAN" value="765" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
