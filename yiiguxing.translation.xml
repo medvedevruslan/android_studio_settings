@@ -96,6 +96,9 @@
     <option name="newTranslationDialogY" value="998" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Unresolved" />
+      <item value="The companion object Modifier is the empty, default, or starter Modifier that contains no elements. Use it to create a new Modifier using modifier extension factory functions: Samples: androidx.compose.ui.samples.ModifierUsageSample Unresolved androidx.compose.ui.samples.ModifierParameterSample Unresolved" />
+      <item value="modifier" />
       <item value="modelClass - a Class whose instance is requested" />
       <item value="extras - an additional information for this creation request" />
       <item value="Duplicate class android.support.v4.app.INotificationSideChannel found in modules core-1.8.0-runtime (androidx.core:core:1.8.0) and support-compat-26.1.0-runtime (com.android.support:support-compat:26.1.0)" />
@@ -143,16 +146,13 @@
       <item value="handle Firmware Data Received" />
       <item value="send Prepare Page Firmware" />
       <item value="send Write Config Firmware" />
-      <item value="handle Firmware Connection State Changed" />
-      <item value="m Last Ping Command Send" />
-      <item value="update Send Time With Delay" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="767" />
-        <entry key="RUSSIAN" value="767" />
+        <entry key="ENGLISH" value="770" />
+        <entry key="RUSSIAN" value="770" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
