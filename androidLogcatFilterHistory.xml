@@ -3,8 +3,8 @@
     <option name="mostRecentlyUsed" value="package:mine tag:developer" />
     <option name="nonFavorites">
       <list>
-        <option value="package:mine tag:developer" />
         <option value="package:mine " />
+        <option value="package:mine tag:developer" />
         <option value="package:mine tag:developoer" />
         <option value="package:com.example.clean_pre_trip_control.presentation tag:developer" />
         <option value="package:com.example.clean_pre_trip_control.presentation tag:de" />
