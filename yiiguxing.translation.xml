@@ -96,6 +96,8 @@
     <option name="newTranslationDialogY" value="998" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Configure component to receive clicks via input or accessibility &quot;click&quot; event. Add this modifier to the element to make it clickable within its bounds and show an indication as specified in indication parameter. If you need to support double click or long click alongside the single click, consider using combinedClickable. Params: interactionSource - MutableInteractionSource that will be used to dispatch PressInteraction.Press when this clickable is pressed. Only the initial (first) press will be recorded and dispatched with MutableInteractionSource. indication - indication to be shown when modified element is pressed. By default, indication from LocalIndication will be used. Pass null to show no indication, or current value from LocalIndication to show theme default enabled - Controls the enabled state. When false, onClick, and this modifier will appear disabled for accessibility services onClickLabel - semantic accessibility label for the onClick action role - the type of user interface element. Accessibility services might use this to describe the element or do customizations onClick - will be called when user clicks on the element Samples: androidx.compose.foundation.samples.ClickableSample" />
+      <item value="The basic data structure of text with multiple styles. To construct an AnnotatedString you can use Builder." />
       <item value="width" />
       <item value="Unresolved" />
       <item value="The companion object Modifier is the empty, default, or starter Modifier that contains no elements. Use it to create a new Modifier using modifier extension factory functions: Samples: androidx.compose.ui.samples.ModifierUsageSample Unresolved androidx.compose.ui.samples.ModifierParameterSample Unresolved" />
@@ -144,15 +146,13 @@
       <item value="Call this view's OnClickListener, if it is defined. Performs all normal actions associated with clicking: reporting accessibility event, playing a sound, etc. Returns: True there was an assigned OnClickListener that was called, false otherwise is returned." />
       <item value="Flag for handling MeasurementCancelled status" />
       <item value="set Last Firmware Answer Send Time" />
-      <item value="handle Firmware Data Received" />
-      <item value="send Prepare Page Firmware" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="771" />
-        <entry key="RUSSIAN" value="771" />
+        <entry key="ENGLISH" value="774" />
+        <entry key="RUSSIAN" value="774" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
