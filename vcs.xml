@@ -169,6 +169,10 @@
           <option name="url" value="https://github.com/GetStream/whatsApp-clone-compose.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/JoelKanyi/Joomia.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Документы/AndroidStudioProjects/2023.06" />
