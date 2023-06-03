@@ -97,6 +97,7 @@
     <option name="pinTranslationDialog" value="true" />
     <histories>
       <item value="If the package attribute is specified in the source AndroidManifest.xml, it can be migrated automatically to the namespace value in the build.gradle file using the AGP Upgrade Assistant; please refer to https:developer.android.comstudiobuildagp-upgrade-assistant for more information." />
+      <item value="FAILURE: Build failed with an exception." />
       <item value="Namespace not specified. Please specify a namespace in the module's build.gradle file like so:" />
       <item value="String literal in setText can not be translated. Use Android resources instead." />
       <item value="Do not concatenate text displayed with setText. Use resource string with placeholders." />
@@ -145,14 +146,13 @@
       <item value="User Storage" />
       <item value="Creates a property delegate for a single process DataStore. This should only be called once in a file (at the top level), and all usages of the DataStore should use a reference the same Instance. The receiver type for the property delegate must be an instance of Context. This should only be used from a single application in a single classloader in a single process. Example usage:" />
       <item value="common Code" />
-      <item value="Consider using apply() instead; commit writes its data to persistent storage immediately, whereas apply will handle it in the background" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="787" />
-        <entry key="RUSSIAN" value="787" />
+        <entry key="ENGLISH" value="789" />
+        <entry key="RUSSIAN" value="789" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
