@@ -96,6 +96,8 @@
     <option name="newTranslationDialogY" value="998" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Greeting" />
+      <item value="Composable functions with non-default parameters are not supported in Preview unless they are annotated with" />
       <item value="A surface container using the 'background' color from the theme" />
       <item value="Creates a ScaffoldState with the default animation clock and memoizes it. Params: drawerState - the drawer state snackbarHostState - instance of SnackbarHostState to be used to show Snackbars inside of the Scaffold" />
       <item value="remember Scaffold State" />
@@ -144,15 +146,13 @@
       <item value="Returns: the Preferences.Key&lt;Set&gt; for name" />
       <item value="Note: sets returned by DataStore are unmodifiable and will throw exceptions if mutated." />
       <item value="Get a key for a String Set preference. You should not have multiple keys with the same name (for use with the same Preferences). Using overlapping keys with different types can result in ClassCastException. Note: sets returned by DataStore are unmodifiable and will throw exceptions if mutated. Params: name - the name of the preference Returns: the Preferences.Key&lt;Set&gt; for name" />
-      <item value="Get a key for a String preference. You should not have multiple keys with the same name (for use with the same Preferences). Using overlapping keys with different types can result in ClassCastException. Params: name - the name of the preference Returns: the Preferences.Key for name" />
-      <item value="corruptionHandler - The corruptionHandler is invoked if DataStore encounters a androidx" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="793" />
-        <entry key="RUSSIAN" value="793" />
+        <entry key="ENGLISH" value="794" />
+        <entry key="RUSSIAN" value="794" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
