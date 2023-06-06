@@ -96,6 +96,8 @@
     <option name="newTranslationDialogY" value="998" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Row" />
+      <item value="padding" />
       <item value="Optional Modifier parameter should have a default value of Modifier" />
       <item value="fill Max Width" />
       <item value="Have the content fill (possibly only partially) the Constraints.maxWidth of the incoming measurement constraints, by setting the minimum width and the maximum width to be equal to the maximum width multiplied by fraction. Note that, by default, the fraction is 1, so the modifier will make the content fill the whole available width. If the incoming maximum width is Constraints.Infinity this modifier will have no effect. Params: fraction - The fraction of the maximum width to use, between 0 and 1, inclusive. Example usage: Samples: androidx.compose.foundation.layout.samples.SimpleFillWidthModifier Unresolved androidx.compose.foundation.layout.samples.FillHalfWidthModifier Unresolved" />
@@ -144,15 +146,13 @@
       <item value="Idle" />
       <item value="Module with the Main dispatcher is missing. Add dependency providing the Main dispatcher, e.g. 'kotlinx-coroutines-android' and ensure it has the same version as 'kotlinx-coroutines-core'" />
       <item value="Only the original thread that created a view hierarchy can touch its views." />
-      <item value="setSpan (0 ... 17) ends beyond length 11" />
-      <item value="Returns a flow containing the results of applying the given transform function to each value of the original flow." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="796" />
-        <entry key="RUSSIAN" value="796" />
+        <entry key="ENGLISH" value="798" />
+        <entry key="RUSSIAN" value="798" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
