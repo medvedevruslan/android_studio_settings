@@ -91,11 +91,14 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="381" />
-    <option name="newTranslationDialogWidth" value="754" />
+    <option name="newTranslationDialogWidth" value="752" />
     <option name="newTranslationDialogX" value="1746" />
     <option name="newTranslationDialogY" value="998" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Optional Modifier parameter should have a default value of Modifier" />
+      <item value="fill Max Width" />
+      <item value="Have the content fill (possibly only partially) the Constraints.maxWidth of the incoming measurement constraints, by setting the minimum width and the maximum width to be equal to the maximum width multiplied by fraction. Note that, by default, the fraction is 1, so the modifier will make the content fill the whole available width. If the incoming maximum width is Constraints.Infinity this modifier will have no effect. Params: fraction - The fraction of the maximum width to use, between 0 and 1, inclusive. Example usage: Samples: androidx.compose.foundation.layout.samples.SimpleFillWidthModifier Unresolved androidx.compose.foundation.layout.samples.FillHalfWidthModifier Unresolved" />
       <item value="Current user preference for the locale, corresponding to locale resource qualifier. By default, the default folder will be used" />
       <item value="Greeting" />
       <item value="Composable functions with non-default parameters are not supported in Preview unless they are annotated with" />
@@ -143,16 +146,13 @@
       <item value="Only the original thread that created a view hierarchy can touch its views." />
       <item value="setSpan (0 ... 17) ends beyond length 11" />
       <item value="Returns a flow containing the results of applying the given transform function to each value of the original flow." />
-      <item value="Returns a flow containing the results of applying the given transform function to each value of the original flow" />
-      <item value="Returns: the Preferences.Key&lt;Set&gt; for name" />
-      <item value="Note: sets returned by DataStore are unmodifiable and will throw exceptions if mutated." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="794" />
-        <entry key="RUSSIAN" value="794" />
+        <entry key="ENGLISH" value="796" />
+        <entry key="RUSSIAN" value="796" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
