@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="998" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="fill Max Size" />
       <item value="Alignment" />
       <item value="Confirmation" />
       <item value="Fragment With Confirmation" />
@@ -145,14 +146,13 @@
       <item value="A ViewHolder describes an item view and metadata about its place within the RecyclerView. RecyclerView.Adapter implementations should subclass ViewHolder and add fields for caching potentially expensive View.findViewById(int) results. While RecyclerView.LayoutParams belong to the RecyclerView.LayoutManager, ViewHolders belong to the adapter. Adapters should feel free to use their own custom ViewHolder implementations to store data that makes binding view contents easier. Implementations should assume that individual item views will hold strong references to ViewHolder objects and that RecyclerView instances may hold strong references to extra off-screen item views for caching purposes" />
       <item value="is Assignable From" />
       <item value="Represents the given receive channel as a hot flow and consumes the channel on the first collection from this flow. The resulting flow can be collected just once and throws IllegalStateException when trying to collect it more than once. See also receiveAsFlow which supports multiple collectors of the resulting flow. Cancellation semantics Flow collector is cancelled when the original channel is closed with an exception. Flow collector completes normally when the original channel is closed normally. If the flow collector fails with an exception, the source channel is cancelled. Operator fusion Adjacent applications of flowOn, buffer, conflate, and produceIn to the result of consumeAsFlow are fused. In particular, produceIn returns the original channel (but throws IllegalStateException on repeated calls). Calls to flowOn have generally no effect, unless buffer is used to explicitly request buffering." />
-      <item value="consume As Flow" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="802" />
-        <entry key="RUSSIAN" value="802" />
+        <entry key="ENGLISH" value="803" />
+        <entry key="RUSSIAN" value="803" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
