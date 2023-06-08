@@ -96,6 +96,10 @@
     <option name="newTranslationDialogY" value="998" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="content Description" />
+      <item value="java.lang.Error: Something went wrong while checking for version compatibility between the Compose Compiler and the Kotlin Compiler. It is possible that the versions are incompatible. Please verify your kotlin version and consult the Compose-Kotlin compatibility map located at https:developer.android.comjetpackandroidxreleasescompose-kotlin" />
+      <item value="Column" />
+      <item value="Row" />
       <item value="target Value" />
       <item value="initial Value" />
       <item value="surface" />
@@ -106,7 +110,6 @@
       <item value="Fragment With Confirmation" />
       <item value="regex Login" />
       <item value="delay" />
-      <item value="Row" />
       <item value="padding" />
       <item value="Optional Modifier parameter should have a default value of Modifier" />
       <item value="fill Max Width" />
@@ -143,16 +146,13 @@
       <item value="Duplicate class android.support.v4.app.INotificationSideChannel found in modules core-1.8.0-runtime (androidx.core:core:1.8.0) and support-compat-26.1.0-runtime (com.android.support:support-compat:26.1.0)" />
       <item value="Duplicate class android.support.v4.app.INotificationSideChannel found in modules core-1.10.1-runtime (androidx.core:core:1.10.1) and support-compat-26.1.0-runtime (com.android.support:support-compat:26.1.0)" />
       <item value="Creates a {@link ViewModelProvider}, which retains ViewModels while a scope of given Activity is alive. More detailed explanation is in {@link ViewModel}. &lt;p&gt; It uses {@link ViewModelProvider.AndroidViewModelFactory} to instantiate new ViewModels. @param activity an activity, in whose scope ViewModels should be retained @return a ViewModelProvider instance" />
-      <item value="divider" />
-      <item value="Set the RecyclerView.LayoutManager that this RecyclerView will use." />
-      <item value="CoroutineScope tied to this LifecycleOwner's Lifecycle. This scope will be cancelled when the Lifecycle is destroyed. This scope is bound to Dispatchers.Main.immediate." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="807" />
-        <entry key="RUSSIAN" value="807" />
+        <entry key="ENGLISH" value="811" />
+        <entry key="RUSSIAN" value="811" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
