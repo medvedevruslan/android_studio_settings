@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="998" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="leading Icon" />
       <item value="horizontal Arrangement" />
       <item value="fill Max Size" />
       <item value="add Outline" />
@@ -112,7 +113,6 @@
       <item value="placeholder" />
       <item value="Text Field Defaults" />
       <item value="text Field Colors" />
-      <item value="leading Icon" />
       <item value="Outlined" />
       <item value="Filled" />
       <item value="My Soothe Theme" />
@@ -151,8 +151,8 @@
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="834" />
-        <entry key="RUSSIAN" value="834" />
+        <entry key="ENGLISH" value="835" />
+        <entry key="RUSSIAN" value="835" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
