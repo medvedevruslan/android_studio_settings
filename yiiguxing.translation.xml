@@ -96,6 +96,11 @@
     <option name="newTranslationDialogY" value="998" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Path Shape" />
+      <item value="Arc Shape" />
+      <item value="Round Rect Shape" />
+      <item value="content Scale" />
+      <item value="Defines a generic graphical &quot;shape.&quot; Any Shape can be drawn to a Canvas with its own draw() method, but more graphical control is available if you instead pass it to a android.graphics.drawable.ShapeDrawable. Custom Shape classes must implement clone() and return an instance of the custom Shape class." />
       <item value="Align Your Body Element" />
       <item value="placeholder" />
       <item value="Text Field Defaults" />
@@ -141,18 +146,13 @@
       <item value="Surface" />
       <item value="Top-level build file where you can add configuration options common to all sub-projectsmodules." />
       <item value="jvm target compatibility should be set to the same Java version." />
-      <item value=") jvm target compatibility should be set to the same Java version." />
-      <item value="current target is 17" />
-      <item value="&gt; 'compileJava' task (current target is 11) and 'compileKotlin' task (current target is 17) jvm target compatibility should be set to the same Java version." />
-      <item value="alignment Line" />
-      <item value="Configure component to receive clicks via input or accessibility &quot;click&quot; event. Add this modifier to the element to make it clickable within its bounds and show an indication as specified in indication parameter. If you need to support double click or long click alongside the single click, consider using combinedClickable. Params: interactionSource - MutableInteractionSource that will be used to dispatch PressInteraction.Press when this clickable is pressed. Only the initial (first) press will be recorded and dispatched with MutableInteractionSource. indication - indication to be shown when modified element is pressed. By default, indication from LocalIndication will be used. Pass null to show no indication, or current value from LocalIndication to show theme default enabled - Controls the enabled state. When false, onClick, and this modifier will appear disabled for accessibility services onClickLabel - semantic accessibility label for the onClick action role - the type of user interface element. Accessibility services might use this to describe the element or do customizations onClick - will be called when user clicks on the element Samples: androidx.compose.foundation.samples.ClickableSample" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="822" />
-        <entry key="RUSSIAN" value="822" />
+        <entry key="ENGLISH" value="827" />
+        <entry key="RUSSIAN" value="827" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
