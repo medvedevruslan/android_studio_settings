@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="998" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="fill Max Size" />
       <item value="add Outline" />
       <item value="An area defined as a path. Note that if you use this path for drawing the shadow on Android versions less than 10 the shadow will not be drawn for the concave paths. See Path.isConvex." />
       <item value="Generic" />
@@ -124,7 +125,6 @@
       <item value="initial Value" />
       <item value="surface" />
       <item value="headline Small" />
-      <item value="fill Max Size" />
       <item value="Alignment" />
       <item value="Confirmation" />
       <item value="Fragment With Confirmation" />
@@ -151,8 +151,8 @@
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="832" />
-        <entry key="RUSSIAN" value="832" />
+        <entry key="ENGLISH" value="833" />
+        <entry key="RUSSIAN" value="833" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
