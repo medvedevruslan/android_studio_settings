@@ -96,6 +96,11 @@
     <option name="newTranslationDialogY" value="998" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="@param content content of your screen. The lambda receives an [PaddingValues] that should be applied to the content root via Modifier.padding to properly offset top and bottom bars. If you're using VerticalScroller, apply this modifier to the child of the scroller, and not on the scroller itself." />
+      <item value="@param isFloatingActionButtonDocked whether [floatingActionButton] should overlap with [bottomBar] for half a height, if [bottomBar] exists. Ignored if there's no [bottomBar] or no [floatingActionButton]." />
+      <item value="[bottomBar] for half a height, if [bottomBar] exists. Ignored if there's no [bottomBar] or no" />
+      <item value="@param bottomBar bottom bar of the screen. Consider using [BottomAppBar]." />
+      <item value="Scaffold" />
       <item value="leading Icon" />
       <item value="horizontal Arrangement" />
       <item value="fill Max Size" />
@@ -141,18 +146,13 @@
       <item value="A surface container using the 'background' color from the theme" />
       <item value="Creates a ScaffoldState with the default animation clock and memoizes it. Params: drawerState - the drawer state snackbarHostState - instance of SnackbarHostState to be used to show Snackbars inside of the Scaffold" />
       <item value="remember Scaffold State" />
-      <item value="@HiltViewModel annotated class should contain exactly one @Inject annotated constructor." />
-      <item value="If the package attribute is specified in the source AndroidManifest.xml, it can be migrated automatically to the namespace value in the build.gradle file using the AGP Upgrade Assistant; please refer to https:developer.android.comstudiobuildagp-upgrade-assistant for more information." />
-      <item value="FAILURE: Build failed with an exception." />
-      <item value="Namespace not specified. Please specify a namespace in the module's build.gradle file like so:" />
-      <item value="String literal in setText can not be translated. Use Android resources instead." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="835" />
-        <entry key="RUSSIAN" value="835" />
+        <entry key="ENGLISH" value="840" />
+        <entry key="RUSSIAN" value="840" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
