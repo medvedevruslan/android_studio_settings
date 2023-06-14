@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="998" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="leading Icon" />
       <item value="shape" />
       <item value="elevation" />
       <item value="Greeting" />
@@ -124,7 +125,6 @@
       <item value="[bottomBar] for half a height, if [bottomBar] exists. Ignored if there's no [bottomBar] or no" />
       <item value="@param bottomBar bottom bar of the screen. Consider using [BottomAppBar]." />
       <item value="Scaffold" />
-      <item value="leading Icon" />
       <item value="horizontal Arrangement" />
       <item value="fill Max Size" />
       <item value="add Outline" />
@@ -151,8 +151,8 @@
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="863" />
-        <entry key="RUSSIAN" value="863" />
+        <entry key="ENGLISH" value="864" />
+        <entry key="RUSSIAN" value="864" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
