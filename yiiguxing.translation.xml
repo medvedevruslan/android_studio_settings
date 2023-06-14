@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="998" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="elevation" />
       <item value="Greeting" />
       <item value="product Existence" />
       <item value="Existence" />
@@ -145,14 +146,13 @@
       <item value="My Soothe Theme" />
       <item value="Constant that means unspecified Dp" />
       <item value="fill Max Width(" />
-      <item value="content Description" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="861" />
-        <entry key="RUSSIAN" value="861" />
+        <entry key="ENGLISH" value="862" />
+        <entry key="RUSSIAN" value="862" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
