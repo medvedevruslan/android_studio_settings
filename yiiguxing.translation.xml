@@ -96,6 +96,9 @@
     <option name="newTranslationDialogY" value="998" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Greeting" />
+      <item value="product Existence" />
+      <item value="Existence" />
       <item value="scrim" />
       <item value="outline" />
       <item value="tertiary" />
@@ -143,16 +146,13 @@
       <item value="Constant that means unspecified Dp" />
       <item value="fill Max Width(" />
       <item value="content Description" />
-      <item value="java.lang.Error: Something went wrong while checking for version compatibility between the Compose Compiler and the Kotlin Compiler. It is possible that the versions are incompatible. Please verify your kotlin version and consult the Compose-Kotlin compatibility map located at https:developer.android.comjetpackandroidxreleasescompose-kotlin" />
-      <item value="Column" />
-      <item value="Row" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="860" />
-        <entry key="RUSSIAN" value="860" />
+        <entry key="ENGLISH" value="861" />
+        <entry key="RUSSIAN" value="861" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
