@@ -96,6 +96,10 @@
     <option name="newTranslationDialogY" value="998" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="scrim" />
+      <item value="outline" />
+      <item value="tertiary" />
+      <item value="md theme light tertiary" />
       <item value="Primary" />
       <item value="shape" />
       <item value="Font Weight" />
@@ -142,17 +146,13 @@
       <item value="java.lang.Error: Something went wrong while checking for version compatibility between the Compose Compiler and the Kotlin Compiler. It is possible that the versions are incompatible. Please verify your kotlin version and consult the Compose-Kotlin compatibility map located at https:developer.android.comjetpackandroidxreleasescompose-kotlin" />
       <item value="Column" />
       <item value="Row" />
-      <item value="target Value" />
-      <item value="initial Value" />
-      <item value="surface" />
-      <item value="headline Small" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="856" />
-        <entry key="RUSSIAN" value="856" />
+        <entry key="ENGLISH" value="860" />
+        <entry key="RUSSIAN" value="860" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
