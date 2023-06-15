@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="998" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="curve To Relative" />
       <item value="Filled icons (previously the only available theme, also known as the baseline theme) are the default icon theme. You can also use Default as an alias for these icon" />
       <item value="Soothe Bottom Navigation" />
       <item value="@param trailingIcon the optional trailing icon to be displayed at the end of the text field container" />
@@ -145,14 +146,13 @@
       <item value="Round Rect Shape" />
       <item value="content Scale" />
       <item value="Defines a generic graphical &quot;shape.&quot; Any Shape can be drawn to a Canvas with its own draw() method, but more graphical control is available if you instead pass it to a android.graphics.drawable.ShapeDrawable. Custom Shape classes must implement clone() and return an instance of the custom Shape class." />
-      <item value="Align Your Body Element" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="875" />
-        <entry key="RUSSIAN" value="875" />
+        <entry key="ENGLISH" value="876" />
+        <entry key="RUSSIAN" value="876" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
