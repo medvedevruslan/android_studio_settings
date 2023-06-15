@@ -90,12 +90,13 @@
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogHeight" value="381" />
-    <option name="newTranslationDialogWidth" value="752" />
-    <option name="newTranslationDialogX" value="1746" />
-    <option name="newTranslationDialogY" value="998" />
+    <option name="newTranslationDialogHeight" value="593" />
+    <option name="newTranslationDialogWidth" value="957" />
+    <option name="newTranslationDialogX" value="1366" />
+    <option name="newTranslationDialogY" value="789" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="java.lang.IllegalStateException: Vertically scrollable component was measured with an infinity maximum height constraints, which is disallowed. One of the common reasons is nesting layouts like LazyColumn and Column(Modifier.verticalScroll()). If you want to add a header before the list of items please add a header as a separate item() before the main items() inside the LazyColumn scope. There are could be other reasons for this to happen: your ComposeView was added into a LinearLayout with some weight, you applied Modifier.wrapContentSize(unbounded = true) or wrote a custom layout. Please try to remove the source of infinite constraints in the hierarchy above the scrolling container." />
       <item value="curve To Relative" />
       <item value="Filled icons (previously the only available theme, also known as the baseline theme) are the default icon theme. You can also use Default as an alias for these icon" />
       <item value="Soothe Bottom Navigation" />
@@ -145,7 +146,6 @@
       <item value="Arc Shape" />
       <item value="Round Rect Shape" />
       <item value="content Scale" />
-      <item value="Defines a generic graphical &quot;shape.&quot; Any Shape can be drawn to a Canvas with its own draw() method, but more graphical control is available if you instead pass it to a android.graphics.drawable.ShapeDrawable. Custom Shape classes must implement clone() and return an instance of the custom Shape class." />
     </histories>
     <option name="languageScores">
       <map>
