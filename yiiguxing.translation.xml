@@ -96,6 +96,8 @@
     <option name="newTranslationDialogY" value="789" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="@param softWrap whether the text should break at soft line breaks. If false, the glyphs in the text will be positioned as if there was unlimited horizontal space. If [softWrap] is false, [overflow] and TextAlign may have unexpected effects." />
+      <item value="soft Wrap" />
       <item value="&quot;Prefer to preload fonts using FontFamily.Resolver.&quot;," />
       <item value="shape" />
       <item value="Setting Product Amount To Buy" />
@@ -144,15 +146,13 @@
       <item value="Generic" />
       <item value="Rounded" />
       <item value="Rectangle Shape" />
-      <item value="Path Shape" />
-      <item value="Arc Shape" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="879" />
-        <entry key="RUSSIAN" value="879" />
+        <entry key="ENGLISH" value="881" />
+        <entry key="RUSSIAN" value="881" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
