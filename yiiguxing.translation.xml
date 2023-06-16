@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="789" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The thickness of the glyphs, in a range of 1, 1000." />
       <item value="@param softWrap whether the text should break at soft line breaks. If false, the glyphs in the text will be positioned as if there was unlimited horizontal space. If [softWrap] is false, [overflow] and TextAlign may have unexpected effects." />
       <item value="soft Wrap" />
       <item value="&quot;Prefer to preload fonts using FontFamily.Resolver.&quot;," />
@@ -145,14 +146,13 @@
       <item value="An area defined as a path. Note that if you use this path for drawing the shadow on Android versions less than 10 the shadow will not be drawn for the concave paths. See Path.isConvex." />
       <item value="Generic" />
       <item value="Rounded" />
-      <item value="Rectangle Shape" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="881" />
-        <entry key="RUSSIAN" value="881" />
+        <entry key="ENGLISH" value="882" />
+        <entry key="RUSSIAN" value="882" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
