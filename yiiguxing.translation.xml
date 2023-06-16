@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="789" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="content Scale" />
       <item value="padding" />
       <item value="enforce Incoming" />
       <item value="The thickness of the glyphs, in a range of 1, 1000." />
@@ -145,14 +146,13 @@
       <item value="horizontal Arrangement" />
       <item value="fill Max Size" />
       <item value="add Outline" />
-      <item value="An area defined as a path. Note that if you use this path for drawing the shadow on Android versions less than 10 the shadow will not be drawn for the concave paths. See Path.isConvex." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="884" />
-        <entry key="RUSSIAN" value="884" />
+        <entry key="ENGLISH" value="885" />
+        <entry key="RUSSIAN" value="885" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
