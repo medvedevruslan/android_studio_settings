@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="dd6a7f37" />
+          </Key>
+        </key>
+        <name value="OnePlus LE2121" />
+        <target value="Android 13.0" />
+        <api value="androidversion:33:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="R52R103ESVH" />
           </Key>
         </key>
@@ -33,17 +44,6 @@
         <name value="samsung SM-T975" />
         <target value="Android 12L" />
         <api value="androidversion:32:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="dd6a7f37" />
-          </Key>
-        </key>
-        <name value="OnePlus LE2121" />
-        <target value="Android 13.0" />
-        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
