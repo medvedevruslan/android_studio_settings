@@ -83,7 +83,7 @@
     <option name="lastTrimTime" value="1669623435467" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1686652547909" />
+    <option name="lastTrimTime" value="1687250140412" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="RUSSIAN" />
@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="789" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="navigate To Detail" />
       <item value="content Scale" />
       <item value="padding" />
       <item value="enforce Incoming" />
@@ -145,14 +146,13 @@
       <item value="Scaffold" />
       <item value="horizontal Arrangement" />
       <item value="fill Max Size" />
-      <item value="add Outline" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="885" />
-        <entry key="RUSSIAN" value="885" />
+        <entry key="ENGLISH" value="886" />
+        <entry key="RUSSIAN" value="886" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
