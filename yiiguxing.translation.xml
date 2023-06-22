@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="789" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Star Border" />
       <item value="An effect for handling presses of the system back button. Calling this in your composable adds the given lambda to the OnBackPressedDispatcher of the LocalOnBackPressedDispatcherOwner. If this is called by nested composables, if enabled, the inner most composable will consume the call to system back and invoke its lambda. The call will continue to propagate up until it finds an enabled BackHandler. Params: enabled - if this BackHandler should be enabled onBack - the action invoked by pressing the system back Samples: androidx.activity.compose.samples.BackHandler Unresolved" />
       <item value="We only set isDetailOnlyOpen to true when it's only single pane layout" />
       <item value="pane" />
@@ -145,14 +146,13 @@
       <item value="Allow the content to measure at its desired height without regard for the incoming measurement minimum height constraint, and, if unbounded is true, also without regard for the incoming measurement maximum height constraint. If the content's measured size is smaller than the minimum height constraint, align it within that minimum height space. If the content's measured size is larger than the maximum height constraint (only possible when unbounded is true), align over the maximum height space. Example usage: Samples: androidx.compose.foundation.layout.samples.SimpleWrapContentVerticallyAlignedModifier Unresolved" />
       <item value="weight" />
       <item value="height" />
-      <item value="elevation" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="905" />
-        <entry key="RUSSIAN" value="905" />
+        <entry key="ENGLISH" value="906" />
+        <entry key="RUSSIAN" value="906" />
         <entry key="SHONA" value="1" />
         <entry key="YORUBA" value="1" />
       </map>
