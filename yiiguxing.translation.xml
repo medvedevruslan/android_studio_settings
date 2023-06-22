@@ -91,11 +91,17 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="593" />
-    <option name="newTranslationDialogWidth" value="957" />
+    <option name="newTranslationDialogWidth" value="951" />
     <option name="newTranslationDialogX" value="1366" />
     <option name="newTranslationDialogY" value="789" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="is Appearance Light Status Bars" />
+      <item value="get Insets Controller" />
+      <item value="Schedule effect to run when the current composition completes successfully and applies changes. SideEffect can be used to apply side effects to objects managed by the composition that are not backed by snapshots so as not to leave those objects in an inconsistent state if the current composition operation fails." />
+      <item value="Schedule effect to run when the current composition completes successfully and applies changes. SideEffect can be used to apply side effects to objects managed by the composition that are not backed by snapshots so as not to leave those objects in an inconsistent state if the current composition operation fails" />
+      <item value="Schedule effect" />
+      <item value="Schedule" />
       <item value="that are not available through ActivityScreen." />
       <item value="to directly access parts" />
       <item value="directly access" />
@@ -140,19 +146,13 @@
       <item value="md theme light tertiary" />
       <item value="Primary" />
       <item value="Font Weight" />
-      <item value="The thickness of the glyphs, in a range of 1, 1000. Params: weight - Font weight value in the range of 1, 1000 See Also: Font, FontFamily" />
-      <item value="scale" />
-      <item value="Scale the contents of the composable by the following scale factors along the horizontal and vertical axis respectively. Negative scale factors can be used to mirror content across the corresponding horizontal or vertical axis. Example usage: Params: scaleX - Multiplier to scale content along the horizontal axis scaleY - Multiplier to scale content along the vertical axis See Also: graphicsLayer Samples: androidx.compose.ui.samples.ScaleNonUniformSample Unresolved" />
-      <item value="Circle Shape" />
-      <item value="Row Scope" />
-      <item value="Product Existence" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="894" />
-        <entry key="RUSSIAN" value="894" />
+        <entry key="ENGLISH" value="896" />
+        <entry key="RUSSIAN" value="896" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
