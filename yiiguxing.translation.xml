@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="789" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Reply Email List Item" />
       <item value="Semi Bold" />
       <item value="font Weight" />
       <item value="is Appearance Light Status Bars" />
@@ -145,14 +146,13 @@
       <item value="scrim" />
       <item value="outline" />
       <item value="tertiary" />
-      <item value="md theme light tertiary" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="898" />
-        <entry key="RUSSIAN" value="898" />
+        <entry key="ENGLISH" value="899" />
+        <entry key="RUSSIAN" value="899" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
