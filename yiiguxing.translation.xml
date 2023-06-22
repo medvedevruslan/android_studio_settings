@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="789" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="An effect for handling presses of the system back button. Calling this in your composable adds the given lambda to the OnBackPressedDispatcher of the LocalOnBackPressedDispatcherOwner. If this is called by nested composables, if enabled, the inner most composable will consume the call to system back and invoke its lambda. The call will continue to propagate up until it finds an enabled BackHandler. Params: enabled - if this BackHandler should be enabled onBack - the action invoked by pressing the system back Samples: androidx.activity.compose.samples.BackHandler Unresolved" />
       <item value="We only set isDetailOnlyOpen to true when it's only single pane layout" />
       <item value="pane" />
       <item value="Returns the first element matching the given predicate, or null if no such element was found." />
@@ -145,14 +146,13 @@
       <item value="weight" />
       <item value="height" />
       <item value="elevation" />
-      <item value="fraction" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="904" />
-        <entry key="RUSSIAN" value="904" />
+        <entry key="ENGLISH" value="905" />
+        <entry key="RUSSIAN" value="905" />
         <entry key="SHONA" value="1" />
         <entry key="YORUBA" value="1" />
       </map>
