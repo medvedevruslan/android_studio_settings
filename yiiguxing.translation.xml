@@ -96,6 +96,8 @@
     <option name="newTranslationDialogY" value="789" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Semi Bold" />
+      <item value="font Weight" />
       <item value="is Appearance Light Status Bars" />
       <item value="get Insets Controller" />
       <item value="Schedule effect to run when the current composition completes successfully and applies changes. SideEffect can be used to apply side effects to objects managed by the composition that are not backed by snapshots so as not to leave those objects in an inconsistent state if the current composition operation fails." />
@@ -144,15 +146,13 @@
       <item value="outline" />
       <item value="tertiary" />
       <item value="md theme light tertiary" />
-      <item value="Primary" />
-      <item value="Font Weight" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="896" />
-        <entry key="RUSSIAN" value="896" />
+        <entry key="ENGLISH" value="898" />
+        <entry key="RUSSIAN" value="898" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
