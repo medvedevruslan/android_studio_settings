@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="789" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Uses this string as a format string and returns a string obtained by substituting the specified arguments, using the specified locale. If locale is null then no localization is applied." />
       <item value="Reply" />
       <item value="Star Border" />
       <item value="An effect for handling presses of the system back button. Calling this in your composable adds the given lambda to the OnBackPressedDispatcher of the LocalOnBackPressedDispatcherOwner. If this is called by nested composables, if enabled, the inner most composable will consume the call to system back and invoke its lambda. The call will continue to propagate up until it finds an enabled BackHandler. Params: enabled - if this BackHandler should be enabled onBack - the action invoked by pressing the system back Samples: androidx.activity.compose.samples.BackHandler Unresolved" />
@@ -145,7 +146,6 @@
       <item value="trailing Icon" />
       <item value="leading Icon" />
       <item value="Allow the content to measure at its desired height without regard for the incoming measurement minimum height constraint, and, if unbounded is true, also without regard for the incoming measurement maximum height constraint. If the content's measured size is smaller than the minimum height constraint, align it within that minimum height space. If the content's measured size is larger than the maximum height constraint (only possible when unbounded is true), align over the maximum height space. Example usage: Samples: androidx.compose.foundation.layout.samples.SimpleWrapContentVerticallyAlignedModifier Unresolved" />
-      <item value="weight" />
     </histories>
     <option name="languageScores">
       <map>
