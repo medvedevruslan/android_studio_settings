@@ -91,11 +91,14 @@
   </component>
   <component name="Translation.States">
     <option name="newTranslationDialogHeight" value="593" />
-    <option name="newTranslationDialogWidth" value="951" />
+    <option name="newTranslationDialogWidth" value="949" />
     <option name="newTranslationDialogX" value="1366" />
     <option name="newTranslationDialogY" value="789" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Returns a list containing the results of applying the given transform function to each character and its index in the original char sequence" />
+      <item value="Returns a list containing the results of applying the given transform function to each character and its index in the original char sequence. Params: transform - function that takes the index of a character and the character itself and returns the result of the transform applied to the character." />
+      <item value="to Cost With Space" />
       <item value="Uses this string as a format string and returns a string obtained by substituting the specified arguments, using the specified locale. If locale is null then no localization is applied." />
       <item value="Reply" />
       <item value="Star Border" />
@@ -143,16 +146,13 @@
       <item value="Filled icons (previously the only available theme, also known as the baseline theme) are the default icon theme. You can also use Default as an alias for these icon" />
       <item value="Soothe Bottom Navigation" />
       <item value="@param trailingIcon the optional trailing icon to be displayed at the end of the text field container" />
-      <item value="trailing Icon" />
-      <item value="leading Icon" />
-      <item value="Allow the content to measure at its desired height without regard for the incoming measurement minimum height constraint, and, if unbounded is true, also without regard for the incoming measurement maximum height constraint. If the content's measured size is smaller than the minimum height constraint, align it within that minimum height space. If the content's measured size is larger than the maximum height constraint (only possible when unbounded is true), align over the maximum height space. Example usage: Samples: androidx.compose.foundation.layout.samples.SimpleWrapContentVerticallyAlignedModifier Unresolved" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="907" />
-        <entry key="RUSSIAN" value="907" />
+        <entry key="ENGLISH" value="908" />
+        <entry key="RUSSIAN" value="908" />
         <entry key="SHONA" value="1" />
         <entry key="YORUBA" value="1" />
       </map>
