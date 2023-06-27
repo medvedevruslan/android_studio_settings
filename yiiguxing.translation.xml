@@ -83,7 +83,7 @@
     <option name="lastTrimTime" value="1669623435467" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1687250140412" />
+    <option name="lastTrimTime" value="1687867332805" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="RUSSIAN" />
@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="789" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="&quot;Have you taken your 15 minute walk today?" />
       <item value="clip" />
       <item value="Returns a list containing the results of applying the given transform function to each character and its index in the original char sequence" />
       <item value="Returns a list containing the results of applying the given transform function to each character and its index in the original char sequence. Params: transform - function that takes the index of a character and the character itself and returns the result of the transform applied to the character." />
@@ -145,14 +146,13 @@
       <item value="java.lang.IllegalStateException: Vertically scrollable component was measured with an infinity maximum height constraints, which is disallowed. One of the common reasons is nesting layouts like LazyColumn and Column(Modifier.verticalScroll()). If you want to add a header before the list of items please add a header as a separate item() before the main items() inside the LazyColumn scope. There are could be other reasons for this to happen: your ComposeView was added into a LinearLayout with some weight, you applied Modifier.wrapContentSize(unbounded = true) or wrote a custom layout. Please try to remove the source of infinite constraints in the hierarchy above the scrolling container." />
       <item value="curve To Relative" />
       <item value="Filled icons (previously the only available theme, also known as the baseline theme) are the default icon theme. You can also use Default as an alias for these icon" />
-      <item value="Soothe Bottom Navigation" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="909" />
-        <entry key="RUSSIAN" value="909" />
+        <entry key="ENGLISH" value="910" />
+        <entry key="RUSSIAN" value="910" />
         <entry key="SHONA" value="1" />
         <entry key="YORUBA" value="1" />
       </map>
