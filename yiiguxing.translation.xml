@@ -96,6 +96,7 @@
     <option name="newTranslationDialogY" value="789" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Truth" />
       <item value="Handy typealias of [TypedDestination] when you don't care about the generic type (probably most cases for app's use)" />
       <item value="Handy typealias of TypedDestination when you don't care about the generic type (probably most cases for app's use)" />
       <item value="&quot;Have you taken your 15 minute walk today?" />
@@ -145,14 +146,13 @@
       <item value="&quot;Prefer to preload fonts using FontFamily.Resolver.&quot;," />
       <item value="shape" />
       <item value="Setting Product Amount To Buy" />
-      <item value="java.lang.IllegalStateException: Vertically scrollable component was measured with an infinity maximum height constraints, which is disallowed. One of the common reasons is nesting layouts like LazyColumn and Column(Modifier.verticalScroll()). If you want to add a header before the list of items please add a header as a separate item() before the main items() inside the LazyColumn scope. There are could be other reasons for this to happen: your ComposeView was added into a LinearLayout with some weight, you applied Modifier.wrapContentSize(unbounded = true) or wrote a custom layout. Please try to remove the source of infinite constraints in the hierarchy above the scrolling container." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="911" />
-        <entry key="RUSSIAN" value="911" />
+        <entry key="ENGLISH" value="912" />
+        <entry key="RUSSIAN" value="912" />
         <entry key="SHONA" value="1" />
         <entry key="YORUBA" value="1" />
       </map>
