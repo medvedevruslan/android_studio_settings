@@ -165,9 +165,13 @@
           <option name="url" value="https://github.com/amitshekhariitbhu/Learn-Kotlin-Coroutines.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/medvedevruslan/Parts_mart.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Документы/AndroidStudioProjects/2023.05" />
+    <option name="cloneParentDir" value="$USER_HOME$/Документы/AndroidStudioProjects/2023.06" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
