@@ -1,0 +1,6 @@
+<keymap version="1" name="GNOME copy 2" parent="Default for GNOME">
+  <action id="NextProjectWindow">
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
+  <action id="QuickChangeScheme" />
+</keymap>
