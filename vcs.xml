@@ -166,7 +166,19 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://github.com/medvedevruslan/Parts_mart.git" />
+          <option name="url" value="https://github.com/GetStream/whatsApp-clone-compose.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/JoelKanyi/Joomia.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/googlecodelabs/android-compose-codelabs" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/googlecodelabs/android-compose-codelabs.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>

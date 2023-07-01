@@ -83,76 +83,77 @@
     <option name="lastTrimTime" value="1669623435467" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1685174521669" />
+    <option name="lastTrimTime" value="1687867332805" />
   </component>
   <component name="Translation.Settings">
     <option name="primaryLanguage" value="RUSSIAN" />
     <option name="targetLanguageSelection" value="LAST" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogHeight" value="381" />
-    <option name="newTranslationDialogWidth" value="758" />
-    <option name="newTranslationDialogX" value="1746" />
-    <option name="newTranslationDialogY" value="998" />
+    <option name="newTranslationDialogHeight" value="593" />
+    <option name="newTranslationDialogWidth" value="949" />
+    <option name="newTranslationDialogX" value="1366" />
+    <option name="newTranslationDialogY" value="789" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="modelClass - a Class whose instance is requested" />
-      <item value="extras - an additional information for this creation request" />
-      <item value="Duplicate class android.support.v4.app.INotificationSideChannel found in modules core-1.8.0-runtime (androidx.core:core:1.8.0) and support-compat-26.1.0-runtime (com.android.support:support-compat:26.1.0)" />
-      <item value="Duplicate class android.support.v4.app.INotificationSideChannel found in modules core-1.10.1-runtime (androidx.core:core:1.10.1) and support-compat-26.1.0-runtime (com.android.support:support-compat:26.1.0)" />
-      <item value="Creates a {@link ViewModelProvider}, which retains ViewModels while a scope of given Activity is alive. More detailed explanation is in {@link ViewModel}. &lt;p&gt; It uses {@link ViewModelProvider.AndroidViewModelFactory} to instantiate new ViewModels. @param activity an activity, in whose scope ViewModels should be retained @return a ViewModelProvider instance" />
-      <item value="divider" />
-      <item value="Set the RecyclerView.LayoutManager that this RecyclerView will use." />
-      <item value="CoroutineScope tied to this LifecycleOwner's Lifecycle. This scope will be cancelled when the Lifecycle is destroyed. This scope is bound to Dispatchers.Main.immediate." />
-      <item value="inflate" />
-      <item value="A ViewHolder describes an item view and metadata about its place within the RecyclerView. RecyclerView.Adapter implementations should subclass ViewHolder and add fields for caching potentially expensive View.findViewById(int) results. While RecyclerView.LayoutParams belong to the RecyclerView.LayoutManager, ViewHolders belong to the adapter. Adapters should feel free to use their own custom ViewHolder implementations to store data that makes binding view contents easier. Implementations should assume that individual item views will hold strong references to ViewHolder objects and that RecyclerView instances may hold strong references to extra off-screen item views for caching purposes" />
-      <item value="is Assignable From" />
-      <item value="Represents the given receive channel as a hot flow and consumes the channel on the first collection from this flow. The resulting flow can be collected just once and throws IllegalStateException when trying to collect it more than once. See also receiveAsFlow which supports multiple collectors of the resulting flow. Cancellation semantics Flow collector is cancelled when the original channel is closed with an exception. Flow collector completes normally when the original channel is closed normally. If the flow collector fails with an exception, the source channel is cancelled. Operator fusion Adjacent applications of flowOn, buffer, conflate, and produceIn to the result of consumeAsFlow are fused. In particular, produceIn returns the original channel (but throws IllegalStateException on repeated calls). Calls to flowOn have generally no effect, unless buffer is used to explicitly request buffering." />
-      <item value="consume As Flow" />
-      <item value="localized" />
-      <item value="Creates a localized description of this throwable. Subclasses may override this method in order to produce a locale-specific message. For subclasses that do not override this method, the default implementation returns the same result as getMessage(). Returns: The localized description of this throwable." />
-      <item value="Idle" />
-      <item value="Module with the Main dispatcher is missing. Add dependency providing the Main dispatcher, e.g. 'kotlinx-coroutines-android' and ensure it has the same version as 'kotlinx-coroutines-core'" />
-      <item value="Only the original thread that created a view hierarchy can touch its views." />
-      <item value="setSpan (0 ... 17) ends beyond length 11" />
-      <item value="Returns a flow containing the results of applying the given transform function to each value of the original flow." />
-      <item value="Returns a flow containing the results of applying the given transform function to each value of the original flow" />
-      <item value="Returns: the Preferences.Key&lt;Set&gt; for name" />
-      <item value="Note: sets returned by DataStore are unmodifiable and will throw exceptions if mutated." />
-      <item value="Get a key for a String Set preference. You should not have multiple keys with the same name (for use with the same Preferences). Using overlapping keys with different types can result in ClassCastException. Note: sets returned by DataStore are unmodifiable and will throw exceptions if mutated. Params: name - the name of the preference Returns: the Preferences.Key&lt;Set&gt; for name" />
-      <item value="Get a key for a String preference. You should not have multiple keys with the same name (for use with the same Preferences). Using overlapping keys with different types can result in ClassCastException. Params: name - the name of the preference Returns: the Preferences.Key for name" />
-      <item value="corruptionHandler - The corruptionHandler is invoked if DataStore encounters a androidx" />
-      <item value="Params: name - The name of the preferences. The preferences will be stored in a file in the &quot;datastore&quot; subdirectory in the application context's files directory and is generated using preferencesDataStoreFile. corruptionHandler - The corruptionHandler is invoked if DataStore encounters a androidx.datastore.core.CorruptionException when attempting to read data. CorruptionExceptions are thrown by serializers when data can not be de-serialized. produceMigrations - produce the migrations. The ApplicationContext is passed in to these callbacks as a parameter. DataMigrations are run before any access to data can occur. Each producer and migration may be run more than once whether or not it already succeeded (potentially because another migration failed or a write to disk failed.) scope - The scope in which IO operations and transform functions will execute. Returns: a property delegate that manages a datastore as a singleton." />
-      <item value="User Storage" />
-      <item value="Creates a property delegate for a single process DataStore. This should only be called once in a file (at the top level), and all usages of the DataStore should use a reference the same Instance. The receiver type for the property delegate must be an instance of Context. This should only be used from a single application in a single classloader in a single process. Example usage:" />
-      <item value="common Code" />
-      <item value="Consider using apply() instead; commit writes its data to persistent storage immediately, whereas apply will handle it in the background" />
-      <item value="what should I do with result inside?" />
-      <item value="Confirmation Dialog Fragment" />
-      <item value="On Confirmation Dialog Result Handler" />
-      <item value="confirmation Dialog Fragment" />
-      <item value="Sets the given result for the requestKey. This result will be delivered to a FragmentResultListener that is called given to setFragmentResultListener(String, LifecycleOwner, FragmentResultListener) with the same requestKey." />
-      <item value="cancel State Handled" />
-      <item value="Live data where all received statuses except for MeasurementCancelled are replaced by null" />
-      <item value="receiver" />
-      <item value="Applies transform function to each value of the given flow" />
-      <item value="Cancel Checkup Confirmation Dialog Fragment" />
-      <item value="Call this view's OnClickListener, if it is defined. Performs all normal actions associated with clicking: reporting accessibility event, playing a sound, etc. Returns: True there was an assigned OnClickListener that was called, false otherwise is returned." />
-      <item value="Flag for handling MeasurementCancelled status" />
-      <item value="set Last Firmware Answer Send Time" />
-      <item value="handle Firmware Data Received" />
-      <item value="send Prepare Page Firmware" />
-      <item value="send Write Config Firmware" />
-      <item value="handle Firmware Connection State Changed" />
-      <item value="m Last Ping Command Send" />
-      <item value="update Send Time With Delay" />
+      <item value="Truth" />
+      <item value="Handy typealias of [TypedDestination] when you don't care about the generic type (probably most cases for app's use)" />
+      <item value="Handy typealias of TypedDestination when you don't care about the generic type (probably most cases for app's use)" />
+      <item value="&quot;Have you taken your 15 minute walk today?" />
+      <item value="clip" />
+      <item value="Returns a list containing the results of applying the given transform function to each character and its index in the original char sequence" />
+      <item value="Returns a list containing the results of applying the given transform function to each character and its index in the original char sequence. Params: transform - function that takes the index of a character and the character itself and returns the result of the transform applied to the character." />
+      <item value="to Cost With Space" />
+      <item value="Uses this string as a format string and returns a string obtained by substituting the specified arguments, using the specified locale. If locale is null then no localization is applied." />
+      <item value="Reply" />
+      <item value="Star Border" />
+      <item value="An effect for handling presses of the system back button. Calling this in your composable adds the given lambda to the OnBackPressedDispatcher of the LocalOnBackPressedDispatcherOwner. If this is called by nested composables, if enabled, the inner most composable will consume the call to system back and invoke its lambda. The call will continue to propagate up until it finds an enabled BackHandler. Params: enabled - if this BackHandler should be enabled onBack - the action invoked by pressing the system back Samples: androidx.activity.compose.samples.BackHandler Unresolved" />
+      <item value="We only set isDetailOnlyOpen to true when it's only single pane layout" />
+      <item value="pane" />
+      <item value="Returns the first element matching the given predicate, or null if no such element was found." />
+      <item value="Reply Email Thread Item" />
+      <item value="fun ReplyEmailThreadItem" />
+      <item value="fun ReplyEmailThreadItem(" />
+      <item value="Reply Email List Item" />
+      <item value="Semi Bold" />
+      <item value="font Weight" />
+      <item value="is Appearance Light Status Bars" />
+      <item value="get Insets Controller" />
+      <item value="Schedule effect to run when the current composition completes successfully and applies changes. SideEffect can be used to apply side effects to objects managed by the composition that are not backed by snapshots so as not to leave those objects in an inconsistent state if the current composition operation fails." />
+      <item value="Schedule effect to run when the current composition completes successfully and applies changes. SideEffect can be used to apply side effects to objects managed by the composition that are not backed by snapshots so as not to leave those objects in an inconsistent state if the current composition operation fails" />
+      <item value="Schedule effect" />
+      <item value="Schedule" />
+      <item value="that are not available through ActivityScreen." />
+      <item value="to directly access parts" />
+      <item value="directly access" />
+      <item value="directly" />
+      <item value="Retrieve" />
+      <item value="tint" />
+      <item value="first" />
+      <item value="Reply Inbox Screen" />
+      <item value="reply Home UI State" />
+      <item value="is Starred" />
+      <item value="content Desc" />
+      <item value="attachments" />
+      <item value="recipients" />
+      <item value="navigate To Detail" />
+      <item value="content Scale" />
+      <item value="padding" />
+      <item value="enforce Incoming" />
+      <item value="The thickness of the glyphs, in a range of 1, 1000." />
+      <item value="@param softWrap whether the text should break at soft line breaks. If false, the glyphs in the text will be positioned as if there was unlimited horizontal space. If [softWrap] is false, [overflow] and TextAlign may have unexpected effects." />
+      <item value="soft Wrap" />
+      <item value="&quot;Prefer to preload fonts using FontFamily.Resolver.&quot;," />
+      <item value="shape" />
+      <item value="Setting Product Amount To Buy" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="3" />
         <entry key="DUTCH" value="1" />
-        <entry key="ENGLISH" value="767" />
-        <entry key="RUSSIAN" value="767" />
+        <entry key="ENGLISH" value="912" />
+        <entry key="RUSSIAN" value="912" />
+        <entry key="SHONA" value="1" />
         <entry key="YORUBA" value="1" />
       </map>
     </option>
