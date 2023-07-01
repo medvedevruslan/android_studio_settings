@@ -1,8 +1,7 @@
 <application>
   <component name="UISettings">
     <option name="compactTreeIndents" value="true" />
-    <option name="PRESENTATION_MODE_FONT_SIZE" value="10" />
+    <option name="PRESENTATION_MODE_FONT_SIZE" value="12" />
     <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
-    <option name="CONTRAST_SCROLLBARS" value="true" />
   </component>
 </application>
